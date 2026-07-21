@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Addiction & Family Law Hub</title>
+<meta name="description" content="A personal current-awareness dashboard tracking addiction, family law, and their intersection: news, peer-reviewed research, court cases, policy, books, and podcasts." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%96%EF%B8%8F%3C/text%3E%3C/svg%3E" />
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <h1>Addiction &amp; Family Law Hub</h1>
+      <p class="tagline">Current awareness for clinical &amp; forensic practice — news, research, courts, policy, books &amp; podcasts</p>
+    </div>
+    <div class="header-controls">
+      <input id="search" type="search" placeholder="Filter current tab…" aria-label="Filter items" />
+      <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">🌓</button>
+    </div>
+  </div>
+  <nav class="tabs" role="tablist" aria-label="Categories">
+    <button class="tab" data-tab="news" role="tab" aria-selected="true">News</button>
+    <button class="tab" data-tab="research" role="tab" aria-selected="false">Research</button>
+    <button class="tab" data-tab="courts" role="tab" aria-selected="false">Court Cases</button>
+    <button class="tab" data-tab="policy" role="tab" aria-selected="false">Policy &amp; Law</button>
+    <button class="tab" data-tab="books" role="tab" aria-selected="false">Books</button>
+    <button class="tab" data-tab="podcasts" role="tab" aria-selected="false">Podcasts</button>
+  </nav>
+</header>
+
+<main id="app">
+  <section class="panel-meta">
+    <span id="status-line">Loading…</span>
+    <span class="shortcuts" id="quick-links"></span>
+  </section>
+
+  <section id="panel" class="panel" aria-live="polite">
+    <div class="empty-state" id="loading-state">Loading feed data…</div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>
+    Data for News, Research, Court Cases, Books, and Podcasts refreshes automatically once a day via a GitHub Actions
+    workflow that queries free public sources (Google News RSS, PubMed, CourtListener, Google Books, iTunes Search).
+    Policy &amp; Law is a hand-curated list. Edit <code>scripts/sources.json</code> to change search terms, or
+    <code>data/policy.json</code> to change curated links. See <code>README.md</code> for setup.
+  </p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

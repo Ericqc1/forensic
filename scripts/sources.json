@@ -1,0 +1,66 @@
+{
+  "news": {
+    "label": "News",
+    "max_items": 40,
+    "queries": [
+      "addiction treatment",
+      "substance use disorder",
+      "opioid crisis family",
+      "parental substance abuse custody",
+      "family drug court",
+      "child custody addiction",
+      "family law reform",
+      "domestic violence substance abuse custody",
+      "child welfare parental drug use"
+    ]
+  },
+  "research": {
+    "label": "Peer-Reviewed Research",
+    "max_items": 40,
+    "queries": [
+      "substance use disorder custody family court",
+      "parental addiction child welfare outcomes",
+      "family drug treatment court effectiveness",
+      "co-occurring disorders family therapy",
+      "substance use disorder relapse family dynamics",
+      "child custody evaluation substance abuse",
+      "family law psychology addiction",
+      "children of parents with substance use disorder"
+    ]
+  },
+  "courts": {
+    "label": "Court Cases",
+    "max_items": 30,
+    "queries": [
+      "child custody substance abuse",
+      "parental rights termination addiction",
+      "family drug court",
+      "child welfare substance exposed newborn",
+      "custody modification alcohol abuse"
+    ]
+  },
+  "books": {
+    "label": "Books",
+    "max_items": 24,
+    "queries": [
+      "addiction psychology family",
+      "family law custody addiction",
+      "substance use disorder treatment family systems",
+      "children parental addiction recovery"
+    ]
+  },
+  "podcasts": {
+    "label": "Podcasts",
+    "max_items": 24,
+    "queries": [
+      "addiction recovery",
+      "family law",
+      "child custody",
+      "substance abuse counseling"
+    ]
+  },
+  "policy": {
+    "label": "Policy & Law",
+    "note": "Curated manually in data/policy.json - no reliable free API for legislative tracking, so this list is hand-maintained. Edit data/policy.json directly to add/remove links."
+  }
+}

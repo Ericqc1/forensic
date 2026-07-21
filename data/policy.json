@@ -1,0 +1,79 @@
+{
+  "label": "Policy & Law",
+  "note": "Hand-curated (no reliable free legislative-tracking API). Edit this file directly to add or remove entries.",
+  "last_reviewed": "2026-07-21",
+  "items": [
+    {
+      "title": "Congress.gov — saved search: substance use disorder + family",
+      "org": "Library of Congress",
+      "link": "https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22substance%20use%20disorder%20family%22%7D",
+      "description": "Live bill-text search across current and recent Congresses for legislation touching substance use disorder and family/custody issues."
+    },
+    {
+      "title": "NCSL — Child Welfare and Parental Substance Use",
+      "org": "National Conference of State Legislatures",
+      "link": "https://www.ncsl.org/human-services/child-welfare-and-substance-use-legislation",
+      "description": "Tracks state-level legislation on parental substance use, substance-exposed newborns, and child welfare response."
+    },
+    {
+      "title": "NCSL — Family Law & Child Custody",
+      "org": "National Conference of State Legislatures",
+      "link": "https://www.ncsl.org/human-services/family-law",
+      "description": "State legislative tracking on custody, visitation, and family law reform."
+    },
+    {
+      "title": "SAMHSA — Laws, Regulations, and Guidelines",
+      "org": "Substance Abuse and Mental Health Services Administration",
+      "link": "https://www.samhsa.gov/about-us/who-we-are/laws-regulations",
+      "description": "Federal regulatory updates on substance use and mental health services, including 42 CFR Part 2 confidentiality rules."
+    },
+    {
+      "title": "SAMHSA — Family Drug Courts",
+      "org": "Substance Abuse and Mental Health Services Administration",
+      "link": "https://www.samhsa.gov/child-welfare/family-treatment-drug-courts",
+      "description": "Federal program guidance and grant/policy updates on family treatment drug courts."
+    },
+    {
+      "title": "OJP — Drug Courts Program Office",
+      "org": "Office of Justice Programs / BJA",
+      "link": "https://bja.ojp.gov/program/drug-courts/overview",
+      "description": "DOJ policy, funding, and research updates on drug courts, including family drug court models."
+    },
+    {
+      "title": "Child Welfare Information Gateway — Parental Substance Use",
+      "org": "U.S. Administration for Children & Families",
+      "link": "https://www.childwelfare.gov/topics/systemwide/substance-use/",
+      "description": "Federal clearinghouse on state statutes, policy, and practice guidance for parental substance use and child welfare."
+    },
+    {
+      "title": "National Council of Juvenile and Family Court Judges (NCJFCJ)",
+      "org": "NCJFCJ",
+      "link": "https://www.ncjfcj.org/publications/",
+      "description": "Bench guides, model policy, and publications on family courts, dependency proceedings, and substance-affected families."
+    },
+    {
+      "title": "NIDA — Policy & Legislative Updates",
+      "org": "National Institute on Drug Abuse",
+      "link": "https://nida.nih.gov/about-nida/legislative-activities",
+      "description": "Federal research-to-policy updates relevant to addiction science and treatment."
+    },
+    {
+      "title": "ASAM — Advocacy & Public Policy",
+      "org": "American Society of Addiction Medicine",
+      "link": "https://www.asam.org/advocacy",
+      "description": "Professional-society policy statements and advocacy positions on addiction treatment law and regulation."
+    },
+    {
+      "title": "APA — Federal & State Legislative Action Center",
+      "org": "American Psychological Association",
+      "link": "https://www.apaservices.org/advocacy",
+      "description": "Psychology-specific legislative advocacy, including family law and substance use policy relevant to practicing psychologists."
+    },
+    {
+      "title": "Uniform Law Commission — Family Law Acts",
+      "org": "Uniform Law Commission",
+      "link": "https://www.uniformlaws.org/acts/allacts?SelectedSubjectID=&Type=Subject",
+      "description": "Text and status of model/uniform family law acts adopted or under consideration by states."
+    }
+  ]
+}
