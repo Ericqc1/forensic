@@ -16,7 +16,7 @@ you edit directly.
 | News | Google News RSS | Per-topic search queries |
 | Peer-reviewed research | PubMed E-utilities | esearch + esummary, sorted by date |
 | Court cases | CourtListener REST API | Public opinions search |
-| Books | Google Books API | Sorted by newest |
+| Books | Open Library Search API | Sorted by newest |
 | Podcasts | iTunes Search API | Podcast search |
 | Policy & Law | Hand-curated | `data/policy.json` — no good free legislative-tracking API exists, so this is maintained manually |
 

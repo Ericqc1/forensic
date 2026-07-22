@@ -7,7 +7,7 @@ Sources (all stdlib-only, no API keys required):
   - news      -> Google News RSS
   - research  -> PubMed E-utilities
   - courts    -> CourtListener REST API
-  - books     -> Google Books API
+  - books     -> Open Library Search API
   - podcasts  -> iTunes Search API
 
 Designed to run in GitHub Actions (normal internet access). Each source
@@ -30,8 +30,8 @@ DATA_DIR = ROOT / "data"
 SOURCES = json.loads((ROOT / "scripts" / "sources.json").read_text())
 
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; AddictionFamilyLawHub/1.0; "
-    "+https://github.com/) research-aggregator"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
 TIMEOUT = 20
 RETRIES = 3
@@ -152,7 +152,7 @@ def fetch_courtlistener(query, limit=8):
         "https://www.courtlistener.com/api/rest/v3/search/?type=o&order_by=dateFiled%20desc&q="
         + urllib.parse.quote(query)
     )
-    data = json.loads(fetch(url))
+    data = json.loads(fetch(url, headers={"Accept": "application/json"}))
     items = []
     for res in data.get("results", [])[:limit]:
         cluster_id = res.get("cluster_id") or res.get("id")
@@ -172,23 +172,28 @@ def fetch_courtlistener(query, limit=8):
 
 
 # --------------------------------------------------------------- books --
-def fetch_google_books(query, limit=6):
+def fetch_open_library(query, limit=6):
     url = (
-        "https://www.googleapis.com/books/v1/volumes?orderBy=newest&maxResults="
-        f"{limit}&q=" + urllib.parse.quote(query)
+        "https://openlibrary.org/search.json?sort=new&limit="
+        f"{limit}&fields=title,author_name,first_publish_year,key,cover_i,first_sentence"
+        "&q=" + urllib.parse.quote(query)
     )
     data = json.loads(fetch(url))
     items = []
-    for vol in data.get("items", []):
-        info = vol.get("volumeInfo", {})
+    for doc in data.get("docs", []):
+        key = doc.get("key", "")
+        cover_id = doc.get("cover_i")
+        sentence = doc.get("first_sentence")
+        if isinstance(sentence, list):
+            sentence = sentence[0] if sentence else ""
         items.append(
             {
-                "title": info.get("title", "").strip(),
-                "authors": ", ".join(info.get("authors", [])),
-                "published": info.get("publishedDate", ""),
-                "link": info.get("infoLink", "") or info.get("canonicalVolumeLink", ""),
-                "description": strip_html(info.get("description", ""))[:280],
-                "thumbnail": info.get("imageLinks", {}).get("thumbnail", ""),
+                "title": doc.get("title", "").strip(),
+                "authors": ", ".join(doc.get("author_name", []) or []),
+                "published": str(doc.get("first_publish_year", "")),
+                "link": f"https://openlibrary.org{key}" if key else "",
+                "description": strip_html(sentence or "")[:280],
+                "thumbnail": f"https://covers.openlibrary.org/b/id/{cover_id}-M.jpg" if cover_id else "",
                 "query": query,
             }
         )
@@ -262,7 +267,7 @@ def main():
     build_category("news", fetch_google_news)
     build_category("research", fetch_pubmed)
     build_category("courts", fetch_courtlistener)
-    build_category("books", fetch_google_books)
+    build_category("books", fetch_open_library)
     build_category("podcasts", fetch_itunes_podcasts)
 
     meta = {"last_run": datetime.now(timezone.utc).isoformat()}
