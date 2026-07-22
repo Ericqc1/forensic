@@ -1,7 +1,248 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-07-22T01:37:40.624824+00:00",
   "label": "Court Cases",
-  "count": 0,
+  "count": 30,
   "errors": [],
-  "items": []
+  "items": [
+    {
+      "title": "Michael Clanton Davis v. Emily Davis",
+      "link": "https://www.courtlistener.com/opinion/10933518/michael-clanton-davis-v-emily-davis/",
+      "court": "Court of Appeals of Mississippi",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Dontae Lashawn Drumgold v. Commonwealth of Virginia",
+      "link": "https://www.courtlistener.com/opinion/10933409/dontae-lashawn-drumgold-v-commonwealth-of-virginia/",
+      "court": "Court of Appeals of Virginia",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Samsung v. RI Settlement; Apl. of: RI Settlement",
+      "link": "https://www.courtlistener.com/opinion/10933306/samsung-v-ri-settlement-apl-of-ri-settlement/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Gaynor v. Gilman",
+      "link": "https://www.courtlistener.com/opinion/10932783/gaynor-v-gilman/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Washington",
+      "link": "https://www.courtlistener.com/opinion/10933579/united-states-v-washington/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In The Interest of T.L., a Minor, T.L., a Minor, T.L., a Minor, T.L., a Minor: Jessica L. v. Forrest County Department of The Mississippi Department of Child Protection Services, by Andrea A. Sanders and T.L., T.L., T.L., and T.L., Minors, By and Through Their Next Friend, Andrea A. Sanders and Mississippi Department of Child Protection Services",
+      "link": "https://www.courtlistener.com/opinion/10933523/in-the-interest-of-tl-a-minor-tl-a-minor-tl-a-minor-tl-a/",
+      "court": "Court of Appeals of Mississippi",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. McCrone",
+      "link": "https://www.courtlistener.com/opinion/10933318/united-states-v-mccrone/",
+      "court": "Court of Appeals for the Second Circuit",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Punxsutawney Hunting Club v. PGC",
+      "link": "https://www.courtlistener.com/opinion/10933234/punxsutawney-hunting-club-v-pgc/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Blanton",
+      "link": "https://www.courtlistener.com/opinion/10933229/state-v-blanton/",
+      "court": "Nebraska Court of Appeals",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Commonwealth v. Hitchner, W., Aplt.",
+      "link": "https://www.courtlistener.com/opinion/10933314/commonwealth-v-hitchner-w-aplt/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re D.J.",
+      "link": "https://www.courtlistener.com/opinion/10933074/in-re-dj/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-20",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re K.J.",
+      "link": "https://www.courtlistener.com/opinion/10933073/in-re-kj/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-20",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Marriage of G.E. & I.D.",
+      "link": "https://www.courtlistener.com/opinion/10933057/marriage-of-ge-id/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-07-20",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Tamarcus Ellis",
+      "link": "https://www.courtlistener.com/opinion/10933546/united-states-v-tamarcus-ellis/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-07-20",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Gibbons v. Secretary of Health and Human Services",
+      "link": "https://www.courtlistener.com/opinion/10933438/gibbons-v-secretary-of-health-and-human-services/",
+      "court": "United States Court of Federal Claims",
+      "date_filed": "2026-07-20",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Erin I. v. Department of Family & Community Services, Office of Children's Services",
+      "link": "https://www.courtlistener.com/opinion/10932788/erin-i-v-department-of-family-community-services-office-of-childrens/",
+      "court": "Alaska Supreme Court",
+      "date_filed": "2026-07-17",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Breanne R. Brazeale v. Joseph M. Gibson",
+      "link": "https://www.courtlistener.com/opinion/10932363/breanne-r-brazeale-v-joseph-m-gibson/",
+      "court": "Court of Civil Appeals of Alabama",
+      "date_filed": "2026-07-17",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re E.V.",
+      "link": "https://www.courtlistener.com/opinion/10932182/in-re-ev/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-07-16",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In re Avianzah R.",
+      "link": "https://www.courtlistener.com/opinion/10931916/in-re-avianzah-r/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-07-15",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In the Matter of the Termination of Parental Rights To: Ccc, Ccc and Ccc, Minor Children, Hailey Nicole Keller v. State of Wyoming, Ex Rel. Department of Family Services",
+      "link": "https://www.courtlistener.com/opinion/10928298/in-the-matter-of-the-termination-of-parental-rights-to-ccc-ccc-and-ccc/",
+      "court": "Wyoming Supreme Court",
+      "date_filed": "2026-07-15",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re A.B.",
+      "link": "https://www.courtlistener.com/opinion/10927877/in-re-ab/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-14",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "State v. Alcenat",
+      "link": "https://www.courtlistener.com/opinion/10931917/state-v-alcenat/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-07-14",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "United States v. Malcolm Redmon",
+      "link": "https://www.courtlistener.com/opinion/10927535/united-states-v-malcolm-redmon/",
+      "court": "Court of Appeals for the Eighth Circuit",
+      "date_filed": "2026-07-14",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re Maybell E.",
+      "link": "https://www.courtlistener.com/opinion/10927385/in-re-maybell-e/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-07-13",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "State v. Woody",
+      "link": "https://www.courtlistener.com/opinion/10927393/state-v-woody/",
+      "court": "Hawaii Supreme Court",
+      "date_filed": "2026-07-13",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In the Interest of C.J.C., O.C.C. and V.A.R.C., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10931891/in-the-interest-of-cjc-occ-and-varc-children-v-the-state-of/",
+      "court": "Texas Court of Appeals, 8th District (El Paso)",
+      "date_filed": "2026-07-10",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "C.M. v. Mobile County Department of Human Resources",
+      "link": "https://www.courtlistener.com/opinion/10925438/cm-v-mobile-county-department-of-human-resources/",
+      "court": "Court of Civil Appeals of Alabama",
+      "date_filed": "2026-07-10",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In the Interest of B.L., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10918543/in-the-interest-of-bl-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-07-08",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In the Interest of L.W., L.V., P.V., P.V., and K.V., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10918537/in-the-interest-of-lw-lv-pv-pv-and-kv-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-07-08",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "Adoption of Colton",
+      "link": "https://www.courtlistener.com/opinion/10917091/adoption-of-colton/",
+      "court": "Massachusetts Appeals Court",
+      "date_filed": "2026-07-07",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    }
+  ]
 }
