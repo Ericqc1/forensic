@@ -1,7 +1,170 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-07-22T01:35:11.321165+00:00",
   "label": "Books",
-  "count": 0,
+  "count": 18,
   "errors": [],
-  "items": []
+  "items": [
+    {
+      "title": "Family Lies",
+      "authors": "Angela Henry",
+      "published": "2025",
+      "link": "https://openlibrary.org/works/OL42567502W",
+      "description": "",
+      "thumbnail": "",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "Drystone",
+      "authors": "Kristie De Garis",
+      "published": "2025",
+      "link": "https://openlibrary.org/works/OL42545825W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/14938675-M.jpg",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "Mommy's in Recovery, and So Am I",
+      "authors": "P. Casey Arrillaga, Skye Hilton",
+      "published": "2025",
+      "link": "https://openlibrary.org/works/OL42556825W",
+      "description": "",
+      "thumbnail": "",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "Addicted to Love and Acceptance - Your Journey to Freedom",
+      "authors": "Maria Reed",
+      "published": "2024",
+      "link": "https://openlibrary.org/works/OL37883937W",
+      "description": "",
+      "thumbnail": "",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "Mommy Drinks Too Much",
+      "authors": "P. Casey Arrillaga, Skye Hilton",
+      "published": "2024",
+      "link": "https://openlibrary.org/works/OL38676182W",
+      "description": "",
+      "thumbnail": "",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "Family Guest",
+      "authors": "Nelle Lamarr",
+      "published": "2023",
+      "link": "https://openlibrary.org/works/OL37981154W",
+      "description": "",
+      "thumbnail": "",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "Lost and Found",
+      "authors": "Kim \"Tip\" Frank",
+      "published": "2022",
+      "link": "https://openlibrary.org/works/OL31106501W",
+      "description": "",
+      "thumbnail": "",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "Practicing Prodependence",
+      "authors": "Robert Weiss, Kim Buck",
+      "published": "2022",
+      "link": "https://openlibrary.org/works/OL26513682W",
+      "description": "",
+      "thumbnail": "",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "Sober Mom's Guide to Recovery",
+      "authors": "Rosemary O'Connor, Graubart Michael",
+      "published": "2015",
+      "link": "https://openlibrary.org/works/OL21104983W",
+      "description": "",
+      "thumbnail": "",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "Reinforcement-based treatment for substance use disorders",
+      "authors": "L. Michelle Tuten",
+      "published": "2012",
+      "link": "https://openlibrary.org/works/OL15916581W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/9283530-M.jpg",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "Its Not About You Except When It Is A Field Manual For Parents Of Addicted Children",
+      "authors": "Barbara Victoria",
+      "published": "2012",
+      "link": "https://openlibrary.org/works/OL17438016W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/7578344-M.jpg",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "Helping your troubled teen",
+      "authors": "Cynthia Kaplan, Blaise Aguirre, Michael Rater",
+      "published": "2007",
+      "link": "https://openlibrary.org/works/OL17198803W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/7367346-M.jpg",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "What You Should Know and Are Afraid to Ask: Drugs Amoung Children and Adolescents",
+      "authors": "Roger H. Jewell, MD, FAPA, Lauro Amezcua-Patino",
+      "published": "2004",
+      "link": "https://openlibrary.org/works/OL11723680M",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/2776685-M.jpg",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "Representing the substance addicted client",
+      "authors": "",
+      "published": "1997",
+      "link": "https://openlibrary.org/works/OL16611515M",
+      "description": "",
+      "thumbnail": "",
+      "query": "family law custody addiction"
+    },
+    {
+      "title": "Abnormal psychology in a changing world",
+      "authors": "Jeffrey S. Nevid, Spence A Rathus, Beverly Greene",
+      "published": "1994",
+      "link": "https://openlibrary.org/works/OL2681902W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/2323040-M.jpg",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "Drugs in perspective",
+      "authors": "Richard Fields",
+      "published": "1994",
+      "link": "https://openlibrary.org/works/OL3238024W",
+      "description": "It has been said that there are four primary drives: hunger, thirst, sex, and our desire to alter our consciousness.",
+      "thumbnail": "https://covers.openlibrary.org/b/id/4660459-M.jpg",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "You mean I'm not lazy, stupid or crazy?!",
+      "authors": "Kate Kelly, Peggy Ramundo, Kate M. Kelly",
+      "published": "1993",
+      "link": "https://openlibrary.org/works/OL2656760W",
+      "description": "Please don't skip this section!",
+      "thumbnail": "https://covers.openlibrary.org/b/id/424898-M.jpg",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "Clinical practice of the dental hygienist",
+      "authors": "Esther M. Wilkins",
+      "published": "1958",
+      "link": "https://openlibrary.org/works/OL2002677W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/4273655-M.jpg",
+      "query": "substance use disorder treatment family systems"
+    }
+  ]
 }
