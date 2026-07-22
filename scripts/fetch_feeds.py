@@ -148,21 +148,25 @@ def fetch_pubmed(query, limit=8):
 
 # -------------------------------------------------------------- courts --
 def fetch_courtlistener(query, limit=8):
+    # v3 was retired and returns 403 for every request; v4 is the current API.
     url = (
-        "https://www.courtlistener.com/api/rest/v3/search/?type=o&order_by=dateFiled%20desc&q="
+        "https://www.courtlistener.com/api/rest/v4/search/?type=o&order_by=dateFiled%20desc&q="
         + urllib.parse.quote(query)
     )
     data = json.loads(fetch(url, headers={"Accept": "application/json"}))
     items = []
     for res in data.get("results", [])[:limit]:
         cluster_id = res.get("cluster_id") or res.get("id")
+        court = res.get("court", "")
+        if isinstance(court, dict):
+            court = court.get("full_name") or court.get("name") or ""
         items.append(
             {
                 "title": res.get("caseName", "").strip(),
                 "link": f"https://www.courtlistener.com{res.get('absolute_url', '')}"
                 if res.get("absolute_url")
                 else f"https://www.courtlistener.com/opinion/{cluster_id}/",
-                "court": res.get("court", ""),
+                "court": court,
                 "date_filed": res.get("dateFiled", ""),
                 "snippet": strip_html(res.get("snippet", ""))[:280],
                 "query": query,
