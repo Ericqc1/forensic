@@ -36,6 +36,14 @@ USER_AGENT = (
 TIMEOUT = 20
 RETRIES = 3
 
+# Tabloid/gossip outlets to drop even if they match a query -- this is a
+# clinical/legal current-awareness feed, not entertainment news.
+TABLOID_SOURCES = {
+    "page six", "us weekly", "tmz", "people", "daily mail", "life & style",
+    "in touch weekly", "hollywood life", "ok magazine", "national enquirer",
+    "star magazine", "music times", "nw magazine", "radar online",
+}
+
 
 def fetch(url, headers=None):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
@@ -70,7 +78,7 @@ def dedupe(items, key="link"):
 
 
 # ---------------------------------------------------------------- news --
-def fetch_google_news(query):
+def fetch_google_news(query, limit=8):
     url = (
         "https://news.google.com/rss/search?q="
         + urllib.parse.quote(query)
@@ -80,11 +88,13 @@ def fetch_google_news(query):
     root = ET.fromstring(xml)
     items = []
     for item in root.findall("./channel/item"):
+        source_el = item.find("source")
+        source = source_el.text.strip() if source_el is not None and source_el.text else ""
+        if source.strip().lower() in TABLOID_SOURCES:
+            continue
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
         pub_date = (item.findtext("pubDate") or "").strip()
-        source_el = item.find("source")
-        source = source_el.text.strip() if source_el is not None and source_el.text else ""
         desc = strip_html(item.findtext("description"))
         items.append(
             {
@@ -96,14 +106,16 @@ def fetch_google_news(query):
                 "query": query,
             }
         )
+        if len(items) >= limit:
+            break
     return items
 
 
 # ----------------------------------------------------------- research --
-def fetch_pubmed(query, retmax=8):
+def fetch_pubmed(query, limit=8):
     base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
     search_url = (
-        f"{base}/esearch.fcgi?db=pubmed&retmode=json&sort=date&retmax={retmax}"
+        f"{base}/esearch.fcgi?db=pubmed&retmode=json&sort=date&retmax={limit}"
         f"&term={urllib.parse.quote(query)}"
     )
     search_data = json.loads(fetch(search_url))
@@ -135,14 +147,14 @@ def fetch_pubmed(query, retmax=8):
 
 
 # -------------------------------------------------------------- courts --
-def fetch_courtlistener(query, days=180):
+def fetch_courtlistener(query, limit=8):
     url = (
         "https://www.courtlistener.com/api/rest/v3/search/?type=o&order_by=dateFiled%20desc&q="
         + urllib.parse.quote(query)
     )
     data = json.loads(fetch(url))
     items = []
-    for res in data.get("results", [])[:15]:
+    for res in data.get("results", [])[:limit]:
         cluster_id = res.get("cluster_id") or res.get("id")
         items.append(
             {
@@ -160,10 +172,10 @@ def fetch_courtlistener(query, days=180):
 
 
 # --------------------------------------------------------------- books --
-def fetch_google_books(query, max_results=6):
+def fetch_google_books(query, limit=6):
     url = (
         "https://www.googleapis.com/books/v1/volumes?orderBy=newest&maxResults="
-        f"{max_results}&q=" + urllib.parse.quote(query)
+        f"{limit}&q=" + urllib.parse.quote(query)
     )
     data = json.loads(fetch(url))
     items = []
@@ -213,13 +225,14 @@ def sort_key(item):
     return ""
 
 
-def build_category(name, fetch_fn, arg_key="queries", per_query_kwargs=None):
+def build_category(name, fetch_fn, arg_key="queries"):
     cfg = SOURCES[name]
+    kwargs = {"limit": cfg["per_query_limit"]} if "per_query_limit" in cfg else {}
     all_items = []
     errors = []
     for query in cfg[arg_key]:
         try:
-            all_items.extend(fetch_fn(query, **(per_query_kwargs or {})))
+            all_items.extend(fetch_fn(query, **kwargs))
         except Exception as e:  # noqa: BLE001 - one bad source must not break the run
             errors.append({"query": query, "error": str(e)})
             print(f"[warn] {name} query failed ({query!r}): {e}", file=sys.stderr)

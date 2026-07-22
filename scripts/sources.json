@@ -2,21 +2,24 @@
   "news": {
     "label": "News",
     "max_items": 40,
+    "per_query_limit": 8,
     "queries": [
-      "addiction treatment",
-      "substance use disorder",
-      "opioid crisis family",
-      "parental substance abuse custody",
-      "family drug court",
-      "child custody addiction",
-      "family law reform",
-      "domestic violence substance abuse custody",
-      "child welfare parental drug use"
+      "\"addiction treatment\" policy OR access OR insurance",
+      "\"substance use disorder\" treatment OR policy",
+      "\"opioid settlement\" OR \"opioid crisis\" policy",
+      "\"family drug court\" OR \"family treatment court\"",
+      "\"custody evaluation\" \"substance use\"",
+      "\"parental substance use\" child welfare",
+      "\"family law reform\"",
+      "\"child welfare\" \"substance exposed newborn\"",
+      "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity",
+      "\"co-parenting\" addiction recovery"
     ]
   },
   "research": {
     "label": "Peer-Reviewed Research",
     "max_items": 40,
+    "per_query_limit": 6,
     "queries": [
       "substance use disorder custody family court",
       "parental addiction child welfare outcomes",
@@ -31,6 +34,7 @@
   "courts": {
     "label": "Court Cases",
     "max_items": 30,
+    "per_query_limit": 8,
     "queries": [
       "child custody substance abuse",
       "parental rights termination addiction",
@@ -42,6 +46,7 @@
   "books": {
     "label": "Books",
     "max_items": 24,
+    "per_query_limit": 6,
     "queries": [
       "addiction psychology family",
       "family law custody addiction",
@@ -52,6 +57,7 @@
   "podcasts": {
     "label": "Podcasts",
     "max_items": 24,
+    "per_query_limit": 6,
     "queries": [
       "addiction recovery",
       "family law",

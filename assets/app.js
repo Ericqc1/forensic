@@ -81,41 +81,41 @@
   function cardFor(tab, item) {
     switch (tab) {
       case "news":
-        return `<div class="card">
+        return `<div class="card cat-news">
           <span class="tag">${escapeHtml(item.source || "News")}</span>
           <h3><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
           <p class="summary">${escapeHtml(item.summary)}</p>
           <span class="meta">${escapeHtml(item.published || "")}</span>
         </div>`;
       case "research":
-        return `<div class="card">
+        return `<div class="card cat-research">
           <span class="tag">${escapeHtml(item.journal || "Journal")}</span>
           <h3><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
           <p class="summary">${escapeHtml(item.authors || "")}</p>
           <span class="meta">${escapeHtml(item.published || "")}</span>
         </div>`;
       case "courts":
-        return `<div class="card">
+        return `<div class="card cat-courts">
           <span class="tag">${escapeHtml(item.court || "Court")}</span>
           <h3><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
           <p class="summary">${escapeHtml(item.snippet || "")}</p>
           <span class="meta">Filed: ${escapeHtml(item.date_filed || "unknown")}</span>
         </div>`;
       case "policy":
-        return `<div class="card">
+        return `<div class="card cat-policy">
           <span class="tag">${escapeHtml(item.org || "Policy")}</span>
           <h3><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
           <p class="summary">${escapeHtml(item.description || "")}</p>
         </div>`;
       case "books":
-        return `<div class="card">
+        return `<div class="card cat-books">
           ${item.thumbnail ? `<img class="thumb" src="${escapeHtml(item.thumbnail)}" alt="" loading="lazy" />` : ""}
           <h3><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
           <p class="summary">${escapeHtml(item.authors || "")} — ${escapeHtml(item.published || "")}</p>
           <p class="summary">${escapeHtml(item.description || "")}</p>
         </div>`;
       case "podcasts":
-        return `<div class="card">
+        return `<div class="card cat-podcasts">
           ${item.artwork ? `<img class="thumb" src="${escapeHtml(item.artwork)}" alt="" loading="lazy" />` : ""}
           <h3><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
           <p class="summary">${escapeHtml(item.artist || "")}</p>
