@@ -14,6 +14,7 @@ Designed to run in GitHub Actions (normal internet access). Each source
 fails independently -- one flaky feed never blocks the others, and the
 previous data file is left untouched if a fetch fails.
 """
+import html
 import json
 import re
 import sys
@@ -61,7 +62,7 @@ def fetch(url, headers=None):
 def strip_html(text):
     if not text:
         return ""
-    return re.sub(r"<[^>]+>", "", text).strip()
+    return html.unescape(re.sub(r"<[^>]+>", "", text)).strip()
 
 
 def dedupe(items, key="link"):
@@ -262,17 +263,109 @@ def build_category(name, fetch_fn, arg_key="queries"):
     if all_items or not out_path.exists():
         out_path.write_text(json.dumps(out, indent=2, ensure_ascii=False))
         print(f"[ok] wrote {len(all_items)} items to {out_path.name} ({len(errors)} query errors)")
-    else:
-        print(f"[warn] no items fetched for {name}; leaving existing {out_path.name} untouched")
+        return all_items
+
+    print(f"[warn] no items fetched for {name}; leaving existing {out_path.name} untouched")
+    return json.loads(out_path.read_text()).get("items", [])
+
+
+# ----------------------------------------------------------------- rss --
+RSS_CATEGORY_LABELS = {
+    "news": "News", "research": "Research", "courts": "Court Cases",
+    "books": "Books", "podcasts": "Podcasts",
+}
+RSS_PER_CATEGORY = 6
+SITE_URL = "https://ericqc1.github.io/forensic/"
+
+
+def rfc822(dt):
+    return dt.strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+
+def best_effort_pub_date(cat, item):
+    try:
+        if cat == "news" and item.get("published"):
+            return item["published"]  # Google News already ships RFC822
+        if cat == "courts" and item.get("date_filed"):
+            return rfc822(datetime.strptime(item["date_filed"], "%Y-%m-%d"))
+        if cat == "research" and item.get("published"):
+            for fmt in ("%Y %b %d", "%Y %b", "%Y"):
+                try:
+                    return rfc822(datetime.strptime(item["published"], fmt))
+                except ValueError:
+                    continue
+        if cat == "books" and item.get("published", "").isdigit():
+            return rfc822(datetime(int(item["published"]), 1, 1))
+    except (ValueError, TypeError):
+        pass
+    return None
+
+
+def rss_description(cat, item):
+    parts = {
+        "news": [item.get("source", ""), item.get("summary", "")],
+        "research": [item.get("journal", ""), item.get("authors", "")],
+        "courts": [item.get("court", ""), item.get("snippet", "")],
+        "books": [item.get("authors", ""), item.get("published", "")],
+        "podcasts": [item.get("artist", "")],
+    }.get(cat, [])
+    return " — ".join(p for p in parts if p)
+
+
+def build_feed_item(channel, cat, item):
+    link = item.get("link", "")
+    el = ET.SubElement(channel, "item")
+    ET.SubElement(el, "title").text = item.get("title") or "(untitled)"
+    ET.SubElement(el, "link").text = link
+    ET.SubElement(el, "guid").text = link or item.get("title", "")
+    ET.SubElement(el, "category").text = RSS_CATEGORY_LABELS.get(cat, cat)
+    desc = rss_description(cat, item)
+    if desc:
+        ET.SubElement(el, "description").text = desc
+    pub_date = best_effort_pub_date(cat, item)
+    if pub_date:
+        ET.SubElement(el, "pubDate").text = pub_date
+
+
+def generate_rss(results):
+    rss = ET.Element("rss", version="2.0")
+    channel = ET.SubElement(rss, "channel")
+    ET.SubElement(channel, "title").text = "Addiction & Family Law Hub — Latest"
+    ET.SubElement(channel, "link").text = SITE_URL
+    ET.SubElement(channel, "description").text = (
+        "Newest items across News, Peer-Reviewed Research, Court Cases, Books, "
+        "and Podcasts on addiction, family law, and their intersection."
+    )
+    ET.SubElement(channel, "language").text = "en-us"
+    ET.SubElement(channel, "lastBuildDate").text = rfc822(datetime.now(timezone.utc))
+
+    cats = ["news", "research", "courts", "books", "podcasts"]
+    count = 0
+    for round_idx in range(RSS_PER_CATEGORY):
+        for cat in cats:
+            items = results.get(cat, [])
+            if round_idx < len(items):
+                build_feed_item(channel, cat, items[round_idx])
+                count += 1
+
+    tree = ET.ElementTree(rss)
+    ET.indent(tree, space="  ")
+    out_path = ROOT / "feed.xml"
+    tree.write(out_path, encoding="utf-8", xml_declaration=True)
+    print(f"[ok] wrote {count} items to feed.xml")
 
 
 def main():
     DATA_DIR.mkdir(exist_ok=True)
-    build_category("news", fetch_google_news)
-    build_category("research", fetch_pubmed)
-    build_category("courts", fetch_courtlistener)
-    build_category("books", fetch_open_library)
-    build_category("podcasts", fetch_itunes_podcasts)
+    results = {
+        "news": build_category("news", fetch_google_news),
+        "research": build_category("research", fetch_pubmed),
+        "courts": build_category("courts", fetch_courtlistener),
+        "books": build_category("books", fetch_open_library),
+        "podcasts": build_category("podcasts", fetch_itunes_podcasts),
+    }
+
+    generate_rss(results)
 
     meta = {"last_run": datetime.now(timezone.utc).isoformat()}
     (DATA_DIR / "meta.json").write_text(json.dumps(meta, indent=2))

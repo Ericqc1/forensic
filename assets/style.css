@@ -144,7 +144,7 @@ html, body {
   border-color: var(--accent);
 }
 
-#theme-toggle {
+#theme-toggle, #rss-link {
   border: 1px solid var(--border);
   background: var(--bg);
   color: var(--text);
@@ -154,10 +154,13 @@ html, body {
   font-size: 1rem;
   line-height: 1;
   transition: border-color 0.15s ease, transform 0.1s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
 }
 
-#theme-toggle:hover { border-color: var(--accent); }
-#theme-toggle:active { transform: scale(0.94); }
+#theme-toggle:hover, #rss-link:hover { border-color: var(--accent); }
+#theme-toggle:active, #rss-link:active { transform: scale(0.94); }
 
 .tabs {
   max-width: 1080px;
@@ -416,6 +419,11 @@ main#app {
   line-height: 1.6;
   border-top: 1px solid var(--border);
   margin-top: 1rem;
+}
+
+.site-footer a {
+  color: var(--link);
+  font-weight: 600;
 }
 
 .site-footer code {

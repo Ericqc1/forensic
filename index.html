@@ -6,6 +6,7 @@
 <title>Addiction & Family Law Hub</title>
 <meta name="description" content="A personal current-awareness dashboard tracking addiction, family law, and their intersection: news, peer-reviewed research, court cases, policy, books, and podcasts." />
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%96%EF%B8%8F%3C/text%3E%3C/svg%3E" />
+<link rel="alternate" type="application/rss+xml" title="Addiction & Family Law Hub — Latest" href="feed.xml" />
 <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
@@ -17,6 +18,7 @@
     </div>
     <div class="header-controls">
       <input id="search" type="search" placeholder="Filter current tab…" aria-label="Filter items" />
+      <a id="rss-link" href="feed.xml" target="_blank" rel="noopener" title="Subscribe via RSS" aria-label="Subscribe via RSS">📡</a>
       <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">🌓</button>
     </div>
   </div>
@@ -48,10 +50,12 @@
   <p>
     <strong>Latest</strong> blends the newest items across every auto-updating category into one feed. This tab
     also rechecks the data every few minutes while the page is open, so it reflects new fetches without a manual
-    reload. News, Research, Court Cases, Books, and Podcasts refresh once a day via a GitHub Actions workflow
-    querying free public sources (Google News RSS, PubMed, CourtListener, Open Library, iTunes Search). Policy
-    &amp; Law is a hand-curated list. Edit <code>scripts/sources.json</code> to change search terms, or
-    <code>data/policy.json</code> to change curated links. See <code>README.md</code> for setup.
+    reload. Prefer a feed reader? Subscribe to <a href="feed.xml">feed.xml</a> (the 📡 icon in the header) to get
+    the same combined feed in Feedly, Outlook, or any RSS client. News, Research, Court Cases, Books, and
+    Podcasts refresh once a day via a GitHub Actions workflow querying free public sources (Google News RSS,
+    PubMed, CourtListener, Open Library, iTunes Search). Policy &amp; Law is a hand-curated list. Edit
+    <code>scripts/sources.json</code> to change search terms, or <code>data/policy.json</code> to change
+    curated links. See <code>README.md</code> for setup.
   </p>
 </footer>
 
