@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T01:19:18.643650+00:00",
+  "generated_at": "2026-07-22T01:30:49.427721+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -19,14 +19,6 @@
       "authors": "Vandewalle S, Vanderplasschen W, Rowaert S et al.",
       "published": "2026 May 21",
       "query": "substance use disorder relapse family dynamics"
-    },
-    {
-      "title": "Efficacy of Dialectical Behavior Therapy (DBT) and DBT-Informed Interventions for Binge Eating in Adolescents: A Systematic Review.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42245893/",
-      "journal": "Cureus",
-      "authors": "Khormi MA, Abu Hayyah AE, Aljohani WF et al.",
-      "published": "2026 May",
-      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Family members' perspectives of laws, policies and practices in substance use disorder treatment: Systemic alienation of the family in Canada.",
@@ -53,14 +45,6 @@
       "query": "family law psychology addiction"
     },
     {
-      "title": "Suicidal behaviour and resilience-related factors among adolescents in Poland and war-affected Western Ukraine.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42365311/",
-      "journal": "Child and adolescent psychiatry and mental health",
-      "authors": "Ostaszewski K, Bielawska A, Borucka A et al.",
-      "published": "2026 Jun 28",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42365295/",
       "journal": "Substance abuse treatment, prevention, and policy",
@@ -74,14 +58,6 @@
       "journal": "BMC pregnancy and childbirth",
       "authors": "Jelliffe-Pawlowski LL, Baer RJ, Oltman S et al.",
       "published": "2026 Jun 23",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Family-Focused Digital Mental Health Care for Pediatric Oppositional Symptoms and Caregiver Outcomes: Retrospective Analysis.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42330314/",
-      "journal": "JMIR pediatrics and parenting",
-      "authors": "Lawrence-Sidebottom D, McAlister K, McCutchen D et al.",
-      "published": "2026 Jun 22",
       "query": "co-occurring disorders family therapy"
     },
     {
@@ -141,14 +117,6 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "A systematic review and meta-analysis of school-based interventions for PTSD and trauma-related symptoms: what effective elements they have in common?",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42387967/",
-      "journal": "Child and adolescent mental health",
-      "authors": "Rowlinson K, Grummitt L, Lynch I et al.",
-      "published": "2026 Jul 1",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Management of Comorbid Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder, and Anxiety in Pediatric PMHNP Practice.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42411856/",
       "journal": "Journal of psychosocial nursing and mental health services",
@@ -205,14 +173,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "A Pathophysiologic Mechanism for the Treatment of Salt-Sensitive Hypertension and Heart Failure: The Role of β-Arrestins.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41329370/",
-      "journal": "Clinical drug investigation",
-      "authors": "Chrysant SG",
-      "published": "2026 Jan",
-      "query": "family drug treatment court effectiveness"
-    },
-    {
       "title": "Reno-protective effects of statins among patients with chronic kidney disease in Hong Kong: a target trial emulation.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41732195/",
       "journal": "EClinicalMedicine",
@@ -227,14 +187,6 @@
       "authors": "Schuster AM, Alwan NA, Callard F et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "\"Convenience, Quickness, and Compassion\": Experiences of People Involved in the Criminal-Legal System Accessing Medications for Opioid Use Disorder Services From a Mobile Unit in Chicago.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41492854/",
-      "journal": "Health expectations : an international journal of public participation in health care and health policy",
-      "authors": "Martinford T, Watson DP, Messmer S et al.",
-      "published": "2026 Feb",
-      "query": "family law psychology addiction"
     },
     {
       "title": "Integrated treatment of posttraumatic stress disorder and substance use disorders for adolescents and youth: current evidence and future directions.",
@@ -285,22 +237,6 @@
       "query": "child custody evaluation substance abuse"
     },
     {
-      "title": "Increasing opportunities for community input in harm reduction program development using iterative engagement.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41126231/",
-      "journal": "Harm reduction journal",
-      "authors": "Wagner NM, Carlson JA, Bean M et al.",
-      "published": "2025 Oct 22",
-      "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41092926/",
-      "journal": "Lancet (London, England)",
-      "authors": "GBD 2023 Disease and Injury and Risk Factor Collaborators",
-      "published": "2025 Oct 18",
-      "query": "substance use disorder relapse family dynamics"
-    },
-    {
       "title": "US Youth Exposed to Parental Substance Use Disorder in the Home: A Comparison of DSM-IV and DSM-5 Criteria.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41220059/",
       "journal": "Journal of addiction medicine",
@@ -323,6 +259,70 @@
       "authors": "Martinez NG, Kramer CT, Hayes CM et al.",
       "published": "2025 May",
       "query": "parental addiction child welfare outcomes"
+    },
+    {
+      "title": "Understanding parents' experience navigating substance use treatment and the child welfare system.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40057238/",
+      "journal": "Journal of substance use and addiction treatment",
+      "authors": "Dir AL, Batch BL, Aalsma MC",
+      "published": "2025 May",
+      "query": "parental addiction child welfare outcomes"
+    },
+    {
+      "title": "Factors affecting problem-solving court team decisions about medications for opioid use disorder.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39389546/",
+      "journal": "Journal of substance use and addiction treatment",
+      "authors": "Andraka-Christou B, Viglione J, Ahmed F et al.",
+      "published": "2025 Jan",
+      "query": "substance use disorder custody family court"
+    },
+    {
+      "title": "Implementing incentives in family medicine for opioid use disorder treatment: a qualitative inquiry on provider and patient preferences for a low magnitude reward program compatible with buprenorphine treatment.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41430342/",
+      "journal": "Addiction science & clinical practice",
+      "authors": "Ellis S, Witzig J, Basaldu D et al.",
+      "published": "2025 Dec 22",
+      "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "\"They Call Us Amaphara (Junkies)\": Intersectional Tuberculosis, Alcohol, and Drug Stigma in South Africa.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41693957/",
+      "journal": "Stigma and health",
+      "authors": "Carney T, Mpisane N, Magidson JF et al.",
+      "published": "2025 Dec 15",
+      "query": "family law psychology addiction"
+    },
+    {
+      "title": "Project BETTER: Outcomes at the pregnancy-to-postpartum transition from a pilot clinical trial of a technology-delivered intervention for birthing people receiving medication for opioid use disorder.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42008128/",
+      "journal": "Families, systems & health : the journal of collaborative family healthcare",
+      "authors": "Eglovitch M, Martin S, Thumma L et al.",
+      "published": "2025 Dec",
+      "query": "parental addiction child welfare outcomes"
+    },
+    {
+      "title": "Stress, coping strategies, and relapse among schizophrenia patients at the psychiatric hospital of Oujda, Morocco.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41695438/",
+      "journal": "The Pan African medical journal",
+      "authors": "El Jabiry SE, Bouazzaoui MA, Barrimi M et al.",
+      "published": "2025",
+      "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Association of Food and Housing Insecurity on Outcomes in Pregnant Patients With Substance Use Disorder.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38850050/",
+      "journal": "Substance use & addiction journal",
+      "authors": "Chilukuri P, Patel N, Cockerham C et al.",
+      "published": "2024 Oct",
+      "query": "child custody evaluation substance abuse"
+    },
+    {
+      "title": "Patient navigation for perinatal substance use disorder treatment: A systematic review.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38761697/",
+      "journal": "Drug and alcohol dependence",
+      "authors": "Wouk K, Caton L, Bass R et al.",
+      "published": "2024 Jul 1",
+      "query": "child custody evaluation substance abuse"
     }
   ]
 }
