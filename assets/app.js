@@ -10,6 +10,10 @@
     podcasts: "data/podcasts.json",
   };
 
+  const LATEST_SOURCE_CATEGORIES = ["news", "research", "courts", "books", "podcasts"];
+  const LATEST_PER_CATEGORY = 5;
+  const REFRESH_CHECK_MS = 3 * 60 * 1000; // recheck data/meta.json every 3 minutes
+
   const QUICK_LINKS = {
     news: [
       ["Search Google News", "https://news.google.com/search?q=addiction%20family%20law"],
@@ -27,7 +31,7 @@
       ["NCSL", "https://www.ncsl.org/"],
     ],
     books: [
-      ["Google Books search", "https://www.google.com/search?tbm=bks&q=addiction+family+law"],
+      ["Open Library search", "https://openlibrary.org/search?q=addiction+family+law"],
     ],
     podcasts: [
       ["Apple Podcasts search", "https://podcasts.apple.com/us/search?term=addiction%20family%20law"],
@@ -36,16 +40,18 @@
   };
 
   const state = {
-    activeTab: "news",
+    activeTab: "latest",
     data: {},
     query: "",
+    lastRun: null,
   };
 
   const panel = document.getElementById("panel");
-  const statusLine = document.getElementById("status-line");
+  const statusText = document.getElementById("status-text");
   const quickLinksEl = document.getElementById("quick-links");
   const searchInput = document.getElementById("search");
   const themeToggle = document.getElementById("theme-toggle");
+  const toastEl = document.getElementById("toast");
 
   function escapeHtml(str) {
     return String(str || "").replace(/[&<>"']/g, (c) => ({
@@ -63,19 +69,54 @@
     return `${Math.round(diffH / 24)}d ago`;
   }
 
+  function showToast(msg) {
+    toastEl.textContent = msg;
+    toastEl.classList.add("show");
+    clearTimeout(showToast._t);
+    showToast._t = setTimeout(() => toastEl.classList.remove("show"), 3200);
+  }
+
+  async function fetchJson(path) {
+    const res = await fetch(`${path}?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.json();
+  }
+
   async function loadAll() {
     const entries = await Promise.all(
       Object.entries(DATA_FILES).map(async ([key, path]) => {
         try {
-          const res = await fetch(`${path}?t=${Date.now()}`);
-          if (!res.ok) throw new Error(`HTTP ${res.status}`);
-          return [key, await res.json()];
+          return [key, await fetchJson(path)];
         } catch (e) {
           return [key, { error: String(e), items: [] }];
         }
       })
     );
     entries.forEach(([key, val]) => (state.data[key] = val));
+    try {
+      const meta = await fetchJson("data/meta.json");
+      state.lastRun = meta.last_run || null;
+    } catch (e) {
+      // meta is best-effort; ignore failures
+    }
+  }
+
+  function buildLatest() {
+    const combined = [];
+    let round = 0;
+    let added = true;
+    while (added && round < LATEST_PER_CATEGORY) {
+      added = false;
+      for (const cat of LATEST_SOURCE_CATEGORIES) {
+        const items = (state.data[cat] && state.data[cat].items) || [];
+        if (items[round]) {
+          combined.push({ ...items[round], _cat: cat });
+          added = true;
+        }
+      }
+      round += 1;
+    }
+    return combined;
   }
 
   function cardFor(tab, item) {
@@ -125,6 +166,11 @@
     }
   }
 
+  const CATEGORY_LABELS = {
+    news: "News", research: "Research", courts: "Court Cases",
+    policy: "Policy & Law", books: "Books", podcasts: "Podcasts",
+  };
+
   function itemMatches(item, q) {
     if (!q) return true;
     const haystack = Object.values(item).filter((v) => typeof v === "string").join(" ").toLowerCase();
@@ -133,8 +179,26 @@
 
   function render() {
     const tab = state.activeTab;
+    const q = state.query.toLowerCase();
+
+    if (tab === "latest") {
+      const items = buildLatest().filter((it) => itemMatches(it, q));
+      if (!items.length) {
+        panel.innerHTML = `<div class="empty-state">Nothing yet — check back after the next scheduled update, or browse a category tab.</div>`;
+      } else {
+        panel.innerHTML = items
+          .map((it) => `<div class="latest-item cat-${it._cat}"><span class="latest-cat-label">${escapeHtml(CATEGORY_LABELS[it._cat] || it._cat)}</span>${cardFor(it._cat, it)}</div>`)
+          .join("");
+      }
+      quickLinksEl.innerHTML = "";
+      statusText.textContent = state.lastRun
+        ? `Live briefing across all categories · last updated ${timeAgo(state.lastRun)}`
+        : "Live briefing across all categories";
+      return;
+    }
+
     const bucket = state.data[tab] || { items: [] };
-    const items = (bucket.items || []).filter((it) => itemMatches(it, state.query.toLowerCase()));
+    const items = (bucket.items || []).filter((it) => itemMatches(it, q));
 
     if (bucket.error) {
       panel.innerHTML = `<div class="empty-state">Couldn't load this category (${escapeHtml(bucket.error)}).</div>`;
@@ -155,16 +219,24 @@
     quickLinksEl.innerHTML = links;
 
     if (tab === "policy") {
-      statusLine.textContent = `Curated list · last reviewed ${bucket.last_reviewed || "unknown"} · ${(bucket.items || []).length} entries`;
+      statusText.textContent = `Curated list · last reviewed ${bucket.last_reviewed || "unknown"} · ${(bucket.items || []).length} entries`;
     } else if (bucket.generated_at) {
       const errCount = (bucket.errors || []).length;
-      statusLine.textContent = `Updated ${timeAgo(bucket.generated_at)} · ${bucket.count ?? items.length} items` +
+      statusText.textContent = `Updated ${timeAgo(bucket.generated_at)} · ${bucket.count ?? items.length} items` +
         (errCount ? ` · ${errCount} source ${errCount === 1 ? "query" : "queries"} failed` : "");
     } else if (bucket.error) {
-      statusLine.textContent = "Failed to load.";
+      statusText.textContent = "Failed to load.";
     } else {
-      statusLine.textContent = "Not generated yet.";
+      statusText.textContent = "Not generated yet.";
     }
+  }
+
+  function updateTabCounts() {
+    document.querySelectorAll(".count[data-count-for]").forEach((el) => {
+      const key = el.dataset.countFor;
+      const n = key === "latest" ? buildLatest().length : ((state.data[key] && state.data[key].items) || []).length;
+      el.textContent = n ? String(n) : "";
+    });
   }
 
   function selectTab(tab) {
@@ -187,6 +259,27 @@
     });
   }
 
+  async function checkForUpdates() {
+    try {
+      const meta = await fetchJson("data/meta.json");
+      if (meta.last_run && meta.last_run !== state.lastRun) {
+        await loadAll();
+        updateTabCounts();
+        render();
+        showToast("New content just landed");
+      }
+    } catch (e) {
+      // silent -- this is a background best-effort check
+    }
+  }
+
+  function initLiveRefresh() {
+    setInterval(checkForUpdates, REFRESH_CHECK_MS);
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") checkForUpdates();
+    });
+  }
+
   function init() {
     initTheme();
     document.querySelectorAll(".tab").forEach((btn) => {
@@ -199,7 +292,9 @@
 
     loadAll().then(() => {
       document.getElementById("loading-state")?.remove();
+      updateTabCounts();
       render();
+      initLiveRefresh();
     });
   }
 

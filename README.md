@@ -9,6 +9,13 @@ It's a static site (`index.html` + `assets/`) backed by JSON files in
 from free, keyless public sources; `data/policy.json` is a hand-curated list
 you edit directly.
 
+The default **Latest** tab interleaves the newest items across every
+auto-updating category into one feed. While the page is open in a browser it
+also rechecks `data/meta.json` every few minutes and silently reloads if a new
+fetch has landed (with a small toast notification) — so it stays current
+without a manual refresh, even though the underlying data only changes once a
+day.
+
 ## Sources
 
 | Category | Source | Notes |

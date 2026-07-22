@@ -13,7 +13,7 @@
   <div class="header-inner">
     <div class="brand">
       <h1>Addiction &amp; Family Law Hub</h1>
-      <p class="tagline">Current awareness for clinical &amp; forensic practice — news, research, courts, policy, books &amp; podcasts</p>
+      <p class="tagline">Current awareness for clinical &amp; forensic practice, checked continuously across news, research, courts, policy, books &amp; podcasts</p>
     </div>
     <div class="header-controls">
       <input id="search" type="search" placeholder="Filter current tab…" aria-label="Filter items" />
@@ -21,31 +21,36 @@
     </div>
   </div>
   <nav class="tabs" role="tablist" aria-label="Categories">
-    <button class="tab" data-tab="news" role="tab" aria-selected="true"><span aria-hidden="true">📰</span> News</button>
-    <button class="tab" data-tab="research" role="tab" aria-selected="false"><span aria-hidden="true">🔬</span> Research</button>
-    <button class="tab" data-tab="courts" role="tab" aria-selected="false"><span aria-hidden="true">⚖️</span> Court Cases</button>
-    <button class="tab" data-tab="policy" role="tab" aria-selected="false"><span aria-hidden="true">📜</span> Policy &amp; Law</button>
-    <button class="tab" data-tab="books" role="tab" aria-selected="false"><span aria-hidden="true">📚</span> Books</button>
-    <button class="tab" data-tab="podcasts" role="tab" aria-selected="false"><span aria-hidden="true">🎧</span> Podcasts</button>
+    <button class="tab" data-tab="latest" role="tab" aria-selected="true"><span aria-hidden="true">✨</span> Latest<span class="count" data-count-for="latest"></span></button>
+    <button class="tab" data-tab="news" role="tab" aria-selected="false"><span aria-hidden="true">📰</span> News<span class="count" data-count-for="news"></span></button>
+    <button class="tab" data-tab="research" role="tab" aria-selected="false"><span aria-hidden="true">🔬</span> Research<span class="count" data-count-for="research"></span></button>
+    <button class="tab" data-tab="courts" role="tab" aria-selected="false"><span aria-hidden="true">⚖️</span> Court Cases<span class="count" data-count-for="courts"></span></button>
+    <button class="tab" data-tab="policy" role="tab" aria-selected="false"><span aria-hidden="true">📜</span> Policy &amp; Law<span class="count" data-count-for="policy"></span></button>
+    <button class="tab" data-tab="books" role="tab" aria-selected="false"><span aria-hidden="true">📚</span> Books<span class="count" data-count-for="books"></span></button>
+    <button class="tab" data-tab="podcasts" role="tab" aria-selected="false"><span aria-hidden="true">🎧</span> Podcasts<span class="count" data-count-for="podcasts"></span></button>
   </nav>
 </header>
 
 <main id="app">
   <section class="panel-meta">
-    <span id="status-line">Loading…</span>
+    <span id="status-line"><span class="live-dot" aria-hidden="true"></span><span id="status-text">Loading…</span></span>
     <span class="shortcuts" id="quick-links"></span>
   </section>
 
   <section id="panel" class="panel" aria-live="polite">
-    <div class="empty-state" id="loading-state">Loading feed data…</div>
+    <div class="empty-state" id="loading-state"><span class="spinner" aria-hidden="true"></span>Loading feed data…</div>
   </section>
 </main>
 
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
 <footer class="site-footer">
   <p>
-    Data for News, Research, Court Cases, Books, and Podcasts refreshes automatically once a day via a GitHub Actions
-    workflow that queries free public sources (Google News RSS, PubMed, CourtListener, Google Books, iTunes Search).
-    Policy &amp; Law is a hand-curated list. Edit <code>scripts/sources.json</code> to change search terms, or
+    <strong>Latest</strong> blends the newest items across every auto-updating category into one feed. This tab
+    also rechecks the data every few minutes while the page is open, so it reflects new fetches without a manual
+    reload. News, Research, Court Cases, Books, and Podcasts refresh once a day via a GitHub Actions workflow
+    querying free public sources (Google News RSS, PubMed, CourtListener, Open Library, iTunes Search). Policy
+    &amp; Law is a hand-curated list. Edit <code>scripts/sources.json</code> to change search terms, or
     <code>data/policy.json</code> to change curated links. See <code>README.md</code> for setup.
   </p>
 </footer>
