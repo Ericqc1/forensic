@@ -3,7 +3,7 @@ name: Deploy Hub to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - claude/addiction-family-law-hub-el84b4
   workflow_dispatch: {}
 
 permissions:
