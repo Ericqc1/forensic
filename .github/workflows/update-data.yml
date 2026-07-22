@@ -1,5 +1,6 @@
 name: Update Feed Data
 
+# Trigger a re-scan by GitHub Actions after enabling Actions for this repo.
 on:
   schedule:
     - cron: "0 12 * * *" # daily at 12:00 UTC
