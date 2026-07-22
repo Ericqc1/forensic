@@ -30,12 +30,29 @@
     <button class="tab" data-tab="policy" role="tab" aria-selected="false"><span aria-hidden="true">📜</span> Policy &amp; Law<span class="count" data-count-for="policy"></span></button>
     <button class="tab" data-tab="books" role="tab" aria-selected="false"><span aria-hidden="true">📚</span> Books<span class="count" data-count-for="books"></span></button>
     <button class="tab" data-tab="podcasts" role="tab" aria-selected="false"><span aria-hidden="true">🎧</span> Podcasts<span class="count" data-count-for="podcasts"></span></button>
+    <button class="tab" data-tab="saved" role="tab" aria-selected="false"><span aria-hidden="true">⭐</span> Saved<span class="count" data-count-for="saved"></span></button>
   </nav>
 </header>
+
+<details class="about-box">
+  <summary>ℹ️ About this hub &amp; methodology</summary>
+  <p>
+    This is an automated current-awareness aggregator, not a peer-reviewed or editorially vetted publication.
+    Items are pulled by keyword search from public sources (Google News, PubMed, CourtListener, Open Library,
+    iTunes Search) on a daily schedule — nothing here has been individually screened for accuracy, relevance,
+    or quality, and search-engine coverage has its own gaps and biases. Treat it as a discovery tool to
+    surface things worth reading, not a substitute for your own critical appraisal, primary-source review, or
+    professional/legal judgment. See <a href="https://github.com/Ericqc1/forensic" target="_blank" rel="noopener">the
+    source</a> for exactly which queries and sources feed each tab.
+  </p>
+</details>
 
 <main id="app">
   <section class="panel-meta">
     <span id="status-line"><span class="live-dot" aria-hidden="true"></span><span id="status-text">Loading…</span></span>
+    <select id="state-filter" aria-label="Filter court cases by state" hidden>
+      <option value="">All states &amp; federal</option>
+    </select>
     <span class="shortcuts" id="quick-links"></span>
   </section>
 

@@ -14,7 +14,16 @@ auto-updating category into one feed. While the page is open in a browser it
 also rechecks `data/meta.json` every few minutes and silently reloads if a new
 fetch has landed (with a small toast notification) — so it stays current
 without a manual refresh, even though the underlying data only changes once a
-day.
+day. The same combined feed is also published as `feed.xml` (RSS 2.0) for
+subscribing in an external reader.
+
+Practitioner-oriented extras:
+- **Save** any card into a personal **Saved** tab (stored in `localStorage`,
+  this browser only — there's no account/backend).
+- **Cite** on Research and Court Cases items copies a simplified citation to
+  the clipboard.
+- **State filter** on Court Cases narrows results to a specific state (or
+  Federal/Other), computed client-side from each case's court name.
 
 ## Sources
 
@@ -38,14 +47,12 @@ file; each source fails independently so one bad query never blocks the rest.
 ## One-time setup
 
 1. **Enable GitHub Pages**: repo Settings → Pages → Source: "GitHub Actions".
-   The included `.github/workflows/pages.yml` deploys the site on every push
-   to `main`. Until this branch is merged to `main`, trigger it manually from
-   the Actions tab ("Deploy Hub to GitHub Pages" → Run workflow) to preview.
-2. **Kick off the first data fetch**: Actions tab → "Update Feed Data" → Run
-   workflow. This populates `data/news.json`, `research.json`, `courts.json`,
-   `books.json`, and `podcasts.json` (they start empty). After that it runs
-   automatically once a day (12:00 UTC).
-3. Visit the Pages URL GitHub gives you (or open `index.html` directly in a
+2. **Enable Actions** if it's off: repo Settings → Actions → General →
+   "Allow all actions and reusable workflows".
+3. Push (or manually run) once — `.github/workflows/update-data.yml` fetches
+   real data and `.github/workflows/pages.yml` deploys, chained via a
+   `workflow_run` trigger so every daily refresh redeploys automatically.
+4. Visit the Pages URL GitHub gives you (or open `index.html` directly in a
    browser — it works locally too, since it just reads relative JSON files).
 
 ## Customizing what it tracks
@@ -73,10 +80,11 @@ in `data/`.
 ```
 index.html            Dashboard shell
 assets/style.css       Styling (light/dark, responsive card grid)
-assets/app.js           Tab switching, search/filter, rendering
+assets/app.js           Tab switching, search/filter, saved items, citations, rendering
 data/*.json            Feed data (news/research/courts/books/podcasts auto-generated; policy hand-curated)
-scripts/fetch_feeds.py  Fetches from all sources, writes data/*.json
+feed.xml                Combined RSS 2.0 feed, regenerated on every fetch run
+scripts/fetch_feeds.py  Fetches from all sources, writes data/*.json + feed.xml
 scripts/sources.json    Search-query config per category
 .github/workflows/update-data.yml   Daily scheduled fetch + commit
-.github/workflows/pages.yml         Deploys the static site to GitHub Pages
+.github/workflows/pages.yml         Deploys the static site to GitHub Pages (on push, or after a data refresh)
 ```
