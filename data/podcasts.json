@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T13:28:31.378953+00:00",
+  "generated_at": "2026-07-23T13:41:36.992448+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -101,19 +101,19 @@
       "query": "family law"
     },
     {
-      "title": "Father X: How Fathers Can Win Child Custody",
-      "artist": "Father X",
-      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
-      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
       "artist": "DAVID PISARRA, ESQ.",
       "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
       "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Father X: How Fathers Can Win Child Custody",
+      "artist": "Father X",
+      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
+      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -133,11 +133,11 @@
       "query": "child custody"
     },
     {
-      "title": "The Dr. Laura Podcast",
-      "artist": "Dr. Laura Schlessinger & SiriusXM",
-      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
-      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "title": "The Emily Show",
+      "artist": "Baker Media, LLC.",
+      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
+      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
