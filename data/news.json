@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:41:20.760184+00:00",
+  "generated_at": "2026-07-24T13:23:50.679765+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -59,14 +59,6 @@
       "published": "Wed, 22 Jul 2026 05:21:34 GMT",
       "summary": "Cedar House Breaks Ground on 70-Bed Bloomington Addiction Treatment Expansion  ie community news",
       "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
-      "title": "What Families Should Know About Video Game Addiction - Institute for Family Studies",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW9Ndm1PYkQ0dE1xQ2tpMU9LcFFsVk9GeVpucjhoalVYOTJMZlBGRzhqV19PczAxbmFzMmRYSG5IeWRxZVhjLXp6eE9ocU05STMzUVlGRmhmbmtPSVpkSklOX0NOY3ZfWWRwbzk3OVMwMklWQWFyakMwZTBSOEk3VlJIZWRGdw?oc=5",
-      "source": "Institute for Family Studies",
-      "published": "Wed, 20 Nov 2019 08:00:00 GMT",
-      "summary": "What Families Should Know About Video Game Addiction  Institute for Family Studies",
-      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -165,27 +157,19 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "Substance Use Disorder Treatment Market to Reach $14.6 - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMGxZZGRJczZ4SHF0cWtpaEswNDIxMW9mb3I1UDNFRjlmRF9iT2RyTFRMbzQ2RVFFRXFjT1BqVTdZeEEtcllfX2RqMngwbXlETjN1MVNSRm9TY3NobjhhWllkcWEyYS1Fd0wzYndFcUNoMnozWHdCU29mVWxTT2JRd1V4MHNWcThiWVd4VDJOQ0szd3BCV1FDQnBYSXUzOHBUQ1kxRUgyNld2SXZ0VV9rVHpWRnJ6ZGd1VWM5SkExNFoxdi1ROC1odmhkUnlYVk8yaDJZYVlMcGtiSkRuQm9oN0lCZ212bmNaXzc2cVpyZGkzZ2hqTmRiV1p4LUhlMnRqVF9LZ29FTzhlOTRnd2RINVpidTdxNEctWUZVejRxUzl3UlU?oc=5",
-      "source": "GlobeNewswire",
-      "published": "Tue, 21 Jul 2026 17:30:44 GMT",
-      "summary": "Substance Use Disorder Treatment Market to Reach $14.6  GlobeNewswire",
+      "title": "Substance Use Disorder Treatment Market to Reach $14.6 Billion by 2030, Driven by Growing Patient Populations and Policy Reform - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORlZoSlIzVWhaOHNLOUo2dGUtaTVGQkFnQlVzb0dKbkRuR3BERzU3blN4NHZ0V2xYQmtDLUVMZEFTUW9CVlZ0dTUwd1hKb2hKdjFIekQ4QjZWUDZlVHNYOGtpZm9fTkxVTzdSWHJnbGE3Q3Y3elpaU2RqRmM2cmNReklzMF80M1JaeXZpRUV6WTlZQmlNakFhYjlXM3RVZ3ZhXzdMOA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Tue, 21 Jul 2026 17:30:00 GMT",
+      "summary": "Substance Use Disorder Treatment Market to Reach $14.6 Billion by 2030, Driven by Growing Patient Populations and Policy Reform  Yahoo Finance",
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "GLP-1 Agonists Are Quietly Reducing Addiction Hospitalizations, But Only While Patients Take Them - The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZnE4X3NNdVBIcllqc1pFQ0hHbWpvTUpueHQtZFhGb2JwalhwRkh6MHY3M1NpOGRUZ2ZQM3VyRGNJbWJCMHRvTDhyTEhMQ0JqVFB4emJuMkN6S1VfVlVLdllEYUpJYVloenpzbVlkcDQ3XzV1RVVlRzRTekRQZWxRdTdyMVg3RjM0NUVZTEtCZGZTQ1lxOTVhTWNjejV6MUdXSGpVamxGbDhUbGIxSDdNREFGekxzYndJaDEydzNCcnRzRF9ZZFVyUzk2S3otY01KVjNkN0tFZzVONWFpVVRFNVoxZkQ2eFJ6SzJr?oc=5",
-      "source": "The Clinical Trial Vanguard",
-      "published": "Tue, 21 Jul 2026 17:14:08 GMT",
-      "summary": "GLP-1 Agonists Are Quietly Reducing Addiction Hospitalizations, But Only While Patients Take Them  The Clinical Trial Vanguard",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Norcross, Lawler, Tonko introduce bipartisan bill to increase treatment access for opioid use disorder - Insider NJ",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGN5Nlh2NXZmemZ2ZFZjNVJGTldZSzhpZWN1ZzY4YTByWFNRSmFiNll3Vy0zTngtWDFYRm1QM2JYX1VrRkVzcUdKMU1Dc0lJN2U3ckFuZVRxSVJWRXIwc2pjNU5jX2JlcHV2ajRqaGhOQ1Y1M0xhaXRMYXBTNTEyVDlzQXhoaXczblZ1X0xXU2FjSHR3UTBIMWtPdmxNSnhGUjJERzk4OUFGWFNLZFNrZzNfVmpoWkFZRkxRWmRQcHFIbkZnZnoyS2FqaGFTZXFTRjZiQ2pDU3k?oc=5",
-      "source": "Insider NJ",
-      "published": "Tue, 21 Jul 2026 14:50:00 GMT",
-      "summary": "Norcross, Lawler, Tonko introduce bipartisan bill to increase treatment access for opioid use disorder  Insider NJ",
+      "title": "Southern California Addiction Treatment Provider Expands Access With New Medical Detox and Residential Care Facility - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGNnWXhjYndnX2s4eVBVVVg3TlU4ZWRGXzU3MWQyS3N2TDJjT0lqRVUyTHlPNUd5RFNjdkJ4REcxUWRsUlVZc3ByYjVrU2ZJSE5XbWFJWjZ0Nk5ERzI4ckdycWZZa2Y1NGZObmQ4R0dyUW43MEJkQ0s0dVhSQVdYZnFmaDYyVTFCaGVaUWFSOW8yeE90TjRoc28wREN1OG1YeU56MkUxQml2RFhhUFp0TUw3WVNJZV8xUGRNOE1SUDNWcEJ1Tm05bzFJQVkwUVhOQ085UEc3cFpDcmtfMDQxaW1yRmNacmZYZjhISzNORQ?oc=5",
+      "source": "EIN News",
+      "published": "Tue, 21 Jul 2026 15:00:00 GMT",
+      "summary": "Southern California Addiction Treatment Provider Expands Access With New Medical Detox and Residential Care Facility  EIN News",
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
@@ -213,6 +197,14 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
+      "title": "Godfrey Man Faces Domestic Battery, Reporting Interference Charges In Jersey County - RiverBender.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1RzNkRzeE5reGlEM1JPRFFHUk1nZUt1WnhsczdPM0l3VkN2bzJNYkhtVTV1ZHVfb0xoM09nR0lRSmh5THhkYUxscUxDM3BRNTh0ODUxQUpuY2JpX3JhUHdXUFZabGtEMUJNZWVOU3h5S3dPM2tQVnZNOTFrRzE1Ynhzb1BRMG0yLTkwMmV6aC1qSTgwVlJRVW85LWM0S0JsX3duak9VRUM2RXhOTjhOV3VuZ1ZrZTBNWjJIRVh1U1pfT3pFWTk3MDRES1FjUQ?oc=5",
+      "source": "RiverBender.com",
+      "published": "Tue, 14 Jul 2026 19:07:00 GMT",
+      "summary": "Godfrey Man Faces Domestic Battery, Reporting Interference Charges In Jersey County  RiverBender.com",
+      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+    },
+    {
       "title": "Family Treatment Court Seeks Funds To Expand - West Virginia Public Broadcasting",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjF0MGRMSmhNcWJGY1lxNTdlTWdPR1VTUm1qdTh6dV9adGltXzFVX3YxeHZyOXE1QS1sWU5UdVdRM09JbmNTTlNRRTMtOV9LNG51UnVHUy1SZ3FhLWRBRUtiZmt6Z0pvcDR3NVlka29ZNnNZYUxIengxOTZYVFZjd0Q2b0NMdmZLOTJ3?oc=5",
       "source": "West Virginia Public Broadcasting",
@@ -226,6 +218,14 @@
       "source": "WOWK 13 News",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
       "summary": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court  WOWK 13 News",
+      "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "Three complete Wood County Family Treatment Court program - News and Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFNaOG9IV0VuTzd3WkJIOHZmYWlQdjVPMTM5dVhUR2VOM0hpbFo4dDlXdFZnVjYzaFNxbFB6bW1RT0pGZTN4SXFZTjRMRjBzM3drX3FJSVFRNmhBS3VtNHp0Ujd5VXc4cENVRjh0WHZlQk8zSXhyNTBmUTU4WXFsZnFDYTVleXN1YThXd0hsZW1rNThzVmJjSW5Hc21qRnd3eHhfaXZMYTN0TUpfLTFVWFNSWWsxT3NRYmc?oc=5",
+      "source": "News and Sentinel",
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "Three complete Wood County Family Treatment Court program  News and Sentinel",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {

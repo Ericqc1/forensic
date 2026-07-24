@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-07-23T13:41:33.230400+00:00",
+  "generated_at": "2026-07-24T13:24:04.954934+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re J.B.",
+      "link": "https://www.courtlistener.com/opinion/10934497/in-re-jb/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Baldwin",
+      "link": "https://www.courtlistener.com/opinion/10934492/state-v-baldwin/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Wall",
+      "link": "https://www.courtlistener.com/opinion/10934594/state-v-wall/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Sandra Gail Carrin v. Shauna Marie Smiledge",
+      "link": "https://www.courtlistener.com/opinion/10934565/sandra-gail-carrin-v-shauna-marie-smiledge/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Zhang v. Dixon",
+      "link": "https://www.courtlistener.com/opinion/10934538/zhang-v-dixon/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Dressen v. AstraZeneca AB",
+      "link": "https://www.courtlistener.com/opinion/10934536/dressen-v-astrazeneca-ab/",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Murphy",
+      "link": "https://www.courtlistener.com/opinion/10934511/united-states-v-murphy/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In Re Othella S.",
+      "link": "https://www.courtlistener.com/opinion/10934561/in-re-othella-s/",
+      "court": "Court of Appeals of Tennessee",
+      "date_filed": "2026-07-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re R.D.",
+      "link": "https://www.courtlistener.com/opinion/10934522/in-re-rd/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In the Int. of: J.T.M.",
       "link": "https://www.courtlistener.com/opinion/10934098/in-the-int-of-jtm/",
@@ -37,38 +109,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of T.D. and M.B., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10933916/in-the-interest-of-td-and-mb-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State of Iowa v. Napoleon Campos Jr.",
-      "link": "https://www.courtlistener.com/opinion/10933894/state-of-iowa-v-napoleon-campos-jr/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State of Louisiana in the Interest of N.P.",
-      "link": "https://www.courtlistener.com/opinion/10933829/state-of-louisiana-in-the-interest-of-np/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of C.S., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10933792/in-the-interest-of-cs-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 4th District (San Antonio)",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "In the Interest of F.M., Minor Child",
       "link": "https://www.courtlistener.com/opinion/10933923/in-the-interest-of-fm-minor-child/",
       "court": "Court of Appeals of Iowa",
@@ -80,38 +120,6 @@
       "title": "In the Interest of J.W.H. and T.L.H., Children v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10934231/in-the-interest-of-jwh-and-tlh-children-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People of Guam v. Philips James Sablan",
-      "link": "https://www.courtlistener.com/opinion/10934167/people-of-guam-v-philips-james-sablan/",
-      "court": "Supreme Court of Guam",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Com. v. Stark, M.",
-      "link": "https://www.courtlistener.com/opinion/10934104/com-v-stark-m/",
-      "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Martin Murff",
-      "link": "https://www.courtlistener.com/opinion/10933999/united-states-v-martin-murff/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest G.W., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10933924/in-the-interest-gw-minor-child/",
-      "court": "Court of Appeals of Iowa",
       "date_filed": "2026-07-22",
       "snippet": "",
       "query": "family drug court"
@@ -189,34 +197,10 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "State v. Woody",
-      "link": "https://www.courtlistener.com/opinion/10927393/state-v-woody/",
-      "court": "Hawaii Supreme Court",
-      "date_filed": "2026-07-13",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In the Interest of C.J.C., O.C.C. and V.A.R.C., Children v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10931891/in-the-interest-of-cjc-occ-and-varc-children-v-the-state-of/",
       "court": "Texas Court of Appeals, 8th District (El Paso)",
       "date_filed": "2026-07-10",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "C.M. v. Mobile County Department of Human Resources",
-      "link": "https://www.courtlistener.com/opinion/10925438/cm-v-mobile-county-department-of-human-resources/",
-      "court": "Court of Civil Appeals of Alabama",
-      "date_filed": "2026-07-10",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of B.L., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10918543/in-the-interest-of-bl-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-07-08",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
@@ -241,6 +225,22 @@
       "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
       "court": "Supreme Court of Pennsylvania",
       "date_filed": "2026-03-26",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
+      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
+      "court": "Court of Appeals of North Carolina",
+      "date_filed": "2026-03-04",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of O.H., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

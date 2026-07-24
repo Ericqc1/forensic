@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:41:36.992448+00:00",
+  "generated_at": "2026-07-24T13:24:23.670382+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -77,19 +77,19 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Talk",
-      "artist": "Stange Law Firm",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
-      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "The Family Law Podcast",
       "artist": "Pump Court Chambers",
       "link": "https://podcasts.apple.com/us/podcast/the-family-law-podcast/id1522264253?uo=4",
       "feed_url": "https://feeds.acast.com/public/shows/5ef09612aec0805c39660f73",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/34/b1/f3/34b1f3a4-d7aa-01cf-538a-e39b87ba70e7/mza_13671130138539944864.jpeg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {

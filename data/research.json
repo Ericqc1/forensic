@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:41:28.978960+00:00",
+  "generated_at": "2026-07-24T13:24:00.075108+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -11,6 +11,22 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Longitudinal associations between parental rejection, school engagement and gaming disorder symptoms among Chinese adolescents: Disentangling between- and within-person effects.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42456204/",
+      "journal": "Addictive behaviors",
+      "authors": "Wang Z, Zhou X, Chen Y",
+      "published": "2026 Nov",
+      "query": "family law psychology addiction"
+    },
+    {
+      "title": "Connect to protect: evaluating fentanyl overdose prevention education among parents and caregivers.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42435589/",
+      "journal": "Addictive behaviors",
+      "authors": "Lange-McPherson C, Epstein J, Halpern-Felsher B",
+      "published": "2026 Nov",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Perinatal Insights Into Parenting, Pathways, and Addiction (PIPPA): Protocol for a Longitudinal, Strengths-Based Study in Flanders, Belgium.",
@@ -85,6 +101,14 @@
       "query": "co-occurring disorders family therapy"
     },
     {
+      "title": "Proposed Specifiers for Conduct Disorder (PSCD): Factor structure and convergent discriminant validity in 14- to 19-year-old middle-to-upper-income adolescents.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42490251/",
+      "journal": "Psychological assessment",
+      "authors": "Salekin RT, Collins EK, DeGroot HR et al.",
+      "published": "2026 Jul 23",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "The Role of Medications for Opioid Use Disorder (MOUD) in Child Welfare Outcomes: Evidence From Ohio's START Implementation.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42473829/",
       "journal": "Child maltreatment",
@@ -145,14 +169,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42429085/",
       "journal": "Drug and alcohol review",
       "authors": "Raitasalo K, Mäkelä P",
-      "published": "2026 Jul",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Mental health, substance use, and child maltreatment.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42413307/",
-      "journal": "Journal of health economics",
-      "authors": "Ali MM, Lu TT, Maclean JC et al.",
       "published": "2026 Jul",
       "query": "children of parents with substance use disorder"
     },
@@ -221,14 +237,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Infant Caregiving as a Resilience Factor for Postpartum Substance Misuse: A Scoping Review.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42404401/",
-      "journal": "Adversity and resilience science",
-      "authors": "Linde-Krieger LB, Chalke AM, Nelson M et al.",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Sustained abstinence after a methamphetamine-specific treatment program for pregnant and parenting women.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/40998874/",
       "journal": "Scientific reports",
@@ -283,14 +291,6 @@
       "authors": "Ellis S, Witzig J, Basaldu D et al.",
       "published": "2025 Dec 22",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "\"They Call Us Amaphara (Junkies)\": Intersectional Tuberculosis, Alcohol, and Drug Stigma in South Africa.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41693957/",
-      "journal": "Stigma and health",
-      "authors": "Carney T, Mpisane N, Magidson JF et al.",
-      "published": "2025 Dec 15",
-      "query": "family law psychology addiction"
     },
     {
       "title": "Project BETTER: Outcomes at the pregnancy-to-postpartum transition from a pilot clinical trial of a technology-delivered intervention for birthing people receiving medication for opioid use disorder.",
