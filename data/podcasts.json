@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:24:23.670382+00:00",
+  "generated_at": "2026-07-25T13:15:05.528531+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
-      "artist": "Felicia Hermle",
-      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
-      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
+      "title": "Let's Talk Addiction & Recovery",
+      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -133,19 +133,19 @@
       "query": "child custody"
     },
     {
-      "title": "The Emily Show",
-      "artist": "Baker Media, LLC.",
-      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
-      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
       "artist": "Brian A. Victor, Esq.",
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
       "feed_url": "https://rss.buzzsprout.com/182093.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "The Emily Show",
+      "artist": "Baker Media, LLC.",
+      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
+      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

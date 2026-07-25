@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-07-24T13:24:04.954934+00:00",
+  "generated_at": "2026-07-25T13:14:59.599588+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Darren M. v. Destiny D",
+      "link": "https://www.courtlistener.com/opinion/10934866/darren-m-v-destiny-d/",
+      "court": "Alaska Supreme Court",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Christopher Hemwall v. Adam Douglas",
+      "link": "https://www.courtlistener.com/opinion/10934762/christopher-hemwall-v-adam-douglas/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "People v. Neyshaliz M. V.",
+      "link": "https://www.courtlistener.com/opinion/10934924/people-v-neyshaliz-m-v/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Wolfert",
+      "link": "https://www.courtlistener.com/opinion/10934786/state-v-wolfert/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Starbuck v. Google LLC",
+      "link": "https://www.courtlistener.com/opinion/10934779/starbuck-v-google-llc/",
+      "court": "Superior Court of Delaware",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "War Paint Movie, LLC v. Alabama Film Office, a division of the Alabama Department of Commerce; Ellen McNair, in her official capacity as Secretary of the Department of Commerce; and Meghann Bridgeman, in her official capacity as Manager of the Alabama Film Office",
+      "link": "https://www.courtlistener.com/opinion/10934679/war-paint-movie-llc-v-alabama-film-office-a-division-of-the-alabama/",
+      "court": "Court of Civil Appeals of Alabama",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Badar Suri v. Donald Trump",
+      "link": "https://www.courtlistener.com/opinion/10934874/badar-suri-v-donald-trump/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-07-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re J.B.",
       "link": "https://www.courtlistener.com/opinion/10934497/in-re-jb/",
@@ -45,22 +101,6 @@
       "query": "family drug court"
     },
     {
-      "title": "Dressen v. AstraZeneca AB",
-      "link": "https://www.courtlistener.com/opinion/10934536/dressen-v-astrazeneca-ab/",
-      "court": "Court of Appeals for the Tenth Circuit",
-      "date_filed": "2026-07-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Murphy",
-      "link": "https://www.courtlistener.com/opinion/10934511/united-states-v-murphy/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-07-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In Re Othella S.",
       "link": "https://www.courtlistener.com/opinion/10934561/in-re-othella-s/",
       "court": "Court of Appeals of Tennessee",
@@ -93,24 +133,16 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of M.H. and T.H., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10933919/in-the-interest-of-mh-and-th-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of O.S., O.S., E.S. and D.B., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10933918/in-the-interest-of-os-os-es-and-db-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "In the Interest of F.M., Minor Child",
       "link": "https://www.courtlistener.com/opinion/10933923/in-the-interest-of-fm-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-07-22",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In the Interest of M.H. and T.H., Minor Children",
+      "link": "https://www.courtlistener.com/opinion/10933919/in-the-interest-of-mh-and-th-minor-children/",
       "court": "Court of Appeals of Iowa",
       "date_filed": "2026-07-22",
       "snippet": "",
@@ -122,7 +154,7 @@
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-07-22",
       "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Commonwealth v. Hitchner, W., Aplt.",
@@ -181,26 +213,10 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "United States v. Malcolm Redmon",
-      "link": "https://www.courtlistener.com/opinion/10927535/united-states-v-malcolm-redmon/",
-      "court": "Court of Appeals for the Eighth Circuit",
-      "date_filed": "2026-07-14",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In re Maybell E.",
       "link": "https://www.courtlistener.com/opinion/10927385/in-re-maybell-e/",
       "court": "Appellate Court of Illinois",
       "date_filed": "2026-07-13",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of C.J.C., O.C.C. and V.A.R.C., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10931891/in-the-interest-of-cjc-occ-and-varc-children-v-the-state-of/",
-      "court": "Texas Court of Appeals, 8th District (El Paso)",
-      "date_filed": "2026-07-10",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
@@ -225,22 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
       "court": "Supreme Court of Pennsylvania",
       "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of O.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
