@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-25T13:14:59.599588+00:00",
+  "generated_at": "2026-07-26T13:05:51.581879+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Martinez-Andino v. Mullin",
+      "link": "https://www.courtlistener.com/opinion/10935138/martinez-andino-v-mullin/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-07-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Josue Fuentes v. United States Citizenship and Immigration Services",
+      "link": "https://www.courtlistener.com/opinion/10935134/josue-fuentes-v-united-states-citizenship-and-immigration-services/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Darren M. v. Destiny D",
       "link": "https://www.courtlistener.com/opinion/10934866/darren-m-v-destiny-d/",
@@ -93,14 +109,6 @@
       "query": "family drug court"
     },
     {
-      "title": "Zhang v. Dixon",
-      "link": "https://www.courtlistener.com/opinion/10934538/zhang-v-dixon/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-07-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In Re Othella S.",
       "link": "https://www.courtlistener.com/opinion/10934561/in-re-othella-s/",
       "court": "Court of Appeals of Tennessee",
@@ -120,14 +128,6 @@
       "title": "In the Int. of: J.T.M.",
       "link": "https://www.courtlistener.com/opinion/10934098/in-the-int-of-jtm/",
       "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of M.D. and A.D., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10933920/in-the-interest-of-md-and-ad-minor-children/",
-      "court": "Court of Appeals of Iowa",
       "date_filed": "2026-07-22",
       "snippet": "",
       "query": "child custody substance abuse"
