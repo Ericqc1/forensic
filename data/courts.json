@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-26T13:05:51.581879+00:00",
+  "generated_at": "2026-07-27T14:17:53.191866+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Fluker",
+      "link": "https://www.courtlistener.com/opinion/10935233/state-v-fluker/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Brozynski",
+      "link": "https://www.courtlistener.com/opinion/10935234/state-v-brozynski/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
     {
       "title": "Martinez-Andino v. Mullin",
       "link": "https://www.courtlistener.com/opinion/10935138/martinez-andino-v-mullin/",
@@ -13,17 +29,17 @@
       "query": "family drug court"
     },
     {
-      "title": "Josue Fuentes v. United States Citizenship and Immigration Services",
-      "link": "https://www.courtlistener.com/opinion/10935134/josue-fuentes-v-united-states-citizenship-and-immigration-services/",
-      "court": "Court of Appeals for the Fourth Circuit",
+      "title": "Darren M. v. Destiny D",
+      "link": "https://www.courtlistener.com/opinion/10935156/darren-m-v-destiny-d/",
+      "court": "Alaska Supreme Court",
       "date_filed": "2026-07-24",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
-      "title": "Darren M. v. Destiny D",
-      "link": "https://www.courtlistener.com/opinion/10934866/darren-m-v-destiny-d/",
-      "court": "Alaska Supreme Court",
+      "title": "Josue Fuentes v. United States Citizenship and Immigration Services",
+      "link": "https://www.courtlistener.com/opinion/10935134/josue-fuentes-v-united-states-citizenship-and-immigration-services/",
+      "court": "Court of Appeals for the Fourth Circuit",
       "date_filed": "2026-07-24",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -93,17 +109,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "State v. Wall",
-      "link": "https://www.courtlistener.com/opinion/10934594/state-v-wall/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Sandra Gail Carrin v. Shauna Marie Smiledge",
-      "link": "https://www.courtlistener.com/opinion/10934565/sandra-gail-carrin-v-shauna-marie-smiledge/",
-      "court": "Court of Appeals for the Eleventh Circuit",
+      "title": "In the Interest of J.G.S. Minor Child v. Department of Family and Protective Services",
+      "link": "https://www.courtlistener.com/opinion/10935197/in-the-interest-of-jgs-minor-child-v-department-of-family-and/",
+      "court": "Texas Court of Appeals, 1st District (Houston)",
       "date_filed": "2026-07-23",
       "snippet": "",
       "query": "family drug court"
@@ -157,6 +165,14 @@
       "query": "custody modification alcohol abuse"
     },
     {
+      "title": "In the Interest of C.K.J-S. a Child v. Department of Family and Protective Services",
+      "link": "https://www.courtlistener.com/opinion/10935210/in-the-interest-of-ckj-s-a-child-v-department-of-family-and-protective/",
+      "court": "Texas Court of Appeals, 1st District (Houston)",
+      "date_filed": "2026-07-21",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
       "title": "Commonwealth v. Hitchner, W., Aplt.",
       "link": "https://www.courtlistener.com/opinion/10933314/commonwealth-v-hitchner-w-aplt/",
       "court": "Supreme Court of Pennsylvania",
@@ -189,28 +205,12 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "In the Matter of the Termination of Parental Rights To: Ccc, Ccc and Ccc, Minor Children, Hailey Nicole Keller v. State of Wyoming, Ex Rel. Department of Family Services",
-      "link": "https://www.courtlistener.com/opinion/10928298/in-the-matter-of-the-termination-of-parental-rights-to-ccc-ccc-and-ccc/",
-      "court": "Wyoming Supreme Court",
-      "date_filed": "2026-07-15",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In re A.B.",
       "link": "https://www.courtlistener.com/opinion/10927877/in-re-ab/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-07-14",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "State v. Alcenat",
-      "link": "https://www.courtlistener.com/opinion/10931917/state-v-alcenat/",
-      "court": "Connecticut Appellate Court",
-      "date_filed": "2026-07-14",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In re Maybell E.",

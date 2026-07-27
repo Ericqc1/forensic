@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:05:36.643057+00:00",
+  "generated_at": "2026-07-27T14:17:12.352889+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -37,28 +37,12 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "Strengthening Screening, Overdose Prevention and Addiction Treatment - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iUjl4SURzcExob1NINmNoZVhUZVFzdkI5RkhKYURpVXg2NEJMaGZMRXVXdjhPMks5U1ZTZm9XRnkySEN1T0lGdWhIMklKUnlOd2dnVkRtODRYWm4teHRqamlNQkc3WWdoRzROQ0pB?oc=5",
-      "source": "American Hospital Association",
-      "published": "Wed, 22 Jul 2026 18:33:14 GMT",
-      "summary": "Strengthening Screening, Overdose Prevention and Addiction Treatment  American Hospital Association",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money - The Lexington Times",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEJrcVR2QTBTU0pENi0tX3lwbzNCLXJvOE1nNTNZbFk4SnFaZHJ0WWljbDNmaEhVcWdYUm0wTTYybkt6d0hRT25NcFczelJZU1FHeHhxMDN0ekpYNTNvbXNQLWdfOXNnd0JWcXJ2ZmJjWWhSa2xCOVZ3eGx3WnVKTzlZenJrVDZVZFZtTm5LanBZbkMtc1oxYUdEMmdIcHZHbjM5anZ1QVJvbW9IcmkxNU5QX205NWM?oc=5",
       "source": "The Lexington Times",
       "published": "Wed, 22 Jul 2026 13:36:44 GMT",
       "summary": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money  The Lexington Times",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "What Families Should Know About Video Game Addiction - Institute for Family Studies",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW9Ndm1PYkQ0dE1xQ2tpMU9LcFFsVk9GeVpucjhoalVYOTJMZlBGRzhqV19PczAxbmFzMmRYSG5IeWRxZVhjLXp6eE9ocU05STMzUVlGRmhmbmtPSVpkSklOX0NOY3ZfWWRwbzk3OVMwMklWQWFyakMwZTBSOEk3VlJIZWRGdw?oc=5",
-      "source": "Institute for Family Studies",
-      "published": "Wed, 20 Nov 2019 08:00:00 GMT",
-      "summary": "What Families Should Know About Video Game Addiction  Institute for Family Studies",
-      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -125,6 +109,14 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
+      "title": "Taylor Frankie Paul leaves rehab amid custody and legal disputes - MSN",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPbUt0cHVnNW1xOU5FaHRtYjJIQXd0Y0oxODZqckx0enVwUFRPV0FLNW9UMDV1ZkdRb3RORnJoVFVNOWJIZUxOdk9mSTY4T18wN21YMU45U2lPWWZYdHZNYUZjWW9DZzItNVpKbFlKTzhvY3JRdjVjQWc0WkExbktGeFZCZnZDY0ZhdVcyb192TVE3SEdjbThiSm9Vdk52UEdlNjAzZEtNbXd5RDhtMm04akU5Sm9nNTB0ck1MMXZJX2R4SU5ROEQ0ZEtiVXkwWGNDSjdNUmhXdm96YnJaREFlRDhEaU1ZZHlDWkp5RmFjMjNGSFJpandpc25oMHRWWHNjQWlBaUVWZUtEdFR0ZWV1ekVVUGdiWTAtVFp5R05MTXQ0OWtTVFpQbU96MlU?oc=5",
+      "source": "MSN",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Taylor Frankie Paul leaves rehab amid custody and legal disputes  MSN",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
       "title": "Most Kentucky opioid settlement money is not being spent, new report shows - Kentucky Lantern",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFVlSEw2RXVrb1VLcVNBdVhwZVBZeE1YN3pUdDBZWkxXZ1Npd2NEY2wxQ0xuNXhEQ2V1c1lBd2tXbG9wLUtLWEJONldDc2V4U3huYkpTTEFzaTVzalNrVEVQcHExUlNEYmRyUDZWWU1vZGpzZjFwQ21tSnlUdUdPVXRLUWRoc3BVTTRxMDI5ZWdYcXNRLTV2RVJKZXBWakZEOGhRTWhLYjFwcXItemFPdk5Udw?oc=5",
       "source": "Kentucky Lantern",
@@ -147,6 +139,14 @@
       "published": "Tue, 21 Jul 2026 21:15:53 GMT",
       "summary": "No, Stimulants Don’t Cause Substance Use Problems  ADDitude",
       "query": "\"substance use disorder\" treatment OR policy"
+    },
+    {
+      "title": "How two rural Maine jails are rethinking addiction treatment - The Maine Monitor",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16STViUmdKYXA4LUZhMmRIZElkSE1HeHF0cGNtTmIyMFFKRy1nOFdUeEdXWnF4aGRULU9TWWFHMnF3YUxpaWxBZUU1NFkxQXhENVBSbU5nRXQxS0p2UEptcDRidDhab1hVVlR3Z0pBLWtpeU1maEdvZVIyZw?oc=5",
+      "source": "The Maine Monitor",
+      "published": "Tue, 21 Jul 2026 21:01:42 GMT",
+      "summary": "How two rural Maine jails are rethinking addiction treatment  The Maine Monitor",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Substance Use Disorder Treatment Market to Reach $14.6 - GlobeNewswire",
@@ -173,14 +173,6 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "Court system asks for a slight budget increase, with biggest bump to family treatment court system - WV MetroNews",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSVJvSGxVTE83U0p0cGpKbWpDc1VocDZZZS1QcDZlaGExckItSzhMY3k2RGF3X19wbmZ4Y3lZalBMMGxFV2JVMGZnN2FRWTR5ckZpV1NxeVFoeEJtVTM5Mm9TaGhSdlhIcGFLTWt4UDhGSWtVNU5UWTI5MnU4ZzhHN3R6OUJBQU05WnJ6RHgyMDdKazhwRUFISjM2bzJRbEpJNkVKRU5iYmdGdnlPWkltMjBBN2NCT001WU11OHQxTlZNcEdhZHY3SEJpZnhWdw?oc=5",
-      "source": "WV MetroNews",
-      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "summary": "Court system asks for a slight budget increase, with biggest bump to family treatment court system  WV MetroNews",
-      "query": "\"family drug court\" OR \"family treatment court\""
-    },
-    {
       "title": "Several ICE agents were arrested in recent months, showing risk of misconduct | The Associated Press - ap.org",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUZfTDRja0FBQ1pqanVrOGpPOFFWajB5YnJ0eUV5aWtyQWJ4WUd6RFpqSndLdEF0VURKMGlQU2dxUGlIdzRpWnVtU2FxUGNYbi1IcjYwMmdaaDM1Uy1xcEM0TE1TSnI5Rzhoc19BTG9feFJOOHJiV1gtNmV0eDBBTkFKUUZjaWRXWXlTdzRKWWpkaXVoS3A0VmU2SlNGY2tlRHBUNU5teE5XX1N2N1R0TEhDLWxqQWgydkp4cVI2Q2VHRE5pSk1V?oc=5",
       "source": "ap.org",
@@ -205,6 +197,14 @@
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
+      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeFFrSkxzSHd2dzF0QXQ4MnEwdUhZSVdNRUNyb0JTeHA2cFRpSGhwNV9RaE5hSHR2bEhDelNOaEVpSHpVUEZiXzNIWHg3QQ?oc=5",
+      "source": "Congressional Budget Office (.gov)",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  Congressional Budget Office (.gov)",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
       "title": "Family Treatment Court Seeks Funds To Expand - West Virginia Public Broadcasting",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjF0MGRMSmhNcWJGY1lxNTdlTWdPR1VTUm1qdTh6dV9adGltXzFVX3YxeHZyOXE1QS1sWU5UdVdRM09JbmNTTlNRRTMtOV9LNG51UnVHUy1SZ3FhLWRBRUtiZmt6Z0pvcDR3NVlka29ZNnNZYUxIengxOTZYVFZjd0Q2b0NMdmZLOTJ3?oc=5",
       "source": "West Virginia Public Broadcasting",
@@ -213,19 +213,19 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
+      "title": "State Supreme Court asking for $1.4 million to continue funding Family Treatment Court - WV MetroNews",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjhXQkJ5by1VRTZoZWhGbU9zUUd3VkxFTzNWZGdZdnBIS2w2WHoyQk5XT0lIc1J0blN4dG92LTloNklzaVZiTUJuWm05Vko1WUJJX0doZTR1NEUzdE80dzRHT0ZPTmRiY2lvRHRmSHNZbXpOWUZ2RnpjM25zOEl6Z3VLS0YtaEF5RG5lNTJ3c1VUaDVrODJ4dHZsemwzWEJ5UmhVQS02aXhoT283blFaSXdfU1pqY00zVzZfZzV3?oc=5",
+      "source": "WV MetroNews",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "State Supreme Court asking for $1.4 million to continue funding Family Treatment Court  WV MetroNews",
+      "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
       "title": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court - WOWK 13 News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1ZJSlZLTE9nR0psV1VzSEljVkpXazJwc2d4cWNJSVRZdHVwdnJ3MW03NFJIa193SzJCSHJ5MWpLRU9laWo4QlVLXzdJTGFJRm1uYWRVRTJya1Qwc2hCWFdHTFpwbmtfbGh1dl90aVl2Q3NZVFBwbV9jb29adW5jNXZDU2dkMVdTZmV4MnViQmVEdFRKUlhnaDBwaGRrZ9IBowFBVV95cUxPNWJ2OE5UR1VFcFlvdkhDRXpQaHVjUHZZZlliNDRUOXZQVWNwVHVLRmRycWF1WG45TDV6bVcycjkyZERmNUk5VWVIckR2WlFXWmpQY2Jma0tQMWhGaG9tYTlNSDh1Wk9feEJxSk1iNnFBajRhRkVwal9WM1BXVTVsNVJUcHRQbTZOb3ZzcVVpMTZmOXppYzg1c0JuekM5NE9VSzU4?oc=5",
       "source": "WOWK 13 News",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
       "summary": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court  WOWK 13 News",
-      "query": "\"family drug court\" OR \"family treatment court\""
-    },
-    {
-      "title": "Three complete Wood County Family Treatment Court program - News and Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFNaOG9IV0VuTzd3WkJIOHZmYWlQdjVPMTM5dVhUR2VOM0hpbFo4dDlXdFZnVjYzaFNxbFB6bW1RT0pGZTN4SXFZTjRMRjBzM3drX3FJSVFRNmhBS3VtNHp0Ujd5VXc4cENVRjh0WHZlQk8zSXhyNTBmUTU4WXFsZnFDYTVleXN1YThXd0hsZW1rNThzVmJjSW5Hc21qRnd3eHhfaXZMYTN0TUpfLTFVWFNSWWsxT3NRYmc?oc=5",
-      "source": "News and Sentinel",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "summary": "Three complete Wood County Family Treatment Court program  News and Sentinel",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
