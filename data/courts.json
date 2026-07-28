@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:17:53.191866+00:00",
+  "generated_at": "2026-07-28T13:49:20.083989+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -19,6 +19,30 @@
       "date_filed": "2026-07-28",
       "snippet": "",
       "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re A.P.",
+      "link": "https://www.courtlistener.com/opinion/10935435/in-re-ap/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-27",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People v. Vasquez",
+      "link": "https://www.courtlistener.com/opinion/10935451/people-v-vasquez/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-07-27",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Smythe v. Department of Homeland Security",
+      "link": "https://www.courtlistener.com/opinion/10935446/smythe-v-department-of-homeland-security/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-07-27",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Martinez-Andino v. Mullin",
@@ -53,6 +77,14 @@
       "query": "parental rights termination addiction"
     },
     {
+      "title": "Jerry John Leshikar v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10935617/jerry-john-leshikar-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 3rd District (Austin)",
+      "date_filed": "2026-07-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "People v. Neyshaliz M. V.",
       "link": "https://www.courtlistener.com/opinion/10934924/people-v-neyshaliz-m-v/",
       "court": "Appellate Division of the Supreme Court of the State of New York",
@@ -64,22 +96,6 @@
       "title": "State v. Wolfert",
       "link": "https://www.courtlistener.com/opinion/10934786/state-v-wolfert/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Starbuck v. Google LLC",
-      "link": "https://www.courtlistener.com/opinion/10934779/starbuck-v-google-llc/",
-      "court": "Superior Court of Delaware",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "War Paint Movie, LLC v. Alabama Film Office, a division of the Alabama Department of Commerce; Ellen McNair, in her official capacity as Secretary of the Department of Commerce; and Meghann Bridgeman, in her official capacity as Manager of the Alabama Film Office",
-      "link": "https://www.courtlistener.com/opinion/10934679/war-paint-movie-llc-v-alabama-film-office-a-division-of-the-alabama/",
-      "court": "Court of Civil Appeals of Alabama",
       "date_filed": "2026-07-24",
       "snippet": "",
       "query": "family drug court"
@@ -109,14 +125,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of J.G.S. Minor Child v. Department of Family and Protective Services",
-      "link": "https://www.courtlistener.com/opinion/10935197/in-the-interest-of-jgs-minor-child-v-department-of-family-and/",
-      "court": "Texas Court of Appeals, 1st District (Houston)",
-      "date_filed": "2026-07-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In Re Othella S.",
       "link": "https://www.courtlistener.com/opinion/10934561/in-re-othella-s/",
       "court": "Court of Appeals of Tennessee",
@@ -128,14 +136,6 @@
       "title": "In re R.D.",
       "link": "https://www.courtlistener.com/opinion/10934522/in-re-rd/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Int. of: J.T.M.",
-      "link": "https://www.courtlistener.com/opinion/10934098/in-the-int-of-jtm/",
-      "court": "Superior Court of Pennsylvania",
       "date_filed": "2026-07-22",
       "snippet": "",
       "query": "child custody substance abuse"

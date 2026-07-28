@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:17:12.352889+00:00",
+  "generated_at": "2026-07-28T13:48:58.317443+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -11,14 +11,6 @@
       "published": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Parental Drug Use Remains a Top Reason for Foster Care Entries  Child Trends",
       "query": "\"parental substance use\" child welfare"
-    },
-    {
-      "title": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic - The Imprint",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWi0yVnhaRWRsTE8zdUczSGxFZ3NiZDlxOXktdUZyME1PWVNkd3hJQXpSU3NlZ04yeTZ5eGNXaHRaT0VzcWRIQy1Wd2liOUk5em9CUkFTVlBIamJ2dTI5Y0liX0lKclM3eEVNS2FDbjhIQ3daaHBZTFZ5cF9SS1ljR2pBR3U2TWk5Zl9BUnJhQmtiM1l2cTZ2VUdfNWFHSkNxMkh6SDBhY1o?oc=5",
-      "source": "The Imprint",
-      "published": "Wed, 26 Apr 2017 07:00:00 GMT",
-      "summary": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic  The Imprint",
-      "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
       "title": "North Dakota HHS celebrates a decade of helping thousands access substance use disorder treatment through SUD Voucher Program - Health and Human Services North Dakota (.gov)",
@@ -77,6 +69,14 @@
       "query": "\"family law reform\""
     },
     {
+      "title": "Timeline: Before Worcester girl's death, DCF had ample warnings of neglect - Worcester Telegram",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1pOVUhBNFlXeUQxeWpVYnp2X2tZUFQ2VXczWVNMWXFfbFNpOEVTUGI2UmJKZHR2YTlreUI0d0hyZ0JSQkd4VkJDZExFVlNnRXhDMHpGZGNoVFc4VEVaSXZ4MjdaMDh4SFA4TjlmWVJpSHdLdkpFaXRWQlRlTTJzdjZuMUpEc0ZZZUVISXJ3WV9PQmhBYzg2d2l3?oc=5",
+      "source": "Worcester Telegram",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "Timeline: Before Worcester girl's death, DCF had ample warnings of neglect  Worcester Telegram",
+      "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
       "title": "Opinion: Colorado’s family courts are failing children under the myth of resilience - The Colorado Sun",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkxPanVCeGlPWWFkcHJmdmw0b3k1NUtXOWNoa21jVm9rRDB6RXhfTTZ6cXBxcFBNdVM1ck02OEdhX0VydkVheXNWYUtNR19GWjV0bUJVU0htazZmWWJDc2x3RFZ4SG52NnJ0eDd1VUhWOTcwaWNvdXk5R0oxVDVnNzJwMnk4XzR2aVpBSw?oc=5",
       "source": "The Colorado Sun",
@@ -125,44 +125,20 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
+      "title": "Monaco plans civil union for same-sex couples under proposed family law reform - Riviera Radio",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm1OMUlHX214dG15a1VYXzZwdDZvTmVZMVJ0eGE3XzdzSlVaQ3lNcUJ6SDAzbGNrRGRkUUVzV1Uwc3VUakMtaVVzOGpJZVJKb21BWjYtek8xbVdKcDU0NkFlTER3WURzVm1OdFExcjE5dS1LUGF5UXBMeUZZTXVJQ1pJakNLMjZWd2FTYVFKWEdzcmtxLXNFTW1RWEJDazg5SXY4N01SdnZEVDBKdzh5QTFYc2FONXpsOFByd2U2M0VpVkU?oc=5",
+      "source": "Riviera Radio",
+      "published": "Tue, 28 Jul 2026 06:37:36 GMT",
+      "summary": "Monaco plans civil union for same-sex couples under proposed family law reform  Riviera Radio",
+      "query": "\"family law reform\""
+    },
+    {
       "title": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights - Altoona Mirror",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0E3eHQxQlNJd2QtZkN6YTlRZHA2cFJRUXNkX21LS0tMOHQzckxUbjdPSERWMjdOdjRYcXhJclFSazlNVjBpWERwSlMtbUxORjB0ZWRYNnZ3X09ZcF9xS0dJN2FhbHAzZzhmUFYzR2p6WktEY2pqTTRXRXJORnQ5eHBrZzFBZlVHQ3pxU2NLYU9KMDVUTTNNc2NoRFhabWNuTEFOZjhZdUZ1eGdLV0Jqc0tnTHhmQXlXSmVNb3VXeHNiV3NYOUNBTzZpSHF0YVZ6R1h5X3FhaU8?oc=5",
       "source": "Altoona Mirror",
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
       "summary": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights  Altoona Mirror",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
-    },
-    {
-      "title": "No, Stimulants Don’t Cause Substance Use Problems - ADDitude",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaT0JORGdTbGIwaHBqcXhuLTRmeWNOcjhESk9mZ3R1Rmo0ZDlQZTBjSTRHRS16UTE2STk1YXg1Y3ljQUpkRHBITF9jUkpGQU5mdGhRSnJWVklXNzd1YXFfR1l5TDFaZUF0QXBuZW1yRXZhSS1QcE03Zkk0dw?oc=5",
-      "source": "ADDitude",
-      "published": "Tue, 21 Jul 2026 21:15:53 GMT",
-      "summary": "No, Stimulants Don’t Cause Substance Use Problems  ADDitude",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "How two rural Maine jails are rethinking addiction treatment - The Maine Monitor",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16STViUmdKYXA4LUZhMmRIZElkSE1HeHF0cGNtTmIyMFFKRy1nOFdUeEdXWnF4aGRULU9TWWFHMnF3YUxpaWxBZUU1NFkxQXhENVBSbU5nRXQxS0p2UEptcDRidDhab1hVVlR3Z0pBLWtpeU1maEdvZVIyZw?oc=5",
-      "source": "The Maine Monitor",
-      "published": "Tue, 21 Jul 2026 21:01:42 GMT",
-      "summary": "How two rural Maine jails are rethinking addiction treatment  The Maine Monitor",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
-      "title": "Substance Use Disorder Treatment Market to Reach $14.6 - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMGxZZGRJczZ4SHF0cWtpaEswNDIxMW9mb3I1UDNFRjlmRF9iT2RyTFRMbzQ2RVFFRXFjT1BqVTdZeEEtcllfX2RqMngwbXlETjN1MVNSRm9TY3NobjhhWllkcWEyYS1Fd0wzYndFcUNoMnozWHdCU29mVWxTT2JRd1V4MHNWcThiWVd4VDJOQ0szd3BCV1FDQnBYSXUzOHBUQ1kxRUgyNld2SXZ0VV9rVHpWRnJ6ZGd1VWM5SkExNFoxdi1ROC1odmhkUnlYVk8yaDJZYVlMcGtiSkRuQm9oN0lCZ212bmNaXzc2cVpyZGkzZ2hqTmRiV1p4LUhlMnRqVF9LZ29FTzhlOTRnd2RINVpidTdxNEctWUZVejRxUzl3UlU?oc=5",
-      "source": "GlobeNewswire",
-      "published": "Tue, 21 Jul 2026 17:30:44 GMT",
-      "summary": "Substance Use Disorder Treatment Market to Reach $14.6  GlobeNewswire",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Family Law Reform in Bangladesh in the light of Religious Tradition with Constitutional Guarantee - The New Nation",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpSjU3NlVtWEplWkVhYm5wd1BIMHoyOE1rZDBRTDZVSVY2N0JKTjJnOUJNb3lfanI4Q1Z3dzJheVpYbUhISUNHckx2eXM2d3M?oc=5",
-      "source": "The New Nation",
-      "published": "Tue, 21 Jul 2026 12:25:52 GMT",
-      "summary": "Family Law Reform in Bangladesh in the light of Religious Tradition with Constitutional Guarantee  The New Nation",
-      "query": "\"family law reform\""
     },
     {
       "title": "Op-Ed: Lessons for NJ in managing $1.1 billion opioid settlement - NJ Spotlight News",
@@ -189,27 +165,11 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "Godfrey Man Faces Domestic Battery, Reporting Interference Charges In Jersey County - RiverBender.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1RzNkRzeE5reGlEM1JPRFFHUk1nZUt1WnhsczdPM0l3VkN2bzJNYkhtVTV1ZHVfb0xoM09nR0lRSmh5THhkYUxscUxDM3BRNTh0ODUxQUpuY2JpX3JhUHdXUFZabGtEMUJNZWVOU3h5S3dPM2tQVnZNOTFrRzE1Ynhzb1BRMG0yLTkwMmV6aC1qSTgwVlJRVW85LWM0S0JsX3duak9VRUM2RXhOTjhOV3VuZ1ZrZTBNWjJIRVh1U1pfT3pFWTk3MDRES1FjUQ?oc=5",
-      "source": "RiverBender.com",
-      "published": "Tue, 14 Jul 2026 19:07:00 GMT",
-      "summary": "Godfrey Man Faces Domestic Battery, Reporting Interference Charges In Jersey County  RiverBender.com",
-      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
-    },
-    {
-      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeFFrSkxzSHd2dzF0QXQ4MnEwdUhZSVdNRUNyb0JTeHA2cFRpSGhwNV9RaE5hSHR2bEhDelNOaEVpSHpVUEZiXzNIWHg3QQ?oc=5",
-      "source": "Congressional Budget Office (.gov)",
+      "title": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court - WOWK 13 News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1ZJSlZLTE9nR0psV1VzSEljVkpXazJwc2d4cWNJSVRZdHVwdnJ3MW03NFJIa193SzJCSHJ5MWpLRU9laWo4QlVLXzdJTGFJRm1uYWRVRTJya1Qwc2hCWFdHTFpwbmtfbGh1dl90aVl2Q3NZVFBwbV9jb29adW5jNXZDU2dkMVdTZmV4MnViQmVEdFRKUlhnaDBwaGRrZ9IBowFBVV95cUxPNWJ2OE5UR1VFcFlvdkhDRXpQaHVjUHZZZlliNDRUOXZQVWNwVHVLRmRycWF1WG45TDV6bVcycjkyZERmNUk5VWVIckR2WlFXWmpQY2Jma0tQMWhGaG9tYTlNSDh1Wk9feEJxSk1iNnFBajRhRkVwal9WM1BXVTVsNVJUcHRQbTZOb3ZzcVVpMTZmOXppYzg1c0JuekM5NE9VSzU4?oc=5",
+      "source": "WOWK 13 News",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  Congressional Budget Office (.gov)",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "Family Treatment Court Seeks Funds To Expand - West Virginia Public Broadcasting",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjF0MGRMSmhNcWJGY1lxNTdlTWdPR1VTUm1qdTh6dV9adGltXzFVX3YxeHZyOXE1QS1sWU5UdVdRM09JbmNTTlNRRTMtOV9LNG51UnVHUy1SZ3FhLWRBRUtiZmt6Z0pvcDR3NVlka29ZNnNZYUxIengxOTZYVFZjd0Q2b0NMdmZLOTJ3?oc=5",
-      "source": "West Virginia Public Broadcasting",
-      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "Family Treatment Court Seeks Funds To Expand  West Virginia Public Broadcasting",
+      "summary": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court  WOWK 13 News",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
@@ -221,11 +181,11 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court - WOWK 13 News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1ZJSlZLTE9nR0psV1VzSEljVkpXazJwc2d4cWNJSVRZdHVwdnJ3MW03NFJIa193SzJCSHJ5MWpLRU9laWo4QlVLXzdJTGFJRm1uYWRVRTJya1Qwc2hCWFdHTFpwbmtfbGh1dl90aVl2Q3NZVFBwbV9jb29adW5jNXZDU2dkMVdTZmV4MnViQmVEdFRKUlhnaDBwaGRrZ9IBowFBVV95cUxPNWJ2OE5UR1VFcFlvdkhDRXpQaHVjUHZZZlliNDRUOXZQVWNwVHVLRmRycWF1WG45TDV6bVcycjkyZERmNUk5VWVIckR2WlFXWmpQY2Jma0tQMWhGaG9tYTlNSDh1Wk9feEJxSk1iNnFBajRhRkVwal9WM1BXVTVsNVJUcHRQbTZOb3ZzcVVpMTZmOXppYzg1c0JuekM5NE9VSzU4?oc=5",
-      "source": "WOWK 13 News",
-      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court  WOWK 13 News",
+      "title": "Three complete Wood County Family Treatment Court program - News and Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFNaOG9IV0VuTzd3WkJIOHZmYWlQdjVPMTM5dVhUR2VOM0hpbFo4dDlXdFZnVjYzaFNxbFB6bW1RT0pGZTN4SXFZTjRMRjBzM3drX3FJSVFRNmhBS3VtNHp0Ujd5VXc4cENVRjh0WHZlQk8zSXhyNTBmUTU4WXFsZnFDYTVleXN1YThXd0hsZW1rNThzVmJjSW5Hc21qRnd3eHhfaXZMYTN0TUpfLTFVWFNSWWsxT3NRYmc?oc=5",
+      "source": "News and Sentinel",
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "Three complete Wood County Family Treatment Court program  News and Sentinel",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
@@ -323,6 +283,46 @@
       "published": "Thu, 09 Jul 2026 04:32:57 GMT",
       "summary": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms  Australian Institute of International Affairs",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "A decade into the opioid crisis, Colorado hospitals have changed the way they treat opioid-exposed babies. And it’s helping. - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVjlRVF8wQlFmYkpnd29HSk83WFJQYVFZdEx2N1Z1el9uWG9Ba01ER3o3Mng4b0xBTVc2b0tyZWdJeG5iRmhZNzhiVFpXbE9icUFOaWRiR0RvN0F0bnZUTDdTU3NucHVfbDVrbzVWYw?oc=5",
+      "source": "The Colorado Sun",
+      "published": "Thu, 05 Mar 2020 08:00:00 GMT",
+      "summary": "A decade into the opioid crisis, Colorado hospitals have changed the way they treat opioid-exposed babies. And it’s helping.  The Colorado Sun",
+      "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
+      "title": "Illinois Supreme Court justices want to see McLean County's Family Treatment Court replicated - WGLT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZll1Z2dSa0kwRnplb0V1T3ZBR3M1S0g2Q0FjQ0tPWUtwQVE4MzdnWkRGMW9nV0ZzV0tUWlo0UERlVEtZQ3kydGM1SWxLVFRqdDlJQmdUSktkdW9KQzFmMmhQekY0bUhobDRaZ0RpZE05U1F6ZFh6Q1YyeVUzbTZTa0tTaXdRM1IxOFAtNzUxQURMRXlISUY5TFdBOER1ZVo2cnRxQnJYNy1QMExXa3NFa2hiSW1oWUxCSzFQb01qcEtKTVhXdDJKTm9rdmctQ21N?oc=5",
+      "source": "WGLT",
+      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "summary": "Illinois Supreme Court justices want to see McLean County's Family Treatment Court replicated  WGLT",
+      "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "Colorado changed its definition of child abuse and introduced 'Plans of Safe Care.' The impact isn’t clear - Colorado Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc181d0pBa1FpZE93S1VuZWRmcUl4UVd6MHhuQlpScW5wckxhbTlaRjl2SUIyaWU4LXZWZWs4QWdGSFUyWVRSdUYtVk1KSzFnMGNBbk5tWEI3SkdWY2RLNTRUVEoxRW16YTBROGxUUGVkZ2NLd3pyVXVHY2ZCblpLTTFUZHVvV2ROeUpIcjRRYjBSbUp3eHhDOA?oc=5",
+      "source": "Colorado Public Radio",
+      "published": "Thu, 02 May 2024 07:00:00 GMT",
+      "summary": "Colorado changed its definition of child abuse and introduced 'Plans of Safe Care.' The impact isn’t clear  Colorado Public Radio",
+      "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
+      "title": "Kentucky opioid settlement funds largely unspent, report finds - WKYT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzJZVWtieWxnR3J5WmJ4RGFrVVRvUDktSnVRQWF3eU51VVBWNEhTeU43U2JkaDR6dkhGc2toQ1otaG9rWFY4MG5OY2YtNHp1WWZxVm5idlFUNWVVeDlUM3l0Q3RmVnAySEVEY2ZBQkE4MlpTbkJCOGFiUVVySkRaMV9jUGg1NERIa1p2a0ItZHZpbDRORmp0enlB0gGuAUFVX3lxTFBDdWhSTnNtRVVQUHJmd1lUbnZYeVJZUmozOFktVDc1cWZqVHd2WDRZMzNKazhkWkU1aEJDOVVwQW1aS0FGbndEZFdyWnczRjE4TGhEUms4Q3d3V05faVgxQUV2NXpweXhVZVNkQlQ2YkJta2hEVHdxUlBLY3Y0NmJqZDdiM2RtYlQzTHZzZzRNY05qR1FNamtGU2NWRzFqV0NYbEUzajVfUlREcTY5dw?oc=5",
+      "source": "WKYT",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "summary": "Kentucky opioid settlement funds largely unspent, report finds  WKYT",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "Foster children, parents benefit from this Nueces County drug court - Corpus Christi Caller-Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcW16RjZwLXZLSnk3NHEweHQyTElsTFZpNE5mdWU5elpJd1pwVVlYZ2IyYkZmTWhZU0RzdnBkLTh0Szl2SGtGM2NJVE9QR080ZGh3MlhDMDFrSHZGTHp0LUdxV0owbEhvNkNkZWtTaHZybEFEWGRUNXJkVVg5STQxZVA4cEZENVp5VTljTW9uRElwc0hZTHBXdG4yWF93OHd1QTlCbFdrdjc1UlN5a3FJbDl0elB3ZmxpU0E3N0lhMjU5TVhPWkJVTkJiT29pSEtuQW1WRQ?oc=5",
+      "source": "Corpus Christi Caller-Times",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "summary": "Foster children, parents benefit from this Nueces County drug court  Corpus Christi Caller-Times",
+      "query": "\"family drug court\" OR \"family treatment court\""
     }
   ]
 }
