@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-07-28T13:49:20.083989+00:00",
+  "generated_at": "2026-07-29T13:54:22.639568+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re P.M.",
+      "link": "https://www.courtlistener.com/opinion/10935917/in-re-pm/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Spicuzza v. State",
+      "link": "https://www.courtlistener.com/opinion/10935825/spicuzza-v-state/",
+      "court": "Court of Appeals of Maryland",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "A-L-S",
+      "link": "https://www.courtlistener.com/opinion/10935670/a-l-s/",
+      "court": "Board of Immigration Appeals",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Elkholy v. Royal Embassy of the Kingdom of Saudi Arabia",
+      "link": "https://www.courtlistener.com/opinion/10935955/elkholy-v-royal-embassy-of-the-kingdom-of-saudi-arabia/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Wooden",
+      "link": "https://www.courtlistener.com/opinion/10935833/state-v-wooden/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Rebecca Sue Orange v. Commonwealth of Virginia",
+      "link": "https://www.courtlistener.com/opinion/10935752/rebecca-sue-orange-v-commonwealth-of-virginia/",
+      "court": "Court of Appeals of Virginia",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Commonwealth v. Pina",
+      "link": "https://www.courtlistener.com/opinion/10935698/commonwealth-v-pina/",
+      "court": "Massachusetts Supreme Judicial Court",
+      "date_filed": "2026-07-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "State v. Fluker",
       "link": "https://www.courtlistener.com/opinion/10935233/state-v-fluker/",
@@ -21,6 +77,14 @@
       "query": "custody modification alcohol abuse"
     },
     {
+      "title": "In re D.W.J.",
+      "link": "https://www.courtlistener.com/opinion/10935828/in-re-dwj/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-27",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
       "title": "In re A.P.",
       "link": "https://www.courtlistener.com/opinion/10935435/in-re-ap/",
       "court": "Ohio Court of Appeals",
@@ -29,32 +93,8 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "People v. Vasquez",
-      "link": "https://www.courtlistener.com/opinion/10935451/people-v-vasquez/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-07-27",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Smythe v. Department of Homeland Security",
-      "link": "https://www.courtlistener.com/opinion/10935446/smythe-v-department-of-homeland-security/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-07-27",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Martinez-Andino v. Mullin",
-      "link": "https://www.courtlistener.com/opinion/10935138/martinez-andino-v-mullin/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-07-25",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Darren M. v. Destiny D",
-      "link": "https://www.courtlistener.com/opinion/10935156/darren-m-v-destiny-d/",
+      "link": "https://www.courtlistener.com/opinion/10936003/darren-m-v-destiny-d/",
       "court": "Alaska Supreme Court",
       "date_filed": "2026-07-24",
       "snippet": "",
@@ -77,30 +117,6 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "Jerry John Leshikar v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10935617/jerry-john-leshikar-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 3rd District (Austin)",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Neyshaliz M. V.",
-      "link": "https://www.courtlistener.com/opinion/10934924/people-v-neyshaliz-m-v/",
-      "court": "Appellate Division of the Supreme Court of the State of New York",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Wolfert",
-      "link": "https://www.courtlistener.com/opinion/10934786/state-v-wolfert/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Badar Suri v. Donald Trump",
       "link": "https://www.courtlistener.com/opinion/10934874/badar-suri-v-donald-trump/",
       "court": "Court of Appeals for the Fourth Circuit",
@@ -114,15 +130,7 @@
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-07-23",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Baldwin",
-      "link": "https://www.courtlistener.com/opinion/10934492/state-v-baldwin/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-23",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In Re Othella S.",
@@ -130,15 +138,7 @@
       "court": "Court of Appeals of Tennessee",
       "date_filed": "2026-07-22",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re R.D.",
-      "link": "https://www.courtlistener.com/opinion/10934522/in-re-rd/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In the Interest of F.M., Minor Child",
@@ -213,14 +213,6 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "In re Maybell E.",
-      "link": "https://www.courtlistener.com/opinion/10927385/in-re-maybell-e/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-07-13",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
@@ -241,6 +233,14 @@
       "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
       "court": "Supreme Court of Pennsylvania",
       "date_filed": "2026-03-26",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
+      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
+      "court": "Court of Appeals of North Carolina",
+      "date_filed": "2026-03-04",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

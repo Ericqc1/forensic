@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:49:07.704716+00:00",
+  "generated_at": "2026-07-29T13:54:17.940212+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -165,14 +165,6 @@
       "query": "substance use disorder relapse family dynamics"
     },
     {
-      "title": "Attitudes Towards Drinking in the Presence of Small Children: Do the Associations With Parenthood and Own Risky Drinking Change When Per Capita Alcohol Consumption Declines?",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42429085/",
-      "journal": "Drug and alcohol review",
-      "authors": "Raitasalo K, Mäkelä P",
-      "published": "2026 Jul",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Exploring Health Care Provider Knowledge and Perceptions of Family Support for Patients With Substance Use Disorders.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41528241/",
       "journal": "The primary care companion for CNS disorders",
@@ -235,6 +227,14 @@
       "authors": "Yan VKC, Xu W, Taniguchi Y et al.",
       "published": "2026 Apr",
       "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Fatherhood and addictive disorders: experiences and support needs - results of a qualitative interview study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42519203/",
+      "journal": "Frontiers in psychiatry",
+      "authors": "Beineke C, Altenhöner T, Pioch F et al.",
+      "published": "2026",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Sustained abstinence after a methamphetamine-specific treatment program for pregnant and parenting women.",
