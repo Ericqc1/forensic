@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T13:54:17.940212+00:00",
+  "generated_at": "2026-07-30T13:44:21.131742+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -19,14 +19,6 @@
       "authors": "Wang Z, Zhou X, Chen Y",
       "published": "2026 Nov",
       "query": "family law psychology addiction"
-    },
-    {
-      "title": "Connect to protect: evaluating fentanyl overdose prevention education among parents and caregivers.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42435589/",
-      "journal": "Addictive behaviors",
-      "authors": "Lange-McPherson C, Epstein J, Halpern-Felsher B",
-      "published": "2026 Nov",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Perinatal Insights Into Parenting, Pathways, and Addiction (PIPPA): Protocol for a Longitudinal, Strengths-Based Study in Flanders, Belgium.",
@@ -61,20 +53,20 @@
       "query": "family law psychology addiction"
     },
     {
+      "title": "Perceived Unfair Police Treatment and Recent Substance Use Among Male Youth Residing in Pittsburgh: Cross-Sectional Findings from a Randomized Control Trial.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42512158/",
+      "journal": "International journal of environmental research and public health",
+      "authors": "Stokes LR, Culyba AJ, Hill AL et al.",
+      "published": "2026 Jun 30",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42365295/",
       "journal": "Substance abuse treatment, prevention, and policy",
       "authors": "Sameri MJ, Alizadeh M, Moradi-Joo E et al.",
       "published": "2026 Jun 27",
       "query": "substance use disorder relapse family dynamics"
-    },
-    {
-      "title": "\"Actionable\" risk for preterm birth: patterns and prediction in California singleton births 2016-2020.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42332637/",
-      "journal": "BMC pregnancy and childbirth",
-      "authors": "Jelliffe-Pawlowski LL, Baer RJ, Oltman S et al.",
-      "published": "2026 Jun 23",
-      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "The optimal blood pressure target in old and very old patients with hypertension.",
@@ -202,6 +194,14 @@
       "journal": "European journal of psychotraumatology",
       "authors": "Hahn AM, Back SE, Hesse DR et al.",
       "published": "2026 Dec",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Outpatient Young Adults with Concurrent Disorders: A Naturalistic Study of Clinical Characteristics and DBT Skills Training Outcomes.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42527049/",
+      "journal": "Early intervention in psychiatry",
+      "authors": "Cowie KD, Weller A, Griffin M et al.",
+      "published": "2026 Aug",
       "query": "co-occurring disorders family therapy"
     },
     {

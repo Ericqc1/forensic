@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-07-29T13:54:09.224787+00:00",
+  "generated_at": "2026-07-30T13:44:13.656448+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
   "items": [
     {
-      "title": "Center for Addiction Science Ends Tenagrity Lobbying Contract - Legis1",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DNXRocmFWbEFiLWdraHNfZUNOWTN1M211V3p4bm1WMVJYenUwaW81cTgzZk9Na2oyVlViQzBwWmlUSHVIbXktWEhlQTk2UXM4bU40Zml6QkhfMF9pRnZxMlJTQkdWSTVwTEloOU5aQld5UUZsLWxZcEln?oc=5",
-      "source": "Legis1",
-      "published": "Wed, 29 Jul 2026 13:20:05 GMT",
-      "summary": "Center for Addiction Science Ends Tenagrity Lobbying Contract  Legis1",
+      "title": "Virtual care helps patients improve their gambling disorder symptoms, Birches Health finds - Fierce Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWlXc3MybUl6em00WnhSbTBvZjBBWUJ5eVo5bHM4dkV4akd5eWdHMVl1cmVxckhVbEVHTlhCazE0LXR2SE5Xd0t6bTJRWmtXT1A2TFZhT0RESGZyRVM1SE03a2hIYjZVd3hRUV9GNHhGX1V3VzB6ZjhSc2szRTVYbGs1bGZKaVdsSUp5REZTOEhMX3VHbzgtUXh0dWUzLXN1b2pYTnlxWEV6RzAybElfSkl5VEhEaHU3?oc=5",
+      "source": "Fierce Healthcare",
+      "published": "Wed, 29 Jul 2026 23:00:05 GMT",
+      "summary": "Virtual care helps patients improve their gambling disorder symptoms, Birches Health finds  Fierce Healthcare",
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "GLP-1s Are Cutting My AUD Patients’ Hospitalizations. Trial Designers Need to Know Why. - The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN1YwajBsZ2pCX3JqSUZOVEY0OEFHZERHRjd5RU0wQkZESlBUWVk0NVllcldndGNuWHhPSmlWYmlLaDRVZzhsNjluRTFHMEx5MmFhODVwRk1ESklKM1VNVFZFdHBDMk5BSjhvMUEwbXh1Z1k0QUJDTGVJUXZjbDJCUlJ5Z29kNzR3cF9pTzJuWjEtdER3RGVZeVNEQ0RUeml4clhVOVdtQnRlbENUVHlzb1NfMVltUEp2MDZhNnFlVG9IY1JqTnFZakdtYWFuMFk5VklaS2FscU1FaVU?oc=5",
-      "source": "The Clinical Trial Vanguard",
-      "published": "Wed, 29 Jul 2026 10:46:08 GMT",
-      "summary": "GLP-1s Are Cutting My AUD Patients’ Hospitalizations. Trial Designers Need to Know Why.  The Clinical Trial Vanguard",
+      "title": "State launches recovery housing assistance fund to support people in substance use treatment - SooLeader.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVhrbFIyZ2ZHSFBEWVpkLWI1b1VndW1DODFvclpVaHFuLVRjaGF4WlpSQzhCUkE3X09GcWFROFB0aEl2b1kzRGtzMDRhc3lwTkxybV9lcUZnZTZ2OWQyTS1zd1gwZEVtbEZoSWl4elhtZ1RBTDhQdm5YT2dVS3pOYl9LMTU1ZFZsY3ZoWW5YUndjN3pQeU53VXB2TGFrWDMxMjM4XzJQajI5N0xVTHBNTURjYnBodHJGQmZIN1hTQUxzcmc2MDBaVmJ4UXdyR1A2RTR5Tg?oc=5",
+      "source": "SooLeader.com",
+      "published": "Wed, 29 Jul 2026 22:28:45 GMT",
+      "summary": "State launches recovery housing assistance fund to support people in substance use treatment  SooLeader.com",
       "query": "\"substance use disorder\" treatment OR policy"
+    },
+    {
+      "title": "Recovery center expands addiction treatment services - The Herald Star",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3BfeURzLTJQWWpTaVFyaGRsVmlHOGZ4d2piX3BaaEMtRzhJMU44MEtPTkhWeUNwbDl4NFhhenZMb2hjVzVKTlU0S1A1aTNhQW96RHd2Y2ZpM21tdXR2ZXJheFRmMl9fR012SnNENW9pWUtWeVVraVkwaU9DSU5hR3lReEZ1cFcxbEQ1a0I1aTh5OVpxVEtKTTh0aUNHQWVLblJXOUtjVlNVaHlXR0ZZ?oc=5",
+      "source": "The Herald Star",
+      "published": "Wed, 29 Jul 2026 04:53:17 GMT",
+      "summary": "Recovery center expands addiction treatment services  The Herald Star",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Parental Drug Use Remains a Top Reason for Foster Care Entries - Child Trends",
@@ -29,28 +37,20 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
-      "title": "North Dakota HHS celebrates a decade of helping thousands access substance use disorder treatment through SUD Voucher Program - North Dakota State Government (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRW5XbTVGY3JaLXBNQm02YjBQQnY0bXhSbDJrM3puRGVkXzYweV9lcGhCTGx5bjM4alhWeXpOQ3czYXEwTWxLcFJmdFoxcWdfR1FKYV9vakkzTDVQVmUyN2JlMWJuS1FxZzJWRDhha1E2U1JjdXZtNFBJT0xXdllMVF9TSWQtSEFVU2IxSXZFekVOVERsaW43eGlXTnpIZmZQZUVEX2RJSTdROHdnSld4TnE1TXBOSXVJMDI1Wg?oc=5",
-      "source": "North Dakota State Government (.gov)",
-      "published": "Wed, 22 Jul 2026 23:00:00 GMT",
-      "summary": "North Dakota HHS celebrates a decade of helping thousands access substance use disorder treatment through SUD Voucher Program  North Dakota State Government (.gov)",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money - The Lexington Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEJrcVR2QTBTU0pENi0tX3lwbzNCLXJvOE1nNTNZbFk4SnFaZHJ0WWljbDNmaEhVcWdYUm0wTTYybkt6d0hRT25NcFczelJZU1FHeHhxMDN0ekpYNTNvbXNQLWdfOXNnd0JWcXJ2ZmJjWWhSa2xCOVZ3eGx3WnVKTzlZenJrVDZVZFZtTm5LanBZbkMtc1oxYUdEMmdIcHZHbjM5anZ1QVJvbW9IcmkxNU5QX205NWM?oc=5",
-      "source": "The Lexington Times",
-      "published": "Wed, 22 Jul 2026 13:36:44 GMT",
-      "summary": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money  The Lexington Times",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
       "title": "Kansas launching foster care Family Treatment Court court - thebeaconnews.org",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1VoamlXZi1Gb255b2U0bVJ6RXZzbGdfQW9ZR1RYU1QyVmlHeHpkSDhIc0xWTl9PSkZqSE44dS1EdGRzVFdpSm9RWnlIUXdxblpFdkwwZWhuWGk4bFVVLWRleHUxTnR6UVdQMXc3ZEhkTF8zRUNwMWhJMUlHN3hOUTVXN3N4S3pvSFA5QnktVTg?oc=5",
       "source": "thebeaconnews.org",
       "published": "Wed, 21 Feb 2024 08:00:00 GMT",
       "summary": "Kansas launching foster care Family Treatment Court court  thebeaconnews.org",
       "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "What Families Should Know About Video Game Addiction - Institute for Family Studies",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW9Ndm1PYkQ0dE1xQ2tpMU9LcFFsVk9GeVpucjhoalVYOTJMZlBGRzhqV19PczAxbmFzMmRYSG5IeWRxZVhjLXp6eE9ocU05STMzUVlGRmhmbmtPSVpkSklOX0NOY3ZfWWRwbzk3OVMwMklWQWFyakMwZTBSOEk3VlJIZWRGdw?oc=5",
+      "source": "Institute for Family Studies",
+      "published": "Wed, 20 Nov 2019 08:00:00 GMT",
+      "summary": "What Families Should Know About Video Game Addiction  Institute for Family Studies",
+      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -67,14 +67,6 @@
       "published": "Wed, 18 Feb 2026 08:00:00 GMT",
       "summary": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes | Center for Mental Health and Addiction Policy  Johns Hopkins Bloomberg School of Public Health",
       "query": "\"parental substance use\" child welfare"
-    },
-    {
-      "title": "Family law reform for cohabiting couples – could the wait be over? - stewartslaw.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0lpUU1EU0tqemNsckdQSUxFc2ozZGNkVWpiS05FZnFBTTJGMDM2bzlRRTFTSDlkUEItWGdxcnJjOFcxTTItMkt5aXpwN2hVb2RuODluTWxGOXZkV3RHZ2VXQU1MWXhHMkZlYXJ1cWRuam1ZM01VOW5ONGllamdYbW5OZlZmWkcyVHhsblFjSmxIVGtMdWxqWkt0cWJ4UQ?oc=5",
-      "source": "stewartslaw.com",
-      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "Family law reform for cohabiting couples – could the wait be over?  stewartslaw.com",
-      "query": "\"family law reform\""
     },
     {
       "title": "Japan advances imperial family law reform amid succession concerns - Anadolu Ajansı",
@@ -125,28 +117,12 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
-      "source": "Penn LDI",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "Most Kentucky opioid settlement money is not being spent, new report shows - Kentucky Lantern",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFVlSEw2RXVrb1VLcVNBdVhwZVBZeE1YN3pUdDBZWkxXZ1Npd2NEY2wxQ0xuNXhEQ2V1c1lBd2tXbG9wLUtLWEJONldDc2V4U3huYkpTTEFzaTVzalNrVEVQcHExUlNEYmRyUDZWWU1vZGpzZjFwQ21tSnlUdUdPVXRLUWRoc3BVTTRxMDI5ZWdYcXNRLTV2RVJKZXBWakZEOGhRTWhLYjFwcXItemFPdk5Udw?oc=5",
       "source": "Kentucky Lantern",
       "published": "Tue, 30 Jun 2026 07:00:00 GMT",
       "summary": "Most Kentucky opioid settlement money is not being spent, new report shows  Kentucky Lantern",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "Morrisey announces $10M for rural health care, substance use treatment efforts - WV News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcTNsSldVNDNmNWpIeXlBMjBDc1lnNHBvTWZ4Wmc2bmFFM292SENLdXFSeXlELVlWRjlRTXRuYkJScTUtUEEzTlJkS0FxVWtCaGRNY2tIdm9SRWJ1UG5raTJpYjliRXFGODJpRk1yQzRHZWxpRjZlYThPWTd0V1BTcUVSNmxMQkhsWUZwTW5sbktHZUVTOVduOGhFUFdaMEFmLUxhNUFDTGhXWlBySnVGZzJRaUtFYjN2Q1UtOVl6QUdEQzBPcUtrYVA3YTVsTHZDOWVEeWczMGhsZ2FQRGtRNHJBZUF1bVR5eXNlS0lEaVVQWUE?oc=5",
-      "source": "WV News",
-      "published": "Tue, 28 Jul 2026 22:07:00 GMT",
-      "summary": "Morrisey announces $10M for rural health care, substance use treatment efforts  WV News",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "New Statewide Resource for Families Navigating a Loved One’s Substance Use Disorder - Berks Community Television",
@@ -171,6 +147,22 @@
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
       "summary": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights  Altoona Mirror",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+    },
+    {
+      "title": "States should prioritize private service providers for the opioid settlement funds - Reason Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazRQaGNxOTZkQkw5NklDMmt0MnVVR1hTaXNrcUFSc3hCUnptRU9seV9jWHlaNDlhTjdUVU1kRmtUMXl3cDFLZnhwakRyMGx4WmVobUluZDBpY1BHMms2dkEySU43TWpHSkYtMlg5LUx0anR1Mks1VHp1U0FQV0FRNF9uVmxvUVdSYlhybk1xLW5YNDR6TnNrd0JJd0VaYjRoVVNGWU51RldjMHQ3WUZwLXlnQQ?oc=5",
+      "source": "Reason Foundation",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "summary": "States should prioritize private service providers for the opioid settlement funds  Reason Foundation",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "How two rural Maine jails are rethinking addiction treatment - The Maine Monitor",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16STViUmdKYXA4LUZhMmRIZElkSE1HeHF0cGNtTmIyMFFKRy1nOFdUeEdXWnF4aGRULU9TWWFHMnF3YUxpaWxBZUU1NFkxQXhENVBSbU5nRXQxS0p2UEptcDRidDhab1hVVlR3Z0pBLWtpeU1maEdvZVIyZw?oc=5",
+      "source": "The Maine Monitor",
+      "published": "Tue, 21 Jul 2026 21:01:42 GMT",
+      "summary": "How two rural Maine jails are rethinking addiction treatment  The Maine Monitor",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Op-Ed: Lessons for NJ in managing $1.1 billion opioid settlement - NJ Spotlight News",
@@ -253,12 +245,36 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "Family advice: I want my ex-wife to know I've changed. It might do more harm than good. - Slate Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUERXelJITy1WbklITWRRRlB3MERhU1paYWRIVTN2bEQ5WkNNVmdiZXBDQ25xZ1pCMHJ6NG1xUGhuNWlLcXdjakRDUXdHOXJHUFVnbU15clNFSUFYTm9Od2pXb0FBaUdpd25rZ0VyaGw4Y2cwQk9wRi1XQ25LSTdTdHRHblhxUENtUldJ?oc=5",
-      "source": "Slate Magazine",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "Family advice: I want my ex-wife to know I've changed. It might do more harm than good.  Slate Magazine",
-      "query": "\"co-parenting\" addiction recovery"
+      "title": "Bans on Lifesaving Program for People Who Use Illegal Drugs Violate the Americans with Disabilities Act - aclu.org",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQzRBR2tudDN6R2xCZlJFSGg2ZVItek80Y3NyZFJDSE02Q2pFNTcyUDlrZEFPMDJiVnYxWjVsR292RTZKNTMtYW9sZTZMQlhob1lIWGlKN3YyQ3l6Y1J2ek1ncWFJX29LYWVWSDQ2YldNRHo0UEd0bGxNeml5TFl1ME16TElvaEFnOFh0cGNWU3JjVVFGclh2YmR1cTRETEpnME05VTlmUjN6OUxaNDdwemRMcjBQYmJiT0FQMVZKOVNOalhnSS1zVS1IVTNLMzFCVGRCVTlBX0tWUm44dmFJMw?oc=5",
+      "source": "aclu.org",
+      "published": "Thu, 30 Jul 2026 10:30:00 GMT",
+      "summary": "Bans on Lifesaving Program for People Who Use Illegal Drugs Violate the Americans with Disabilities Act  aclu.org",
+      "query": "\"substance use disorder\" treatment OR policy"
+    },
+    {
+      "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclFwa3Ztdld5UGNkM21feE1qMDFkMk1ablNkMnNUbWphMHB6VGRLcTdlQldXNmpEU1VwMGJrbjFNUVJCRF9CbncyVjZ4aUdKOUFMdHhmOEFLYjZrbVNmNThCSEVjV0hJdFl6SE1nMDY0ckdtb0Y4N0w0VlVJLVNka29fU3FHdHNxaXFJYjhocDNQSjBObkZ1RDM3bldzS05Ib29waFNKVDRKWjVDeGRCMXNIU0pWcWtWWDhEUHJTWF9lekV3VV9xMlhsUW1QZWdDV1RlUERKMjdJeURGSmZQRDFGY0FJa1lt?oc=5",
+      "source": "SCC Online",
+      "published": "Thu, 30 Jul 2026 06:30:58 GMT",
+      "summary": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice  SCC Online",
+      "query": "\"family law reform\""
+    },
+    {
+      "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPakN0cFZ3MGNvZS0yVUZoeU9tVXA2Z3lXdzc3RkR1OXkzc2pzb295c0tHOEtOZTFPS1JPQmN6Mk5wRURqWWM0am91cUVhUjdMSUxBS3dDWmRhSFlleVVjSTJFemVqTlNCOGozY3lubDh3N1AybzUwd3JiRTdLNzVtcE5CRklTbVpNX1JFMl9DdFZOb1lfbjd5OHVXN3QtVkx1cEpQeDJ2TjdTRElsV3gxTkk0WHR5YW9DZjNzeFFfbEQ5OTRQaHRfUlFCM1YzRjdiMUdGR0RBQzlEMmlhWXhxQ25lR2VaRmExYW9LSEZJcnRxaHBpZTdSN19n?oc=5",
+      "source": "SCC Online",
+      "published": "Thu, 30 Jul 2026 06:12:56 GMT",
+      "summary": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice  SCC Online",
+      "query": "\"family law reform\""
+    },
+    {
+      "title": "Jail-based substance use treatment center closes, losing 144 jail beds - Cincinnati Enquirer",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjNlTDFPZUpwdndmREZOWUJPaUpFTjgtZDAtSFhOSUQtTGUtd0JCdzVsR2R4YlRrcFdJQVU4bEQ2d2F6YzNUdktBSWRRYWVpQ0sxd2JxZDVIN0VUVFZkcGNXaS1qWXo0eXhXR1BubGVrVTZJckljVEFPYko4akw5M0diVG1oM1BhcTA2M1h2YkRBWUVVX2pyejNRN3JQU3FQeDE5eDNNYXBlUFJaaVU1S3NxWjlXUThSY2VCTHk4b0tpR1FGVGNMSFVtQQ?oc=5",
+      "source": "Cincinnati Enquirer",
+      "published": "Thu, 30 Jul 2026 04:10:00 GMT",
+      "summary": "Jail-based substance use treatment center closes, losing 144 jail beds  Cincinnati Enquirer",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion - Johns Hopkins Bloomberg School of Public Health",
@@ -293,35 +309,19 @@
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
+      "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - wchstv.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVI1NEpMSEZCOUU0RHlrMjFaQWhvWm83NFpmQnZqUlV4OVVhTkJmYkZ0a2JFMjRHcHVORnN1OXR5c1E1TTVQal9wS3V4VkZBbEhCZU9BandDaV9zZnhHVUFnUnBRNzRkZVVUM3R2UnBrYUpNcnlTVUZKV1Bxb2VKZl9Yc09pSTJQWUpaeWFFTQ?oc=5",
+      "source": "wchstv.com",
+      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "summary": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court  wchstv.com",
+      "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
       "title": "Majority of Louisiana babies born to addicted mothers are sent home — by law - Shreveport Times",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORldpMXFYRy1IN212VWVnSEo5RFJQUE05Ty02X0VpYnRhenVqZFdsNkgtUE1odllBY0I3emtwWUJUVlRwbzRmNk9kYzhPOU9pWktDVnFUWW1JZ1cxZ0FHcmNETEs0QnRPUThrOUxzVXVfU2ViRFJxNzlFSDVmNk1DVzFaU052YnN0aEtKZE0yR2JLd1VOdGptaGo3M2JDdnlYSGMxQmtSV1pES0pRUjVVbE91alJVbjhDQmV6NEV2RUJZWU1U?oc=5",
       "source": "Shreveport Times",
       "published": "Thu, 15 Feb 2018 08:00:00 GMT",
       "summary": "Majority of Louisiana babies born to addicted mothers are sent home — by law  Shreveport Times",
-      "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
-      "title": "Co-parenting with an addict means I am basically raising my son alone - Motherly",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDFScmFxNXhuRVpYci1haUFQU3hNalZzWGVlbWlyMUVuMmZmYW1vcE9vMGtPR0R3emdhaW9ycXZVTGpVVVJ3UGFNSTkxRi1oMlkxX3YtekxDLS1IRUNPLWJhVFBrZ3VWSlUwRnkwLWh4OGo4blZLa0hsTFA4aWlCZG1RZEdzTmdicGppeW0ybFlYZHAtOVUxVA?oc=5",
-      "source": "Motherly",
-      "published": "Thu, 14 Oct 2021 07:00:00 GMT",
-      "summary": "Co-parenting with an addict means I am basically raising my son alone  Motherly",
-      "query": "\"co-parenting\" addiction recovery"
-    },
-    {
-      "title": "Behind the scenes of family law reforms: Alain Roy’s journey - Université de Montréal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFlGSVBpVDQ4empMVW10R1dBNUNySkppVWFGa01xNTFqV01HX2xuUFp1Y285V3VxeFl2YlQ3dk80M1VHWm01ZkxvVXU5U2MtT2lkN2RLTGNOeXp3Y1l2bEVQMnBBZGxIaGVxVEhWTERaMEI2R2NPSlFFVENYNktudGVhbTNwZUkwckl5RzJOY19ha244eTQtRWI2WURXb0ZzU1haYXhVSVVuSXhBMUNlSUdn?oc=5",
-      "source": "Université de Montréal",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Behind the scenes of family law reforms: Alain Roy’s journey  Université de Montréal",
-      "query": "\"family law reform\""
-    },
-    {
-      "title": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth - The Marshall Project",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZtSDhKTl9CMnRrS0F6NjZtUEJLQ2JPVWhkdjVnbWk0QmpsUE5SSU5pdnFBWTJQUW5XTC05TWVnT1hhcl9pcW9lMWt2ZmxzZVpGd1V4Ym5mWTlWU2Z2LVlHYVVtZmZXWEdBbkFyeEtwRTdWQS1CTkF6UW9BelFxcUx3UFlGVFUtaGNOS1kyTjlhWHpLZ0RtQnJ3?oc=5",
-      "source": "The Marshall Project",
-      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "summary": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth  The Marshall Project",
       "query": "\"child welfare\" \"substance exposed newborn\""
     }
   ]

@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-07-29T13:54:22.639568+00:00",
+  "generated_at": "2026-07-30T13:44:27.429512+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Dept. of Human Services v. T. R. S.",
+      "link": "https://www.courtlistener.com/opinion/10936194/dept-of-human-services-v-t-r-s/",
+      "court": "Court of Appeals of Oregon",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Klaus",
+      "link": "https://www.courtlistener.com/opinion/10936186/state-v-klaus/",
+      "court": "Court of Appeals of Oregon",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re C.G.",
+      "link": "https://www.courtlistener.com/opinion/10936149/in-re-cg/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re I.W.",
+      "link": "https://www.courtlistener.com/opinion/10936148/in-re-iw/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Ross v. Kracht",
+      "link": "https://www.courtlistener.com/opinion/10936108/ross-v-kracht/",
+      "court": "Utah Supreme Court",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People v Armogeda",
+      "link": "https://www.courtlistener.com/opinion/10936455/people-v-armogeda/",
+      "court": "Michigan Supreme Court",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Hunter",
+      "link": "https://www.courtlistener.com/opinion/10936443/united-states-v-hunter/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Lonergan",
+      "link": "https://www.courtlistener.com/opinion/10936185/state-v-lonergan/",
+      "court": "Court of Appeals of Oregon",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Keith Thaete, Steve King, Lance Thaete v. St. Luke's Magic Valley Center, Michael R. Fry, D.O",
+      "link": "https://www.courtlistener.com/opinion/10936134/keith-thaete-steve-king-lance-thaete-v-st-lukes-magic-valley-center/",
+      "court": "Idaho Supreme Court",
+      "date_filed": "2026-07-29",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "In re P.M.",
       "link": "https://www.courtlistener.com/opinion/10935917/in-re-pm/",
@@ -29,46 +101,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Elkholy v. Royal Embassy of the Kingdom of Saudi Arabia",
-      "link": "https://www.courtlistener.com/opinion/10935955/elkholy-v-royal-embassy-of-the-kingdom-of-saudi-arabia/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-07-28",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Wooden",
-      "link": "https://www.courtlistener.com/opinion/10935833/state-v-wooden/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-28",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Rebecca Sue Orange v. Commonwealth of Virginia",
-      "link": "https://www.courtlistener.com/opinion/10935752/rebecca-sue-orange-v-commonwealth-of-virginia/",
-      "court": "Court of Appeals of Virginia",
-      "date_filed": "2026-07-28",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Commonwealth v. Pina",
-      "link": "https://www.courtlistener.com/opinion/10935698/commonwealth-v-pina/",
-      "court": "Massachusetts Supreme Judicial Court",
-      "date_filed": "2026-07-28",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Fluker",
-      "link": "https://www.courtlistener.com/opinion/10935233/state-v-fluker/",
-      "court": "Connecticut Appellate Court",
-      "date_filed": "2026-07-28",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "State v. Brozynski",
       "link": "https://www.courtlistener.com/opinion/10935234/state-v-brozynski/",
       "court": "Connecticut Appellate Court",
@@ -82,31 +114,7 @@
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-07-27",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re A.P.",
-      "link": "https://www.courtlistener.com/opinion/10935435/in-re-ap/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-27",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Darren M. v. Destiny D",
-      "link": "https://www.courtlistener.com/opinion/10936003/darren-m-v-destiny-d/",
-      "court": "Alaska Supreme Court",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Josue Fuentes v. United States Citizenship and Immigration Services",
-      "link": "https://www.courtlistener.com/opinion/10935134/josue-fuentes-v-united-states-citizenship-and-immigration-services/",
-      "court": "Court of Appeals for the Fourth Circuit",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "Christopher Hemwall v. Adam Douglas",
@@ -117,12 +125,12 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "Badar Suri v. Donald Trump",
-      "link": "https://www.courtlistener.com/opinion/10934874/badar-suri-v-donald-trump/",
-      "court": "Court of Appeals for the Fourth Circuit",
-      "date_filed": "2026-07-23",
+      "title": "Darren M. v. Destiny D",
+      "link": "https://www.courtlistener.com/opinion/10936003/darren-m-v-destiny-d/",
+      "court": "Alaska Supreme Court",
+      "date_filed": "2026-07-24",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In re J.B.",
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
       "court": "Supreme Court of Pennsylvania",
       "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
