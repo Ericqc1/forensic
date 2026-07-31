@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:44:21.131742+00:00",
+  "generated_at": "2026-07-31T13:49:10.445477+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -77,11 +77,11 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "The Effect of Prenatal Substance Use and Maternal Parenting on Infant Reactivity and Regulation.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42464001/",
-      "journal": "Infancy : the official journal of the International Society on Infant Studies",
-      "authors": "Balaceanu M, Engel SM, Ramos AM",
-      "published": "2026 Jul-Aug",
+      "title": "Who leaves satisfied? Exploring individual factors associated with substance use disorder service satisfaction.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42532380/",
+      "journal": "Journal of substance use and addiction treatment",
+      "authors": "Casper M, Cioffi C, Leve LD",
+      "published": "2026 Jul 30",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -123,14 +123,6 @@
       "authors": "Absoud M, Rush C, Mackey L et al.",
       "published": "2026 Jul 17",
       "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Growing Up with Parents Who Smoke: Genetic and Environmental Effects on Offspring Substance Use and Externalizing Psychopathology From a 20-Year Minnesota Study of Adoptive Families.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42455277/",
-      "journal": "Behavior genetics",
-      "authors": "O'Donnell KP, Xie X, Huizenga B et al.",
-      "published": "2026 Jul 15",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Management of Comorbid Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder, and Anxiety in Pediatric PMHNP Practice.",
@@ -203,6 +195,14 @@
       "authors": "Cowie KD, Weller A, Griffin M et al.",
       "published": "2026 Aug",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Indirect But Lasting: Linking Indirect Aggression Use Over Childhood to Future Adjustment While Considering Conduct Problems.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42533698/",
+      "journal": "Aggressive behavior",
+      "authors": "Boutin S, Larrivée É, Déry M",
+      "published": "2026 Aug",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Observational trial of the preventive impact of a social risk factor focused program for co-occurring opioid and methamphetamine use disorders and suicide risk in parents: study protocol.",

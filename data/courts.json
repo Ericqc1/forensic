@@ -1,108 +1,140 @@
 {
-  "generated_at": "2026-07-30T13:44:27.429512+00:00",
+  "generated_at": "2026-07-31T13:49:14.748753+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
     {
-      "title": "Dept. of Human Services v. T. R. S.",
-      "link": "https://www.courtlistener.com/opinion/10936194/dept-of-human-services-v-t-r-s/",
-      "court": "Court of Appeals of Oregon",
-      "date_filed": "2026-07-29",
+      "title": "Brian Lafferty v. Jeff Pertl",
+      "link": "https://www.courtlistener.com/opinion/10937600/brian-lafferty-v-jeff-pertl/",
+      "court": "Court of Appeals of Wisconsin",
+      "date_filed": "2026-07-31",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Tamba",
+      "link": "https://www.courtlistener.com/opinion/10937544/state-v-tamba/",
+      "court": "Superior Court of Delaware",
+      "date_filed": "2026-07-30",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
-      "title": "State v. Klaus",
-      "link": "https://www.courtlistener.com/opinion/10936186/state-v-klaus/",
-      "court": "Court of Appeals of Oregon",
-      "date_filed": "2026-07-29",
+      "title": "Sudler & Trotter v. State",
+      "link": "https://www.courtlistener.com/opinion/10936803/sudler-trotter-v-state/",
+      "court": "Court of Special Appeals of Maryland",
+      "date_filed": "2026-07-30",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re C.G.",
-      "link": "https://www.courtlistener.com/opinion/10936149/in-re-cg/",
+      "title": "State v. Trevizo",
+      "link": "https://www.courtlistener.com/opinion/10936741/state-v-trevizo/",
+      "court": "New Mexico Supreme Court",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Stanley Klos, III v. Kristen L Gentry Klos",
+      "link": "https://www.courtlistener.com/opinion/10936676/stanley-klos-iii-v-kristen-l-gentry-klos/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Rodriguez Vazquez v. Bostock",
+      "link": "https://www.courtlistener.com/opinion/10936657/rodriguez-vazquez-v-bostock/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Martinez v. Wash. State Univ.",
+      "link": "https://www.courtlistener.com/opinion/10936634/martinez-v-wash-state-univ/",
+      "court": "Washington Supreme Court",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Allen v. United States",
+      "link": "https://www.courtlistener.com/opinion/10936547/allen-v-united-states/",
+      "court": "District of Columbia Court of Appeals",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People of Michigan v. Dandre Marquise Bell",
+      "link": "https://www.courtlistener.com/opinion/10937594/people-of-michigan-v-dandre-marquise-bell/",
+      "court": "Michigan Court of Appeals",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Kim v. Blanche",
+      "link": "https://www.courtlistener.com/opinion/10937494/kim-v-blanche/",
+      "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Zeitler",
+      "link": "https://www.courtlistener.com/opinion/10937487/state-v-zeitler/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-29",
+      "date_filed": "2026-07-30",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
-      "title": "In re I.W.",
-      "link": "https://www.courtlistener.com/opinion/10936148/in-re-iw/",
+      "title": "State v. Flemming",
+      "link": "https://www.courtlistener.com/opinion/10936863/state-v-flemming/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-29",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Ross v. Kracht",
-      "link": "https://www.courtlistener.com/opinion/10936108/ross-v-kracht/",
-      "court": "Utah Supreme Court",
-      "date_filed": "2026-07-29",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "People v Armogeda",
-      "link": "https://www.courtlistener.com/opinion/10936455/people-v-armogeda/",
-      "court": "Michigan Supreme Court",
-      "date_filed": "2026-07-29",
+      "date_filed": "2026-07-30",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "United States v. Hunter",
-      "link": "https://www.courtlistener.com/opinion/10936443/united-states-v-hunter/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-07-29",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Lonergan",
-      "link": "https://www.courtlistener.com/opinion/10936185/state-v-lonergan/",
-      "court": "Court of Appeals of Oregon",
-      "date_filed": "2026-07-29",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Keith Thaete, Steve King, Lance Thaete v. St. Luke's Magic Valley Center, Michael R. Fry, D.O",
-      "link": "https://www.courtlistener.com/opinion/10936134/keith-thaete-steve-king-lance-thaete-v-st-lukes-magic-valley-center/",
-      "court": "Idaho Supreme Court",
-      "date_filed": "2026-07-29",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In re P.M.",
-      "link": "https://www.courtlistener.com/opinion/10935917/in-re-pm/",
+      "title": "State v. Pietri",
+      "link": "https://www.courtlistener.com/opinion/10936859/state-v-pietri/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-28",
+      "date_filed": "2026-07-30",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
-      "title": "Spicuzza v. State",
-      "link": "https://www.courtlistener.com/opinion/10935825/spicuzza-v-state/",
-      "court": "Court of Appeals of Maryland",
-      "date_filed": "2026-07-28",
+      "title": "Yohaira Galindez v. Rhode Island Public Transit Authority",
+      "link": "https://www.courtlistener.com/opinion/10936757/yohaira-galindez-v-rhode-island-public-transit-authority/",
+      "court": "Supreme Court of Rhode Island",
+      "date_filed": "2026-07-30",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
-      "title": "A-L-S",
-      "link": "https://www.courtlistener.com/opinion/10935670/a-l-s/",
-      "court": "Board of Immigration Appeals",
-      "date_filed": "2026-07-28",
+      "title": "State of Maine v. Jeffrey A. Witham Jr.",
+      "link": "https://www.courtlistener.com/opinion/10936680/state-of-maine-v-jeffrey-a-witham-jr/",
+      "court": "Supreme Judicial Court of Maine",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Antiwan Dontabiya Lane v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10937556/antiwan-dontabiya-lane-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 9th District (Beaumont)",
+      "date_filed": "2026-07-29",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
       "title": "State v. Brozynski",
-      "link": "https://www.courtlistener.com/opinion/10935234/state-v-brozynski/",
+      "link": "https://www.courtlistener.com/opinion/10936793/state-v-brozynski/",
       "court": "Connecticut Appellate Court",
       "date_filed": "2026-07-28",
       "snippet": "",
@@ -205,42 +237,10 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "In re Avianzah R.",
-      "link": "https://www.courtlistener.com/opinion/10931916/in-re-avianzah-r/",
-      "court": "Connecticut Appellate Court",
-      "date_filed": "2026-07-15",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In re A.B.",
-      "link": "https://www.courtlistener.com/opinion/10927877/in-re-ab/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-14",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

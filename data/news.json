@@ -1,23 +1,15 @@
 {
-  "generated_at": "2026-07-30T13:44:13.656448+00:00",
+  "generated_at": "2026-07-31T13:49:03.320626+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
   "items": [
     {
-      "title": "Virtual care helps patients improve their gambling disorder symptoms, Birches Health finds - Fierce Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWlXc3MybUl6em00WnhSbTBvZjBBWUJ5eVo5bHM4dkV4akd5eWdHMVl1cmVxckhVbEVHTlhCazE0LXR2SE5Xd0t6bTJRWmtXT1A2TFZhT0RESGZyRVM1SE03a2hIYjZVd3hRUV9GNHhGX1V3VzB6ZjhSc2szRTVYbGs1bGZKaVdsSUp5REZTOEhMX3VHbzgtUXh0dWUzLXN1b2pYTnlxWEV6RzAybElfSkl5VEhEaHU3?oc=5",
-      "source": "Fierce Healthcare",
-      "published": "Wed, 29 Jul 2026 23:00:05 GMT",
-      "summary": "Virtual care helps patients improve their gambling disorder symptoms, Birches Health finds  Fierce Healthcare",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "State launches recovery housing assistance fund to support people in substance use treatment - SooLeader.com",
+      "title": "State launches recovery housing assistance fund to support people in substance use treatment - Sault Michigan News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVhrbFIyZ2ZHSFBEWVpkLWI1b1VndW1DODFvclpVaHFuLVRjaGF4WlpSQzhCUkE3X09GcWFROFB0aEl2b1kzRGtzMDRhc3lwTkxybV9lcUZnZTZ2OWQyTS1zd1gwZEVtbEZoSWl4elhtZ1RBTDhQdm5YT2dVS3pOYl9LMTU1ZFZsY3ZoWW5YUndjN3pQeU53VXB2TGFrWDMxMjM4XzJQajI5N0xVTHBNTURjYnBodHJGQmZIN1hTQUxzcmc2MDBaVmJ4UXdyR1A2RTR5Tg?oc=5",
-      "source": "SooLeader.com",
+      "source": "Sault Michigan News",
       "published": "Wed, 29 Jul 2026 22:28:45 GMT",
-      "summary": "State launches recovery housing assistance fund to support people in substance use treatment  SooLeader.com",
+      "summary": "State launches recovery housing assistance fund to support people in substance use treatment  Sault Michigan News",
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
@@ -35,6 +27,14 @@
       "published": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Parental Drug Use Remains a Top Reason for Foster Care Entries  Child Trends",
       "query": "\"parental substance use\" child welfare"
+    },
+    {
+      "title": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic - The Imprint",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWi0yVnhaRWRsTE8zdUczSGxFZ3NiZDlxOXktdUZyME1PWVNkd3hJQXpSU3NlZ04yeTZ5eGNXaHRaT0VzcWRIQy1Wd2liOUk5em9CUkFTVlBIamJ2dTI5Y0liX0lKclM3eEVNS2FDbjhIQ3daaHBZTFZ5cF9SS1ljR2pBR3U2TWk5Zl9BUnJhQmtiM1l2cTZ2VUdfNWFHSkNxMkh6SDBhY1o?oc=5",
+      "source": "The Imprint",
+      "published": "Wed, 26 Apr 2017 07:00:00 GMT",
+      "summary": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic  The Imprint",
+      "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
       "title": "Kansas launching foster care Family Treatment Court court - thebeaconnews.org",
@@ -67,6 +67,14 @@
       "published": "Wed, 18 Feb 2026 08:00:00 GMT",
       "summary": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes | Center for Mental Health and Addiction Policy  Johns Hopkins Bloomberg School of Public Health",
       "query": "\"parental substance use\" child welfare"
+    },
+    {
+      "title": "Family law reform for cohabiting couples – could the wait be over? - stewartslaw.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0lpUU1EU0tqemNsckdQSUxFc2ozZGNkVWpiS05FZnFBTTJGMDM2bzlRRTFTSDlkUEItWGdxcnJjOFcxTTItMkt5aXpwN2hVb2RuODluTWxGOXZkV3RHZ2VXQU1MWXhHMkZlYXJ1cWRuam1ZM01VOW5ONGllamdYbW5OZlZmWkcyVHhsblFjSmxIVGtMdWxqWkt0cWJ4UQ?oc=5",
+      "source": "stewartslaw.com",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "Family law reform for cohabiting couples – could the wait be over?  stewartslaw.com",
+      "query": "\"family law reform\""
     },
     {
       "title": "Japan advances imperial family law reform amid succession concerns - Anadolu Ajansı",
@@ -157,14 +165,6 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "How two rural Maine jails are rethinking addiction treatment - The Maine Monitor",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16STViUmdKYXA4LUZhMmRIZElkSE1HeHF0cGNtTmIyMFFKRy1nOFdUeEdXWnF4aGRULU9TWWFHMnF3YUxpaWxBZUU1NFkxQXhENVBSbU5nRXQxS0p2UEptcDRidDhab1hVVlR3Z0pBLWtpeU1maEdvZVIyZw?oc=5",
-      "source": "The Maine Monitor",
-      "published": "Tue, 21 Jul 2026 21:01:42 GMT",
-      "summary": "How two rural Maine jails are rethinking addiction treatment  The Maine Monitor",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "Op-Ed: Lessons for NJ in managing $1.1 billion opioid settlement - NJ Spotlight News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFY2QXh2a01UUnFpQzlra1FSeU5ickhBbEVtRWQzREdFaDQ1djJXazBCZGkxZXZBWGFCaUROQWhNVEc3Ykw4bkc0QnNGeXd1cl9lWm9aMXV0SXhWVVJUdnRYa2syTC1aS3M3dFJuNDVocm1fYkpYSXY0SlAzLVdVUHBSV1BPTW5xandTRWhrRTdYcXF6R04zV2NDR3RMOEtzY0hyWXVB?oc=5",
       "source": "NJ Spotlight News",
@@ -189,11 +189,11 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court - WOWK 13 News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1ZJSlZLTE9nR0psV1VzSEljVkpXazJwc2d4cWNJSVRZdHVwdnJ3MW03NFJIa193SzJCSHJ5MWpLRU9laWo4QlVLXzdJTGFJRm1uYWRVRTJya1Qwc2hCWFdHTFpwbmtfbGh1dl90aVl2Q3NZVFBwbV9jb29adW5jNXZDU2dkMVdTZmV4MnViQmVEdFRKUlhnaDBwaGRrZ9IBowFBVV95cUxPNWJ2OE5UR1VFcFlvdkhDRXpQaHVjUHZZZlliNDRUOXZQVWNwVHVLRmRycWF1WG45TDV6bVcycjkyZERmNUk5VWVIckR2WlFXWmpQY2Jma0tQMWhGaG9tYTlNSDh1Wk9feEJxSk1iNnFBajRhRkVwal9WM1BXVTVsNVJUcHRQbTZOb3ZzcVVpMTZmOXppYzg1c0JuekM5NE9VSzU4?oc=5",
-      "source": "WOWK 13 News",
+      "title": "Family Treatment Court Seeks Funds To Expand - West Virginia Public Broadcasting",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjF0MGRMSmhNcWJGY1lxNTdlTWdPR1VTUm1qdTh6dV9adGltXzFVX3YxeHZyOXE1QS1sWU5UdVdRM09JbmNTTlNRRTMtOV9LNG51UnVHUy1SZ3FhLWRBRUtiZmt6Z0pvcDR3NVlka29ZNnNZYUxIengxOTZYVFZjd0Q2b0NMdmZLOTJ3?oc=5",
+      "source": "West Virginia Public Broadcasting",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court  WOWK 13 News",
+      "summary": "Family Treatment Court Seeks Funds To Expand  West Virginia Public Broadcasting",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
@@ -232,7 +232,7 @@
       "title": "Family law reform needs fairness, not gender camps | Policy Circle - Policy Circle",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUTZqSGwtRHFyRDlob0swZU1Fb3hCUjZxVzd2UTJIakhxOVd6Q0ZSQV82WDJvRnhyVnltQlFSWHVZQWJBVV85cS13RzVqY2gwY21sMkFBU2ZOWjlJNDF3TWQyeFBDSHZZTkhwSkhUONIBdEFVX3lxTE5Uc3Fkd0M3LUp4OGNpaFNqM3NidEQ2a3UtemVHNVhyMG9kR0ZMb1Iycmtfc1dKRkZmSEVoUXF6UnhoX2EtS19HZUswYXJrcF9Nc2pFVnNfaVZPOVUyRXMtSENfdUcybVA3cjJQdWJOT1VGSGdF?oc=5",
       "source": "Policy Circle",
-      "published": "Tue, 07 Jul 2026 10:30:06 GMT",
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
       "summary": "Family law reform needs fairness, not gender camps | Policy Circle  Policy Circle",
       "query": "\"family law reform\""
     },
@@ -245,26 +245,26 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "Bans on Lifesaving Program for People Who Use Illegal Drugs Violate the Americans with Disabilities Act - aclu.org",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQzRBR2tudDN6R2xCZlJFSGg2ZVItek80Y3NyZFJDSE02Q2pFNTcyUDlrZEFPMDJiVnYxWjVsR292RTZKNTMtYW9sZTZMQlhob1lIWGlKN3YyQ3l6Y1J2ek1ncWFJX29LYWVWSDQ2YldNRHo0UEd0bGxNeml5TFl1ME16TElvaEFnOFh0cGNWU3JjVVFGclh2YmR1cTRETEpnME05VTlmUjN6OUxaNDdwemRMcjBQYmJiT0FQMVZKOVNOalhnSS1zVS1IVTNLMzFCVGRCVTlBX0tWUm44dmFJMw?oc=5",
-      "source": "aclu.org",
-      "published": "Thu, 30 Jul 2026 10:30:00 GMT",
-      "summary": "Bans on Lifesaving Program for People Who Use Illegal Drugs Violate the Americans with Disabilities Act  aclu.org",
+      "title": "Shapiro Administration’s Substance Use Disorder Treatment Locator Tool - Commonwealth of Pennsylvania (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHVIRlRsWkZlVVRMM3ZaaTFIMERVTU53T0JXS2xQSUVFSjhXSWZPdzc4Zk40NFR1OWdMdlRQMF9EWExtNWhTSnN5VW42eTQxeHFBS29kLVBKa0FQcGV4Y0ZTbEFRdnY2cTR3REE2S0VjeDU1VXZxd282cHYxc1plSGhwTWUwYU5ua3Z0dlpBYXZXS2JJcURBRHc0bXBHcDJaZTlxTzVHaVdGUQ?oc=5",
+      "source": "Commonwealth of Pennsylvania (.gov)",
+      "published": "Thu, 30 Jul 2026 15:55:34 GMT",
+      "summary": "Shapiro Administration’s Substance Use Disorder Treatment Locator Tool  Commonwealth of Pennsylvania (.gov)",
       "query": "\"substance use disorder\" treatment OR policy"
+    },
+    {
+      "title": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed. - ProPublica",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU1yQ2t1NEhxNGszY0JJYnBmY3V2R3U5S1VZbzBoOTZhbzZjU2ZIekt0SXRmRzB5VzA4c3gyWERMQ0ROZmhTbS1XU09rakdOZlRnS3I4SXN4SUxmZEoyU3IwWS1uMU1vYjdvekIwSFdfd2FYM3FyZXA5SnlYcnJ2OGFTalhKcUZva2Ffb25FRTJ2aXkzSktKSUREaGtCczN1?oc=5",
+      "source": "ProPublica",
+      "published": "Thu, 30 Jul 2026 09:00:00 GMT",
+      "summary": "Andy Beshear Set Out to Make Drug Treatment Widely Available in Kentucky. Fraud and Abuse Followed.  ProPublica",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclFwa3Ztdld5UGNkM21feE1qMDFkMk1ablNkMnNUbWphMHB6VGRLcTdlQldXNmpEU1VwMGJrbjFNUVJCRF9CbncyVjZ4aUdKOUFMdHhmOEFLYjZrbVNmNThCSEVjV0hJdFl6SE1nMDY0ckdtb0Y4N0w0VlVJLVNka29fU3FHdHNxaXFJYjhocDNQSjBObkZ1RDM3bldzS05Ib29waFNKVDRKWjVDeGRCMXNIU0pWcWtWWDhEUHJTWF9lekV3VV9xMlhsUW1QZWdDV1RlUERKMjdJeURGSmZQRDFGY0FJa1lt?oc=5",
       "source": "SCC Online",
       "published": "Thu, 30 Jul 2026 06:30:58 GMT",
-      "summary": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice  SCC Online",
-      "query": "\"family law reform\""
-    },
-    {
-      "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPakN0cFZ3MGNvZS0yVUZoeU9tVXA2Z3lXdzc3RkR1OXkzc2pzb295c0tHOEtOZTFPS1JPQmN6Mk5wRURqWWM0am91cUVhUjdMSUxBS3dDWmRhSFlleVVjSTJFemVqTlNCOGozY3lubDh3N1AybzUwd3JiRTdLNzVtcE5CRklTbVpNX1JFMl9DdFZOb1lfbjd5OHVXN3QtVkx1cEpQeDJ2TjdTRElsV3gxTkk0WHR5YW9DZjNzeFFfbEQ5OTRQaHRfUlFCM1YzRjdiMUdGR0RBQzlEMmlhWXhxQ25lR2VaRmExYW9LSEZJcnRxaHBpZTdSN19n?oc=5",
-      "source": "SCC Online",
-      "published": "Thu, 30 Jul 2026 06:12:56 GMT",
       "summary": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice  SCC Online",
       "query": "\"family law reform\""
     },
@@ -285,14 +285,6 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "ACLU, lawmakers petition to block CYFD strategy for drug-exposed babies - Searchlight New Mexico",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0szMEZVclBBTUp3Nm5PZzJjNUxHYmQzWU9sMl9kdS1UQ19nZk1BUVdUby1tNG1LSW1lOUpGUDBaNEt4Si1pME0wUVhkakdCYUlBei1JUWFqd1RIWWNyc0N3ZFRVdks1ZllvOFdiVXhMLUZjLTdzOGxSYTM1X2VmZExhMTRhSk9ZLWFfdHlEMXlTR3RHbXFmMk8tRTczUQ?oc=5",
-      "source": "Searchlight New Mexico",
-      "published": "Thu, 21 May 2026 07:00:00 GMT",
-      "summary": "ACLU, lawmakers petition to block CYFD strategy for drug-exposed babies  Searchlight New Mexico",
-      "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
       "title": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment - The Imprint",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFQyZ0tzdUNUMTFwZk5IUTJ6bWdaZXNuc0F2NmJSdTJlekF1UUJjX202cFVEVHNWU2pZRG9GTjJOcjhRM05DdWttVEJZY1EzYTMwQmVkbWV0d05ydDlObHZWSFVZOERaeUNYcHlqeE9XZ1FVYXlPUkQxc3ZhYmR4X3I1WEwwZ0dXcE5ZczloRHlTT0dOc1A2ZWp0MEkyX04wVjBNcTFOS1pFWFBrNTRYSEVzZ1Z6bzJ3NDFmUTVvbDk?oc=5",
       "source": "The Imprint",
@@ -309,6 +301,14 @@
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
+      "title": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism - BuzzFeed News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnNxZG93Z1Vqcmw0MWNjTVF2ZlI1VTgxb1VzVHd3c2RaVklrMGRlVGpaTVBXMkE0cDNPbXhKclVHczZSNS1fZkZwZmxJNHlJR2dtNGxvRC1FUHFSSXBfeVZxLVoxVWdCNUFYSlFlY2RPZ0E3TFdtbjUtaEZOM1U5djQ3cU1RQllhYTh0UklHMmNjcTllUmNHWFRUREtZOENrakE?oc=5",
+      "source": "BuzzFeed News",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism  BuzzFeed News",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
       "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - wchstv.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVI1NEpMSEZCOUU0RHlrMjFaQWhvWm83NFpmQnZqUlV4OVVhTkJmYkZ0a2JFMjRHcHVORnN1OXR5c1E1TTVQal9wS3V4VkZBbEhCZU9BandDaV9zZnhHVUFnUnBRNzRkZVVUM3R2UnBrYUpNcnlTVUZKV1Bxb2VKZl9Yc09pSTJQWUpaeWFFTQ?oc=5",
       "source": "wchstv.com",
@@ -317,12 +317,12 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "Majority of Louisiana babies born to addicted mothers are sent home — by law - Shreveport Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORldpMXFYRy1IN212VWVnSEo5RFJQUE05Ty02X0VpYnRhenVqZFdsNkgtUE1odllBY0I3emtwWUJUVlRwbzRmNk9kYzhPOU9pWktDVnFUWW1JZ1cxZ0FHcmNETEs0QnRPUThrOUxzVXVfU2ViRFJxNzlFSDVmNk1DVzFaU052YnN0aEtKZE0yR2JLd1VOdGptaGo3M2JDdnlYSGMxQmtSV1pES0pRUjVVbE91alJVbjhDQmV6NEV2RUJZWU1U?oc=5",
-      "source": "Shreveport Times",
-      "published": "Thu, 15 Feb 2018 08:00:00 GMT",
-      "summary": "Majority of Louisiana babies born to addicted mothers are sent home — by law  Shreveport Times",
-      "query": "\"child welfare\" \"substance exposed newborn\""
+      "title": "Co-parenting with an addict means I am basically raising my son alone - Motherly",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDFScmFxNXhuRVpYci1haUFQU3hNalZzWGVlbWlyMUVuMmZmYW1vcE9vMGtPR0R3emdhaW9ycXZVTGpVVVJ3UGFNSTkxRi1oMlkxX3YtekxDLS1IRUNPLWJhVFBrZ3VWSlUwRnkwLWh4OGo4blZLa0hsTFA4aWlCZG1RZEdzTmdicGppeW0ybFlYZHAtOVUxVA?oc=5",
+      "source": "Motherly",
+      "published": "Thu, 14 Oct 2021 07:00:00 GMT",
+      "summary": "Co-parenting with an addict means I am basically raising my son alone  Motherly",
+      "query": "\"co-parenting\" addiction recovery"
     }
   ]
 }
