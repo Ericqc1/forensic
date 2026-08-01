@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:49:10.445477+00:00",
+  "generated_at": "2026-08-01T13:04:17.308785+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -101,14 +101,6 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "The Role of Medications for Opioid Use Disorder (MOUD) in Child Welfare Outcomes: Evidence From Ohio's START Implementation.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42473829/",
-      "journal": "Child maltreatment",
-      "authors": "Ye Y, Dellor E, Allbright-Campos M et al.",
-      "published": "2026 Jul 20",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Hardiness and care-related stress in Iranian Alzheimer's caregivers: a cross-sectional study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42391257/",
       "journal": "British journal of community nursing",
@@ -195,6 +187,14 @@
       "authors": "Cowie KD, Weller A, Griffin M et al.",
       "published": "2026 Aug",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Bullying Victimisation and Mental Health: The Mediating Role of Peer and Family Social Support.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42538517/",
+      "journal": "Early intervention in psychiatry",
+      "authors": "Shannon C, Higgins K, Kelly G et al.",
+      "published": "2026 Aug",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Indirect But Lasting: Linking Indirect Aggression Use Over Childhood to Future Adjustment While Considering Conduct Problems.",

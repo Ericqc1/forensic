@@ -1,23 +1,15 @@
 {
-  "generated_at": "2026-07-31T13:49:03.320626+00:00",
+  "generated_at": "2026-08-01T13:04:09.994596+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
   "items": [
     {
-      "title": "State launches recovery housing assistance fund to support people in substance use treatment - Sault Michigan News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVhrbFIyZ2ZHSFBEWVpkLWI1b1VndW1DODFvclpVaHFuLVRjaGF4WlpSQzhCUkE3X09GcWFROFB0aEl2b1kzRGtzMDRhc3lwTkxybV9lcUZnZTZ2OWQyTS1zd1gwZEVtbEZoSWl4elhtZ1RBTDhQdm5YT2dVS3pOYl9LMTU1ZFZsY3ZoWW5YUndjN3pQeU53VXB2TGFrWDMxMjM4XzJQajI5N0xVTHBNTURjYnBodHJGQmZIN1hTQUxzcmc2MDBaVmJ4UXdyR1A2RTR5Tg?oc=5",
-      "source": "Sault Michigan News",
-      "published": "Wed, 29 Jul 2026 22:28:45 GMT",
-      "summary": "State launches recovery housing assistance fund to support people in substance use treatment  Sault Michigan News",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Recovery center expands addiction treatment services - The Herald Star",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3BfeURzLTJQWWpTaVFyaGRsVmlHOGZ4d2piX3BaaEMtRzhJMU44MEtPTkhWeUNwbDl4NFhhenZMb2hjVzVKTlU0S1A1aTNhQW96RHd2Y2ZpM21tdXR2ZXJheFRmMl9fR012SnNENW9pWUtWeVVraVkwaU9DSU5hR3lReEZ1cFcxbEQ1a0I1aTh5OVpxVEtKTTh0aUNHQWVLblJXOUtjVlNVaHlXR0ZZ?oc=5",
-      "source": "The Herald Star",
-      "published": "Wed, 29 Jul 2026 04:53:17 GMT",
-      "summary": "Recovery center expands addiction treatment services  The Herald Star",
+      "title": "Recovery center expands addiction treatment services - Weirton Daily Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1hnYUE3VElGcDhGVm9Edjk2Tzc0dlQ2TEJhd242Q255ODlrTVd4VzRRZWpxYzY1VkE0WjRNXzBFMDdFZGczaC1raWIxeEhLcnFFQ24tZzE2eWp6clVEZWVWeXJkS3hfa3kxNFM1ZHRveHhyNEhXaUFxU180N2tzQVhNRm4tcVV0NG1CWjNtUU82TVhYdjRTckJHQ1dRRHVJNlhJd3N4bThwWW5XQ194aA?oc=5",
+      "source": "Weirton Daily Times",
+      "published": "Wed, 29 Jul 2026 07:58:09 GMT",
+      "summary": "Recovery center expands addiction treatment services  Weirton Daily Times",
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
@@ -37,6 +29,14 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
+      "title": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money - The Lexington Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEJrcVR2QTBTU0pENi0tX3lwbzNCLXJvOE1nNTNZbFk4SnFaZHJ0WWljbDNmaEhVcWdYUm0wTTYybkt6d0hRT25NcFczelJZU1FHeHhxMDN0ekpYNTNvbXNQLWdfOXNnd0JWcXJ2ZmJjWWhSa2xCOVZ3eGx3WnVKTzlZenJrVDZVZFZtTm5LanBZbkMtc1oxYUdEMmdIcHZHbjM5anZ1QVJvbW9IcmkxNU5QX205NWM?oc=5",
+      "source": "The Lexington Times",
+      "published": "Wed, 22 Jul 2026 13:36:44 GMT",
+      "summary": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money  The Lexington Times",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
       "title": "Kansas launching foster care Family Treatment Court court - thebeaconnews.org",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1VoamlXZi1Gb255b2U0bVJ6RXZzbGdfQW9ZR1RYU1QyVmlHeHpkSDhIc0xWTl9PSkZqSE44dS1EdGRzVFdpSm9RWnlIUXdxblpFdkwwZWhuWGk4bFVVLWRleHUxTnR6UVdQMXc3ZEhkTF8zRUNwMWhJMUlHN3hOUTVXN3N4S3pvSFA5QnktVTg?oc=5",
       "source": "thebeaconnews.org",
@@ -53,11 +53,11 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
+      "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - sourcenm.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2IwenlQeTYzTVFsQnRTMHF2Qnhuc1Fadkw4d0VxazkxR2QyUFc0dk5iYk9XcVVDODNzRzliMi1zSlhYMXlxZVRHOHpVZmMwNHpNRURGNDlaZ0htT2xZbkJqQU9sSlVxUzhRTGV4TEUyc1RTelRHZlc5ajJKSWhSbzItQ2JxSW44Y3pCdE1zWG1KNFdCcU5QTEJXNWFDZEJFZHBab0Q3YUVjV2s1OGwtVUNYMVJEM1p3Y2c?oc=5",
-      "source": "Source New Mexico",
+      "source": "sourcenm.com",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy  Source New Mexico",
+      "summary": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy  sourcenm.com",
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
@@ -93,6 +93,14 @@
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
+      "title": "Brooke Mueller gives Charlie Sheen co-parenting update — and reveals where she stands with Denise Richards - pagesix.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0taa1FYWERKV2FBVUV1UUt5Y04xVnllZnNCeTFaWnBINGp5QkttRWNVQWN5Mk90VDVQVUlRS1hPdWU1ZWpYaVNDb3VCRjhISTgxTmlQQVZWRkpaUkRkTlZQc3RGMEszOG5FOVZ3aXVJaEk3MlBCdnY3SV9TNlR3NlNZVjd2dGJDWVpsVnkxUUd2VWI1MDRuUzFmaDJhZENOMTJVYzBn?oc=5",
+      "source": "pagesix.com",
+      "published": "Wed, 04 Sep 2024 07:00:00 GMT",
+      "summary": "Brooke Mueller gives Charlie Sheen co-parenting update — and reveals where she stands with Denise Richards  pagesix.com",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
       "title": "UN Human Rights Council hears call for Arab family law reform - ICLG",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGtQTVNMdktFbjRFcW9tR3lUWkZmQjZLZ08xM25OekFOWGYwQUdmYUhjanhBbGRlM1gxX3pyckhZSjB0Y1Q4YnhrWWZ3am04RzdwdzJKb3U4SlBSUVZGMy13alhhZlZXVVhUSndxT1NiekNfOGZ5RklCRUpWeXhCeGJVMW9hZlFwa0NkbQ?oc=5",
       "source": "ICLG",
@@ -101,11 +109,11 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "Discriminatory family laws undermine women's rights and post-conflict recovery in the Middle East and North Africa [EN/AR] - ReliefWeb",
+      "title": "Discriminatory family laws undermine women's rights and post-conflict recovery in the Middle East and North Africa [EN/AR] - reliefweb.int",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm84dWhLbGpzU3Vicjk5LXBudm00d0pLWDZOVVhyTVVjeFFMVmxJLTd3MEI2c3ZwaGxqSTVKSlVWaVE2X3RxS2JIOWloM3hTWTNrNmNuSjNDQXZ3VGNubkNLNzFzUEMybjMyMFk1bVJuZk9xSGluRC1IdjN2NzlIODhpX0tRUTU4QTNJN0M5aFRVOW1HTW02MEZ2Z3Q4VTNMZ3Y0SEtZYkR1THBXcUVfUndfY3VXUnctVGJtRzk1WFNYUlNROEZLdzNaTlczMHdrOXJFSVJpNUJpZnlDM0Rv?oc=5",
-      "source": "ReliefWeb",
+      "source": "reliefweb.int",
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Discriminatory family laws undermine women's rights and post-conflict recovery in the Middle East and North Africa [EN/AR]  ReliefWeb",
+      "summary": "Discriminatory family laws undermine women's rights and post-conflict recovery in the Middle East and North Africa [EN/AR]  reliefweb.int",
       "query": "\"family law reform\""
     },
     {
@@ -213,11 +221,11 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "House seeks to drop reporting mandate for substance-exposed babies - The Boston Globe",
+      "title": "House seeks to drop reporting mandate for substance-exposed babies - bostonglobe.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEJucGctMWRCcXJDSnVhUVpMRVZYa01hbEJzR3RWZG56LTVmaFJ4N3c1SlVHeW9TNUlzamhQYlZFT1VVazkwaElSc1Q5dllQeXBoVU1YdlpBenJGUDYwR1BGdHdUaVlRVU85OGxuYzFlX1JPWUpobEYwOUhKSy1uT1JKZ0hOY084ZXRTMGlGdW5panNhaV91cGFvZnhtNVBCQ3BPNEFR?oc=5",
-      "source": "The Boston Globe",
+      "source": "bostonglobe.com",
       "published": "Tue, 11 Jun 2024 07:00:00 GMT",
-      "summary": "House seeks to drop reporting mandate for substance-exposed babies  The Boston Globe",
+      "summary": "House seeks to drop reporting mandate for substance-exposed babies  bostonglobe.com",
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
@@ -261,20 +269,20 @@
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
+      "title": "The Recovery Campus will bring a full spectrum of addiction care to Clackamas County - oregonmetro.gov",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWN3Tlo4dVpUTndtd0hzSzhrVVIyR1RrNTJiczAzbUNjYVhtclp4R3VjUnF6dDdxSWhKQXFlVTNoYXJBRHRSM3ZiVEV2TGNHZGZVczZrTDNfVkhZYkYyOS14bkFLQmZ2RkFjX3FUVkJmZkVjY2xEZnVEaVQtTW15M1UxMmQzUkNXRVdtUjVKT1NhVjJHZk11SHItM0Q0T3d4cFBkR3ZhbXZFRXpB?oc=5",
+      "source": "oregonmetro.gov",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "The Recovery Campus will bring a full spectrum of addiction care to Clackamas County  oregonmetro.gov",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
       "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclFwa3Ztdld5UGNkM21feE1qMDFkMk1ablNkMnNUbWphMHB6VGRLcTdlQldXNmpEU1VwMGJrbjFNUVJCRF9CbncyVjZ4aUdKOUFMdHhmOEFLYjZrbVNmNThCSEVjV0hJdFl6SE1nMDY0ckdtb0Y4N0w0VlVJLVNka29fU3FHdHNxaXFJYjhocDNQSjBObkZ1RDM3bldzS05Ib29waFNKVDRKWjVDeGRCMXNIU0pWcWtWWDhEUHJTWF9lekV3VV9xMlhsUW1QZWdDV1RlUERKMjdJeURGSmZQRDFGY0FJa1lt?oc=5",
       "source": "SCC Online",
       "published": "Thu, 30 Jul 2026 06:30:58 GMT",
       "summary": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice  SCC Online",
       "query": "\"family law reform\""
-    },
-    {
-      "title": "Jail-based substance use treatment center closes, losing 144 jail beds - Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjNlTDFPZUpwdndmREZOWUJPaUpFTjgtZDAtSFhOSUQtTGUtd0JCdzVsR2R4YlRrcFdJQVU4bEQ2d2F6YzNUdktBSWRRYWVpQ0sxd2JxZDVIN0VUVFZkcGNXaS1qWXo0eXhXR1BubGVrVTZJckljVEFPYko4akw5M0diVG1oM1BhcTA2M1h2YkRBWUVVX2pyejNRN3JQU3FQeDE5eDNNYXBlUFJaaVU1S3NxWjlXUThSY2VCTHk4b0tpR1FGVGNMSFVtQQ?oc=5",
-      "source": "Cincinnati Enquirer",
-      "published": "Thu, 30 Jul 2026 04:10:00 GMT",
-      "summary": "Jail-based substance use treatment center closes, losing 144 jail beds  Cincinnati Enquirer",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion - Johns Hopkins Bloomberg School of Public Health",
@@ -301,19 +309,11 @@
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
-      "title": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism - BuzzFeed News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnNxZG93Z1Vqcmw0MWNjTVF2ZlI1VTgxb1VzVHd3c2RaVklrMGRlVGpaTVBXMkE0cDNPbXhKclVHczZSNS1fZkZwZmxJNHlJR2dtNGxvRC1FUHFSSXBfeVZxLVoxVWdCNUFYSlFlY2RPZ0E3TFdtbjUtaEZOM1U5djQ3cU1RQllhYTh0UklHMmNjcTllUmNHWFRUREtZOENrakE?oc=5",
-      "source": "BuzzFeed News",
-      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
-      "summary": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism  BuzzFeed News",
-      "query": "\"co-parenting\" addiction recovery"
-    },
-    {
-      "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - wchstv.com",
+      "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - WCHS",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVI1NEpMSEZCOUU0RHlrMjFaQWhvWm83NFpmQnZqUlV4OVVhTkJmYkZ0a2JFMjRHcHVORnN1OXR5c1E1TTVQal9wS3V4VkZBbEhCZU9BandDaV9zZnhHVUFnUnBRNzRkZVVUM3R2UnBrYUpNcnlTVUZKV1Bxb2VKZl9Yc09pSTJQWUpaeWFFTQ?oc=5",
-      "source": "wchstv.com",
+      "source": "WCHS",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court  wchstv.com",
+      "summary": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court  WCHS",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
