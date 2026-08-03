@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-02T13:06:32.474041+00:00",
+  "generated_at": "2026-08-03T14:24:56.867684+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Ashworth v. Branford",
+      "link": "https://www.courtlistener.com/opinion/10938434/ashworth-v-branford/",
+      "court": "Supreme Court of Connecticut",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Kader S. Mustafa",
+      "link": "https://www.courtlistener.com/opinion/10938483/state-v-kader-s-mustafa/",
+      "court": "Supreme Court of New Jersey",
+      "date_filed": "2026-08-03",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "R.M., a Minor v. STATE OF ALASKA",
       "link": "https://www.courtlistener.com/opinion/10938006/rm-a-minor-v-state-of-alaska/",
@@ -77,6 +93,14 @@
       "query": "family drug court"
     },
     {
+      "title": "In the Interest of Q.C. and P.C., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10938285/in-the-interest-of-qc-and-pc-children-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
       "title": "State v. Tamba",
       "link": "https://www.courtlistener.com/opinion/10937544/state-v-tamba/",
       "court": "Superior Court of Delaware",
@@ -98,7 +122,15 @@
       "court": "New Mexico Supreme Court",
       "date_filed": "2026-07-30",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "Ex Parte Shermyn Malani v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10938287/ex-parte-shermyn-malani-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-07-30",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Stanley Klos, III v. Kristen L Gentry Klos",
@@ -106,23 +138,7 @@
       "court": "Indiana Court of Appeals",
       "date_filed": "2026-07-30",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Vapor Technology Association v. McKinley Wooten, Jr.",
-      "link": "https://www.courtlistener.com/opinion/10937911/vapor-technology-association-v-mckinley-wooten-jr/",
-      "court": "Court of Appeals for the Fourth Circuit",
-      "date_filed": "2026-07-30",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People of Michigan v. Dandre Marquise Bell",
-      "link": "https://www.courtlistener.com/opinion/10937594/people-of-michigan-v-dandre-marquise-bell/",
-      "court": "Michigan Court of Appeals",
-      "date_filed": "2026-07-30",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "State v. Brozynski",
@@ -227,22 +243,6 @@
       "date_filed": "2026-07-16",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }
