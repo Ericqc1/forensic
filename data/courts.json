@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-03T14:24:56.867684+00:00",
+  "generated_at": "2026-08-04T13:55:02.071159+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re Interest of Trevor S.",
+      "link": "https://www.courtlistener.com/opinion/10939266/in-re-interest-of-trevor-s/",
+      "court": "Nebraska Court of Appeals",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Ashworth v. Branford",
       "link": "https://www.courtlistener.com/opinion/10938434/ashworth-v-branford/",
@@ -11,6 +19,14 @@
       "date_filed": "2026-08-04",
       "snippet": "",
       "query": "family drug court"
+    },
+    {
+      "title": "In re Miguel J.",
+      "link": "https://www.courtlistener.com/opinion/10938793/in-re-miguel-j/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-08-03",
+      "snippet": "",
+      "query": "child custody substance abuse"
     },
     {
       "title": "State v. Kader S. Mustafa",
@@ -21,9 +37,49 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "R.M., a Minor v. STATE OF ALASKA",
-      "link": "https://www.courtlistener.com/opinion/10938006/rm-a-minor-v-state-of-alaska/",
+      "title": "Benjamin Danielson, V. Seattle Childrens Hospital",
+      "link": "https://www.courtlistener.com/opinion/10938760/benjamin-danielson-v-seattle-childrens-hospital/",
+      "court": "Court of Appeals of Washington",
+      "date_filed": "2026-08-03",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Perdue",
+      "link": "https://www.courtlistener.com/opinion/10938685/state-v-perdue/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-03",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Gilead Tenofovir Cases",
+      "link": "https://www.courtlistener.com/opinion/10938615/gilead-tenofovir-cases/",
+      "court": "California Supreme Court",
+      "date_filed": "2026-08-03",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "R.M. v. State",
+      "link": "https://www.courtlistener.com/opinion/10939155/rm-v-state/",
       "court": "Court of Appeals of Alaska",
+      "date_filed": "2026-07-31",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re A.W.",
+      "link": "https://www.courtlistener.com/opinion/10938802/in-re-aw/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-31",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re N.T.",
+      "link": "https://www.courtlistener.com/opinion/10938801/in-re-nt/",
+      "court": "Ohio Court of Appeals",
       "date_filed": "2026-07-31",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -45,12 +101,20 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Guardian Ad Litem and Department of Children and Families v. J.G. and L.L., Parents of O.S.L. and L.E.L., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10937607/guardian-ad-litem-and-department-of-children-and-families-v-jg-and-ll/",
-      "court": "District Court of Appeal of Florida",
+      "title": "Alan Ray Nichol v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10939221/alan-ray-nichol-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 4th District (San Antonio)",
       "date_filed": "2026-07-31",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Rucker",
+      "link": "https://www.courtlistener.com/opinion/10938627/state-v-rucker/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-07-31",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Attorney General v Eli Lilly and Company",
@@ -61,76 +125,12 @@
       "query": "family drug court"
     },
     {
-      "title": "People v. Fredrickson",
-      "link": "https://www.courtlistener.com/opinion/10937929/people-v-fredrickson/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Li",
-      "link": "https://www.courtlistener.com/opinion/10937894/united-states-v-li/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Gregory Hartmann v. Brian Chudzik",
-      "link": "https://www.courtlistener.com/opinion/10937799/gregory-hartmann-v-brian-chudzik/",
-      "court": "Court of Appeals for the Third Circuit",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Brian Lafferty v. Jeff Pertl",
-      "link": "https://www.courtlistener.com/opinion/10937600/brian-lafferty-v-jeff-pertl/",
-      "court": "Court of Appeals of Wisconsin",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of Q.C. and P.C., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10938285/in-the-interest-of-qc-and-pc-children-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
-      "date_filed": "2026-07-30",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Tamba",
-      "link": "https://www.courtlistener.com/opinion/10937544/state-v-tamba/",
-      "court": "Superior Court of Delaware",
-      "date_filed": "2026-07-30",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Sudler & Trotter v. State",
-      "link": "https://www.courtlistener.com/opinion/10936803/sudler-trotter-v-state/",
-      "court": "Court of Special Appeals of Maryland",
-      "date_filed": "2026-07-30",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "State v. Trevizo",
       "link": "https://www.courtlistener.com/opinion/10936741/state-v-trevizo/",
       "court": "New Mexico Supreme Court",
       "date_filed": "2026-07-30",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "Ex Parte Shermyn Malani v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10938287/ex-parte-shermyn-malani-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
-      "date_filed": "2026-07-30",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "Stanley Klos, III v. Kristen L Gentry Klos",
@@ -229,20 +229,20 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "Breanne R. Brazeale v. Joseph M. Gibson",
-      "link": "https://www.courtlistener.com/opinion/10932363/breanne-r-brazeale-v-joseph-m-gibson/",
-      "court": "Court of Civil Appeals of Alabama",
-      "date_filed": "2026-07-17",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In re E.V.",
       "link": "https://www.courtlistener.com/opinion/10932182/in-re-ev/",
       "court": "Appellate Court of Illinois",
       "date_filed": "2026-07-16",
       "snippet": "",
       "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In the Interest of I.G., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 7th District (Amarillo)",
+      "date_filed": "2026-06-16",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
     }
   ]
 }

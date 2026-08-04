@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:24:36.553739+00:00",
+  "generated_at": "2026-08-04T13:54:53.167315+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -53,6 +53,14 @@
       "query": "family law psychology addiction"
     },
     {
+      "title": "Perceived Unfair Police Treatment and Recent Substance Use Among Male Youth Residing in Pittsburgh: Cross-Sectional Findings from a Randomized Control Trial.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42512158/",
+      "journal": "International journal of environmental research and public health",
+      "authors": "Stokes LR, Culyba AJ, Hill AL et al.",
+      "published": "2026 Jun 30",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42365295/",
       "journal": "Substance abuse treatment, prevention, and policy",
@@ -85,6 +93,14 @@
       "query": "co-occurring disorders family therapy"
     },
     {
+      "title": "Proposed Specifiers for Conduct Disorder (PSCD): Factor structure and convergent discriminant validity in 14- to 19-year-old middle-to-upper-income adolescents.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42490251/",
+      "journal": "Psychological assessment",
+      "authors": "Salekin RT, Collins EK, DeGroot HR et al.",
+      "published": "2026 Jul 23",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Hardiness and care-related stress in Iranian Alzheimer's caregivers: a cross-sectional study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42391257/",
       "journal": "British journal of community nursing",
@@ -105,14 +121,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42411856/",
       "journal": "Journal of psychosocial nursing and mental health services",
       "authors": "Basnet D, Beauvois L",
-      "published": "2026 Jul",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Progressing Cross-Sector Collaboration for People With Eating Disorders and Higher Weight: Priority Actions From an Expert Roundtable Using a Modified Nominal Group Technique.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42387264/",
-      "journal": "The Medical journal of Australia",
-      "authors": "Jebeile H, Brennan L, Burrows T et al.",
       "published": "2026 Jul",
       "query": "co-occurring disorders family therapy"
     },
@@ -165,6 +173,14 @@
       "query": "co-occurring disorders family therapy"
     },
     {
+      "title": "Treatment Experiences of Individuals With Co-Occurring Mental Health and Substance Use Disorders and Perspectives of Mental Health Workers in Ashanti Region, Ghana.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42544863/",
+      "journal": "Health expectations : an international journal of public participation in health care and health policy",
+      "authors": "Darko G, Anokye GA, Yinzooya YM et al.",
+      "published": "2026 Aug",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
       "title": "Outpatient Young Adults with Concurrent Disorders: A Naturalistic Study of Clinical Characteristics and DBT Skills Training Outcomes.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42527049/",
       "journal": "Early intervention in psychiatry",
@@ -213,26 +229,10 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Educational Outcomes for Children in Intergenerational Households with Substance Misuse: A National Data Linkage Study in Wales, UK.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42540976/",
-      "journal": "International journal of population data science",
-      "authors": "Farr I, Turner Evans H, Bailey G et al.",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Can and should we? Use of maternal administrative data to identify children at risk of poor outcomes.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42540932/",
-      "journal": "International journal of population data science",
-      "authors": "Jane Griffiths L, Raybould A, Dennison K et al.",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Child Mental Health Service Use Following a Mother's Assault or Homicide: A Population-Based Matched Cohort Study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42540840/",
-      "journal": "International journal of population data science",
-      "authors": "Matai L, Haas B, Wang X et al.",
+      "title": "Fatherhood and addictive disorders: experiences and support needs - results of a qualitative interview study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42519203/",
+      "journal": "Frontiers in psychiatry",
+      "authors": "Beineke C, Altenhöner T, Pioch F et al.",
       "published": "2026",
       "query": "children of parents with substance use disorder"
     },
