@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T13:56:40.990098+00:00",
+  "generated_at": "2026-08-05T13:52:08.485851+00:00",
   "label": "Podcasts",
-  "count": 19,
+  "count": 20,
   "errors": [],
   "items": [
     {
@@ -29,19 +29,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Talkin' Trash Addiction Recovery Podcast",
       "artist": "Talkin' Trash",
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
       "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -101,6 +101,14 @@
       "query": "family law"
     },
     {
+      "title": "Father X: How Fathers Can Win Child Custody",
+      "artist": "Father X",
+      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
+      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
       "artist": "DAVID PISARRA, ESQ.",
       "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
@@ -125,14 +133,6 @@
       "query": "child custody"
     },
     {
-      "title": "Father X: How Fathers Can Win Child Custody",
-      "artist": "Father X",
-      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
-      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "The Dr. Laura Podcast",
       "artist": "Dr. Laura Schlessinger & SiriusXM",
       "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
@@ -141,11 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "The Emily Show",
-      "artist": "Baker Media, LLC.",
-      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
-      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
+      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
+      "artist": "Brian A. Victor, Esq.",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/182093.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -154,6 +154,14 @@
       "link": "https://podcasts.apple.com/us/podcast/personlighetsmysteriet/id1632595686?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2012370.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/0c/c4/5e0cc435-9c81-8057-1188-b2ab5c063e5e/mza_9530984233276452596.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Mormon Stories Podcast",
+      "artist": "Dr. John Dehlin",
+      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
+      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:54:53.167315+00:00",
+  "generated_at": "2026-08-05T13:51:54.984117+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -229,6 +229,14 @@
       "query": "family drug treatment court effectiveness"
     },
     {
+      "title": "Extra-Legal Contextual Factors, Judge Demographic Characteristics, and the Sentencing of Drug Crimes: Using Pennsylvania Commission of Sentencing Data to Examine Drug Sentencing Severity, 2014-2019.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42553293/",
+      "journal": "American journal of criminal justice : AJCJ",
+      "authors": "Davis SH, Kurlychek M, Jones AA",
+      "published": "2026",
+      "query": "family drug treatment court effectiveness"
+    },
+    {
       "title": "Fatherhood and addictive disorders: experiences and support needs - results of a qualitative interview study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42519203/",
       "journal": "Frontiers in psychiatry",
@@ -283,14 +291,6 @@
       "authors": "Andraka-Christou B, Viglione J, Ahmed F et al.",
       "published": "2025 Jan",
       "query": "substance use disorder custody family court"
-    },
-    {
-      "title": "Implementing incentives in family medicine for opioid use disorder treatment: a qualitative inquiry on provider and patient preferences for a low magnitude reward program compatible with buprenorphine treatment.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41430342/",
-      "journal": "Addiction science & clinical practice",
-      "authors": "Ellis S, Witzig J, Basaldu D et al.",
-      "published": "2025 Dec 22",
-      "query": "family drug treatment court effectiveness"
     },
     {
       "title": "Project BETTER: Outcomes at the pregnancy-to-postpartum transition from a pilot clinical trial of a technology-delivered intervention for birthing people receiving medication for opioid use disorder.",

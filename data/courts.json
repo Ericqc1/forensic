@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-04T13:55:02.071159+00:00",
+  "generated_at": "2026-08-05T13:51:58.334463+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Lindsay",
+      "link": "https://www.courtlistener.com/opinion/10939894/state-v-lindsay/",
+      "court": "Court of Appeals of North Carolina",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Walker, Cedasha v. Department of Services for Children, Youth and Their Families, Division of Family Services TPR",
+      "link": "https://www.courtlistener.com/opinion/10939961/walker-cedasha-v-department-of-services-for-children-youth-and-their/",
+      "court": "Supreme Court of Delaware",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "J.H. v. Warren Hills Board of Education",
+      "link": "https://www.courtlistener.com/opinion/10939324/jh-v-warren-hills-board-of-education/",
+      "court": "Supreme Court of New Jersey",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re Interest of Trevor S.",
       "link": "https://www.courtlistener.com/opinion/10939266/in-re-interest-of-trevor-s/",
@@ -11,6 +35,54 @@
       "date_filed": "2026-08-04",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Hernandez",
+      "link": "https://www.courtlistener.com/opinion/10939575/united-states-v-hernandez/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Hugo Oziel Benavides",
+      "link": "https://www.courtlistener.com/opinion/10939565/united-states-v-hugo-oziel-benavides/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Andino-Arroyo",
+      "link": "https://www.courtlistener.com/opinion/10939561/united-states-v-andino-arroyo/",
+      "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Ocean Blue Land & Timber Co., LLC, and Patrick Terrell v. Tatia Marsolais",
+      "link": "https://www.courtlistener.com/opinion/10939533/ocean-blue-land-timber-co-llc-and-patrick-terrell-v-tatia-marsolais/",
+      "court": "Court of Appeals of Mississippi",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "HM Florida-ORL, LLC v. Secretary of the Florida Department of Business",
+      "link": "https://www.courtlistener.com/opinion/10939401/hm-florida-orl-llc-v-secretary-of-the-florida-department-of-business/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "R. Davis, Jr. v. PA DOC",
+      "link": "https://www.courtlistener.com/opinion/10939376/r-davis-jr-v-pa-doc/",
+      "court": "Commonwealth Court of Pennsylvania",
+      "date_filed": "2026-08-04",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Ashworth v. Branford",
@@ -37,30 +109,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Benjamin Danielson, V. Seattle Childrens Hospital",
-      "link": "https://www.courtlistener.com/opinion/10938760/benjamin-danielson-v-seattle-childrens-hospital/",
-      "court": "Court of Appeals of Washington",
-      "date_filed": "2026-08-03",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Perdue",
-      "link": "https://www.courtlistener.com/opinion/10938685/state-v-perdue/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-03",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Gilead Tenofovir Cases",
-      "link": "https://www.courtlistener.com/opinion/10938615/gilead-tenofovir-cases/",
-      "court": "California Supreme Court",
-      "date_filed": "2026-08-03",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "R.M. v. State",
       "link": "https://www.courtlistener.com/opinion/10939155/rm-v-state/",
       "court": "Court of Appeals of Alaska",
@@ -83,46 +131,6 @@
       "date_filed": "2026-07-31",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re S.W.",
-      "link": "https://www.courtlistener.com/opinion/10937873/in-re-sw/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Odell v. Odell",
-      "link": "https://www.courtlistener.com/opinion/10937869/odell-v-odell/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Alan Ray Nichol v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10939221/alan-ray-nichol-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 4th District (San Antonio)",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Rucker",
-      "link": "https://www.courtlistener.com/opinion/10938627/state-v-rucker/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Attorney General v Eli Lilly and Company",
-      "link": "https://www.courtlistener.com/opinion/10937953/attorney-general-v-eli-lilly-and-company/",
-      "court": "Michigan Supreme Court",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "State v. Trevizo",
@@ -235,14 +243,6 @@
       "date_filed": "2026-07-16",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }
