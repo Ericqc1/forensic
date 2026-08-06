@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-05T13:51:58.334463+00:00",
+  "generated_at": "2026-08-06T13:49:25.390023+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re I.C.",
+      "link": "https://www.courtlistener.com/opinion/10940343/in-re-ic/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re M.B.",
+      "link": "https://www.courtlistener.com/opinion/10940167/in-re-mb/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Moore",
+      "link": "https://www.courtlistener.com/opinion/10940105/state-v-moore/",
+      "court": "Court of Appeals of Oregon",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "CHINS: S H v. Indiana Department of Child Services",
+      "link": "https://www.courtlistener.com/opinion/10940099/chins-s-h-v-indiana-department-of-child-services/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "State v. Lindsay",
       "link": "https://www.courtlistener.com/opinion/10939894/state-v-lindsay/",
@@ -11,6 +43,38 @@
       "date_filed": "2026-08-05",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "Serene E. Warren, as beneficiary of the 2011 Arizona NG Trust 102, 2008 Meadow Trust 102, 2011 Lafayette Trust 102, ...",
+      "link": "https://www.courtlistener.com/opinion/10940501/serene-e-warren-as-beneficiary-of-the-2011-arizona-ng-trust-102-2008/",
+      "court": "Supreme Court of Minnesota",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Cooper-King",
+      "link": "https://www.courtlistener.com/opinion/10940342/state-v-cooper-king/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Larsen",
+      "link": "https://www.courtlistener.com/opinion/10940341/state-v-larsen/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Dailing",
+      "link": "https://www.courtlistener.com/opinion/10940160/people-v-dailing/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Walker, Cedasha v. Department of Services for Children, Youth and Their Families, Division of Family Services TPR",
@@ -37,57 +101,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "United States v. Hernandez",
-      "link": "https://www.courtlistener.com/opinion/10939575/united-states-v-hernandez/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Hugo Oziel Benavides",
-      "link": "https://www.courtlistener.com/opinion/10939565/united-states-v-hugo-oziel-benavides/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Andino-Arroyo",
-      "link": "https://www.courtlistener.com/opinion/10939561/united-states-v-andino-arroyo/",
-      "court": "Court of Appeals for the First Circuit",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Ocean Blue Land & Timber Co., LLC, and Patrick Terrell v. Tatia Marsolais",
-      "link": "https://www.courtlistener.com/opinion/10939533/ocean-blue-land-timber-co-llc-and-patrick-terrell-v-tatia-marsolais/",
-      "court": "Court of Appeals of Mississippi",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "HM Florida-ORL, LLC v. Secretary of the Florida Department of Business",
-      "link": "https://www.courtlistener.com/opinion/10939401/hm-florida-orl-llc-v-secretary-of-the-florida-department-of-business/",
-      "court": "Court of Appeals for the Eleventh Circuit",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "R. Davis, Jr. v. PA DOC",
-      "link": "https://www.courtlistener.com/opinion/10939376/r-davis-jr-v-pa-doc/",
-      "court": "Commonwealth Court of Pennsylvania",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Ashworth v. Branford",
-      "link": "https://www.courtlistener.com/opinion/10938434/ashworth-v-branford/",
-      "court": "Supreme Court of Connecticut",
+      "title": "Nicholas Anthony Frazier v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10940697/nicholas-anthony-frazier-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-08-04",
       "snippet": "",
       "query": "family drug court"
@@ -97,38 +113,6 @@
       "link": "https://www.courtlistener.com/opinion/10938793/in-re-miguel-j/",
       "court": "California Court of Appeal",
       "date_filed": "2026-08-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Kader S. Mustafa",
-      "link": "https://www.courtlistener.com/opinion/10938483/state-v-kader-s-mustafa/",
-      "court": "Supreme Court of New Jersey",
-      "date_filed": "2026-08-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "R.M. v. State",
-      "link": "https://www.courtlistener.com/opinion/10939155/rm-v-state/",
-      "court": "Court of Appeals of Alaska",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re A.W.",
-      "link": "https://www.courtlistener.com/opinion/10938802/in-re-aw/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-31",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re N.T.",
-      "link": "https://www.courtlistener.com/opinion/10938801/in-re-nt/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-07-31",
       "snippet": "",
       "query": "child custody substance abuse"
     },
@@ -237,12 +221,28 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "In re E.V.",
-      "link": "https://www.courtlistener.com/opinion/10932182/in-re-ev/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-07-16",
+      "title": "In the Interest of I.G., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 7th District (Amarillo)",
+      "date_filed": "2026-06-16",
       "snippet": "",
-      "query": "parental rights termination addiction"
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
+      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
+      "court": "Louisiana Court of Appeal",
+      "date_filed": "2026-04-08",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
+      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-03-26",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
     }
   ]
 }

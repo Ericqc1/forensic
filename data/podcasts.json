@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T13:52:08.485851+00:00",
+  "generated_at": "2026-08-06T13:49:42.936258+00:00",
   "label": "Podcasts",
-  "count": 20,
+  "count": 21,
   "errors": [],
   "items": [
     {
@@ -29,14 +29,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Talkin' Trash Addiction Recovery Podcast",
-      "artist": "Talkin' Trash",
-      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
-      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
       "artist": "Jesse Mogle",
       "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
@@ -45,11 +37,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "No More Desire ™ Porn Addiction Recovery",
-      "artist": "Jake Kastleman",
-      "link": "https://podcasts.apple.com/us/podcast/no-more-desire-porn-addiction-recovery/id1658847468?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2056963.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/62/d3/aa/62d3aa8a-772e-c796-2217-f33e52701577/mza_16839020029909739751.jpg/100x100bb.jpg",
+      "title": "Talkin' Trash Addiction Recovery Podcast",
+      "artist": "Talkin' Trash",
+      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
+      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Let's Talk Addiction & Recovery",
+      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -154,6 +154,14 @@
       "link": "https://podcasts.apple.com/us/podcast/personlighetsmysteriet/id1632595686?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2012370.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/0c/c4/5e0cc435-9c81-8057-1188-b2ab5c063e5e/mza_9530984233276452596.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Careers Are Weird",
+      "artist": "Aindrea Sewell",
+      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
+      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {
