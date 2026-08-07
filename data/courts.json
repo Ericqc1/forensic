@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-08-06T13:49:25.390023+00:00",
+  "generated_at": "2026-08-07T12:47:22.620174+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Com. v. Sharpe, E.",
+      "link": "https://www.courtlistener.com/opinion/10940889/com-v-sharpe-e/",
+      "court": "Superior Court of Pennsylvania",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re Marriage of Hauk",
+      "link": "https://www.courtlistener.com/opinion/10940824/in-re-marriage-of-hauk/",
+      "court": "Washington Supreme Court",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Knighton v. Benton County, MS",
+      "link": "https://www.courtlistener.com/opinion/10941688/knighton-v-benton-county-ms/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Deluna",
+      "link": "https://www.courtlistener.com/opinion/10941680/united-states-v-deluna/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Stutler",
+      "link": "https://www.courtlistener.com/opinion/10941512/state-v-stutler/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Cooper",
+      "link": "https://www.courtlistener.com/opinion/10941479/united-states-v-cooper/",
+      "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Demond Liles v. V. Michael Fisher",
+      "link": "https://www.courtlistener.com/opinion/10941318/demond-liles-v-v-michael-fisher/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Nathan August Floring v. State of Indiana",
+      "link": "https://www.courtlistener.com/opinion/10940990/nathan-august-floring-v-state-of-indiana/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Crawford",
+      "link": "https://www.courtlistener.com/opinion/10940962/state-v-crawford/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Simoneau",
+      "link": "https://www.courtlistener.com/opinion/10940934/state-v-simoneau/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "In re I.C.",
       "link": "https://www.courtlistener.com/opinion/10940343/in-re-ic/",
@@ -45,46 +125,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Serene E. Warren, as beneficiary of the 2011 Arizona NG Trust 102, 2008 Meadow Trust 102, 2011 Lafayette Trust 102, ...",
-      "link": "https://www.courtlistener.com/opinion/10940501/serene-e-warren-as-beneficiary-of-the-2011-arizona-ng-trust-102-2008/",
-      "court": "Supreme Court of Minnesota",
-      "date_filed": "2026-08-05",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Cooper-King",
-      "link": "https://www.courtlistener.com/opinion/10940342/state-v-cooper-king/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-05",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Larsen",
-      "link": "https://www.courtlistener.com/opinion/10940341/state-v-larsen/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-05",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Dailing",
-      "link": "https://www.courtlistener.com/opinion/10940160/people-v-dailing/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-08-05",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Walker, Cedasha v. Department of Services for Children, Youth and Their Families, Division of Family Services TPR",
-      "link": "https://www.courtlistener.com/opinion/10939961/walker-cedasha-v-department-of-services-for-children-youth-and-their/",
-      "court": "Supreme Court of Delaware",
-      "date_filed": "2026-08-05",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "J.H. v. Warren Hills Board of Education",
       "link": "https://www.courtlistener.com/opinion/10939324/jh-v-warren-hills-board-of-education/",
       "court": "Supreme Court of New Jersey",
@@ -93,28 +133,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re Interest of Trevor S.",
-      "link": "https://www.courtlistener.com/opinion/10939266/in-re-interest-of-trevor-s/",
-      "court": "Nebraska Court of Appeals",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Nicholas Anthony Frazier v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10940697/nicholas-anthony-frazier-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-08-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In re Miguel J.",
       "link": "https://www.courtlistener.com/opinion/10938793/in-re-miguel-j/",
       "court": "California Court of Appeal",
       "date_filed": "2026-08-03",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "State v. Trevizo",
@@ -219,30 +243,6 @@
       "date_filed": "2026-07-21",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }
