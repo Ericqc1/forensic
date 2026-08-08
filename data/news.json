@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:47:07.423965+00:00",
+  "generated_at": "2026-08-08T12:33:38.924083+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -37,11 +37,11 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
-      "title": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes | Center for Mental Health and Addiction Policy - publichealth.jhu.edu",
+      "title": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes | Center for Mental Health and Addiction Policy - Johns Hopkins Bloomberg School of Public Health",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMlJkTk03blFRdzBTbHpBMzdNNEhSY01tU1NUbWlQaXQ0c0tFVmM5V0hNa2RQTmM4UVVxRi1RWHc1UE1MdTNmd1A2UnJJR0Y4ajQySDI1YS1kZXBaSUxpZm9uYjhadlhCRWx3NHRJU3JMNUpwUzc2MVFfMGU2UjBVOHZTc3VXMVU5OGdLVXFrd2VIUU01b3Y1Mk1xb0RXNWwzdVZ2NElzRjVBZkFmVjhDMWtzT0VxWTZCMmJza09iMEtmYm9XZDZraVI3dU95a29lUjdwaXVoR0xJeTFxUGpPVFZncDliRUZPVGtMcF94Njhod1p0MThadEVMRm10LVlsbkVDZS02c0N0NkNLS20tdmJqRnNYX0ZFTWZoV0toOA?oc=5",
-      "source": "publichealth.jhu.edu",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
       "published": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "summary": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes | Center for Mental Health and Addiction Policy  publichealth.jhu.edu",
+      "summary": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes | Center for Mental Health and Addiction Policy  Johns Hopkins Bloomberg School of Public Health",
       "query": "\"parental substance use\" child welfare"
     },
     {
@@ -51,6 +51,14 @@
       "published": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "Family law reform for cohabiting couples – could the wait be over?  stewartslaw.com",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "Senator Hassan Hosts Conversation in Manchester on New Hampshire’s Battle Against Addiction - Senator Maggie Hassan (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3lyUC1JNzI3WkRRdFg4blVkX1ZHUS1fTVMwblBrSUlGVlQwUzBaQnowMk00dXliWlh0QjNLYjM3d29Sb2JldnV3YmNZb1JqRjhURFlOTzJWektIVUF4d0I2LVl6SjloUVVHeS1fMHhMTEdDcVpRSDFhVC1TVzdha3FOQVRETDhhaENWbnF0ekM4Ukp3RUpuOTY3WFlhNzRzNmtvcjFPa2xjUi1tYjZaYkFlNGZ0R1pJMWdLRzBPbmhfaktfZVg2clZCTEFZUU52bDdzbHBVMA?oc=5",
+      "source": "Senator Maggie Hassan (.gov)",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "summary": "Senator Hassan Hosts Conversation in Manchester on New Hampshire’s Battle Against Addiction  Senator Maggie Hassan (.gov)",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Japan advances imperial family law reform amid succession concerns - Anadolu Ajansı",
@@ -77,11 +85,11 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "UN Human Rights Council hears call for Arab family law reform - ICLG",
+      "title": "UN Human Rights Council hears call for Arab family law reform - iclg.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGtQTVNMdktFbjRFcW9tR3lUWkZmQjZLZ08xM25OekFOWGYwQUdmYUhjanhBbGRlM1gxX3pyckhZSjB0Y1Q4YnhrWWZ3am04RzdwdzJKb3U4SlBSUVZGMy13alhhZlZXVVhUSndxT1NiekNfOGZ5RklCRUpWeXhCeGJVMW9hZlFwa0NkbQ?oc=5",
-      "source": "ICLG",
+      "source": "iclg.com",
       "published": "Wed, 01 Jul 2026 14:30:57 GMT",
-      "summary": "UN Human Rights Council hears call for Arab family law reform  ICLG",
+      "summary": "UN Human Rights Council hears call for Arab family law reform  iclg.com",
       "query": "\"family law reform\""
     },
     {
@@ -107,14 +115,6 @@
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "Taylor Frankie Paul leaves rehab amid custody and legal disputes  MSN",
       "query": "\"co-parenting\" addiction recovery"
-    },
-    {
-      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
-      "source": "Penn LDI",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Most Kentucky opioid settlement money is not being spent, new report shows - Kentucky Lantern",
@@ -173,19 +173,19 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - cbo.gov",
+      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeFFrSkxzSHd2dzF0QXQ4MnEwdUhZSVdNRUNyb0JTeHA2cFRpSGhwNV9RaE5hSHR2bEhDelNOaEVpSHpVUEZiXzNIWHg3QQ?oc=5",
-      "source": "cbo.gov",
+      "source": "Congressional Budget Office (.gov)",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  cbo.gov",
+      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  Congressional Budget Office (.gov)",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "Family Treatment Court Seeks Funds To Expand - West Virginia Public Broadcasting",
+      "title": "Family Treatment Court Seeks Funds To Expand - wvpublic.org",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjF0MGRMSmhNcWJGY1lxNTdlTWdPR1VTUm1qdTh6dV9adGltXzFVX3YxeHZyOXE1QS1sWU5UdVdRM09JbmNTTlNRRTMtOV9LNG51UnVHUy1SZ3FhLWRBRUtiZmt6Z0pvcDR3NVlka29ZNnNZYUxIengxOTZYVFZjd0Q2b0NMdmZLOTJ3?oc=5",
-      "source": "West Virginia Public Broadcasting",
+      "source": "wvpublic.org",
       "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "Family Treatment Court Seeks Funds To Expand  West Virginia Public Broadcasting",
+      "summary": "Family Treatment Court Seeks Funds To Expand  wvpublic.org",
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
@@ -237,19 +237,11 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "5 tips for successful co-parenting, according to an expert - Motherly",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNTlvLXg2WDNLdGJuZTR4c3pVaVN5X2VGV2xLeGltdTZTeFNUVy1ZanFpWHYyOE5MZUtlVFV2LWxrOWQ1TV8ySzFCMEd3cE1SWTc4S20taU5nei05dlpfTUZKMkstek1SVG1Xcl83Ri1sOTlSSmRZcV96b3RDQQ?oc=5",
-      "source": "Motherly",
-      "published": "Tue, 04 Aug 2026 05:05:32 GMT",
-      "summary": "5 tips for successful co-parenting, according to an expert  Motherly",
-      "query": "\"co-parenting\" addiction recovery"
-    },
-    {
-      "title": "Family advice: I want my ex-wife to know I've changed. It might do more harm than good. - slate.com",
+      "title": "Family advice: I want my ex-wife to know I've changed. It might do more harm than good. - Slate Magazine",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUERXelJITy1WbklITWRRRlB3MERhU1paYWRIVTN2bEQ5WkNNVmdiZXBDQ25xZ1pCMHJ6NG1xUGhuNWlLcXdjakRDUXdHOXJHUFVnbU15clNFSUFYTm9Od2pXb0FBaUdpd25rZ0VyaGw4Y2cwQk9wRi1XQ25LSTdTdHRHblhxUENtUldJ?oc=5",
-      "source": "slate.com",
+      "source": "Slate Magazine",
       "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "Family advice: I want my ex-wife to know I've changed. It might do more harm than good.  slate.com",
+      "summary": "Family advice: I want my ex-wife to know I've changed. It might do more harm than good.  Slate Magazine",
       "query": "\"co-parenting\" addiction recovery"
     },
     {
@@ -261,6 +253,14 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
+      "title": "The Recovery Campus will bring a full spectrum of addiction care to Clackamas County - oregonmetro.gov",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWN3Tlo4dVpUTndtd0hzSzhrVVIyR1RrNTJiczAzbUNjYVhtclp4R3VjUnF6dDdxSWhKQXFlVTNoYXJBRHRSM3ZiVEV2TGNHZGZVczZrTDNfVkhZYkYyOS14bkFLQmZ2RkFjX3FUVkJmZkVjY2xEZnVEaVQtTW15M1UxMmQzUkNXRVdtUjVKT1NhVjJHZk11SHItM0Q0T3d4cFBkR3ZhbXZFRXpB?oc=5",
+      "source": "oregonmetro.gov",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "The Recovery Campus will bring a full spectrum of addiction care to Clackamas County  oregonmetro.gov",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
       "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclFwa3Ztdld5UGNkM21feE1qMDFkMk1ablNkMnNUbWphMHB6VGRLcTdlQldXNmpEU1VwMGJrbjFNUVJCRF9CbncyVjZ4aUdKOUFMdHhmOEFLYjZrbVNmNThCSEVjV0hJdFl6SE1nMDY0ckdtb0Y4N0w0VlVJLVNka29fU3FHdHNxaXFJYjhocDNQSjBObkZ1RDM3bldzS05Ib29waFNKVDRKWjVDeGRCMXNIU0pWcWtWWDhEUHJTWF9lekV3VV9xMlhsUW1QZWdDV1RlUERKMjdJeURGSmZQRDFGY0FJa1lt?oc=5",
       "source": "SCC Online",
@@ -269,11 +269,11 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion - publichealth.jhu.edu",
+      "title": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion - Johns Hopkins Bloomberg School of Public Health",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMXV5eF9PdVpDWmU2TlF4OGV1YXN6QTBRQVEwVnUwVnZfbVkzMWdOcmFnZElHVGoydERpcFFhSnRRMFBKWklQdFhKdlBHMGl0N04zdzNST1N4b0FUbkpnQWFjWFplTmg1cURaaFNEUnpxQWdCLWVXRmN2SnBKQ2pSNDlBREI5X2FKTFMweldsYU5VOUlzb1prYmcxRGswSlpWWDMwcXcyeG55N185YzhHaXNZLVQtVU5LTDZ5dWJ0U1ZkUUU0THNtaWJtWjFFTVJiR2MyQU1DZXBqVnhPbjNlUTNLZkk4NmhfLXRCVFZzdVZRb1psLS1fSm9UQ3JvTkNUWVZQWW1LV3Fzc1hVQ2RFZ0VpaUY?oc=5",
-      "source": "publichealth.jhu.edu",
+      "source": "Johns Hopkins Bloomberg School of Public Health",
       "published": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "summary": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion  publichealth.jhu.edu",
+      "summary": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion  Johns Hopkins Bloomberg School of Public Health",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
@@ -285,14 +285,6 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
-      "title": "Behind the scenes of family law reforms: Alain Roy’s journey - Université de Montréal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFlGSVBpVDQ4empMVW10R1dBNUNySkppVWFGa01xNTFqV01HX2xuUFp1Y285V3VxeFl2YlQ3dk80M1VHWm01ZkxvVXU5U2MtT2lkN2RLTGNOeXp3Y1l2bEVQMnBBZGxIaGVxVEhWTERaMEI2R2NPSlFFVENYNktudGVhbTNwZUkwckl5RzJOY19ha244eTQtRWI2WURXb0ZzU1haYXhVSVVuSXhBMUNlSUdn?oc=5",
-      "source": "Université de Montréal",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "Behind the scenes of family law reforms: Alain Roy’s journey  Université de Montréal",
-      "query": "\"family law reform\""
-    },
-    {
       "title": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth - The Marshall Project",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZtSDhKTl9CMnRrS0F6NjZtUEJLQ2JPVWhkdjVnbWk0QmpsUE5SSU5pdnFBWTJQUW5XTC05TWVnT1hhcl9pcW9lMWt2ZmxzZVpGd1V4Ym5mWTlWU2Z2LVlHYVVtZmZXWEdBbkFyeEtwRTdWQS1CTkF6UW9BelFxcUx3UFlGVFUtaGNOS1kyTjlhWHpLZ0RtQnJ3?oc=5",
       "source": "The Marshall Project",
@@ -301,12 +293,20 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
-      "title": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms - internationalaffairs.org.au",
+      "title": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms - Australian Institute of International Affairs",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlp3RG5xcWNiT3R6ejRMLWNTU3l6QW83WlRjNVNMQjhaQ3ExYzJkVGRHeWE1UzJkdGpmeWhaYU9HS0psNC1MMFljTXlIdkV3eUdLZGlUZHJoREt4ZDhSRW1hSW1xdTluY0R2NzJ4WFFGbFhMY1dpam5WR1M0ZGsyQm4tSlBHaFpEaHNnZEYxM29Pa1dBWEJsZk5xd0xJbExoSlpDN1JHVzI3NEg1TjhjVEZzbjYzeHItZkt0UmpidWl5c05GNG9NdHVtQ0p4Q2M?oc=5",
-      "source": "internationalaffairs.org.au",
+      "source": "Australian Institute of International Affairs",
       "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms  internationalaffairs.org.au",
+      "summary": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms  Australian Institute of International Affairs",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelRqUk1VRFhtR2QxTWRKc3Z1ci05ZnRrQzJsYmJIUklGWEhrbWVDN2kyZDVYakY5X1lFWDZVcGRWODg1VkJDQW40d1JKTkVBNmUyMGtQT1JLR19RSmxCWFJ1Q3BCUW9Wc1lqeFVWbWxLZ0lOQU5XM2sxblhQcFVLMVA3WlhBcG8?oc=5",
+      "source": "NPR",
+      "published": "Thu, 06 Aug 2026 09:52:45 GMT",
+      "summary": "Hospital staff said he was faking it and released him. He died from an overdose soon after  NPR",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "A decade into the opioid crisis, Colorado hospitals have changed the way they treat opioid-exposed babies. And it’s helping. - The Colorado Sun",
