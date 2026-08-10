@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-09T12:36:21.230602+00:00",
+  "generated_at": "2026-08-10T12:53:34.788314+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Newton",
+      "link": "https://www.courtlistener.com/opinion/10943719/state-v-newton/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Faith Shawhan v. Tucker Parish",
       "link": "https://www.courtlistener.com/opinion/10942602/faith-shawhan-v-tucker-parish/",
@@ -117,12 +125,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Daniel Martinez Campos Jr. v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10942924/daniel-martinez-campos-jr-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 13th District",
+      "title": "In the Interest of A.W., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10943460/in-the-interest-of-aw-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
       "date_filed": "2026-08-06",
       "snippet": "",
-      "query": "family drug court"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "Jerrett Paul Proctor v. the State of Texas",
@@ -137,6 +145,14 @@
       "link": "https://www.courtlistener.com/opinion/10940343/in-re-ic/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-08-05",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In the Interest of A.S.E. A/K/A A. E. a Child v. Department of Family and Protective Services",
+      "link": "https://www.courtlistener.com/opinion/10943499/in-the-interest-of-ase-aka-a-e-a-child-v-department-of-family-and/",
+      "court": "Texas Court of Appeals, 1st District (Houston)",
+      "date_filed": "2026-08-04",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
@@ -210,15 +226,7 @@
       "court": "Court of Appeals of Tennessee",
       "date_filed": "2026-07-22",
       "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of F.M., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10933923/in-the-interest-of-fm-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-07-22",
-      "snippet": "",
-      "query": "parental rights termination addiction"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
       "court": "Louisiana Court of Appeal",
       "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

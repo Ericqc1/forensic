@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T12:36:31.957863+00:00",
+  "generated_at": "2026-08-10T12:53:52.130300+00:00",
   "label": "Podcasts",
-  "count": 21,
+  "count": 19,
   "errors": [],
   "items": [
     {
@@ -154,22 +154,6 @@
       "link": "https://podcasts.apple.com/us/podcast/personlighetsmysteriet/id1632595686?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2012370.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/0c/c4/5e0cc435-9c81-8057-1188-b2ab5c063e5e/mza_9530984233276452596.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "Careers Are Weird",
-      "artist": "Aindrea Sewell",
-      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
-      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "Mormon Stories Podcast",
-      "artist": "Dr. John Dehlin",
-      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
-      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:36:05.580766+00:00",
+  "generated_at": "2026-08-10T12:53:25.056795+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -13,20 +13,12 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
-      "title": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic - imprintnews.org",
+      "title": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic - The Imprint",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWi0yVnhaRWRsTE8zdUczSGxFZ3NiZDlxOXktdUZyME1PWVNkd3hJQXpSU3NlZ04yeTZ5eGNXaHRaT0VzcWRIQy1Wd2liOUk5em9CUkFTVlBIamJ2dTI5Y0liX0lKclM3eEVNS2FDbjhIQ3daaHBZTFZ5cF9SS1ljR2pBR3U2TWk5Zl9BUnJhQmtiM1l2cTZ2VUdfNWFHSkNxMkh6SDBhY1o?oc=5",
-      "source": "imprintnews.org",
+      "source": "The Imprint",
       "published": "Wed, 26 Apr 2017 07:00:00 GMT",
-      "summary": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic  imprintnews.org",
+      "summary": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic  The Imprint",
       "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
-      "title": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money - The Lexington Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEJrcVR2QTBTU0pENi0tX3lwbzNCLXJvOE1nNTNZbFk4SnFaZHJ0WWljbDNmaEhVcWdYUm0wTTYybkt6d0hRT25NcFczelJZU1FHeHhxMDN0ekpYNTNvbXNQLWdfOXNnd0JWcXJ2ZmJjWWhSa2xCOVZ3eGx3WnVKTzlZenJrVDZVZFZtTm5LanBZbkMtc1oxYUdEMmdIcHZHbjM5anZ1QVJvbW9IcmkxNU5QX205NWM?oc=5",
-      "source": "The Lexington Times",
-      "published": "Wed, 22 Jul 2026 13:36:44 GMT",
-      "summary": "EKY Opioid Settlement Funds: Owingsville Recovery Facility Seeks Share of Unused Money  The Lexington Times",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
       "title": "Kansas launching foster care Family Treatment Court court - thebeaconnews.org",
@@ -35,6 +27,14 @@
       "published": "Wed, 21 Feb 2024 08:00:00 GMT",
       "summary": "Kansas launching foster care Family Treatment Court court  thebeaconnews.org",
       "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "What Families Should Know About Video Game Addiction - ifstudies.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW9Ndm1PYkQ0dE1xQ2tpMU9LcFFsVk9GeVpucjhoalVYOTJMZlBGRzhqV19PczAxbmFzMmRYSG5IeWRxZVhjLXp6eE9ocU05STMzUVlGRmhmbmtPSVpkSklOX0NOY3ZfWWRwbzk3OVMwMklWQWFyakMwZTBSOEk3VlJIZWRGdw?oc=5",
+      "source": "ifstudies.org",
+      "published": "Wed, 20 Nov 2019 08:00:00 GMT",
+      "summary": "What Families Should Know About Video Game Addiction  ifstudies.org",
+      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -101,11 +101,11 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
-      "title": "Taylor Frankie Paul leaves rehab amid custody and legal disputes - msn.com",
+      "title": "Taylor Frankie Paul leaves rehab amid custody and legal disputes - MSN",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPbUt0cHVnNW1xOU5FaHRtYjJIQXd0Y0oxODZqckx0enVwUFRPV0FLNW9UMDV1ZkdRb3RORnJoVFVNOWJIZUxOdk9mSTY4T18wN21YMU45U2lPWWZYdHZNYUZjWW9DZzItNVpKbFlKTzhvY3JRdjVjQWc0WkExbktGeFZCZnZDY0ZhdVcyb192TVE3SEdjbThiSm9Vdk52UEdlNjAzZEtNbXd5RDhtMm04akU5Sm9nNTB0ck1MMXZJX2R4SU5ROEQ0ZEtiVXkwWGNDSjdNUmhXdm96YnJaREFlRDhEaU1ZZHlDWkp5RmFjMjNGSFJpandpc25oMHRWWHNjQWlBaUVWZUtEdFR0ZWV1ekVVUGdiWTAtVFp5R05MTXQ0OWtTVFpQbU96MlU?oc=5",
-      "source": "msn.com",
+      "source": "MSN",
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Taylor Frankie Paul leaves rehab amid custody and legal disputes  msn.com",
+      "summary": "Taylor Frankie Paul leaves rehab amid custody and legal disputes  MSN",
       "query": "\"co-parenting\" addiction recovery"
     },
     {
@@ -133,11 +133,11 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "Georgia Child Welfare Director Testifies in School Shooting Case - imprintnews.org",
+      "title": "Georgia Child Welfare Director Testifies Hours Before Teen is Sentenced To Life in Prison for School Shooting - The Imprint",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTRLc2o1MnhnQUpxS3Qxdkp6SlhIVlVRaUlXNTBDbEVCTkpyeUQ0a2Ftc0VTU2ppUnd3SzlsejJHeEszRm1PZW8yLXVSQ3FUOFFVZW9ZMnh3Z0w5dkV3ZlczOUtnWHNLTTNhREZnc1IxOUxqVkJNV3k3TUFSczNTTUtLQ3pvd3JFU2xoT19feUFzNlNwUlFkbXNyMVU3YjBvWmJJR2k4TQ?oc=5",
-      "source": "imprintnews.org",
+      "source": "The Imprint",
       "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-      "summary": "Georgia Child Welfare Director Testifies in School Shooting Case  imprintnews.org",
+      "summary": "Georgia Child Welfare Director Testifies Hours Before Teen is Sentenced To Life in Prison for School Shooting  The Imprint",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
@@ -147,14 +147,6 @@
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
       "summary": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights  Altoona Mirror",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
-    },
-    {
-      "title": "Substance Use Disorder Treatment Market to Reach $14.6 Billion by 2030, Driven by Growing Patient Populations and Policy Reform - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORlZoSlIzVWhaOHNLOUo2dGUtaTVGQkFnQlVzb0dKbkRuR3BERzU3blN4NHZ0V2xYQmtDLUVMZEFTUW9CVlZ0dTUwd1hKb2hKdjFIekQ4QjZWUDZlVHNYOGtpZm9fTkxVTzdSWHJnbGE3Q3Y3elpaU2RqRmM2cmNReklzMF80M1JaeXZpRUV6WTlZQmlNakFhYjlXM3RVZ3ZhXzdMOA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "Substance Use Disorder Treatment Market to Reach $14.6 Billion by 2030, Driven by Growing Patient Populations and Policy Reform  Yahoo Finance",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Op-Ed: Lessons for NJ in managing $1.1 billion opioid settlement - NJ Spotlight News",
@@ -181,12 +173,28 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - westvirginiawatch.com",
+      "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - West Virginia Watch",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWprX0FvVk9wc1ZiMjNzS2JEWkY0RDNBZVdZWUR2cTl2djgwYzdfazM3ckh4NkU4U2M0bEtBd2lrSTE0dzNyZVJZb0FvWVFVci02T3hENmNtczYzUUZXWHp0RnBDbC14bmFlNWFMX042YldoWE1tTmtTbENKMzhpZVdtR3FxTi1meng1aktMSEJfN2ZXUllKMHJZaW9pVHB0NE1Vcm42emJNb0tJM3EwOG1KM1RqaDhCT09NNjRHQ09MV3NVeEtVNHpBWTd2bmpYSkp2UlhTQUo?oc=5",
-      "source": "westvirginiawatch.com",
+      "source": "West Virginia Watch",
       "published": "Tue, 15 Jul 2025 07:00:00 GMT",
-      "summary": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children  westvirginiawatch.com",
+      "summary": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children  West Virginia Watch",
       "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "Time for decisive action on substance-use disorder treatment - American Medical Association | AMA",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFBId0drTGFPQS1TeV8tM01OLVA0UUk0WmtHZXVPRGQ4SzBRVUhtUXQ4dXFfTkNrYXFHbWNtTjZfTjJvaTlZQ2htdFV0QVFfcmY5Y2hBWTVEWEk2enpmdmVlRmhoakNJSkpacjBsaVNnakZkZmRnVnBhTDBGZDNJZHpscWRBemNWOG1Ybm1zWmM2dkRPcVNieU9XSGktRnZjYk5SQXZQN0l4Sm5haThB?oc=5",
+      "source": "American Medical Association | AMA",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "Time for decisive action on substance-use disorder treatment  American Medical Association | AMA",
+      "query": "\"substance use disorder\" treatment OR policy"
+    },
+    {
+      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeFFrSkxzSHd2dzF0QXQ4MnEwdUhZSVdNRUNyb0JTeHA2cFRpSGhwNV9RaE5hSHR2bEhDelNOaEVpSHpVUEZiXzNIWHg3QQ?oc=5",
+      "source": "Congressional Budget Office (.gov)",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  Congressional Budget Office (.gov)",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
       "title": "West Virginia Supreme Court requests $1.4 million for Family Treatment Court - WOWK 13 News",
@@ -248,7 +256,7 @@
       "title": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice - SCC Online",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclFwa3Ztdld5UGNkM21feE1qMDFkMk1ablNkMnNUbWphMHB6VGRLcTdlQldXNmpEU1VwMGJrbjFNUVJCRF9CbncyVjZ4aUdKOUFMdHhmOEFLYjZrbVNmNThCSEVjV0hJdFl6SE1nMDY0ckdtb0Y4N0w0VlVJLVNka29fU3FHdHNxaXFJYjhocDNQSjBObkZ1RDM3bldzS05Ib29waFNKVDRKWjVDeGRCMXNIU0pWcWtWWDhEUHJTWF9lekV3VV9xMlhsUW1QZWdDV1RlUERKMjdJeURGSmZQRDFGY0FJa1lt?oc=5",
       "source": "SCC Online",
-      "published": "Thu, 30 Jul 2026 06:30:58 GMT",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
       "summary": "The Work is not Finished: Adab Singh Kapoor on Family Law, Reform, and Building a Modern Litigation Practice  SCC Online",
       "query": "\"family law reform\""
     },
@@ -261,11 +269,11 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment - imprintnews.org",
+      "title": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment - The Imprint",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFQyZ0tzdUNUMTFwZk5IUTJ6bWdaZXNuc0F2NmJSdTJlekF1UUJjX202cFVEVHNWU2pZRG9GTjJOcjhRM05DdWttVEJZY1EzYTMwQmVkbWV0d05ydDlObHZWSFVZOERaeUNYcHlqeE9XZ1FVYXlPUkQxc3ZhYmR4X3I1WEwwZ0dXcE5ZczloRHlTT0dOc1A2ZWp0MEkyX04wVjBNcTFOS1pFWFBrNTRYSEVzZ1Z6bzJ3NDFmUTVvbDk?oc=5",
-      "source": "imprintnews.org",
+      "source": "The Imprint",
       "published": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "summary": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment  imprintnews.org",
+      "summary": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment  The Imprint",
       "query": "\"parental substance use\" child welfare"
     },
     {
@@ -290,14 +298,6 @@
       "source": "NPR",
       "published": "Thu, 06 Aug 2026 09:52:45 GMT",
       "summary": "Hospital staff said he was faking it and released him. He died from an overdose soon after  NPR",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Illinois recognizes gambling addiction, allowing new treatment options - Rockford Register Star",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODl3MzFkQzNPamltYU85RGJleTJRQWF4S1lUM2RGLUdRVGxnUWlZUEFGZGpWV3ZmN0huZzBacmJoZGVwSkVVZnhNWXNxNm5DU0tiUzg1ZXpHRjIzb29wRHlGdS00dUpPWjJEd2hGRWc0V2lNUUQ3clJYX1BXdWdJUVByc1c2RlFKNDFDYTNhSjdLWXVCbG41UUlGNE0ya25GR01JQ3BjLW1IS1RFeWhoazUwdHRSNjQ?oc=5",
-      "source": "Rockford Register Star",
-      "published": "Thu, 06 Aug 2026 09:05:00 GMT",
-      "summary": "Illinois recognizes gambling addiction, allowing new treatment options  Rockford Register Star",
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
