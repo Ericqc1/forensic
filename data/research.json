@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:49:25.067648+00:00",
+  "generated_at": "2026-08-12T12:54:01.698080+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -85,14 +85,6 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "Identifying Behavior Change Techniques for Digital Interventions Addressing Alcohol and Tobacco Co-Use: Findings From a Delphi Consensus Study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42398932/",
-      "journal": "JMIR formative research",
-      "authors": "Chandran A, Veldhuizen S, Mehra K et al.",
-      "published": "2026 Jul 3",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Proposed Specifiers for Conduct Disorder (PSCD): Factor structure and convergent discriminant validity in 14- to 19-year-old middle-to-upper-income adolescents.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42490251/",
       "journal": "Psychological assessment",
@@ -170,6 +162,14 @@
       "journal": "European journal of psychotraumatology",
       "authors": "Hahn AM, Back SE, Hesse DR et al.",
       "published": "2026 Dec",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Integrative Residential Treatment of Co-Occurring Borderline and Narcissistic Personality Dysfunction: Perspectives from the Gunderson Residence.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42578475/",
+      "journal": "Harvard review of psychiatry",
+      "authors": "Jacob KL, Unruh BT",
+      "published": "2026 Aug 6",
       "query": "co-occurring disorders family therapy"
     },
     {

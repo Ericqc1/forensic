@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:50:09.764394+00:00",
+  "generated_at": "2026-08-12T12:54:09.346352+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
-      "artist": "Felicia Hermle",
-      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
-      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
+      "title": "No More Desire ™ Porn Addiction Recovery",
+      "artist": "Jake Kastleman",
+      "link": "https://podcasts.apple.com/us/podcast/no-more-desire-porn-addiction-recovery/id1658847468?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2056963.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/62/d3/aa/62d3aa8a-772e-c796-2217-f33e52701577/mza_16839020029909739751.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -109,19 +109,19 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
-      "artist": "LazetteMichelle",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
-      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
       "artist": "DAVID PISARRA, ESQ.",
       "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
       "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
+      "artist": "LazetteMichelle",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
+      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

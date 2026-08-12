@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-08-11T12:49:52.798931+00:00",
+  "generated_at": "2026-08-12T12:54:04.412285+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Union Pacific Railroad Co. v. Federal Railroad Administration",
+      "link": "https://www.courtlistener.com/opinion/10945008/union-pacific-railroad-co-v-federal-railroad-administration/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State of Mississippi v. DOE",
+      "link": "https://www.courtlistener.com/opinion/10944975/state-of-mississippi-v-doe/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Johntavis Matlock",
+      "link": "https://www.courtlistener.com/opinion/10944820/united-states-v-johntavis-matlock/",
+      "court": "Court of Appeals for the Seventh Circuit",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Brian Swindler v. Leah Bright",
+      "link": "https://www.courtlistener.com/opinion/10944811/brian-swindler-v-leah-bright/",
+      "court": "Wyoming Supreme Court",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Willie James Clements, Jr. v. Commonwealth of Virginia",
+      "link": "https://www.courtlistener.com/opinion/10944808/willie-james-clements-jr-v-commonwealth-of-virginia/",
+      "court": "Court of Appeals of Virginia",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Edward William",
+      "link": "https://www.courtlistener.com/opinion/10944771/united-states-v-edward-william/",
+      "court": "Court of Appeals for the D.C. Circuit",
+      "date_filed": "2026-08-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "State v. Newton",
       "link": "https://www.courtlistener.com/opinion/10943719/state-v-newton/",
@@ -29,36 +77,20 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "Silva v. Rubio",
-      "link": "https://www.courtlistener.com/opinion/10943950/silva-v-rubio/",
-      "court": "District Court, District of Columbia",
+      "title": "Claudia Orellana-Ramos v. Todd Blanche",
+      "link": "https://www.courtlistener.com/opinion/10945088/claudia-orellana-ramos-v-todd-blanche/",
+      "court": "Court of Appeals for the Fourth Circuit",
       "date_filed": "2026-08-10",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "Com. v. Gould, C.",
-      "link": "https://www.courtlistener.com/opinion/10943924/com-v-gould-c/",
-      "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-08-10",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Niro",
-      "link": "https://www.courtlistener.com/opinion/10943874/state-v-niro/",
+      "title": "Klingensmith v. Klingensmith",
+      "link": "https://www.courtlistener.com/opinion/10944948/klingensmith-v-klingensmith/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-10",
+      "date_filed": "2026-08-07",
       "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Peled v. Netanyahu",
-      "link": "https://www.courtlistener.com/opinion/10943845/peled-v-netanyahu/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-08-10",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "child custody substance abuse"
     },
     {
       "title": "Faith Shawhan v. Tucker Parish",
@@ -93,30 +125,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "United States v. Williams",
-      "link": "https://www.courtlistener.com/opinion/10942517/united-states-v-williams/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-08-07",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Coltin Drew Herzog v. State of Indiana",
-      "link": "https://www.courtlistener.com/opinion/10942236/coltin-drew-herzog-v-state-of-indiana/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-08-07",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "National Trust for Historic Preservation in the United States v. NPS",
-      "link": "https://www.courtlistener.com/opinion/10942169/national-trust-for-historic-preservation-in-the-united-states-v-nps/",
-      "court": "Court of Appeals for the D.C. Circuit",
-      "date_filed": "2026-08-07",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Amanda M Wilson v. Matthew V Mann",
       "link": "https://www.courtlistener.com/opinion/10942237/amanda-m-wilson-v-matthew-v-mann/",
       "court": "Indiana Court of Appeals",
@@ -136,14 +144,6 @@
       "title": "Com. v. Sharpe, E.",
       "link": "https://www.courtlistener.com/opinion/10940889/com-v-sharpe-e/",
       "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-08-06",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re Marriage of Hauk",
-      "link": "https://www.courtlistener.com/opinion/10940824/in-re-marriage-of-hauk/",
-      "court": "Washington Supreme Court",
       "date_filed": "2026-08-06",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -222,7 +222,7 @@
     },
     {
       "title": "Darren M. v. Destiny D",
-      "link": "https://www.courtlistener.com/opinion/10942531/darren-m-v-destiny-d/",
+      "link": "https://www.courtlistener.com/opinion/10945257/darren-m-v-destiny-d/",
       "court": "Alaska Supreme Court",
       "date_filed": "2026-07-24",
       "snippet": "",
