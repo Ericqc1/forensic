@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T12:54:09.346352+00:00",
+  "generated_at": "2026-08-13T12:55:08.136696+00:00",
   "label": "Podcasts",
-  "count": 19,
+  "count": 20,
   "errors": [],
   "items": [
     {
@@ -10,6 +10,14 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -26,14 +34,6 @@
       "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
       "feed_url": "https://feed.podbean.com/brokentoblessed/feed.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/ab/f8/2cabf8c1-d27e-3aa6-cc45-b88334349dc3/mza_16100941476637424088.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -154,6 +154,14 @@
       "link": "https://podcasts.apple.com/us/podcast/personlighetsmysteriet/id1632595686?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2012370.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/0c/c4/5e0cc435-9c81-8057-1188-b2ab5c063e5e/mza_9530984233276452596.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Hidden Killers With Tony Brueski | True Crime News & Commentary",
+      "artist": "True Crime Today",
+      "link": "https://podcasts.apple.com/us/podcast/hidden-killers-with-tony-brueski-true-crime-news/id1655749292?uo=4",
+      "feed_url": "https://audioboom.com/channels/5040505.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/37/72/d037724b-c51a-e57e-9d63-1a08e0558850/mza_7422277451552995709.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]
