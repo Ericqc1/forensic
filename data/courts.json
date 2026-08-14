@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-08-13T12:54:52.491034+00:00",
+  "generated_at": "2026-08-14T12:51:05.788965+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In the Interest of K.K., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10947944/in-the-interest-of-kk-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 10th District (Waco)",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People v. Shove",
+      "link": "https://www.courtlistener.com/opinion/10947287/people-v-shove/",
+      "court": "California Supreme Court",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. McCargo",
+      "link": "https://www.courtlistener.com/opinion/10947563/state-v-mccargo/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Parker",
+      "link": "https://www.courtlistener.com/opinion/10947459/united-states-v-parker/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Aisha Putnam v. Caramelcrisp, LLC",
+      "link": "https://www.courtlistener.com/opinion/10947386/aisha-putnam-v-caramelcrisp-llc/",
+      "court": "Court of Appeals for the Seventh Circuit",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Gonzalez-Argueta v. Blanche",
+      "link": "https://www.courtlistener.com/opinion/10947326/gonzalez-argueta-v-blanche/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Surgical Instrument Service Company, Inc. v. Intuitive Surgical, Inc.",
+      "link": "https://www.courtlistener.com/opinion/10947324/surgical-instrument-service-company-inc-v-intuitive-surgical-inc/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Axle of Dearborn, Inc. v. Dep't of Com.",
+      "link": "https://www.courtlistener.com/opinion/10947268/axle-of-dearborn-inc-v-dept-of-com/",
+      "court": "United States Court of International Trade",
+      "date_filed": "2026-08-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "In the Matter Of: Jane Doe v. Children Under Eighteen (18) Years of Age",
       "link": "https://www.courtlistener.com/opinion/10945813/in-the-matter-of-jane-doe-v-children-under-eighteen-18-years-of-age/",
@@ -13,12 +77,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Arndts v. Univ. of Cinti Med. Ctr.",
-      "link": "https://www.courtlistener.com/opinion/10946096/arndts-v-univ-of-cinti-med-ctr/",
+      "title": "B.U. v. Bolshakov",
+      "link": "https://www.courtlistener.com/opinion/10947560/bu-v-bolshakov/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-08-12",
       "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "United States v. Kyle Wagner",
@@ -26,31 +90,7 @@
       "court": "Court of Appeals for the Sixth Circuit",
       "date_filed": "2026-08-12",
       "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Winters v. Perez",
-      "link": "https://www.courtlistener.com/opinion/10945878/winters-v-perez/",
-      "court": "Court of Appeals of Arizona",
-      "date_filed": "2026-08-12",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Justin C. Carroll",
-      "link": "https://www.courtlistener.com/opinion/10945856/state-v-justin-c-carroll/",
-      "court": "Court of Appeals of South Carolina",
-      "date_filed": "2026-08-12",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of B.M., III, a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10945750/in-the-interest-of-bm-iii-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 6th District (Texarkana)",
-      "date_filed": "2026-08-12",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In re Z.Y.",
@@ -59,22 +99,6 @@
       "date_filed": "2026-08-11",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "Union Pacific Railroad Co. v. Federal Railroad Administration",
-      "link": "https://www.courtlistener.com/opinion/10945008/union-pacific-railroad-co-v-federal-railroad-administration/",
-      "court": "Court of Appeals for the Eleventh Circuit",
-      "date_filed": "2026-08-11",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State of Mississippi v. DOE",
-      "link": "https://www.courtlistener.com/opinion/10944975/state-of-mississippi-v-doe/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-08-11",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In re H.C.",
@@ -117,25 +141,25 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Shannon Lavon Yancey v. Jaime Nicole Wheeler",
-      "link": "https://www.courtlistener.com/opinion/10942108/shannon-lavon-yancey-v-jaime-nicole-wheeler/",
-      "court": "Court of Civil Appeals of Alabama",
-      "date_filed": "2026-08-07",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "Roth v. Marcoe",
       "link": "https://www.courtlistener.com/opinion/10942080/roth-v-marcoe/",
       "court": "Nebraska Supreme Court",
       "date_filed": "2026-08-07",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "Amanda M Wilson v. Matthew V Mann",
       "link": "https://www.courtlistener.com/opinion/10942237/amanda-m-wilson-v-matthew-v-mann/",
       "court": "Indiana Court of Appeals",
+      "date_filed": "2026-08-07",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "Shannon Lavon Yancey v. Jaime Nicole Wheeler",
+      "link": "https://www.courtlistener.com/opinion/10942108/shannon-lavon-yancey-v-jaime-nicole-wheeler/",
+      "court": "Court of Civil Appeals of Alabama",
       "date_filed": "2026-08-07",
       "snippet": "",
       "query": "custody modification alcohol abuse"
@@ -213,34 +237,10 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "Darren M. v. Destiny D",
-      "link": "https://www.courtlistener.com/opinion/10945257/darren-m-v-destiny-d/",
-      "court": "Alaska Supreme Court",
-      "date_filed": "2026-07-24",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
