@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:51:13.708343+00:00",
+  "generated_at": "2026-08-15T12:24:24.601104+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -29,11 +29,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
+      "title": "11th Hour Addiction Recovery",
+      "artist": "Adam R, Patrick M, and C.J.",
+      "link": "https://podcasts.apple.com/us/podcast/11th-hour-addiction-recovery/id1545827217?uo=4",
+      "feed_url": "https://anchor.fm/s/155dbfdc/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/1e/8a/49/1e8a4967-5149-82ba-c638-c2a904da2517/mza_606535678786345575.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "No More Desire ™ Porn Addiction Recovery",
-      "artist": "Jake Kastleman",
-      "link": "https://podcasts.apple.com/us/podcast/no-more-desire-porn-addiction-recovery/id1658847468?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2056963.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/62/d3/aa/62d3aa8a-772e-c796-2217-f33e52701577/mza_16839020029909739751.jpg/100x100bb.jpg",
+      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
+      "artist": "Felicia Hermle",
+      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
+      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -77,6 +77,14 @@
       "query": "family law"
     },
     {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "The Family Law Podcast",
       "artist": "Pump Court Chambers",
       "link": "https://podcasts.apple.com/us/podcast/the-family-law-podcast/id1522264253?uo=4",
@@ -90,14 +98,6 @@
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
