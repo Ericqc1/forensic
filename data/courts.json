@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:24:03.318650+00:00",
+  "generated_at": "2026-08-16T12:25:20.660414+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -37,6 +37,22 @@
       "query": "parental rights termination addiction"
     },
     {
+      "title": "United States v. Zerion Franklin",
+      "link": "https://www.courtlistener.com/opinion/10951736/united-states-v-zerion-franklin/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-08-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Earl Griffin, Jr.",
+      "link": "https://www.courtlistener.com/opinion/10951733/united-states-v-earl-griffin-jr/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-08-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "Holberg v. Guerrero",
       "link": "https://www.courtlistener.com/opinion/10948820/holberg-v-guerrero/",
       "court": "Court of Appeals for the Fifth Circuit",
@@ -72,14 +88,6 @@
       "title": "State v. Farr",
       "link": "https://www.courtlistener.com/opinion/10948527/state-v-farr/",
       "court": "Court of Appeals of Kansas",
-      "date_filed": "2026-08-14",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Nickels",
-      "link": "https://www.courtlistener.com/opinion/10948435/state-v-nickels/",
-      "court": "Nebraska Supreme Court",
       "date_filed": "2026-08-14",
       "snippet": "",
       "query": "family drug court"
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
       "court": "Louisiana Court of Appeal",
       "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

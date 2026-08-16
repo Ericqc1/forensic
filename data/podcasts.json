@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:24:24.601104+00:00",
+  "generated_at": "2026-08-16T12:25:24.934664+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -10,6 +10,14 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
+      "artist": "Felicia Hermle",
+      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
+      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -29,14 +37,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "11th Hour Addiction Recovery",
-      "artist": "Adam R, Patrick M, and C.J.",
-      "link": "https://podcasts.apple.com/us/podcast/11th-hour-addiction-recovery/id1545827217?uo=4",
-      "feed_url": "https://anchor.fm/s/155dbfdc/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/1e/8a/49/1e8a4967-5149-82ba-c638-c2a904da2517/mza_606535678786345575.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Talkin' Trash Addiction Recovery Podcast",
       "artist": "Talkin' Trash",
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
-      "artist": "Felicia Hermle",
-      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
-      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
+      "title": "11th Hour Addiction Recovery",
+      "artist": "Adam R, Patrick M, and C.J.",
+      "link": "https://podcasts.apple.com/us/podcast/11th-hour-addiction-recovery/id1545827217?uo=4",
+      "feed_url": "https://anchor.fm/s/155dbfdc/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/1e/8a/49/1e8a4967-5149-82ba-c638-c2a904da2517/mza_606535678786345575.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -77,19 +77,19 @@
       "query": "family law"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "The Family Law Podcast",
       "artist": "Pump Court Chambers",
       "link": "https://podcasts.apple.com/us/podcast/the-family-law-podcast/id1522264253?uo=4",
       "feed_url": "https://feeds.acast.com/public/shows/5ef09612aec0805c39660f73",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/34/b1/f3/34b1f3a4-d7aa-01cf-538a-e39b87ba70e7/mza_13671130138539944864.jpeg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
