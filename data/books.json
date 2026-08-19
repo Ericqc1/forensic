@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T12:32:02.475887+00:00",
+  "generated_at": "2026-08-19T12:32:56.934751+00:00",
   "label": "Books",
-  "count": 18,
+  "count": 20,
   "errors": [],
   "items": [
     {
@@ -122,6 +122,15 @@
       "query": "children parental addiction recovery"
     },
     {
+      "title": "The Story of The Committee of 300",
+      "authors": "John Coleman",
+      "published": "2000",
+      "link": "https://openlibrary.org/works/OL15169002W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/6426475-M.jpg",
+      "query": "family law custody addiction"
+    },
+    {
       "title": "Representing the substance addicted client",
       "authors": "",
       "published": "1997",
@@ -156,6 +165,15 @@
       "description": "Please don't skip this section!",
       "thumbnail": "https://covers.openlibrary.org/b/id/424898-M.jpg",
       "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "The encyclopedia of marriage, divorce, and the family",
+      "authors": "Margaret DiCanio",
+      "published": "1989",
+      "link": "https://openlibrary.org/works/OL1963600W",
+      "description": "",
+      "thumbnail": "",
+      "query": "family law custody addiction"
     },
     {
       "title": "Clinical practice of the dental hygienist",

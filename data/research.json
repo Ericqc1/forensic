@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:31:42.716484+00:00",
+  "generated_at": "2026-08-19T12:32:43.236230+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -51,14 +51,6 @@
       "authors": "Katayama M, Shimane T, Shirakawa N et al.",
       "published": "2026 Mar",
       "query": "family law psychology addiction"
-    },
-    {
-      "title": "Perceived Unfair Police Treatment and Recent Substance Use Among Male Youth Residing in Pittsburgh: Cross-Sectional Findings from a Randomized Control Trial.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42512158/",
-      "journal": "International journal of environmental research and public health",
-      "authors": "Stokes LR, Culyba AJ, Hill AL et al.",
-      "published": "2026 Jun 30",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
@@ -163,6 +155,14 @@
       "authors": "Jacob KL, Unruh BT",
       "published": "2026 Aug 6",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Which youth with suicidal ideation will go on to make a suicide attempt? A systematic review.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42612387/",
+      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+      "authors": "Dobin D, Brent DA",
+      "published": "2026 Aug 18",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Treatment Experiences of Individuals With Co-Occurring Mental Health and Substance Use Disorders and Perspectives of Mental Health Workers in Ashanti Region, Ghana.",
