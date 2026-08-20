@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:32:58.218456+00:00",
+  "generated_at": "2026-08-20T12:34:12.758795+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -10,6 +10,14 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -42,14 +50,6 @@
       "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
       "feed_url": "https://feed.podbean.com/brokentoblessed/feed.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/ab/f8/2cabf8c1-d27e-3aa6-cc45-b88334349dc3/mza_16100941476637424088.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {

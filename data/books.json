@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:32:56.934751+00:00",
+  "generated_at": "2026-08-20T12:34:11.525640+00:00",
   "label": "Books",
   "count": 20,
   "errors": [],
@@ -77,12 +77,30 @@
       "query": "addiction psychology family"
     },
     {
+      "title": "dokument paythologie opfrinte",
+      "authors": "",
+      "published": "2020",
+      "link": "https://openlibrary.org/works/OL20645545W",
+      "description": "",
+      "thumbnail": "",
+      "query": "children parental addiction recovery"
+    },
+    {
       "title": "Sober Mom's Guide to Recovery",
       "authors": "Rosemary O'Connor, Graubart Michael",
       "published": "2015",
       "link": "https://openlibrary.org/works/OL21104983W",
       "description": "",
       "thumbnail": "",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "survival companion for medical students, graduates and interns",
+      "authors": "",
+      "published": "2014",
+      "link": "https://openlibrary.org/works/OL17080236W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/7320614-M.jpg",
       "query": "children parental addiction recovery"
     },
     {
@@ -95,30 +113,12 @@
       "query": "substance use disorder treatment family systems"
     },
     {
-      "title": "Its Not About You Except When It Is A Field Manual For Parents Of Addicted Children",
-      "authors": "Barbara Victoria",
+      "title": "Therapeutic justice and addicted parents",
+      "authors": "Heidee Eileen McMillin",
       "published": "2012",
-      "link": "https://openlibrary.org/works/OL17438016W",
+      "link": "https://openlibrary.org/works/OL16490089W",
       "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/7578344-M.jpg",
-      "query": "children parental addiction recovery"
-    },
-    {
-      "title": "Helping your troubled teen",
-      "authors": "Cynthia Kaplan, Blaise Aguirre, Michael Rater",
-      "published": "2007",
-      "link": "https://openlibrary.org/works/OL17198803W",
-      "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/7367346-M.jpg",
-      "query": "children parental addiction recovery"
-    },
-    {
-      "title": "What You Should Know and Are Afraid to Ask: Drugs Amoung Children and Adolescents",
-      "authors": "Roger H. Jewell, MD, FAPA, Lauro Amezcua-Patino",
-      "published": "2004",
-      "link": "https://openlibrary.org/works/OL11723680M",
-      "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/2776685-M.jpg",
+      "thumbnail": "",
       "query": "children parental addiction recovery"
     },
     {

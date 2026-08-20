@@ -1,16 +1,144 @@
 {
-  "generated_at": "2026-08-19T12:32:47.025460+00:00",
+  "generated_at": "2026-08-20T12:33:59.007371+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
     {
-      "title": "In re: M.A.F., B.W.F., I.J.F.",
-      "link": "https://www.courtlistener.com/opinion/10953421/in-re-maf-bwf-ijf/",
-      "court": "Court of Appeals of North Carolina",
+      "title": "Lasa Extract, LLC v. Zoning Board of Appeals",
+      "link": "https://www.courtlistener.com/opinion/10953945/lasa-extract-llc-v-zoning-board-of-appeals/",
+      "court": "Supreme Court of Connecticut",
+      "date_filed": "2026-08-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re B.W.",
+      "link": "https://www.courtlistener.com/opinion/10953757/in-re-bw/",
+      "court": "Ohio Court of Appeals",
       "date_filed": "2026-08-19",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Laboy",
+      "link": "https://www.courtlistener.com/opinion/10953740/state-v-laboy/",
+      "court": "Superior Court of Delaware",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re the Marriage of Ackerson",
+      "link": "https://www.courtlistener.com/opinion/10953658/in-re-the-marriage-of-ackerson/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re the Marriage of Maxfield",
+      "link": "https://www.courtlistener.com/opinion/10953654/in-re-the-marriage-of-maxfield/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of A.M., A.M., A.M., A.M., A.M., A.P. and A.P., Minor Children",
+      "link": "https://www.courtlistener.com/opinion/10953649/in-the-interest-of-am-am-am-am-am-ap-and-ap-minor/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of E.R., Z.R., and R.R., Minor Children",
+      "link": "https://www.courtlistener.com/opinion/10953647/in-the-interest-of-er-zr-and-rr-minor-children/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of E.T.-L., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10953646/in-the-interest-of-et-l-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of H.S.I., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10953644/in-the-interest-of-hsi-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of I.B., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10953643/in-the-interest-of-ib-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "Vertigo Vapor, L.L.C. v. FDA",
+      "link": "https://www.courtlistener.com/opinion/10953892/vertigo-vapor-llc-v-fda/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Hutchins",
+      "link": "https://www.courtlistener.com/opinion/10953802/people-v-hutchins/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Steven Randall Neal",
+      "link": "https://www.courtlistener.com/opinion/10953775/united-states-v-steven-randall-neal/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Beane",
+      "link": "https://www.courtlistener.com/opinion/10953753/state-v-beane/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Eldabbagh",
+      "link": "https://www.courtlistener.com/opinion/10953723/united-states-v-eldabbagh/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Emigdio Gutierrez and Claudia Mesillas Diaz, Individually and as Parents of Eduardo Gutierrez, and Eduardo Gutierrez, Individually v. Denison Community School District",
+      "link": "https://www.courtlistener.com/opinion/10953665/emigdio-gutierrez-and-claudia-mesillas-diaz-individually-and-as-parents-of/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re W.A.",
+      "link": "https://www.courtlistener.com/opinion/10953699/in-re-wa/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-08-19",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Sunny Day Buskirk v. Dan Hall Hodge, III",
@@ -18,92 +146,20 @@
       "court": "Court of Appeals of Mississippi",
       "date_filed": "2026-08-18",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re P.C.",
-      "link": "https://www.courtlistener.com/opinion/10953285/in-re-pc/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Johnson",
-      "link": "https://www.courtlistener.com/opinion/10953219/state-v-johnson/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "People v. Denham",
-      "link": "https://www.courtlistener.com/opinion/10953212/people-v-denham/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "J P v. J M",
-      "link": "https://www.courtlistener.com/opinion/10953176/j-p-v-j-m/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "United States v. Doyle",
-      "link": "https://www.courtlistener.com/opinion/10953084/united-states-v-doyle/",
-      "court": "Court of Appeals for the Ninth Circuit",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In Re Child of Karen J.",
-      "link": "https://www.courtlistener.com/opinion/10953061/in-re-child-of-karen-j/",
-      "court": "Supreme Judicial Court of Maine",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "R J Reynolds Tobacco Company v. FDA",
-      "link": "https://www.courtlistener.com/opinion/10953377/r-j-reynolds-tobacco-company-v-fda/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Enclade",
-      "link": "https://www.courtlistener.com/opinion/10953376/united-states-v-enclade/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "M.W. v. Super. Ct.",
-      "link": "https://www.courtlistener.com/opinion/10953353/mw-v-super-ct/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Thompson",
-      "link": "https://www.courtlistener.com/opinion/10953315/state-v-thompson/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Thomas Patrick Ramsey v. State of Mississippi",
       "link": "https://www.courtlistener.com/opinion/10953300/thomas-patrick-ramsey-v-state-of-mississippi/",
       "court": "Court of Appeals of Mississippi",
+      "date_filed": "2026-08-18",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re P.C.",
+      "link": "https://www.courtlistener.com/opinion/10953285/in-re-pc/",
+      "court": "California Court of Appeal",
       "date_filed": "2026-08-18",
       "snippet": "",
       "query": "custody modification alcohol abuse"
@@ -187,62 +243,6 @@
       "date_filed": "2026-08-07",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "Shannon Lavon Yancey v. Jaime Nicole Wheeler",
-      "link": "https://www.courtlistener.com/opinion/10942108/shannon-lavon-yancey-v-jaime-nicole-wheeler/",
-      "court": "Court of Civil Appeals of Alabama",
-      "date_filed": "2026-08-07",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of A.W., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10943460/in-the-interest-of-aw-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
-      "date_filed": "2026-08-06",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of O.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2025-12-17",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }
