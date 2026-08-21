@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T12:34:11.525640+00:00",
+  "generated_at": "2026-08-21T12:33:30.146066+00:00",
   "label": "Books",
-  "count": 20,
+  "count": 19,
   "errors": [],
   "items": [
     {
@@ -19,7 +19,7 @@
       "published": "2025",
       "link": "https://openlibrary.org/works/OL42545825W",
       "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/14938675-M.jpg",
+      "thumbnail": "https://covers.openlibrary.org/b/id/14938658-M.jpg",
       "query": "addiction psychology family"
     },
     {
@@ -59,15 +59,6 @@
       "query": "addiction psychology family"
     },
     {
-      "title": "Lost and Found",
-      "authors": "Kim \"Tip\" Frank",
-      "published": "2022",
-      "link": "https://openlibrary.org/works/OL31106501W",
-      "description": "",
-      "thumbnail": "",
-      "query": "addiction psychology family"
-    },
-    {
       "title": "Practicing Prodependence",
       "authors": "Robert Weiss, Kim Buck",
       "published": "2022",
@@ -77,13 +68,40 @@
       "query": "addiction psychology family"
     },
     {
+      "title": "Lost and Found",
+      "authors": "Kim \"Tip\" Frank",
+      "published": "2022",
+      "link": "https://openlibrary.org/works/OL31106501W",
+      "description": "",
+      "thumbnail": "",
+      "query": "addiction psychology family"
+    },
+    {
+      "title": "SOCIAL WORK SPEAKS",
+      "authors": "",
+      "published": "2021",
+      "link": "https://openlibrary.org/works/OL24196332W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/10630544-M.jpg",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
       "title": "dokument paythologie opfrinte",
       "authors": "",
       "published": "2020",
       "link": "https://openlibrary.org/works/OL20645545W",
       "description": "",
       "thumbnail": "",
-      "query": "children parental addiction recovery"
+      "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "NCLEX-RN Premier 2016",
+      "authors": "Barbara J. Irwin",
+      "published": "2016",
+      "link": "https://openlibrary.org/works/OL20895644W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/10229744-M.jpg",
+      "query": "substance use disorder treatment family systems"
     },
     {
       "title": "Sober Mom's Guide to Recovery",
@@ -101,15 +119,24 @@
       "link": "https://openlibrary.org/works/OL17080236W",
       "description": "",
       "thumbnail": "https://covers.openlibrary.org/b/id/7320614-M.jpg",
-      "query": "children parental addiction recovery"
+      "query": "substance use disorder treatment family systems"
     },
     {
-      "title": "Reinforcement-based treatment for substance use disorders",
-      "authors": "L. Michelle Tuten",
-      "published": "2012",
-      "link": "https://openlibrary.org/works/OL15916581W",
+      "title": "Addiction treatment",
+      "authors": "Katherine S. Van Wormer",
+      "published": "2013",
+      "link": "https://openlibrary.org/works/OL16699624W",
       "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/9283530-M.jpg",
+      "thumbnail": "",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
+      "title": "Addictions",
+      "authors": "Barbara S. McCrady, Elizabeth E. Epstein",
+      "published": "2013",
+      "link": "https://openlibrary.org/works/OL20649539W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/9284512-M.jpg",
       "query": "substance use disorder treatment family systems"
     },
     {
@@ -140,33 +167,6 @@
       "query": "family law custody addiction"
     },
     {
-      "title": "Abnormal psychology in a changing world",
-      "authors": "Jeffrey S. Nevid, Spence A Rathus, Beverly Greene",
-      "published": "1994",
-      "link": "https://openlibrary.org/works/OL2681902W",
-      "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/2323040-M.jpg",
-      "query": "substance use disorder treatment family systems"
-    },
-    {
-      "title": "Drugs in perspective",
-      "authors": "Richard Fields",
-      "published": "1994",
-      "link": "https://openlibrary.org/works/OL3238024W",
-      "description": "It has been said that there are four primary drives: hunger, thirst, sex, and our desire to alter our consciousness.",
-      "thumbnail": "https://covers.openlibrary.org/b/id/4660459-M.jpg",
-      "query": "substance use disorder treatment family systems"
-    },
-    {
-      "title": "You mean I'm not lazy, stupid or crazy?!",
-      "authors": "Kate Kelly, Peggy Ramundo, Kate M. Kelly",
-      "published": "1993",
-      "link": "https://openlibrary.org/works/OL2656760W",
-      "description": "Please don't skip this section!",
-      "thumbnail": "https://covers.openlibrary.org/b/id/424898-M.jpg",
-      "query": "substance use disorder treatment family systems"
-    },
-    {
       "title": "The encyclopedia of marriage, divorce, and the family",
       "authors": "Margaret DiCanio",
       "published": "1989",
@@ -174,15 +174,6 @@
       "description": "",
       "thumbnail": "",
       "query": "family law custody addiction"
-    },
-    {
-      "title": "Clinical practice of the dental hygienist",
-      "authors": "Esther M. Wilkins",
-      "published": "1958",
-      "link": "https://openlibrary.org/works/OL2002677W",
-      "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/4273655-M.jpg",
-      "query": "substance use disorder treatment family systems"
     }
   ]
 }
