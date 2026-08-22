@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:33:31.080237+00:00",
+  "generated_at": "2026-08-22T12:25:04.203669+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -61,14 +61,6 @@
       "query": "family law"
     },
     {
-      "title": "For Better or Worse: A Family Law Podcast",
-      "artist": "TALG LAW",
-      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
-      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Divorce and Family Law Strategies with Burnham Law",
       "artist": "Todd Burnham",
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
@@ -77,19 +69,19 @@
       "query": "family law"
     },
     {
-      "title": "The Family Law Podcast",
-      "artist": "Pump Court Chambers",
-      "link": "https://podcasts.apple.com/us/podcast/the-family-law-podcast/id1522264253?uo=4",
-      "feed_url": "https://feeds.acast.com/public/shows/5ef09612aec0805c39660f73",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/34/b1/f3/34b1f3a4-d7aa-01cf-538a-e39b87ba70e7/mza_13671130138539944864.jpeg/100x100bb.jpg",
+      "title": "For Better or Worse: A Family Law Podcast",
+      "artist": "TALG LAW",
+      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
+      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "title": "Children First Family Law - Transforming how families navigate the challenging landscape of divorce.",
+      "artist": "Children First Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/children-first-family-law-transforming-how-families/id1765375431?uo=4",
+      "feed_url": "https://feed.podbean.com/childrenfirstfamilylaw/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/86/33/c9863318-6cdc-1870-82b7-4fb7074a98e0/mza_16434902509882162097.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -98,6 +90,14 @@
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Divorce at Altitude: A Podcast on Colorado Family Law",
+      "artist": "Ryan Kalamaya & Amy Goscha",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-at-altitude-a-podcast-on-colorado-family-law/id1553489538?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/1670362.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/b6/5c/4db65c0e-70ea-d713-3a61-6ccb77bda280/mza_18036746171101985798.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -141,11 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
-      "artist": "Brian A. Victor, Esq.",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/182093.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
+      "title": "The Dr. Laura Podcast",
+      "artist": "Dr. Laura Schlessinger & SiriusXM",
+      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
+      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

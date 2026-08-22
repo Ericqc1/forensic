@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:33:15.812329+00:00",
+  "generated_at": "2026-08-22T12:25:01.758832+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -21,16 +21,72 @@
       "query": "family drug court"
     },
     {
-      "title": "Carly Madison Gregg a/k/a Carley Madison Gregg v. State of Mississippi",
-      "link": "https://www.courtlistener.com/opinion/10954211/carly-madison-gregg-aka-carley-madison-gregg-v-state-of-mississippi/",
+      "title": "United States v. Cisneros",
+      "link": "https://www.courtlistener.com/opinion/10954636/united-states-v-cisneros/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Matter Of: v. Jane Doe, John Doe, John Doe",
+      "link": "https://www.courtlistener.com/opinion/10954617/in-the-matter-of-v-jane-doe-john-doe-john-doe/",
+      "court": "Idaho Court of Appeals",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "LaJeromeny Latez Brown v. State of Alabama",
+      "link": "https://www.courtlistener.com/opinion/10954442/lajeromeny-latez-brown-v-state-of-alabama/",
+      "court": "Court of Criminal Appeals of Alabama",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Martin",
+      "link": "https://www.courtlistener.com/opinion/10954423/united-states-v-martin/",
+      "court": "Court of Appeals for the Second Circuit",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Latoreya Till v. Kenneth King",
+      "link": "https://www.courtlistener.com/opinion/10954744/latoreya-till-v-kenneth-king/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State of Idaho v. Kristin Marlo Zimmerman",
+      "link": "https://www.courtlistener.com/opinion/10954618/state-of-idaho-v-kristin-marlo-zimmerman/",
+      "court": "Idaho Court of Appeals",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "T.L.W. v. State of Alabama",
+      "link": "https://www.courtlistener.com/opinion/10954441/tlw-v-state-of-alabama/",
+      "court": "Court of Criminal Appeals of Alabama",
+      "date_filed": "2026-08-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Johnny Lee House, Jr. a/k/a Johnny House, Jr. a/k/a Johnny House v. State of Mississippi",
+      "link": "https://www.courtlistener.com/opinion/10954665/johnny-lee-house-jr-aka-johnny-house-jr-aka-johnny-house-v-state/",
       "court": "Mississippi Supreme Court",
       "date_filed": "2026-08-20",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
-      "title": "Johnny Lee House, Jr. a/k/a Johnny House, Jr. a/k/a Johnny House v. State of Mississippi",
-      "link": "https://www.courtlistener.com/opinion/10954208/johnny-lee-house-jr-aka-johnny-house-jr-aka-johnny-house-v-state/",
+      "title": "Carly Madison Gregg a/k/a Carley Madison Gregg v. State of Mississippi",
+      "link": "https://www.courtlistener.com/opinion/10954211/carly-madison-gregg-aka-carley-madison-gregg-v-state-of-mississippi/",
       "court": "Mississippi Supreme Court",
       "date_filed": "2026-08-20",
       "snippet": "",
@@ -53,57 +109,17 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re A.G.H.",
-      "link": "https://www.courtlistener.com/opinion/10954076/in-re-agh/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re D.N.W.",
-      "link": "https://www.courtlistener.com/opinion/10954074/in-re-dnw/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re D.W.",
-      "link": "https://www.courtlistener.com/opinion/10954073/in-re-dw/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Brinkman",
-      "link": "https://www.courtlistener.com/opinion/10953950/state-v-brinkman/",
-      "court": "Ohio Supreme Court",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of D.W., J.W., and I.W., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10954330/in-the-interest-of-dw-jw-and-iw-children-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 10th District (Waco)",
+      "title": "Fareed Hayat v. Casey Diaz",
+      "link": "https://www.courtlistener.com/opinion/10954805/fareed-hayat-v-casey-diaz/",
+      "court": "Court of Appeals for the Fourth Circuit",
       "date_filed": "2026-08-20",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "Royal R Davis, Jr. v. State of Indiana",
-      "link": "https://www.courtlistener.com/opinion/10954110/royal-r-davis-jr-v-state-of-indiana/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Joshua Nesbitt",
-      "link": "https://www.courtlistener.com/opinion/10954096/united-states-v-joshua-nesbitt/",
-      "court": "Court of Appeals for the Eighth Circuit",
+      "title": "State v. Connelley",
+      "link": "https://www.courtlistener.com/opinion/10954673/state-v-connelley/",
+      "court": "Court of Appeals of Utah",
       "date_filed": "2026-08-20",
       "snippet": "",
       "query": "family drug court"
@@ -225,22 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:33:05.081239+00:00",
+  "generated_at": "2026-08-22T12:24:49.747505+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -27,14 +27,6 @@
       "published": "Wed, 21 Feb 2024 08:00:00 GMT",
       "summary": "Kansas launching foster care Family Treatment Court court  thebeaconnews.org",
       "query": "\"family drug court\" OR \"family treatment court\""
-    },
-    {
-      "title": "What Families Should Know About Video Game Addiction - Institute for Family Studies",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW9Ndm1PYkQ0dE1xQ2tpMU9LcFFsVk9GeVpucjhoalVYOTJMZlBGRzhqV19PczAxbmFzMmRYSG5IeWRxZVhjLXp6eE9ocU05STMzUVlGRmhmbmtPSVpkSklOX0NOY3ZfWWRwbzk3OVMwMklWQWFyakMwZTBSOEk3VlJIZWRGdw?oc=5",
-      "source": "Institute for Family Studies",
-      "published": "Wed, 20 Nov 2019 08:00:00 GMT",
-      "summary": "What Families Should Know About Video Game Addiction  Institute for Family Studies",
-      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -133,6 +125,14 @@
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
+      "title": "Most Kentucky opioid settlement money is not being spent, new report shows - Kentucky Lantern",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFVlSEw2RXVrb1VLcVNBdVhwZVBZeE1YN3pUdDBZWkxXZ1Npd2NEY2wxQ0xuNXhEQ2V1c1lBd2tXbG9wLUtLWEJONldDc2V4U3huYkpTTEFzaTVzalNrVEVQcHExUlNEYmRyUDZWWU1vZGpzZjFwQ21tSnlUdUdPVXRLUWRoc3BVTTRxMDI5ZWdYcXNRLTV2RVJKZXBWakZEOGhRTWhLYjFwcXItemFPdk5Udw?oc=5",
+      "source": "Kentucky Lantern",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Most Kentucky opioid settlement money is not being spent, new report shows  Kentucky Lantern",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
       "title": "Monaco plans civil union for same-sex couples under proposed family law reform - Riviera Radio",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm1OMUlHX214dG15a1VYXzZwdDZvTmVZMVJ0eGE3XzdzSlVaQ3lNcUJ6SDAzbGNrRGRkUUVzV1Uwc3VUakMtaVVzOGpJZVJKb21BWjYtek8xbVdKcDU0NkFlTER3WURzVm1OdFExcjE5dS1LUGF5UXBMeUZZTXVJQ1pJakNLMjZWd2FTYVFKWEdzcmtxLXNFTW1RWEJDazg5SXY4N01SdnZEVDBKdzh5QTFYc2FONXpsOFByd2U2M0VpVkU?oc=5",
       "source": "Riviera Radio",
@@ -155,6 +155,14 @@
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
       "summary": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights  Altoona Mirror",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+    },
+    {
+      "title": "The vital importance of parental engagement in children’s lives - Psychology Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNW5ud2NvcmtWOHpQMldfQUJ4dWVxaDFCM05na1pmY2FWcERBNnhta2hMZUQ5ME5hM01YY0FRMWtCMkhfXzNSa1A4R2hQMk1aRUQtdkd4b2FRZjNJcG9iYzFwOTBqc0hxSEI3OVhkMHVpVUhWS3BCWlJVLUt4Z1YtNWZrSmF4eGdabnB0emVuREF4UEt1Z1B4N29mUWZIT0FseEpscmg4WlVpMkHSAbABQVVfeXFMTmZ6X21KOWs1MXRMSDR1M0lEd0pUYUFZQ2FublY5dW5kbzZERHRZSXJOdHBhR1lObThQYzN3bzl4Q0hZME1wcm9CZER5LTNwOUVFc01VTE5yb2lqS2xuZnh2Wk00WmVJeW5nNTRLcmhnVnlhWnJsM2NScHN5Y19Pam5UYzZNbi1IY3dHV2R6RllPNFgtUlA1dWptMUNWZGEtSzRLMlBrUW9CdHRmWERlenI?oc=5",
+      "source": "Psychology Today",
+      "published": "Tue, 22 Nov 2016 08:00:00 GMT",
+      "summary": "The vital importance of parental engagement in children’s lives  Psychology Today",
+      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment - Commonwealth of Pennsylvania (.gov)",
@@ -221,19 +229,19 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
-      "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43eXVlckZNRl8ydEJPRlhnaGVjWl9Yb2FJeVBYNFFfUlk0NkRhdEpXeUVXME43RjVleWVQdnkzRW9pczZGUkJadkZQMXlXSmdtUVE4NUtlVUxHYmpxb09BSlhaNVN6NFd4R0ZaV1lmVQ?oc=5",
-      "source": "MedPage Today",
-      "published": "Tue, 11 Aug 2026 16:39:07 GMT",
-      "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  MedPage Today",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
       "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis - KFF Health News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTdTSVNjNEREaG1uMUlVckNfSW9wMW9MRHljYm53amNvN1gzWXJrOHJ1UEpiNHlCX3dfWlpfSUExRGhvTDR3R1Fzd1VTMzJ0MVpvTmNzRXFrRk9IOVV1ZzA5d3c4S2ttLWFRZ1dFbTFzc0IyOGxZY3QyMnZVU0ozWHNDeVRWX3k0MFZ3NzlxWXdxNW1XVDZXdG1wd3NBQ1JNNUtXclR3T1ZRdWZ2dnhTT1lZbw?oc=5",
       "source": "KFF Health News",
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  KFF Health News",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis - MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43eXVlckZNRl8ydEJPRlhnaGVjWl9Yb2FJeVBYNFFfUlk0NkRhdEpXeUVXME43RjVleWVQdnkzRW9pczZGUkJadkZQMXlXSmdtUVE4NUtlVUxHYmpxb09BSlhaNVN6NFd4R0ZaV1lmVQ?oc=5",
+      "source": "MedPage Today",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  MedPage Today",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
@@ -253,14 +261,6 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "Model legislation for audit requirements for opioid settlement fund recipients - Reason Foundation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTVVMXZTNkFYQ1dXbTJaMlI4alNrTTZEUzhaMUttc2VKTy0tTHZCOWlKMll0Y2pKUDdpSGFOOXUwZlh4cnBSb01mNTRXNnpUdFM2YzlDekhtVTRfSlE0cks5X2NNVFBpcFFmcUJXTGRmMlhXUEZJaDhXLUozM1lYWUMwMk1zOXduZTNkODQzOW0tRFdvWEFKOV9HamR3SFlMSlZxTkgwaXRFR09saFE?oc=5",
-      "source": "Reason Foundation",
-      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "summary": "Model legislation for audit requirements for opioid settlement fund recipients  Reason Foundation",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
       "title": "Family Treatment Court looks to help parents on path to recovery - Hudson Star Observer",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMzNEM29qZFZLSFU3UURNOElyXzBCMm05WDJTV3BqdWtINU1MNy1WRVR4c2hiczdqSW9yTHlfOGF0V0dDU1gzajlzNGhhMnRoTFNTSm1yVjdFWngxZGtWRFNiRFQxTi15VzVKZ1ludDF4V0pTOVplXzJBTXFmdjRKMnd2TEpNRTFjNGlLOXpDdFpDbUJ5d3lwaGhCaEJUNzVOOW55dEd5MmdSdzEzeFY4RHdyTl82RmN2STJWVEV0eEY1Qi0xM0x4SzNuYXFVOUVLNmszeDN2bGRwS0xvUUFuUm43UmVRT0p2MWc?oc=5",
       "source": "Hudson Star Observer",
@@ -275,14 +275,6 @@
       "published": "Thu, 21 May 2026 07:00:00 GMT",
       "summary": "ACLU, lawmakers petition to block CYFD strategy for drug-exposed babies  Searchlight New Mexico",
       "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
-      "title": "Forced addiction treatment ‘extremely dangerous and problematic’, groups say - Sudbury News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1YxdmJreEo1Z2YtYmNVa1VLSHN5ZU8tbl8yRExmSDREaUJYUTRsclRqMnBOMGR6bHE3b1VNZ0ZLanhJTHFpbERTM092VFR0UE1TbWJTeTc2OHlQTWZtYXdxYVBINUpRZDl5OFR1VXZtX21VY3JJMXBkWmtXZlZwVUVac2hzcmxwSU1CcjRRdnhBZFJkYXk1QzFfbHNZRUE1M0t0LUhwN0FNQ09JM2dLY01RSUI5MlFK?oc=5",
-      "source": "Sudbury News",
-      "published": "Thu, 20 Aug 2026 18:47:49 GMT",
-      "summary": "Forced addiction treatment ‘extremely dangerous and problematic’, groups say  Sudbury News",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Providers sue Cigna over alleged $12.8 million addiction claims shortfall - Insurance Business",
@@ -301,14 +293,6 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "A Practical Role for Long-Acting Buprenorphine in Opioid Use Disorder Care - Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHlIU3RQZDlYTWFtMW1VV2lDSWdqcFk4SHBOQ1o1cHlsU203YTZiZEJJNXF5YnlxcFRKaUtjcFpXSTFnVEs0RHhTY1UxeEE0cHcteVpqc3JoeEtvcUUxZTZvUWdBaFBOV3JiaDBIX2U5UWJ2eVNHc2pxMkozRjlGc0hWYWxmdk8tcTVLY1pjTFp5ZDVWS2dCbDZhSzRhTnJwV04tdGxPaXhMeDdid1FxVHhR?oc=5",
-      "source": "Psychiatric Times",
-      "published": "Thu, 20 Aug 2026 14:06:44 GMT",
-      "summary": "A Practical Role for Long-Acting Buprenorphine in Opioid Use Disorder Care  Psychiatric Times",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
       "title": "Yankton treatment center for women with substance use disorder set to open - The Dakota Scout",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUFI3ZGYwVjFsemFQVFYtOGZLazRPajJiQUlBNEM5VFlQSGJJeDlMMVhBRV9uN0prV1Bndkp0MTFadFBWdUJaejY0YzBSTUxTb3lMVGtFSXJpWEZQY2JFYktkWEZvNURVWDhuaWdacGpZT3FMUUE?oc=5",
       "source": "The Dakota Scout",
@@ -317,12 +301,28 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "In Shasta, one in 10 moms gives birth with a substance use disorder. A fragmented system is trying to catch up - Shasta Scout",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WMlpNRTB1VDNFNTRwaDZUeTRldjBZY0FVQWdIZldfU2lJNGE4R3FnWDQ1NDRfZWZMLWhkbW5mcGdlWlVUeXAwYXNBRVlOUTVJTllOY2VwczhtVGFmRFE?oc=5",
-      "source": "Shasta Scout",
-      "published": "Thu, 20 Aug 2026 02:57:37 GMT",
-      "summary": "In Shasta, one in 10 moms gives birth with a substance use disorder. A fragmented system is trying to catch up  Shasta Scout",
-      "query": "\"substance use disorder\" treatment OR policy"
+      "title": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment - The Imprint",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFQyZ0tzdUNUMTFwZk5IUTJ6bWdaZXNuc0F2NmJSdTJlekF1UUJjX202cFVEVHNWU2pZRG9GTjJOcjhRM05DdWttVEJZY1EzYTMwQmVkbWV0d05ydDlObHZWSFVZOERaeUNYcHlqeE9XZ1FVYXlPUkQxc3ZhYmR4X3I1WEwwZ0dXcE5ZczloRHlTT0dOc1A2ZWp0MEkyX04wVjBNcTFOS1pFWFBrNTRYSEVzZ1Z6bzJ3NDFmUTVvbDk?oc=5",
+      "source": "The Imprint",
+      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "summary": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment  The Imprint",
+      "query": "\"parental substance use\" child welfare"
+    },
+    {
+      "title": "From opioid settlement transparency to banking deserts, think tank founder talks policy issues in N.M. - Santa Fe New Mexican",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOLWZmdXFsdjkxZG9TVGs1ejFrU0VZY0ZNcm54Qk1XRTl6QXV2YzRGdGdVdUFTLXpGeTI5LWdCRzVtZWV2QmdHWGYxY0VmQXZWS3NCa2RjeVVUd01uQ25VQU01eHZXa0NiY1Y1Q1pIbWRYdEljQldRR2cyOUFvOFY4TjR3X1RRc2hxUEVQZFpsTlNaLUNud0lIWnV2M0hGRWQyeHNicndpb2NmLW81YkZ4R0R4b0ZDUEQwVl82c0tBWkY4UVlZWFdVTENCRUE0Vk1TcHUwaXk5clY0SlAxcU9LdmtzdS1CZHRiQ2c3RVdoSy1PQjEzWjN4YzRYejJhVm45YlliUmt1a3lrMVpUWGpwRFQ2UmFTRmNxYklrd2tTN185cUxFMUE?oc=5",
+      "source": "Santa Fe New Mexican",
+      "published": "Thu, 13 Aug 2026 23:20:00 GMT",
+      "summary": "From opioid settlement transparency to banking deserts, think tank founder talks policy issues in N.M.  Santa Fe New Mexican",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "African Rights Advocates Coordinate Response to Family Law Backlash - ipsnews.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmtmaDBsY2pzbG5yaUNmaGZzRE9tVGV6TFh4UTBteWUxZjU0amdKdWpweFJpNTQ2ZnNURE1nOXo5ZkFDa0Vkb0dLZGs2UzZqd0Z4NVdSNmNrSjR0Njl5RkNRLU9LZmFUc1lFS2pOdjBkZmNxMm11bXRnSGJfbjBTVXVzQnhBN2c3OUo2amZpWHRkX2VLZlVrODBKUTdLRmJNSkE?oc=5",
+      "source": "ipsnews.net",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "summary": "African Rights Advocates Coordinate Response to Family Law Backlash  ipsnews.net",
+      "query": "\"family law reform\""
     }
   ]
 }
