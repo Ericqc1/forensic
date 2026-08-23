@@ -1,23 +1,31 @@
 {
-  "generated_at": "2026-08-22T12:25:04.203669+00:00",
+  "generated_at": "2026-08-23T12:26:00.786430+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
   "items": [
-    {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
     {
       "title": "Addiction Recovery",
       "artist": "Steven T. Ginsburg",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2264723.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery- Living The Program",
+      "artist": "Roy Nichols",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-living-the-program/id1497164303?uo=4",
+      "feed_url": "https://anchor.fm/s/13158110/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/6a/4b/776a4b10-d3f6-142d-30ed-9f8ddf704fc5/mza_12011560638102702388.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -45,12 +53,12 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Broken to Blessed | Addiction Recovery, Marriage + Divorce, Anxiety, Depression for Christians, Mental Health Support",
-      "artist": "Randi Tisdall— Christian Mental Health Support, Addiction Recovery, Overcome Divorce, Self Improvement",
-      "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
-      "feed_url": "https://feed.podbean.com/brokentoblessed/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/ab/f8/2cabf8c1-d27e-3aa6-cc45-b88334349dc3/mza_16100941476637424088.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "query": "family law"
     },
     {
       "title": "Let's Talk Family Law",
@@ -58,14 +66,6 @@
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
       "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
