@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-23T12:26:00.786430+00:00",
+  "generated_at": "2026-08-24T12:35:43.660208+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
   "items": [
+    {
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
     {
       "title": "Addiction Recovery",
       "artist": "Steven T. Ginsburg",
@@ -18,14 +26,6 @@
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-living-the-program/id1497164303?uo=4",
       "feed_url": "https://anchor.fm/s/13158110/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/6a/4b/776a4b10-d3f6-142d-30ed-9f8ddf704fc5/mza_12011560638102702388.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
