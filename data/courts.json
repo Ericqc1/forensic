@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-08-24T12:35:39.680356+00:00",
+  "generated_at": "2026-08-25T12:34:56.027016+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
     {
       "title": "Lasa Extract, LLC v. Zoning Board of Appeals",
-      "link": "https://www.courtlistener.com/opinion/10954386/lasa-extract-llc-v-zoning-board-of-appeals/",
+      "link": "https://www.courtlistener.com/opinion/10957406/lasa-extract-llc-v-zoning-board-of-appeals/",
       "court": "Supreme Court of Connecticut",
+      "date_filed": "2026-08-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "O. C. v. W. I.",
+      "link": "https://www.courtlistener.com/opinion/10956598/o-c-v-w-i/",
+      "court": "Connecticut Appellate Court",
       "date_filed": "2026-08-25",
       "snippet": "",
       "query": "family drug court"
@@ -17,6 +25,62 @@
       "link": "https://www.courtlistener.com/opinion/10954385/state-v-toste/",
       "court": "Supreme Court of Connecticut",
       "date_filed": "2026-08-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Fisher",
+      "link": "https://www.courtlistener.com/opinion/10956594/state-v-fisher/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-08-25",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In re V.O.",
+      "link": "https://www.courtlistener.com/opinion/10956882/in-re-vo/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-08-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re J.H.",
+      "link": "https://www.courtlistener.com/opinion/10956812/in-re-jh/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re J.H.",
+      "link": "https://www.courtlistener.com/opinion/10956811/in-re-jh/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-08-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Doe v. Adventist Health System/West",
+      "link": "https://www.courtlistener.com/opinion/10957017/doe-v-adventist-health-systemwest/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-08-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In Re The Dependency Of L.g.",
+      "link": "https://www.courtlistener.com/opinion/10956860/in-re-the-dependency-of-lg/",
+      "court": "Court of Appeals of Washington",
+      "date_filed": "2026-08-24",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Pereira Alves v. Blanche",
+      "link": "https://www.courtlistener.com/opinion/10956825/pereira-alves-v-blanche/",
+      "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-08-24",
       "snippet": "",
       "query": "family drug court"
     },
@@ -53,49 +117,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Latoreya Till v. Kenneth King",
-      "link": "https://www.courtlistener.com/opinion/10954744/latoreya-till-v-kenneth-king/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-08-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State of Idaho v. Kristin Marlo Zimmerman",
-      "link": "https://www.courtlistener.com/opinion/10954618/state-of-idaho-v-kristin-marlo-zimmerman/",
-      "court": "Idaho Court of Appeals",
-      "date_filed": "2026-08-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "T.L.W. v. State of Alabama",
-      "link": "https://www.courtlistener.com/opinion/10954441/tlw-v-state-of-alabama/",
-      "court": "Court of Criminal Appeals of Alabama",
-      "date_filed": "2026-08-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Gonzalez, Mark Anthony",
       "link": "https://www.courtlistener.com/opinion/10956273/gonzalez-mark-anthony/",
       "court": "Court of Criminal Appeals of Texas",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Johnny Lee House, Jr. a/k/a Johnny House, Jr. a/k/a Johnny House v. State of Mississippi",
-      "link": "https://www.courtlistener.com/opinion/10954665/johnny-lee-house-jr-aka-johnny-house-jr-aka-johnny-house-v-state/",
-      "court": "Mississippi Supreme Court",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Carly Madison Gregg a/k/a Carley Madison Gregg v. State of Mississippi",
-      "link": "https://www.courtlistener.com/opinion/10954211/carly-madison-gregg-aka-carley-madison-gregg-v-state-of-mississippi/",
-      "court": "Mississippi Supreme Court",
       "date_filed": "2026-08-20",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -106,7 +130,7 @@
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-08-20",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In re A.G.-M.",
@@ -115,14 +139,6 @@
       "date_filed": "2026-08-20",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "CHAVEZ, FACUNDO v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10956276/chavez-facundo-v-the-state-of-texas/",
-      "court": "Court of Criminal Appeals of Texas",
-      "date_filed": "2026-08-20",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In the Interest of I.B., Minor Child",
@@ -227,22 +243,6 @@
       "date_filed": "2026-08-07",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "Shannon Lavon Yancey v. Jaime Nicole Wheeler",
-      "link": "https://www.courtlistener.com/opinion/10942108/shannon-lavon-yancey-v-jaime-nicole-wheeler/",
-      "court": "Court of Civil Appeals of Alabama",
-      "date_filed": "2026-08-07",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }

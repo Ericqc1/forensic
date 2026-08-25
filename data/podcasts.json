@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:35:43.660208+00:00",
+  "generated_at": "2026-08-25T12:34:59.711139+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -93,11 +93,11 @@
       "query": "family law"
     },
     {
-      "title": "Divorce at Altitude: A Podcast on Colorado Family Law",
-      "artist": "Ryan Kalamaya & Amy Goscha",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-at-altitude-a-podcast-on-colorado-family-law/id1553489538?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/1670362.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/b6/5c/4db65c0e-70ea-d713-3a61-6ccb77bda280/mza_18036746171101985798.jpg/100x100bb.jpg",
+      "title": "The Family Law Podcast",
+      "artist": "Pump Court Chambers",
+      "link": "https://podcasts.apple.com/us/podcast/the-family-law-podcast/id1522264253?uo=4",
+      "feed_url": "https://feeds.acast.com/public/shows/5ef09612aec0805c39660f73",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/34/b1/f3/34b1f3a4-d7aa-01cf-538a-e39b87ba70e7/mza_13671130138539944864.jpeg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -117,6 +117,14 @@
       "query": "child custody"
     },
     {
+      "title": "The Dr. Laura Podcast",
+      "artist": "Dr. Laura Schlessinger & SiriusXM",
+      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
+      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
       "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
       "artist": "LazetteMichelle",
       "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
@@ -133,19 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
-      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
-      "title": "The Dr. Laura Podcast",
-      "artist": "Dr. Laura Schlessinger & SiriusXM",
-      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
-      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
+      "artist": "Brian A. Victor, Esq.",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/182093.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
