@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-28T21:38:39.021899+00:00",
+  "generated_at": "2026-08-29T16:02:02.896234+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Pena v. Starr County, Texas",
+      "link": "https://www.courtlistener.com/opinion/10961724/pena-v-starr-county-texas/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-08-28",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re A.M.",
       "link": "https://www.courtlistener.com/opinion/10961618/in-re-am/",
@@ -88,14 +96,6 @@
       "title": "Steve O'Neal Green v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10960690/steve-oneal-green-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 10th District (Waco)",
-      "date_filed": "2026-08-27",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re I.T.",
-      "link": "https://www.courtlistener.com/opinion/10960504/in-re-it/",
-      "court": "Ohio Court of Appeals",
       "date_filed": "2026-08-27",
       "snippet": "",
       "query": "child custody substance abuse"

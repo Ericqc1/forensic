@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:38:42.923495+00:00",
+  "generated_at": "2026-08-29T16:02:07.177551+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Broken to Blessed | Addiction Recovery, Marriage + Divorce, Anxiety, Depression for Christians, Mental Health Support",
-      "artist": "Randi Tisdall— Christian Mental Health Support, Addiction Recovery, Overcome Divorce, Self Improvement",
-      "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
-      "feed_url": "https://feed.podbean.com/brokentoblessed/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/ab/f8/2cabf8c1-d27e-3aa6-cc45-b88334349dc3/mza_16100941476637424088.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery- Living The Program",
+      "artist": "Roy Nichols",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-living-the-program/id1497164303?uo=4",
+      "feed_url": "https://anchor.fm/s/13158110/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/6a/4b/776a4b10-d3f6-142d-30ed-9f8ddf704fc5/mza_12011560638102702388.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -117,6 +117,14 @@
       "query": "child custody"
     },
     {
+      "title": "The Dr. Laura Podcast",
+      "artist": "Dr. Laura Schlessinger & SiriusXM",
+      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
+      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
       "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
       "artist": "LazetteMichelle",
       "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
@@ -130,14 +138,6 @@
       "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2402459.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
-      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
-      "artist": "Brian A. Victor, Esq.",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/182093.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
