@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-08-30T15:51:26.120678+00:00",
+  "generated_at": "2026-08-31T18:35:18.169337+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re A.H.",
+      "link": "https://www.courtlistener.com/opinion/10962999/in-re-ah/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-08-31",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "FNCB Bank & Trust v. MK Deliveries, Inc.",
+      "link": "https://www.courtlistener.com/opinion/10962987/fncb-bank-trust-v-mk-deliveries-inc/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-08-31",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Utah Vapor Business Association v. State of Utah",
+      "link": "https://www.courtlistener.com/opinion/10962964/utah-vapor-business-association-v-state-of-utah/",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "date_filed": "2026-08-31",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Shannon MacDonald v. President NJ State Board of Medical Examiners",
+      "link": "https://www.courtlistener.com/opinion/10962954/shannon-macdonald-v-president-nj-state-board-of-medical-examiners/",
+      "court": "Court of Appeals for the Third Circuit",
+      "date_filed": "2026-08-31",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Victoria W. v. State",
+      "link": "https://www.courtlistener.com/opinion/10962721/victoria-w-v-state/",
+      "court": "Alaska Supreme Court",
+      "date_filed": "2026-08-28",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Pena v. Starr County, Texas",
       "link": "https://www.courtlistener.com/opinion/10961724/pena-v-starr-county-texas/",
@@ -16,14 +56,6 @@
       "title": "In re A.M.",
       "link": "https://www.courtlistener.com/opinion/10961618/in-re-am/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-28",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Victoria W. v. State of Alaska, Department of Family & Community Services, Office of Children's Services",
-      "link": "https://www.courtlistener.com/opinion/10961610/victoria-w-v-state-of-alaska-department-of-family-community-services/",
-      "court": "Alaska Supreme Court",
       "date_filed": "2026-08-28",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -69,20 +101,12 @@
       "query": "family drug court"
     },
     {
-      "title": "Marriage of Traweek",
-      "link": "https://www.courtlistener.com/opinion/10961547/marriage-of-traweek/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-08-28",
+      "title": "In the Matter of Mishra",
+      "link": "https://www.courtlistener.com/opinion/10960509/in-the-matter-of-mishra/",
+      "court": "Court of Special Appeals of Maryland",
+      "date_filed": "2026-08-27",
       "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Cronick v. City of Colorado Springs",
-      "link": "https://www.courtlistener.com/opinion/10961290/cronick-v-city-of-colorado-springs/",
-      "court": "Court of Appeals for the Tenth Circuit",
-      "date_filed": "2026-08-28",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In re Matthew V.",
@@ -90,23 +114,7 @@
       "court": "Connecticut Appellate Court",
       "date_filed": "2026-08-27",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Steve O'Neal Green v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10960690/steve-oneal-green-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 10th District (Waco)",
-      "date_filed": "2026-08-27",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Matter of Mishra",
-      "link": "https://www.courtlistener.com/opinion/10960509/in-the-matter-of-mishra/",
-      "court": "Court of Special Appeals of Maryland",
-      "date_filed": "2026-08-27",
-      "snippet": "",
-      "query": "parental rights termination addiction"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "People v. Hazlett",
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
       "court": "Court of Appeals of North Carolina",
       "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of O.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
