@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-31T18:35:18.169337+00:00",
+  "generated_at": "2026-09-01T15:54:20.914500+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Presti",
+      "link": "https://www.courtlistener.com/opinion/10963144/state-v-presti/",
+      "court": "Hawaii Intermediate Court of Appeals",
+      "date_filed": "2026-08-31",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re A.H.",
       "link": "https://www.courtlistener.com/opinion/10962999/in-re-ah/",
@@ -77,14 +85,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of: C.L.",
-      "link": "https://www.courtlistener.com/opinion/10961556/in-the-interest-of-cl/",
-      "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-08-28",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "A.H. v. N.H.",
       "link": "https://www.courtlistener.com/opinion/10961619/ah-v-nh/",
       "court": "Ohio Court of Appeals",
@@ -96,6 +96,14 @@
       "title": "United States v. Velez-Ramirez",
       "link": "https://www.courtlistener.com/opinion/10961604/united-states-v-velez-ramirez/",
       "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-08-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of: C.L.",
+      "link": "https://www.courtlistener.com/opinion/10961556/in-the-interest-of-cl/",
+      "court": "Superior Court of Pennsylvania",
       "date_filed": "2026-08-28",
       "snippet": "",
       "query": "family drug court"
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
       "court": "Supreme Court of Pennsylvania",
       "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
