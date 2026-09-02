@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:54:15.691115+00:00",
+  "generated_at": "2026-09-02T15:46:38.679143+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -91,6 +91,14 @@
       "authors": "Sharma A, Mita C, Dozier K et al.",
       "published": "2026 Jul",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "A Preliminary Evaluation of Daily and Momentary Variability in Parenting Practices During Adolescent Alcohol Use and Co-Occurring Disorders Treatment.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42683011/",
+      "journal": "Substance use : research and treatment",
+      "authors": "Meisel SN, Iyigun A, Deras B et al.",
+      "published": "2026 Jan-Dec",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Exploring Health Care Provider Knowledge and Perceptions of Family Support for Patients With Substance Use Disorders.",
@@ -235,14 +243,6 @@
       "authors": "Davis SH, Kurlychek M, Jones AA",
       "published": "2026",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Quality of life, stress and its coping strategies among the parents of children with autism spectrum disorder in Kathmandu Valley: A mixed method study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42627810/",
-      "journal": "PLOS global public health",
-      "authors": "Basan S, Arjyal A, Bhandary S",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Sustained abstinence after a methamphetamine-specific treatment program for pregnant and parenting women.",
