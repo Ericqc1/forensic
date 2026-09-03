@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-02T15:46:38.679143+00:00",
+  "generated_at": "2026-09-03T15:36:10.224715+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
+    {
+      "title": "Substance Use Disorders in Adolescents with Bipolar Disorder: A Developmental Approach to Assessment and Treatment.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42686314/",
+      "journal": "Child and adolescent psychiatric clinics of North America",
+      "authors": "Fortuna LR, Najaryan S, Duarte E et al.",
+      "published": "2026 Oct",
+      "query": "co-occurring disorders family therapy"
+    },
     {
       "title": "Impact of abstinence on employment, education, and health outcomes in Egyptian SUD rehabilitation clients: A three-year prospective study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42067142/",
@@ -11,6 +19,14 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Navigating Consent and Confidentiality in Adolescent Substance Use Treatment.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42686310/",
+      "journal": "Child and adolescent psychiatric clinics of North America",
+      "authors": "Alam S, Kaliamurthy S",
+      "published": "2026 Oct",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Longitudinal associations between parental rejection, school engagement and gaming disorder symptoms among Chinese adolescents: Disentangling between- and within-person effects.",
@@ -133,14 +149,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Integrated treatment of posttraumatic stress disorder and substance use disorders for adolescents and youth: current evidence and future directions.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42464802/",
-      "journal": "European journal of psychotraumatology",
-      "authors": "Hahn AM, Back SE, Hesse DR et al.",
-      "published": "2026 Dec",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Integrative Residential Treatment of Co-Occurring Borderline and Narcissistic Personality Dysfunction: Perspectives from the Gunderson Residence.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42578475/",
       "journal": "Harvard review of psychiatry",
@@ -186,14 +194,6 @@
       "journal": "Social science & medicine (1982)",
       "authors": "Ciraldo K, Plesons M, Sansbury G et al.",
       "published": "2026 Aug 15",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Understanding the Impact of Living Situation and Social Satisfaction on Depression and Substance Use in Autistic Young Adults Without Intellectual Disability.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42643833/",
-      "journal": "Autism in adulthood",
-      "authors": "Contreras-Pérez ME, Tao X, Vezina O et al.",
-      "published": "2026 Aug 10",
       "query": "children of parents with substance use disorder"
     },
     {

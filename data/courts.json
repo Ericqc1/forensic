@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-02T15:46:56.655498+00:00",
+  "generated_at": "2026-09-03T15:36:14.804571+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Allen v. Whitehead",
+      "link": "https://www.courtlistener.com/opinion/10965876/allen-v-whitehead/",
+      "court": "District of Columbia Court of Appeals",
+      "date_filed": "2026-09-03",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Commonwealth v. Kuykendall",
+      "link": "https://www.courtlistener.com/opinion/10965825/commonwealth-v-kuykendall/",
+      "court": "Supreme Court of Virginia",
+      "date_filed": "2026-09-03",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People v. Shawn A.",
+      "link": "https://www.courtlistener.com/opinion/10965903/people-v-shawn-a/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-09-03",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Johnson v. United States",
+      "link": "https://www.courtlistener.com/opinion/10965840/johnson-v-united-states/",
+      "court": "District of Columbia Court of Appeals",
+      "date_filed": "2026-09-03",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re As.D.",
+      "link": "https://www.courtlistener.com/opinion/10965019/in-re-asd/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-02",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In the Interest of A.B., Minor Child",
       "link": "https://www.courtlistener.com/opinion/10964853/in-the-interest-of-ab-minor-child/",
@@ -53,24 +93,24 @@
       "query": "parental rights termination addiction"
     },
     {
+      "title": "United States v. Younes Nasri",
+      "link": "https://www.courtlistener.com/opinion/10964998/united-states-v-younes-nasri/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-09-02",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. McDaniel",
+      "link": "https://www.courtlistener.com/opinion/10964934/state-v-mcdaniel/",
+      "court": "Court of Appeals of Oregon",
+      "date_filed": "2026-09-02",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "In re the Marriage of Clark",
       "link": "https://www.courtlistener.com/opinion/10964856/in-re-the-marriage-of-clark/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of C.O., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10964850/in-the-interest-of-co-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of N.N. and J.T., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10964843/in-the-interest-of-nn-and-jt-minor-children/",
       "court": "Court of Appeals of Iowa",
       "date_filed": "2026-09-02",
       "snippet": "",
@@ -85,28 +125,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re A.M.",
-      "link": "https://www.courtlistener.com/opinion/10963876/in-re-am/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-01",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Alyson Kate Coltrain v. State of Mississippi",
-      "link": "https://www.courtlistener.com/opinion/10963799/alyson-kate-coltrain-v-state-of-mississippi/",
-      "court": "Court of Appeals of Mississippi",
-      "date_filed": "2026-09-01",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "Henderson, J. v. Kardosh, J.",
       "link": "https://www.courtlistener.com/opinion/10963747/henderson-j-v-kardosh-j/",
       "court": "Superior Court of Pennsylvania",
       "date_filed": "2026-09-01",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Victoria W. v. State",
@@ -153,14 +177,6 @@
       "link": "https://www.courtlistener.com/opinion/10958349/state-of-louisiana-v-donald-dewayne-white-ii/",
       "court": "Louisiana Court of Appeal",
       "date_filed": "2026-08-26",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In re D.W.",
-      "link": "https://www.courtlistener.com/opinion/10957671/in-re-dw/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-08-25",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
@@ -225,22 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
       "court": "Supreme Court of Pennsylvania",
       "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of O.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
