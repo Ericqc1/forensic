@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-04T15:34:48.797812+00:00",
+  "generated_at": "2026-09-05T14:22:40.180060+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Ivy Sisson v. State of Indiana",
+      "link": "https://www.courtlistener.com/opinion/10967398/ivy-sisson-v-state-of-indiana/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-09-04",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. All Petroleum-Product Cargo Aboard the Achilleas With International Maritime Organization Number 9398072",
+      "link": "https://www.courtlistener.com/opinion/10967453/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-04",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Braucher v. Durrani",
       "link": "https://www.courtlistener.com/opinion/10967303/braucher-v-durrani/",
@@ -19,6 +35,14 @@
       "date_filed": "2026-09-04",
       "snippet": "",
       "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of P.G., Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10967540/in-the-interest-of-pg-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 11th District (Eastland)",
+      "date_filed": "2026-09-03",
+      "snippet": "",
+      "query": "child custody substance abuse"
     },
     {
       "title": "In re M.J.",
@@ -61,17 +85,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "People v. Shawn A.",
-      "link": "https://www.courtlistener.com/opinion/10965903/people-v-shawn-a/",
+      "title": "People v. Key",
+      "link": "https://www.courtlistener.com/opinion/10967488/people-v-key/",
       "court": "Appellate Division of the Supreme Court of the State of New York",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Johnson v. United States",
-      "link": "https://www.courtlistener.com/opinion/10965840/johnson-v-united-states/",
-      "court": "District of Columbia Court of Appeals",
       "date_filed": "2026-09-03",
       "snippet": "",
       "query": "family drug court"
@@ -85,24 +101,16 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of A.B., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10964853/in-the-interest-of-ab-minor-child/",
+      "title": "In the Interest of A.A., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10964854/in-the-interest-of-aa-minor-child/",
       "court": "Court of Appeals of Iowa",
       "date_filed": "2026-09-02",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In the Interest of C.H., Minor Child",
       "link": "https://www.courtlistener.com/opinion/10964851/in-the-interest-of-ch-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of A.A., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10964854/in-the-interest-of-aa-minor-child/",
       "court": "Court of Appeals of Iowa",
       "date_filed": "2026-09-02",
       "snippet": "",
@@ -163,14 +171,6 @@
       "date_filed": "2026-08-27",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "State of Louisiana v. Donald Dewayne White, II",
-      "link": "https://www.courtlistener.com/opinion/10958349/state-of-louisiana-v-donald-dewayne-white-ii/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-08-26",
-      "snippet": "",
-      "query": "parental rights termination addiction"
     },
     {
       "title": "State v. Fisher",
