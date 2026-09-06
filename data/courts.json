@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:22:40.180060+00:00",
+  "generated_at": "2026-09-06T14:45:11.032297+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -173,6 +173,14 @@
       "query": "custody modification alcohol abuse"
     },
     {
+      "title": "Denis Ramirez-Barahona v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10968566/denis-ramirez-barahona-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 3rd District (Austin)",
+      "date_filed": "2026-08-25",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
       "title": "State v. Fisher",
       "link": "https://www.courtlistener.com/opinion/10956594/state-v-fisher/",
       "court": "Connecticut Appellate Court",
@@ -200,14 +208,6 @@
       "title": "Thomas Patrick Ramsey v. State of Mississippi",
       "link": "https://www.courtlistener.com/opinion/10953300/thomas-patrick-ramsey-v-state-of-mississippi/",
       "court": "Court of Appeals of Mississippi",
-      "date_filed": "2026-08-18",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In re P.C.",
-      "link": "https://www.courtlistener.com/opinion/10953285/in-re-pc/",
-      "court": "California Court of Appeal",
       "date_filed": "2026-08-18",
       "snippet": "",
       "query": "custody modification alcohol abuse"
