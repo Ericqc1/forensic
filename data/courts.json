@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:45:11.032297+00:00",
+  "generated_at": "2026-09-07T17:01:19.182473+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -85,6 +85,14 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "In the Interest of J.M. and L.J., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10968758/in-the-interest-of-jm-and-lj-children-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-09-03",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
       "title": "People v. Key",
       "link": "https://www.courtlistener.com/opinion/10967488/people-v-key/",
       "court": "Appellate Division of the Supreme Court of the State of New York",
@@ -145,14 +153,6 @@
       "link": "https://www.courtlistener.com/opinion/10961571/netchoice-llc-v-jonathan-skrmetti/",
       "court": "Court of Appeals for the Sixth Circuit",
       "date_filed": "2026-08-28",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Matter of Mishra",
-      "link": "https://www.courtlistener.com/opinion/10960509/in-the-matter-of-mishra/",
-      "court": "Court of Special Appeals of Maryland",
-      "date_filed": "2026-08-27",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
