@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:02:24.603026+00:00",
+  "generated_at": "2026-09-08T15:48:43.454022+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -53,14 +53,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "For Better or Worse: A Family Law Podcast",
-      "artist": "TALG LAW",
-      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
-      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
@@ -77,14 +69,6 @@
       "query": "family law"
     },
     {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Donuts & Divorce: A Family Law Podcast",
       "artist": "Dorothy O'Neil",
       "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
@@ -93,11 +77,27 @@
       "query": "family law"
     },
     {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Family Law Now",
       "artist": "Family Law Now",
       "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
       "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Talking Family Law - The Resolution Podcast",
+      "artist": "Resolution",
+      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
+      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
