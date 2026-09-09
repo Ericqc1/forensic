@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-09-08T15:48:43.454022+00:00",
+  "generated_at": "2026-09-09T15:44:44.038224+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
   "items": [
-    {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
     {
       "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
       "artist": "Jesse Mogle",
@@ -29,11 +21,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -42,6 +34,14 @@
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
       "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -61,11 +61,11 @@
       "query": "family law"
     },
     {
-      "title": "Let's Talk Family Law",
-      "artist": "Let's Talk Family Law",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
-      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -77,14 +77,6 @@
       "query": "family law"
     },
     {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Now",
       "artist": "Family Law Now",
       "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
@@ -93,11 +85,19 @@
       "query": "family law"
     },
     {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "title": "For Better or Worse: A Family Law Podcast",
+      "artist": "TALG LAW",
+      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
+      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Men's Family Law Podcast",
+      "artist": "David T. Pisarra Esq",
+      "link": "https://podcasts.apple.com/us/podcast/mens-family-law-podcast/id796760052?uo=4",
+      "feed_url": "https://mensfamilylaw.libsyn.com/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/d6/de/add6de49-8b24-a55d-f682-bfb8e50209d8/mza_3156040087987163384.png/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -141,11 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
-      "artist": "Brian A. Victor, Esq.",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/182093.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
+      "title": "The Emily Show",
+      "artist": "Baker Media, LLC.",
+      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
+      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

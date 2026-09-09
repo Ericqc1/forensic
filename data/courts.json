@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:48:29.553811+00:00",
+  "generated_at": "2026-09-09T15:44:23.934658+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -13,8 +13,32 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "Marriage of Jessica L. and Sammer Z.",
+      "link": "https://www.courtlistener.com/opinion/10969303/marriage-of-jessica-l-and-sammer-z/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-09-08",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Ostertag",
+      "link": "https://www.courtlistener.com/opinion/10969126/united-states-v-ostertag/",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "date_filed": "2026-09-08",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Jeffrey Donelle Hampton v. Commonwealth of Virginia",
+      "link": "https://www.courtlistener.com/opinion/10969111/jeffrey-donelle-hampton-v-commonwealth-of-virginia/",
+      "court": "Court of Appeals of Virginia",
+      "date_filed": "2026-09-08",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "Santos v. Blanche",
-      "link": "https://www.courtlistener.com/opinion/10969033/santos-v-blanche/",
+      "link": "https://www.courtlistener.com/opinion/10969054/santos-v-blanche/",
       "court": "Court of Appeals for the Second Circuit",
       "date_filed": "2026-09-08",
       "snippet": "",
@@ -27,6 +51,14 @@
       "date_filed": "2026-09-08",
       "snippet": "",
       "query": "family drug court"
+    },
+    {
+      "title": "In re D.M.",
+      "link": "https://www.courtlistener.com/opinion/10969266/in-re-dm/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-04",
+      "snippet": "",
+      "query": "child custody substance abuse"
     },
     {
       "title": "Ivy Sisson v. State of Indiana",
@@ -48,14 +80,6 @@
       "title": "Braucher v. Durrani",
       "link": "https://www.courtlistener.com/opinion/10967303/braucher-v-durrani/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Dr. Lesley Williams v. Board of Regents of the University System of Georgia",
-      "link": "https://www.courtlistener.com/opinion/10967268/dr-lesley-williams-v-board-of-regents-of-the-university-system-of-georgia/",
-      "court": "Court of Appeals for the Eleventh Circuit",
       "date_filed": "2026-09-04",
       "snippet": "",
       "query": "family drug court"
@@ -101,28 +125,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Commonwealth v. Kuykendall",
-      "link": "https://www.courtlistener.com/opinion/10965825/commonwealth-v-kuykendall/",
-      "court": "Supreme Court of Virginia",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "In the Interest of J.M. and L.J., Children v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10968758/in-the-interest-of-jm-and-lj-children-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
       "date_filed": "2026-09-03",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "People v. Key",
-      "link": "https://www.courtlistener.com/opinion/10967488/people-v-key/",
-      "court": "Appellate Division of the Supreme Court of the State of New York",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In re As.D.",
@@ -225,14 +233,6 @@
       "link": "https://www.courtlistener.com/opinion/10953699/in-re-wa/",
       "court": "California Court of Appeal",
       "date_filed": "2026-08-19",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "Sunny Day Buskirk v. Dan Hall Hodge, III",
-      "link": "https://www.courtlistener.com/opinion/10953301/sunny-day-buskirk-v-dan-hall-hodge-iii/",
-      "court": "Court of Appeals of Mississippi",
-      "date_filed": "2026-08-18",
       "snippet": "",
       "query": "custody modification alcohol abuse"
     },
