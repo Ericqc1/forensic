@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-09T15:44:23.934658+00:00",
+  "generated_at": "2026-09-10T15:39:29.304213+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State of Maine v. Duane D. Hanson",
+      "link": "https://www.courtlistener.com/opinion/10970454/state-of-maine-v-duane-d-hanson/",
+      "court": "Supreme Judicial Court of Maine",
+      "date_filed": "2026-09-10",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In Re Term of Parental Rights as to R.T.",
+      "link": "https://www.courtlistener.com/opinion/10970010/in-re-term-of-parental-rights-as-to-rt/",
+      "court": "Court of Appeals of Arizona",
+      "date_filed": "2026-09-09",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "J.T. v. M",
+      "link": "https://www.courtlistener.com/opinion/10970349/jt-v-m/",
+      "court": "Hawaii Intermediate Court of Appeals",
+      "date_filed": "2026-09-09",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Riddlespriger",
+      "link": "https://www.courtlistener.com/opinion/10970216/people-v-riddlespriger/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-09-09",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Trevino",
+      "link": "https://www.courtlistener.com/opinion/10970167/state-v-trevino/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-09",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Joseph Olson",
+      "link": "https://www.courtlistener.com/opinion/10970153/united-states-v-joseph-olson/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-09-09",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Khan v. Khan",
       "link": "https://www.courtlistener.com/opinion/10968979/khan-v-khan/",
@@ -13,41 +61,17 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "Old Town Hall Associates, LLC v. City of Seaford Board of Adjustments and Appeals",
+      "link": "https://www.courtlistener.com/opinion/10970012/old-town-hall-associates-llc-v-city-of-seaford-board-of-adjustments-and/",
+      "court": "Superior Court of Delaware",
+      "date_filed": "2026-09-08",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "Marriage of Jessica L. and Sammer Z.",
       "link": "https://www.courtlistener.com/opinion/10969303/marriage-of-jessica-l-and-sammer-z/",
       "court": "California Court of Appeal",
-      "date_filed": "2026-09-08",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Ostertag",
-      "link": "https://www.courtlistener.com/opinion/10969126/united-states-v-ostertag/",
-      "court": "Court of Appeals for the Tenth Circuit",
-      "date_filed": "2026-09-08",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Jeffrey Donelle Hampton v. Commonwealth of Virginia",
-      "link": "https://www.courtlistener.com/opinion/10969111/jeffrey-donelle-hampton-v-commonwealth-of-virginia/",
-      "court": "Court of Appeals of Virginia",
-      "date_filed": "2026-09-08",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Santos v. Blanche",
-      "link": "https://www.courtlistener.com/opinion/10969054/santos-v-blanche/",
-      "court": "Court of Appeals for the Second Circuit",
-      "date_filed": "2026-09-08",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Hernaiz",
-      "link": "https://www.courtlistener.com/opinion/10968978/state-v-hernaiz/",
-      "court": "Connecticut Appellate Court",
       "date_filed": "2026-09-08",
       "snippet": "",
       "query": "family drug court"
@@ -67,22 +91,6 @@
       "date_filed": "2026-09-04",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "United States v. All Petroleum-Product Cargo Aboard the Achilleas With International Maritime Organization Number 9398072",
-      "link": "https://www.courtlistener.com/opinion/10967453/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-04",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Braucher v. Durrani",
-      "link": "https://www.courtlistener.com/opinion/10967303/braucher-v-durrani/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-04",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In the Interest of P.G., Child v. the State of Texas",
@@ -112,14 +120,6 @@
       "title": "State v. Thompson",
       "link": "https://www.courtlistener.com/opinion/10965974/state-v-thompson/",
       "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Allen v. Whitehead",
-      "link": "https://www.courtlistener.com/opinion/10965876/allen-v-whitehead/",
-      "court": "District of Columbia Court of Appeals",
       "date_filed": "2026-09-03",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -189,14 +189,6 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "NetChoice, LLC v. Jonathan Skrmetti",
-      "link": "https://www.courtlistener.com/opinion/10961571/netchoice-llc-v-jonathan-skrmetti/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-08-28",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "In re Matthew V.",
       "link": "https://www.courtlistener.com/opinion/10960737/in-re-matthew-v/",
       "court": "Connecticut Appellate Court",
@@ -241,6 +233,14 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
+      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
+      "court": "Louisiana Court of Appeal",
+      "date_filed": "2026-04-08",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
