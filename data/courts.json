@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-10T15:39:29.304213+00:00",
+  "generated_at": "2026-09-11T15:40:55.566106+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Care and Protection of Prince",
+      "link": "https://www.courtlistener.com/opinion/10971921/care-and-protection-of-prince/",
+      "court": "Massachusetts Appeals Court",
+      "date_filed": "2026-09-11",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "State of Maine v. Duane D. Hanson",
       "link": "https://www.courtlistener.com/opinion/10970454/state-of-maine-v-duane-d-hanson/",
@@ -111,14 +119,6 @@
     {
       "title": "In re Y.D.",
       "link": "https://www.courtlistener.com/opinion/10965981/in-re-yd/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Thompson",
-      "link": "https://www.courtlistener.com/opinion/10965974/state-v-thompson/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-03",
       "snippet": "",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:39:35.662390+00:00",
+  "generated_at": "2026-09-11T15:41:15.409313+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -69,19 +69,19 @@
       "query": "family law"
     },
     {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Donuts & Divorce: A Family Law Podcast",
       "artist": "Dorothy O'Neil",
       "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2136014.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -99,14 +99,6 @@
       "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
       "query": "family law"
-    },
-    {
-      "title": "Divorce University Online",
-      "artist": "Tammy R. Ferreira",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-university-online/id1436132600?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/130058/destinations/788883.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/01/c5/05/01c50584-56f0-adf9-d1fc-1e5de75cc981/mza_1213016517412160408.png/100x100bb.jpg",
-      "query": "child custody"
     },
     {
       "title": "Father X: How Fathers Can Win Child Custody",
@@ -138,6 +130,14 @@
       "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2402459.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Divorce University Online",
+      "artist": "Tammy R. Ferreira",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-university-online/id1436132600?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/130058/destinations/788883.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/01/c5/05/01c50584-56f0-adf9-d1fc-1e5de75cc981/mza_1213016517412160408.png/100x100bb.jpg",
       "query": "child custody"
     },
     {
