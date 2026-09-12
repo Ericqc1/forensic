@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-11T15:40:35.588210+00:00",
+  "generated_at": "2026-09-12T14:53:22.139608+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
+    {
+      "title": "Integrative Residential Treatment of Co-Occurring Borderline and Narcissistic Personality Dysfunction: Perspectives from the Gunderson Residence.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42578475/",
+      "journal": "Harvard review of psychiatry",
+      "authors": "Jacob KL, Unruh BT",
+      "published": "2026 Sep-Oct 01",
+      "query": "co-occurring disorders family therapy"
+    },
     {
       "title": "Trends in Well-Being and Opportunities to Support Caregivers of Individuals With Fetal Alcohol Spectrum Disorder Across the Lifespan.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42704307/",
@@ -155,14 +163,6 @@
       "authors": "Schuster AM, Alwan NA, Callard F et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Integrative Residential Treatment of Co-Occurring Borderline and Narcissistic Personality Dysfunction: Perspectives from the Gunderson Residence.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42578475/",
-      "journal": "Harvard review of psychiatry",
-      "authors": "Jacob KL, Unruh BT",
-      "published": "2026 Aug 6",
-      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Stakeholder views on implementing a novel addiction screening and prevention tool in a hospital setting: A qualitative study.",

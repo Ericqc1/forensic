@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:40:55.566106+00:00",
+  "generated_at": "2026-09-12T14:53:25.355622+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -9,6 +9,54 @@
       "link": "https://www.courtlistener.com/opinion/10971921/care-and-protection-of-prince/",
       "court": "Massachusetts Appeals Court",
       "date_filed": "2026-09-11",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Matter of Derius L",
+      "link": "https://www.courtlistener.com/opinion/10972149/matter-of-derius-l/",
+      "court": "Alaska Supreme Court",
+      "date_filed": "2026-09-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Fletcher",
+      "link": "https://www.courtlistener.com/opinion/10972117/state-v-fletcher/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Putallez",
+      "link": "https://www.courtlistener.com/opinion/10972059/people-v-putallez/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-09-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Stonehill v. Central Intelligence Agency",
+      "link": "https://www.courtlistener.com/opinion/10972056/stonehill-v-central-intelligence-agency/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-11",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of E.T. and J.T., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10972163/in-the-interest-of-et-and-jt-children-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 13th District",
+      "date_filed": "2026-09-10",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Tracey Edwards v. Benita Witherspoon",
+      "link": "https://www.courtlistener.com/opinion/10972090/tracey-edwards-v-benita-witherspoon/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-09-10",
       "snippet": "",
       "query": "child custody substance abuse"
     },
@@ -45,22 +93,6 @@
       "query": "family drug court"
     },
     {
-      "title": "State v. Trevino",
-      "link": "https://www.courtlistener.com/opinion/10970167/state-v-trevino/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-09",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Joseph Olson",
-      "link": "https://www.courtlistener.com/opinion/10970153/united-states-v-joseph-olson/",
-      "court": "Court of Appeals for the Eleventh Circuit",
-      "date_filed": "2026-09-09",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Khan v. Khan",
       "link": "https://www.courtlistener.com/opinion/10968979/khan-v-khan/",
       "court": "Connecticut Appellate Court",
@@ -69,20 +101,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Old Town Hall Associates, LLC v. City of Seaford Board of Adjustments and Appeals",
-      "link": "https://www.courtlistener.com/opinion/10970012/old-town-hall-associates-llc-v-city-of-seaford-board-of-adjustments-and/",
-      "court": "Superior Court of Delaware",
-      "date_filed": "2026-09-08",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Marriage of Jessica L. and Sammer Z.",
       "link": "https://www.courtlistener.com/opinion/10969303/marriage-of-jessica-l-and-sammer-z/",
       "court": "California Court of Appeal",
       "date_filed": "2026-09-08",
       "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In re D.M.",
@@ -104,22 +128,6 @@
       "title": "In the Interest of P.G., Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10967540/in-the-interest-of-pg-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 11th District (Eastland)",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re M.J.",
-      "link": "https://www.courtlistener.com/opinion/10965982/in-re-mj/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re Y.D.",
-      "link": "https://www.courtlistener.com/opinion/10965981/in-re-yd/",
-      "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-03",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
