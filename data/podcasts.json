@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:53:30.167432+00:00",
+  "generated_at": "2026-09-13T15:26:48.993480+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -61,6 +61,22 @@
       "query": "family law"
     },
     {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Let's Talk Family Law",
+      "artist": "Let's Talk Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
+      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
@@ -77,36 +93,12 @@
       "query": "family law"
     },
     {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Now",
       "artist": "Family Law Now",
       "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
       "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
       "query": "family law"
-    },
-    {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Father X: How Fathers Can Win Child Custody",
-      "artist": "Father X",
-      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
-      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
-      "query": "child custody"
     },
     {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
@@ -133,19 +125,27 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce University Online",
-      "artist": "Tammy R. Ferreira",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-university-online/id1436132600?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/130058/destinations/788883.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/01/c5/05/01c50584-56f0-adf9-d1fc-1e5de75cc981/mza_1213016517412160408.png/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "The Dr. Laura Podcast",
       "artist": "Dr. Laura Schlessinger & SiriusXM",
       "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
       "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Father X: How Fathers Can Win Child Custody",
+      "artist": "Father X",
+      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
+      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "The Emily Show",
+      "artist": "Baker Media, LLC.",
+      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
+      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
