@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-13T15:26:40.441554+00:00",
+  "generated_at": "2026-09-14T17:24:00.727379+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Cedar Park Assembly of God of Kirkland, Washington v. Patty Kuderer",
+      "link": "https://www.courtlistener.com/opinion/10973165/cedar-park-assembly-of-god-of-kirkland-washington-v-patty-kuderer/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Carlier",
+      "link": "https://www.courtlistener.com/opinion/10973154/state-v-carlier/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Care and Protection of Prince",
       "link": "https://www.courtlistener.com/opinion/10971921/care-and-protection-of-prince/",
@@ -14,7 +30,7 @@
     },
     {
       "title": "Matter of Derius L",
-      "link": "https://www.courtlistener.com/opinion/10972149/matter-of-derius-l/",
+      "link": "https://www.courtlistener.com/opinion/10973104/matter-of-derius-l/",
       "court": "Alaska Supreme Court",
       "date_filed": "2026-09-11",
       "snippet": "",
@@ -75,22 +91,6 @@
       "date_filed": "2026-09-09",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "J.T. v. M",
-      "link": "https://www.courtlistener.com/opinion/10970349/jt-v-m/",
-      "court": "Hawaii Intermediate Court of Appeals",
-      "date_filed": "2026-09-09",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Riddlespriger",
-      "link": "https://www.courtlistener.com/opinion/10970216/people-v-riddlespriger/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-09-09",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "Khan v. Khan",

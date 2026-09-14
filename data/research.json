@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:26:38.054039+00:00",
+  "generated_at": "2026-09-14T17:23:58.097996+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -11,6 +11,14 @@
       "authors": "Jacob KL, Unruh BT",
       "published": "2026 Sep-Oct 01",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Disruptive, Impulse-Control, & Conduct Disorders in South Korean Children & Adolescents.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42732779/",
+      "journal": "Psychiatry investigation",
+      "authors": "Go J, Lee JH, Jo M et al.",
+      "published": "2026 Sep",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Trends in Well-Being and Opportunities to Support Caregivers of Individuals With Fetal Alcohol Spectrum Disorder Across the Lifespan.",
@@ -101,6 +109,14 @@
       "query": "family drug treatment court effectiveness"
     },
     {
+      "title": "Opioid Use and Overdose Among Justice-Involved Individuals: A Cross-Sectional Study of Social Determinants of Health.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42734585/",
+      "journal": "International journal of addiction nursing",
+      "authors": "Sutter-Barrett R, Spencer NRB, Elnahas N et al.",
+      "published": "2026 Jul-Sep 01",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Hardiness and care-related stress in Iranian Alzheimer's caregivers: a cross-sectional study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42391257/",
       "journal": "British journal of community nursing",
@@ -179,22 +195,6 @@
       "authors": "Shirley K, Bolts O, Pinto LA et al.",
       "published": "2026 Aug 24",
       "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Integrated Education Models for Addressing Substance Use Among Schoolchildren: A Scoping Review of School-Based Educational Interventions.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42652389/",
-      "journal": "International journal of environmental research and public health",
-      "authors": "Bajpai Tewari D, Gautam U, Jaiswal V et al.",
-      "published": "2026 Aug 18",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Mandated supporting, not reporting: Reimagining maternal health care for women who use drugs.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42648254/",
-      "journal": "Social science & medicine (1982)",
-      "authors": "Ciraldo K, Plesons M, Sansbury G et al.",
-      "published": "2026 Aug 15",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Treatment Experiences of Individuals With Co-Occurring Mental Health and Substance Use Disorders and Perspectives of Mental Health Workers in Ashanti Region, Ghana.",
