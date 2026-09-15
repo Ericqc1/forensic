@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-14T17:24:00.727379+00:00",
+  "generated_at": "2026-09-15T16:01:39.000790+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Bergin v. N.Y. State Unified Court System",
+      "link": "https://www.courtlistener.com/opinion/10974169/bergin-v-ny-state-unified-court-system/",
+      "court": "Court of Appeals for the Second Circuit",
+      "date_filed": "2026-09-15",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "T.L.P. v. The People of the State of Colorado, In the Interest of Minor Child: T.T.M.P., and Concerning B.M.L.T.",
+      "link": "https://www.courtlistener.com/opinion/10974034/tlp-v-the-people-of-the-state-of-colorado-in-the-interest-of-minor/",
+      "court": "Supreme Court of Colorado",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Durrett, J. v. Durrett, D.",
+      "link": "https://www.courtlistener.com/opinion/10973394/durrett-j-v-durrett-d/",
+      "court": "Superior Court of Pennsylvania",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re P.L.",
+      "link": "https://www.courtlistener.com/opinion/10973328/in-re-pl/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Trilleras Gomez v. Mullin",
+      "link": "https://www.courtlistener.com/opinion/10973381/trilleras-gomez-v-mullin/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Megalomedia v. Philadelphia Indemnity",
+      "link": "https://www.courtlistener.com/opinion/10973259/megalomedia-v-philadelphia-indemnity/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-09-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Cedar Park Assembly of God of Kirkland, Washington v. Patty Kuderer",
       "link": "https://www.courtlistener.com/opinion/10973165/cedar-park-assembly-of-god-of-kirkland-washington-v-patty-kuderer/",
@@ -37,30 +85,6 @@
       "query": "family drug court"
     },
     {
-      "title": "State v. Fletcher",
-      "link": "https://www.courtlistener.com/opinion/10972117/state-v-fletcher/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-11",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Putallez",
-      "link": "https://www.courtlistener.com/opinion/10972059/people-v-putallez/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-09-11",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Stonehill v. Central Intelligence Agency",
-      "link": "https://www.courtlistener.com/opinion/10972056/stonehill-v-central-intelligence-agency/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-11",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In the Interest of E.T. and J.T., Children v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10972163/in-the-interest-of-et-and-jt-children-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 13th District",
@@ -75,14 +99,6 @@
       "date_filed": "2026-09-10",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "State of Maine v. Duane D. Hanson",
-      "link": "https://www.courtlistener.com/opinion/10970454/state-of-maine-v-duane-d-hanson/",
-      "court": "Supreme Judicial Court of Maine",
-      "date_filed": "2026-09-10",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In Re Term of Parental Rights as to R.T.",
@@ -109,33 +125,17 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "In re D.M.",
-      "link": "https://www.courtlistener.com/opinion/10969266/in-re-dm/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-04",
+      "title": "In the Interest of J.M. and L.J., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10968758/in-the-interest-of-jm-and-lj-children-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-09-03",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Ivy Sisson v. State of Indiana",
-      "link": "https://www.courtlistener.com/opinion/10967398/ivy-sisson-v-state-of-indiana/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-09-04",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In the Interest of P.G., Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10967540/in-the-interest-of-pg-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 11th District (Eastland)",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of J.M. and L.J., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10968758/in-the-interest-of-jm-and-lj-children-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
       "date_filed": "2026-09-03",
       "snippet": "",
       "query": "parental rights termination addiction"
@@ -229,18 +229,18 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "In re W.A.",
-      "link": "https://www.courtlistener.com/opinion/10953699/in-re-wa/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-08-19",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
+      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
+      "court": "Louisiana Court of Appeal",
+      "date_filed": "2026-04-08",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

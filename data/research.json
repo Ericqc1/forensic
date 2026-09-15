@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:23:58.097996+00:00",
+  "generated_at": "2026-09-15T16:01:34.616922+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -125,14 +125,6 @@
       "query": "family law psychology addiction"
     },
     {
-      "title": "A nonrandomised feasibility evaluation of a home‑based intervention for parents of adolescents with learning disabilities, with or without autism.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42469481/",
-      "journal": "European journal of pediatrics",
-      "authors": "Absoud M, Rush C, Mackey L et al.",
-      "published": "2026 Jul 17",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Family-centered interventions for people with substance use disorders in low-and middle-income country settings: a scoping review.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42091009/",
       "journal": "The International journal on drug policy",
@@ -179,14 +171,6 @@
       "authors": "Schuster AM, Alwan NA, Callard F et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Stakeholder views on implementing a novel addiction screening and prevention tool in a hospital setting: A qualitative study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42665053/",
-      "journal": "Journal of substance use and addiction treatment",
-      "authors": "Dash GF, Balcke E, Poore H et al.",
-      "published": "2026 Aug 28",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "A qualitative study of veteran and provider perspectives on a novel acute care transitions intervention for co-occurring mood and substance use disorders.",
@@ -243,6 +227,22 @@
       "authors": "Davis SH, Kurlychek M, Jones AA",
       "published": "2026",
       "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Applying an F-words lens to planning intervention for a child with autism: a retrospective case report with prospective follow-up.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42741051/",
+      "journal": "Frontiers in psychiatry",
+      "authors": "Govender P, Livingstone RW, Hidalgo-Robles Á et al.",
+      "published": "2026",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Collaborative knowledge mobilisation to increase awareness and use of new SNOMED clinical terms for fetal alcohol spectrum disorder in England.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42740923/",
+      "journal": "Frontiers in public health",
+      "authors": "Parsonage JTI, Dillon A, Millington L et al.",
+      "published": "2026",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Sustained abstinence after a methamphetamine-specific treatment program for pregnant and parenting women.",
