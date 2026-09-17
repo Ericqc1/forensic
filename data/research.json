@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:54:54.051118+00:00",
+  "generated_at": "2026-09-17T16:01:14.855300+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -11,6 +11,14 @@
       "authors": "Jacob KL, Unruh BT",
       "published": "2026 Sep-Oct 01",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Adolescent suicidal distress and adult mental health: findings from a 25-year population based cohort.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42747516/",
+      "journal": "European child & adolescent psychiatry",
+      "authors": "Civita A, Colman I, Orri M et al.",
+      "published": "2026 Sep 16",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Disruptive, Impulse-Control, & Conduct Disorders in South Korean Children & Adolescents.",
@@ -85,14 +93,6 @@
       "query": "family law psychology addiction"
     },
     {
-      "title": "Psychometric Properties of the Drug Stigma Scale Among Community Pharmacists Concerning Individuals Who Use Over-The-Counter Drugs.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41775666/",
-      "journal": "Neuropsychopharmacology reports",
-      "authors": "Katayama M, Shimane T, Shirakawa N et al.",
-      "published": "2026 Mar",
-      "query": "family law psychology addiction"
-    },
-    {
       "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42365295/",
       "journal": "Substance abuse treatment, prevention, and policy",
@@ -131,14 +131,6 @@
       "authors": "Sharma A, Mita C, Dozier K et al.",
       "published": "2026 Jul",
       "query": "substance use disorder relapse family dynamics"
-    },
-    {
-      "title": "A Preliminary Evaluation of Daily and Momentary Variability in Parenting Practices During Adolescent Alcohol Use and Co-Occurring Disorders Treatment.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42683011/",
-      "journal": "Substance use : research and treatment",
-      "authors": "Meisel SN, Iyigun A, Deras B et al.",
-      "published": "2026 Jan-Dec",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Exploring Health Care Provider Knowledge and Perceptions of Family Support for Patients With Substance Use Disorders.",
@@ -235,6 +227,14 @@
       "authors": "Govender P, Livingstone RW, Hidalgo-Robles Á et al.",
       "published": "2026",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Means of Recreational Cannabis Supply and Distribution Channels: Perceptions of Consumers, Consumers/Sellers, and Law Enforcement-A Grounded Theory Approach.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41863447/",
+      "journal": "Substance use & misuse",
+      "authors": "Rezag Bara SF, Bayle G, Wallez S et al.",
+      "published": "2026",
+      "query": "family law psychology addiction"
     },
     {
       "title": "Collaborative knowledge mobilisation to increase awareness and use of new SNOMED clinical terms for fetal alcohol spectrum disorder in England.",

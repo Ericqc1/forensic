@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-16T15:54:59.536541+00:00",
+  "generated_at": "2026-09-17T16:01:25.541818+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Khan",
+      "link": "https://www.courtlistener.com/opinion/10975527/state-v-khan/",
+      "court": "Supreme Court of Connecticut",
+      "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Alisigwe",
+      "link": "https://www.courtlistener.com/opinion/10975580/united-states-v-alisigwe/",
+      "court": "Court of Appeals for the Second Circuit",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Interest of P.R.M.",
+      "link": "https://www.courtlistener.com/opinion/10975630/interest-of-prm/",
+      "court": "South Dakota Supreme Court",
+      "date_filed": "2026-09-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People v. Chambers",
+      "link": "https://www.courtlistener.com/opinion/10975420/people-v-chambers/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-09-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Jason Lynch v. Arkansas Department of Human Services and Minor Children",
       "link": "https://www.courtlistener.com/opinion/10974593/jason-lynch-v-arkansas-department-of-human-services-and-minor-children/",
@@ -37,6 +69,38 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "Savage v. City of Springfield",
+      "link": "https://www.courtlistener.com/opinion/10975315/savage-v-city-of-springfield/",
+      "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-09-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re D.C.",
+      "link": "https://www.courtlistener.com/opinion/10975310/in-re-dc/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Sujan v. UHS Corona",
+      "link": "https://www.courtlistener.com/opinion/10975282/sujan-v-uhs-corona/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-09-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Kindra O'Bryant v. DCP&P",
+      "link": "https://www.courtlistener.com/opinion/10974707/kindra-obryant-v-dcpp/",
+      "court": "Court of Appeals for the Third Circuit",
+      "date_filed": "2026-09-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "Christopher Shelley v. Arkansas Office of Child Support Enforcement and Megan Johnson",
       "link": "https://www.courtlistener.com/opinion/10974598/christopher-shelley-v-arkansas-office-of-child-support-enforcement-and/",
       "court": "Court of Appeals of Arkansas",
@@ -50,39 +114,7 @@
       "court": "Court of Appeals of Arkansas",
       "date_filed": "2026-09-16",
       "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In re: S.A. & K.A.",
-      "link": "https://www.courtlistener.com/opinion/10974535/in-re-sa-ka/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Johnson",
-      "link": "https://www.courtlistener.com/opinion/10974517/state-v-johnson/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Z. Maas",
-      "link": "https://www.courtlistener.com/opinion/10974430/state-v-z-maas/",
-      "court": "Montana Supreme Court",
-      "date_filed": "2026-09-15",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re Affidavit for Criminal Complaint Filed by Benson",
-      "link": "https://www.courtlistener.com/opinion/10974398/in-re-affidavit-for-criminal-complaint-filed-by-benson/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-15",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Jordan v. Jordan",
@@ -90,7 +122,7 @@
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-15",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In re Marriage of Howard",
@@ -106,7 +138,7 @@
       "court": "Texas Court of Appeals, 6th District (Texarkana)",
       "date_filed": "2026-09-14",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "In re P.L.",
@@ -209,38 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of O.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
