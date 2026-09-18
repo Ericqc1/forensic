@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:01:14.855300+00:00",
+  "generated_at": "2026-09-18T15:36:23.718244+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -149,6 +149,14 @@
       "query": "family drug treatment court effectiveness"
     },
     {
+      "title": "Addiction Psychotherapeutic Care.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36508539/",
+      "journal": "",
+      "authors": "Chakraborty A, McGee M, Yilanli M",
+      "published": "2026 Jan",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
       "title": "Reno-protective effects of statins among patients with chronic kidney disease in Hong Kong: a target trial emulation.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41732195/",
       "journal": "EClinicalMedicine",
@@ -177,14 +185,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42544863/",
       "journal": "Health expectations : an international journal of public participation in health care and health policy",
       "authors": "Darko G, Anokye GA, Yinzooya YM et al.",
-      "published": "2026 Aug",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Outpatient Young Adults with Concurrent Disorders: A Naturalistic Study of Clinical Characteristics and DBT Skills Training Outcomes.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42527049/",
-      "journal": "Early intervention in psychiatry",
-      "authors": "Cowie KD, Weller A, Griffin M et al.",
       "published": "2026 Aug",
       "query": "co-occurring disorders family therapy"
     },

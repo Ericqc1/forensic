@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:01:25.541818+00:00",
+  "generated_at": "2026-09-18T15:36:30.775685+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -19,6 +19,38 @@
       "date_filed": "2026-09-17",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Senior",
+      "link": "https://www.courtlistener.com/opinion/10975899/united-states-v-senior/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Allen",
+      "link": "https://www.courtlistener.com/opinion/10975789/state-v-allen/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Allen",
+      "link": "https://www.courtlistener.com/opinion/10975788/state-v-allen/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Colvin",
+      "link": "https://www.courtlistener.com/opinion/10975785/state-v-colvin/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Interest of P.R.M.",
@@ -69,41 +101,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Savage v. City of Springfield",
-      "link": "https://www.courtlistener.com/opinion/10975315/savage-v-city-of-springfield/",
-      "court": "Court of Appeals for the First Circuit",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In re D.C.",
-      "link": "https://www.courtlistener.com/opinion/10975310/in-re-dc/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Sujan v. UHS Corona",
-      "link": "https://www.courtlistener.com/opinion/10975282/sujan-v-uhs-corona/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Kindra O'Bryant v. DCP&P",
-      "link": "https://www.courtlistener.com/opinion/10974707/kindra-obryant-v-dcpp/",
-      "court": "Court of Appeals for the Third Circuit",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Christopher Shelley v. Arkansas Office of Child Support Enforcement and Megan Johnson",
-      "link": "https://www.courtlistener.com/opinion/10974598/christopher-shelley-v-arkansas-office-of-child-support-enforcement-and/",
-      "court": "Court of Appeals of Arkansas",
+      "title": "Davenport v. Secretary of Health and Human Services",
+      "link": "https://www.courtlistener.com/opinion/10975647/davenport-v-secretary-of-health-and-human-services/",
+      "court": "United States Court of Federal Claims",
       "date_filed": "2026-09-16",
       "snippet": "",
       "query": "family drug court"
