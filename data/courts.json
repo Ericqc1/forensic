@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:36:30.775685+00:00",
+  "generated_at": "2026-09-19T15:10:17.543002+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -9,6 +9,62 @@
       "link": "https://www.courtlistener.com/opinion/10975527/state-v-khan/",
       "court": "Supreme Court of Connecticut",
       "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re J.Z.",
+      "link": "https://www.courtlistener.com/opinion/10976932/in-re-jz/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-18",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "S.G. v. A.A.",
+      "link": "https://www.courtlistener.com/opinion/10976840/sg-v-aa/",
+      "court": "Superior Court of Pennsylvania",
+      "date_filed": "2026-09-18",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Monikang v. U.S. Equal Employment Opportunity Commission",
+      "link": "https://www.courtlistener.com/opinion/10976832/monikang-v-us-equal-employment-opportunity-commission/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-18",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Commw. of Ky. v. Express Scripts, Inc.",
+      "link": "https://www.courtlistener.com/opinion/10976816/commw-of-ky-v-express-scripts-inc/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-09-18",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Jordan Hunter v. State",
+      "link": "https://www.courtlistener.com/opinion/10976797/jordan-hunter-v-state/",
+      "court": "Court of Appeals of Georgia",
+      "date_filed": "2026-09-18",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "G.R. v. B.H.",
+      "link": "https://www.courtlistener.com/opinion/10976933/gr-v-bh/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-18",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults",
+      "link": "https://www.courtlistener.com/opinion/10976760/application-of-18-usc-922b1-and-c1-to-young-adults/",
+      "court": "Department of Justice Office of Legal Counsel",
+      "date_filed": "2026-09-17",
       "snippet": "",
       "query": "child custody substance abuse"
     },
@@ -45,14 +101,6 @@
       "query": "family drug court"
     },
     {
-      "title": "State v. Colvin",
-      "link": "https://www.courtlistener.com/opinion/10975785/state-v-colvin/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Interest of P.R.M.",
       "link": "https://www.courtlistener.com/opinion/10975630/interest-of-prm/",
       "court": "South Dakota Supreme Court",
@@ -75,38 +123,6 @@
       "date_filed": "2026-09-16",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "Katie Montelongo v. Arkansas Department of Human Services and Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10974590/katie-montelongo-v-arkansas-department-of-human-services-and-minor/",
-      "court": "Court of Appeals of Arkansas",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Paula Raney v. Arkansas Department of Human Services and Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10974583/paula-raney-v-arkansas-department-of-human-services-and-minor-child/",
-      "court": "Court of Appeals of Arkansas",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Miller",
-      "link": "https://www.courtlistener.com/opinion/10974515/state-v-miller/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Davenport v. Secretary of Health and Human Services",
-      "link": "https://www.courtlistener.com/opinion/10975647/davenport-v-secretary-of-health-and-human-services/",
-      "court": "United States Court of Federal Claims",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "Michael Enns v. Lindsay Lipke",
@@ -227,22 +243,6 @@
       "date_filed": "2026-08-31",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In re Matthew V.",
-      "link": "https://www.courtlistener.com/opinion/10960737/in-re-matthew-v/",
-      "court": "Connecticut Appellate Court",
-      "date_filed": "2026-08-27",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }

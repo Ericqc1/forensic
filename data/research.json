@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:36:23.718244+00:00",
+  "generated_at": "2026-09-19T15:09:52.678039+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -10,6 +10,22 @@
       "journal": "Harvard review of psychiatry",
       "authors": "Jacob KL, Unruh BT",
       "published": "2026 Sep-Oct 01",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Association between medications for opioid use disorder and child removals.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42759706/",
+      "journal": "Journal of substance use and addiction treatment",
+      "authors": "Quast T, Bright M, Lofwall MR et al.",
+      "published": "2026 Sep 18",
+      "query": "parental addiction child welfare outcomes"
+    },
+    {
+      "title": "An Accessible Approach to Molecular and Biomarker Testing for Risk Stratification in Oral Cavity Squamous Cell Carcinoma.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42758366/",
+      "journal": "Head and neck pathology",
+      "authors": "Afkhami M, Haghighi N, Ma H et al.",
+      "published": "2026 Sep 18",
       "query": "co-occurring disorders family therapy"
     },
     {
@@ -181,14 +197,6 @@
       "query": "co-occurring disorders family therapy"
     },
     {
-      "title": "Treatment Experiences of Individuals With Co-Occurring Mental Health and Substance Use Disorders and Perspectives of Mental Health Workers in Ashanti Region, Ghana.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42544863/",
-      "journal": "Health expectations : an international journal of public participation in health care and health policy",
-      "authors": "Darko G, Anokye GA, Yinzooya YM et al.",
-      "published": "2026 Aug",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Observational trial of the preventive impact of a social risk factor focused program for co-occurring opioid and methamphetamine use disorders and suicide risk in parents: study protocol.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42032776/",
       "journal": "Addiction science & clinical practice",
@@ -273,14 +281,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/40786726/",
       "journal": "Journal of social work (London, England)",
       "authors": "Martinez NG, Kramer CT, Hayes CM et al.",
-      "published": "2025 May",
-      "query": "parental addiction child welfare outcomes"
-    },
-    {
-      "title": "Understanding parents' experience navigating substance use treatment and the child welfare system.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/40057238/",
-      "journal": "Journal of substance use and addiction treatment",
-      "authors": "Dir AL, Batch BL, Aalsma MC",
       "published": "2025 May",
       "query": "parental addiction child welfare outcomes"
     },
