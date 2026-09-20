@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:10:17.543002+00:00",
+  "generated_at": "2026-09-20T15:14:36.267066+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -77,6 +77,14 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "Otteson, Kory Nicholas",
+      "link": "https://www.courtlistener.com/opinion/10978150/otteson-kory-nicholas/",
+      "court": "Court of Criminal Appeals of Texas",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "United States v. Senior",
       "link": "https://www.courtlistener.com/opinion/10975899/united-states-v-senior/",
       "court": "District Court, District of Columbia",
@@ -87,14 +95,6 @@
     {
       "title": "State v. Allen",
       "link": "https://www.courtlistener.com/opinion/10975789/state-v-allen/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Allen",
-      "link": "https://www.courtlistener.com/opinion/10975788/state-v-allen/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-17",
       "snippet": "",

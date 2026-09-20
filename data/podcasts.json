@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-19T15:10:39.329951+00:00",
+  "generated_at": "2026-09-20T15:15:11.160036+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
   "items": [
     {
-      "title": "Let's Talk Addiction & Recovery",
-      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -21,11 +21,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "title": "Let's Talk Addiction & Recovery",
+      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Talkin' Trash Addiction Recovery Podcast",
+      "artist": "Talkin' Trash",
+      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
+      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -37,19 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Talkin' Trash Addiction Recovery Podcast",
-      "artist": "Talkin' Trash",
-      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
-      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -93,11 +93,11 @@
       "query": "family law"
     },
     {
-      "title": "California Family Law Insights",
-      "artist": "Hopper Hopper & Strebe LLP",
-      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
+      "title": "The California Divorce and Family Law Podcast",
+      "artist": "Veronika Melamed: Certified as a Specialist in Family Law by The California",
+      "link": "https://podcasts.apple.com/us/podcast/the-california-divorce-and-family-law-podcast/id1435967502?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/112489/destinations/628920.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/05/95/d5/0595d58f-e49d-c886-09d2-8438bb2055c2/mza_5032657953067359376.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
