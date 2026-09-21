@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T15:14:36.267066+00:00",
+  "generated_at": "2026-09-21T17:38:20.172002+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -9,6 +9,22 @@
       "link": "https://www.courtlistener.com/opinion/10975527/state-v-khan/",
       "court": "Supreme Court of Connecticut",
       "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Padilla v. United States Immigration and Customs Enforcement",
+      "link": "https://www.courtlistener.com/opinion/10978253/padilla-v-united-states-immigration-and-customs-enforcement/",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of K. A., S. A., D. G. and D. G., Children v. Department of Family and Protective Services",
+      "link": "https://www.courtlistener.com/opinion/10978176/in-the-interest-of-k-a-s-a-d-g-and-d-g-children-v-department-of/",
+      "court": "Texas Court of Appeals, 1st District (Houston)",
+      "date_filed": "2026-09-18",
       "snippet": "",
       "query": "child custody substance abuse"
     },
@@ -61,6 +77,14 @@
       "query": "custody modification alcohol abuse"
     },
     {
+      "title": "In the Interest of M.T., H.T., R.T., K.T., and G.T., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10978168/in-the-interest-of-mt-ht-rt-kt-and-gt-children-v-the-state/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-09-17",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
       "title": "Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults",
       "link": "https://www.courtlistener.com/opinion/10976760/application-of-18-usc-922b1-and-c1-to-young-adults/",
       "court": "Department of Justice Office of Legal Counsel",
@@ -85,41 +109,9 @@
       "query": "family drug court"
     },
     {
-      "title": "United States v. Senior",
-      "link": "https://www.courtlistener.com/opinion/10975899/united-states-v-senior/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Allen",
-      "link": "https://www.courtlistener.com/opinion/10975789/state-v-allen/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Interest of P.R.M.",
       "link": "https://www.courtlistener.com/opinion/10975630/interest-of-prm/",
       "court": "South Dakota Supreme Court",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "People v. Chambers",
-      "link": "https://www.courtlistener.com/opinion/10975420/people-v-chambers/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Jason Lynch v. Arkansas Department of Human Services and Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10974593/jason-lynch-v-arkansas-department-of-human-services-and-minor-children/",
-      "court": "Court of Appeals of Arkansas",
       "date_filed": "2026-09-16",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -213,22 +205,6 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "In the Interest of C.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10964851/in-the-interest-of-ch-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of L.M., B.S., and P.H., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/10964844/in-the-interest-of-lm-bs-and-ph-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "Henderson, J. v. Kardosh, J.",
       "link": "https://www.courtlistener.com/opinion/10963747/henderson-j-v-kardosh-j/",
       "court": "Superior Court of Pennsylvania",
@@ -243,6 +219,30 @@
       "date_filed": "2026-08-31",
       "snippet": "",
       "query": "custody modification alcohol abuse"
+    },
+    {
+      "title": "In the Interest of I.G., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 7th District (Amarillo)",
+      "date_filed": "2026-06-16",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
+      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
+      "court": "Louisiana Court of Appeal",
+      "date_filed": "2026-04-08",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
+      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-03-26",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
     }
   ]
 }
