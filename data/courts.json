@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:38:20.172002+00:00",
+  "generated_at": "2026-09-22T16:04:37.108161+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -11,6 +11,70 @@
       "date_filed": "2026-09-22",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "Chanda Callaway v. Mason Adcock",
+      "link": "https://www.courtlistener.com/opinion/10979213/chanda-callaway-v-mason-adcock/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Monikang v. Federal Communications Commission",
+      "link": "https://www.courtlistener.com/opinion/10979009/monikang-v-federal-communications-commission/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Centeno",
+      "link": "https://www.courtlistener.com/opinion/10978528/people-v-centeno/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re A.H.",
+      "link": "https://www.courtlistener.com/opinion/10978390/in-re-ah/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re L.H.",
+      "link": "https://www.courtlistener.com/opinion/10978389/in-re-lh/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Com. v. Thomas, C.",
+      "link": "https://www.courtlistener.com/opinion/10978342/com-v-thomas-c/",
+      "court": "Superior Court of Pennsylvania",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "F.L. v. Superior Court",
+      "link": "https://www.courtlistener.com/opinion/10978316/fl-v-superior-court/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Abdulla v. Trudeau",
+      "link": "https://www.courtlistener.com/opinion/10978378/abdulla-v-trudeau/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-21",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Padilla v. United States Immigration and Customs Enforcement",
@@ -37,38 +101,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "S.G. v. A.A.",
-      "link": "https://www.courtlistener.com/opinion/10976840/sg-v-aa/",
-      "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-09-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Monikang v. U.S. Equal Employment Opportunity Commission",
-      "link": "https://www.courtlistener.com/opinion/10976832/monikang-v-us-equal-employment-opportunity-commission/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-18",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Commw. of Ky. v. Express Scripts, Inc.",
-      "link": "https://www.courtlistener.com/opinion/10976816/commw-of-ky-v-express-scripts-inc/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-09-18",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Jordan Hunter v. State",
-      "link": "https://www.courtlistener.com/opinion/10976797/jordan-hunter-v-state/",
-      "court": "Court of Appeals of Georgia",
-      "date_filed": "2026-09-18",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "G.R. v. B.H.",
       "link": "https://www.courtlistener.com/opinion/10976933/gr-v-bh/",
       "court": "Ohio Court of Appeals",
@@ -82,39 +114,7 @@
       "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
       "date_filed": "2026-09-17",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults",
-      "link": "https://www.courtlistener.com/opinion/10976760/application-of-18-usc-922b1-and-c1-to-young-adults/",
-      "court": "Department of Justice Office of Legal Counsel",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "United States v. Alisigwe",
-      "link": "https://www.courtlistener.com/opinion/10975580/united-states-v-alisigwe/",
-      "court": "Court of Appeals for the Second Circuit",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Otteson, Kory Nicholas",
-      "link": "https://www.courtlistener.com/opinion/10978150/otteson-kory-nicholas/",
-      "court": "Court of Criminal Appeals of Texas",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Interest of P.R.M.",
-      "link": "https://www.courtlistener.com/opinion/10975630/interest-of-prm/",
-      "court": "South Dakota Supreme Court",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "Michael Enns v. Lindsay Lipke",

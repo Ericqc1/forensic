@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T17:38:21.099075+00:00",
+  "generated_at": "2026-09-22T16:04:39.722844+00:00",
   "label": "Books",
-  "count": 19,
+  "count": 20,
   "errors": [],
   "items": [
     {
@@ -86,15 +86,6 @@
       "query": "substance use disorder treatment family systems"
     },
     {
-      "title": "dokument paythologie opfrinte",
-      "authors": "",
-      "published": "2020",
-      "link": "https://openlibrary.org/works/OL20645545W",
-      "description": "",
-      "thumbnail": "",
-      "query": "substance use disorder treatment family systems"
-    },
-    {
       "title": "NCLEX-RN Premier 2016",
       "authors": "Barbara J. Irwin",
       "published": "2016",
@@ -140,12 +131,30 @@
       "query": "substance use disorder treatment family systems"
     },
     {
+      "title": "Understanding and treating adolescent substance use disorders",
+      "authors": "Nancy Jainchill",
+      "published": "2012",
+      "link": "https://openlibrary.org/works/OL23264929W",
+      "description": "",
+      "thumbnail": "",
+      "query": "substance use disorder treatment family systems"
+    },
+    {
       "title": "Therapeutic justice and addicted parents",
       "authors": "Heidee Eileen McMillin",
       "published": "2012",
       "link": "https://openlibrary.org/works/OL16490089W",
       "description": "",
       "thumbnail": "",
+      "query": "children parental addiction recovery"
+    },
+    {
+      "title": "Its Not About You Except When It Is A Field Manual For Parents Of Addicted Children",
+      "authors": "Barbara Victoria",
+      "published": "2012",
+      "link": "https://openlibrary.org/works/OL17438016W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/7578344-M.jpg",
       "query": "children parental addiction recovery"
     },
     {
