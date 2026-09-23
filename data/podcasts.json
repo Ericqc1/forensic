@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:04:40.781973+00:00",
+  "generated_at": "2026-09-23T15:55:22.851424+00:00",
   "label": "Podcasts",
   "count": 19,
   "errors": [],
@@ -13,14 +13,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
       "artist": "Jesse Mogle",
       "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
@@ -29,19 +21,27 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Friends In Recovery - Addiction Recovery Podcast",
-      "artist": "FIR",
-      "link": "https://podcasts.apple.com/us/podcast/friends-in-recovery-addiction-recovery-podcast/id1743491854?uo=4",
-      "feed_url": "https://anchor.fm/s/b0c32fe8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/6c/5a/4d6c5adb-0ba5-fd2c-3158-6ca24a2d8d33/mza_2543707072599522497.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Let's Talk Addiction & Recovery",
       "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
       "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Friends In Recovery - Addiction Recovery Podcast",
+      "artist": "FIR",
+      "link": "https://podcasts.apple.com/us/podcast/friends-in-recovery-addiction-recovery-podcast/id1743491854?uo=4",
+      "feed_url": "https://anchor.fm/s/b0c32fe8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/6c/5a/4d6c5adb-0ba5-fd2c-3158-6ca24a2d8d33/mza_2543707072599522497.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {

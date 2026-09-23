@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-22T16:04:37.108161+00:00",
+  "generated_at": "2026-09-23T15:55:16.934411+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State of Iowa v. Timothy James Smith",
+      "link": "https://www.courtlistener.com/opinion/10980663/state-of-iowa-v-timothy-james-smith/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-09-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Anupama Taggarse v. Amit Taggarse",
+      "link": "https://www.courtlistener.com/opinion/10980514/anupama-taggarse-v-amit-taggarse/",
+      "court": "Court of Appeals of Arkansas",
+      "date_filed": "2026-09-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "June Merryman and Jason West v. Arkansas Department of Human Services and Minor Children",
+      "link": "https://www.courtlistener.com/opinion/10980505/june-merryman-and-jason-west-v-arkansas-department-of-human-services-and/",
+      "court": "Court of Appeals of Arkansas",
+      "date_filed": "2026-09-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Timothy Boger v. Arkansas Department of Human Services and Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10980499/timothy-boger-v-arkansas-department-of-human-services-and-minor-child/",
+      "court": "Court of Appeals of Arkansas",
+      "date_filed": "2026-09-23",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Joanna Ducic v. Arkansas Department of Human Services and Minor Children",
+      "link": "https://www.courtlistener.com/opinion/10980507/joanna-ducic-v-arkansas-department-of-human-services-and-minor-children/",
+      "court": "Court of Appeals of Arkansas",
+      "date_filed": "2026-09-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "State v. Khan",
       "link": "https://www.courtlistener.com/opinion/10975527/state-v-khan/",
@@ -11,6 +51,30 @@
       "date_filed": "2026-09-22",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "Marshall v. Guerrero",
+      "link": "https://www.courtlistener.com/opinion/10979571/marshall-v-guerrero/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Brooke Mallett v. State of Mississippi",
+      "link": "https://www.courtlistener.com/opinion/10979425/brooke-mallett-v-state-of-mississippi/",
+      "court": "Court of Appeals of Mississippi",
+      "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "I.G.I. v. Noem",
+      "link": "https://www.courtlistener.com/opinion/10979387/igi-v-noem/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-22",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Chanda Callaway v. Mason Adcock",
@@ -53,52 +117,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Com. v. Thomas, C.",
-      "link": "https://www.courtlistener.com/opinion/10978342/com-v-thomas-c/",
-      "court": "Superior Court of Pennsylvania",
-      "date_filed": "2026-09-21",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "F.L. v. Superior Court",
-      "link": "https://www.courtlistener.com/opinion/10978316/fl-v-superior-court/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-09-21",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Abdulla v. Trudeau",
-      "link": "https://www.courtlistener.com/opinion/10978378/abdulla-v-trudeau/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Padilla v. United States Immigration and Customs Enforcement",
-      "link": "https://www.courtlistener.com/opinion/10978253/padilla-v-united-states-immigration-and-customs-enforcement/",
-      "court": "Court of Appeals for the Ninth Circuit",
-      "date_filed": "2026-09-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In the Interest of K. A., S. A., D. G. and D. G., Children v. Department of Family and Protective Services",
       "link": "https://www.courtlistener.com/opinion/10978176/in-the-interest-of-k-a-s-a-d-g-and-d-g-children-v-department-of/",
       "court": "Texas Court of Appeals, 1st District (Houston)",
       "date_filed": "2026-09-18",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re J.Z.",
-      "link": "https://www.courtlistener.com/opinion/10976932/in-re-jz/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-18",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "G.R. v. B.H.",
@@ -219,30 +243,6 @@
       "date_filed": "2026-08-31",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }

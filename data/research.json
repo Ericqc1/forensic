@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:04:31.767893+00:00",
+  "generated_at": "2026-09-23T15:54:51.844839+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -11,6 +11,22 @@
       "authors": "Jacob KL, Unruh BT",
       "published": "2026 Sep-Oct 01",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42773628/",
+      "journal": "Substance use & misuse",
+      "authors": "McCormick-Cisse MN, Homish DL, Haney AM et al.",
+      "published": "2026 Sep 22",
+      "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "A systems pharmacology model for paracetamol overdose and treatment.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42771058/",
+      "journal": "Journal of pharmacokinetics and pharmacodynamics",
+      "authors": "Li J, Chiew AL, Isbister GK et al.",
+      "published": "2026 Sep 22",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Association between medications for opioid use disorder and child removals.",
@@ -41,14 +57,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42732779/",
       "journal": "Psychiatry investigation",
       "authors": "Go J, Lee JH, Jo M et al.",
-      "published": "2026 Sep",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Trends in Well-Being and Opportunities to Support Caregivers of Individuals With Fetal Alcohol Spectrum Disorder Across the Lifespan.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42704307/",
-      "journal": "Alcohol, clinical & experimental research",
-      "authors": "Flannigan K, Harding KD, Reid D et al.",
       "published": "2026 Sep",
       "query": "children of parents with substance use disorder"
     },
@@ -169,14 +177,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/41732195/",
       "journal": "EClinicalMedicine",
       "authors": "Ting Wong ZC, Tak Cheng FW, Mak IL et al.",
-      "published": "2026 Feb",
-      "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "The implications of the COVID-19 pandemic for clinical mental health care.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41577420/",
-      "journal": "The lancet. Psychiatry",
-      "authors": "Schuster AM, Alwan NA, Callard F et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
     },
