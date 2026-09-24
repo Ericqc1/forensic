@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T15:55:22.851424+00:00",
+  "generated_at": "2026-09-24T16:18:10.333379+00:00",
   "label": "Podcasts",
-  "count": 19,
+  "count": 24,
   "errors": [],
   "items": [
     {
@@ -141,19 +141,59 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce University Online",
-      "artist": "Tammy R. Ferreira",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-university-online/id1436132600?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/130058/destinations/788883.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/01/c5/05/01c50584-56f0-adf9-d1fc-1e5de75cc981/mza_1213016517412160408.png/100x100bb.jpg",
+      "title": "The Emily Show",
+      "artist": "Baker Media, LLC.",
+      "link": "https://podcasts.apple.com/us/podcast/the-emily-show/id1486229281?uo=4",
+      "feed_url": "https://feeds.megaphone.fm/QCD9637821306/",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7b/e1/3f7be11b-b748-f50c-01a1-20a183394c5c/mza_9638109888353992252.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
-      "title": "Personlighetsmysteriet",
-      "artist": "Nasjonalt kompetansesenter for rus- og avhengighetslidelser, alvorlige samtidige psykiske lidelser og personlighetsforstyrrelser",
-      "link": "https://podcasts.apple.com/us/podcast/personlighetsmysteriet/id1632595686?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2012370.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/0c/c4/5e0cc435-9c81-8057-1188-b2ab5c063e5e/mza_9530984233276452596.jpg/100x100bb.jpg",
+      "title": "Careers Are Weird",
+      "artist": "Aindrea Sewell",
+      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
+      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Jess’s SobrieTea",
+      "artist": "Jess’s SobrieTea",
+      "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
+      "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Counselling Tutor podcast",
+      "artist": "ken@counsellingtutor.com",
+      "link": "https://podcasts.apple.com/us/podcast/counselling-tutor-podcast/id1080407675?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/77284/destinations/347551.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/b8/90/98b89061-3f95-29de-6ac8-ee9e4712c55f/mza_10712835922621446053.png/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Hidden Killers With Tony Brueski | True Crime News & Commentary",
+      "artist": "True Crime Today",
+      "link": "https://podcasts.apple.com/us/podcast/hidden-killers-with-tony-brueski-true-crime-news/id1655749292?uo=4",
+      "feed_url": "https://audioboom.com/channels/5040505.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/37/72/d037724b-c51a-e57e-9d63-1a08e0558850/mza_7422277451552995709.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Mormon Stories Podcast",
+      "artist": "Dr. John Dehlin",
+      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
+      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "LJNRadio: I Want To Be A",
+      "artist": "LJNRadio",
+      "link": "https://podcasts.apple.com/us/podcast/ljnradio-i-want-to-be-a/id673126220?uo=4",
+      "feed_url": "https://jobs.localjobnetwork.com/radio/itunes?radio_show_id=1",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/4e/57/154e5733-106b-9565-9bf4-73015d00a570/mza_4257130623273236555.png/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]
