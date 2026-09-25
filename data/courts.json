@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-09-24T16:18:03.464203+00:00",
+  "generated_at": "2026-09-25T16:17:54.951641+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In the Matter of the Termination of Parental Rights To: BAC II, BLTC and RJJC, Minor Children, Katrenia Genovia Anderson v. State of Wyoming, Ex Rel. Department of Family Services",
+      "link": "https://www.courtlistener.com/opinion/10983639/in-the-matter-of-the-termination-of-parental-rights-to-bac-ii-bltc-and/",
+      "court": "Wyoming Supreme Court",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "T.W. v. J.A.S.-O.",
+      "link": "https://www.courtlistener.com/opinion/10983227/tw-v-jas-o/",
+      "court": "Court of Civil Appeals of Alabama",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Barbosa Da Cunha v. Freden",
+      "link": "https://www.courtlistener.com/opinion/10983473/barbosa-da-cunha-v-freden/",
+      "court": "Court of Appeals for the Second Circuit",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re E.V.",
+      "link": "https://www.courtlistener.com/opinion/10983259/in-re-ev/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. McGraw",
+      "link": "https://www.courtlistener.com/opinion/10983255/state-v-mcgraw/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re K.N.",
+      "link": "https://www.courtlistener.com/opinion/10983168/in-re-kn/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Matter of Devon YY. v. James ZZ.",
+      "link": "https://www.courtlistener.com/opinion/10983072/matter-of-devon-yy-v-james-zz/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-09-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re A.W.",
+      "link": "https://www.courtlistener.com/opinion/10983044/in-re-aw/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re P.B.",
+      "link": "https://www.courtlistener.com/opinion/10983041/in-re-pb/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-09-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Commonwealth v. Hayes",
       "link": "https://www.courtlistener.com/opinion/10982931/commonwealth-v-hayes/",
@@ -21,60 +93,28 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "JAMES ROBERT \"JIM BOB\" and SHARON INFANGER, Husband and Wife, Individually, and as Natural Parents of CHELSEA BRITTNEY INFANGER, Deceased; And JAMES ROBERT \"JIM BOB\" INFANGER, as Personal Representative of the ESTATE OF CHELSEA BRITTNEY INFANGER v. THE STATE OF IDAHO, IDAHO DEPARTMENT OF TRANSPORTATION, DIVISION OF AERONAUTICS",
-      "link": "https://www.courtlistener.com/opinion/10982901/james-robert-jim-bob-and-sharon-infanger-husband-and-wife-individually/",
-      "court": "Idaho Supreme Court",
+      "title": "In re D.N.",
+      "link": "https://www.courtlistener.com/opinion/10983042/in-re-dn/",
+      "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-24",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
-      "title": "In the Matter of the Termination of Parental Rights To: Bep, Minor Child, Skylar Colten Remer v. State of Wyoming, Ex Rel. Department of Family Services",
-      "link": "https://www.courtlistener.com/opinion/10983004/in-the-matter-of-the-termination-of-parental-rights-to-bep-minor-child/",
-      "court": "Wyoming Supreme Court",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Commonwealth v. Khadgi",
-      "link": "https://www.courtlistener.com/opinion/10982930/commonwealth-v-khadgi/",
-      "court": "Massachusetts Appeals Court",
+      "title": "In the Interest of K.W., M.W., T.R., T.R., and T.R., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10983208/in-the-interest-of-kw-mw-tr-tr-and-tr-children-v-the-state/",
+      "court": "Texas Court of Appeals, 10th District (Waco)",
       "date_filed": "2026-09-24",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "Commonwealth of Kentucky v. Hon. Phillip J. Shepherd",
-      "link": "https://www.courtlistener.com/opinion/10982928/commonwealth-of-kentucky-v-hon-phillip-j-shepherd/",
-      "court": "Kentucky Supreme Court",
+      "title": "Rachel Welty v. Bryant Dunaway",
+      "link": "https://www.courtlistener.com/opinion/10983171/rachel-welty-v-bryant-dunaway/",
+      "court": "Court of Appeals for the Sixth Circuit",
       "date_filed": "2026-09-24",
       "snippet": "",
       "query": "family drug court"
-    },
-    {
-      "title": "Jacob Dotson v. Cia Drug, LLC",
-      "link": "https://www.courtlistener.com/opinion/10982918/jacob-dotson-v-cia-drug-llc/",
-      "court": "Kentucky Supreme Court",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Rezene v. United States",
-      "link": "https://www.courtlistener.com/opinion/10982886/rezene-v-united-states/",
-      "court": "District of Columbia Court of Appeals",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Timothy Boger v. Arkansas Department of Human Services and Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10982227/timothy-boger-v-arkansas-department-of-human-services-and-minor-child/",
-      "court": "Court of Appeals of Arkansas",
-      "date_filed": "2026-09-23",
-      "snippet": "",
-      "query": "child custody substance abuse"
     },
     {
       "title": "In re A.H.",
@@ -82,39 +122,7 @@
       "court": "California Court of Appeal",
       "date_filed": "2026-09-23",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re B.J.",
-      "link": "https://www.courtlistener.com/opinion/10981007/in-re-bj/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-23",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re I.S.",
-      "link": "https://www.courtlistener.com/opinion/10981006/in-re-is/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-23",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State of Iowa v. Timothy James Smith",
-      "link": "https://www.courtlistener.com/opinion/10980663/state-of-iowa-v-timothy-james-smith/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-23",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Lowell v. Islamic Republic of Iran",
-      "link": "https://www.courtlistener.com/opinion/10981474/lowell-v-islamic-republic-of-iran/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-23",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In the Interest of K. A., S. A., D. G. and D. G., Children v. Department of Family and Protective Services",
@@ -213,34 +221,26 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "In the Interest of P.G., Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10967540/in-the-interest-of-pg-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 11th District (Eastland)",
-      "date_filed": "2026-09-03",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In re As.D.",
-      "link": "https://www.courtlistener.com/opinion/10965019/in-re-asd/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of A.A., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10964854/in-the-interest-of-aa-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-09-02",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
+      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
+      "court": "Louisiana Court of Appeal",
+      "date_filed": "2026-04-08",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
+      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-03-26",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
