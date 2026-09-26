@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-09-25T16:17:54.951641+00:00",
+  "generated_at": "2026-09-26T15:31:35.185515+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "People of Michigan v. Aaron Joseph Trout",
+      "link": "https://www.courtlistener.com/opinion/10984097/people-of-michigan-v-aaron-joseph-trout/",
+      "court": "Michigan Court of Appeals",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In the Matter of the Termination of Parental Rights To: BAC II, BLTC and RJJC, Minor Children, Katrenia Genovia Anderson v. State of Wyoming, Ex Rel. Department of Family Services",
       "link": "https://www.courtlistener.com/opinion/10983639/in-the-matter-of-the-termination-of-parental-rights-to-bac-ii-bltc-and/",
@@ -21,28 +29,68 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Barbosa Da Cunha v. Freden",
-      "link": "https://www.courtlistener.com/opinion/10983473/barbosa-da-cunha-v-freden/",
-      "court": "Court of Appeals for the Second Circuit",
+      "title": "In re D.D.",
+      "link": "https://www.courtlistener.com/opinion/10984052/in-re-dd/",
+      "court": "Appellate Court of Illinois",
       "date_filed": "2026-09-25",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "In re E.V.",
-      "link": "https://www.courtlistener.com/opinion/10983259/in-re-ev/",
+      "title": "United States v. Gary Howard",
+      "link": "https://www.courtlistener.com/opinion/10984003/united-states-v-gary-howard/",
+      "court": "Court of Appeals for the Seventh Circuit",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Martin",
+      "link": "https://www.courtlistener.com/opinion/10983971/state-v-martin/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-25",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "State v. McGraw",
-      "link": "https://www.courtlistener.com/opinion/10983255/state-v-mcgraw/",
+      "title": "State v. Woodley",
+      "link": "https://www.courtlistener.com/opinion/10983970/state-v-woodley/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-25",
       "snippet": "",
       "query": "family drug court"
+    },
+    {
+      "title": "L.C., Father of L.M.C., P.A.W., Minor Children v. Department of Children and Families",
+      "link": "https://www.courtlistener.com/opinion/10983939/lc-father-of-lmc-paw-minor-children-v-department-of-children/",
+      "court": "District Court of Appeal of Florida",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Voja v. Noem",
+      "link": "https://www.courtlistener.com/opinion/10983916/voja-v-noem/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-25",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of J.B and B.B., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/10984103/in-the-interest-of-jb-and-bb-children-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 11th District (Eastland)",
+      "date_filed": "2026-09-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re B.J...",
+      "link": "https://www.courtlistener.com/opinion/10983944/in-re-bj/",
+      "court": "Court of Appeals of Utah",
+      "date_filed": "2026-09-24",
+      "snippet": "",
+      "query": "child custody substance abuse"
     },
     {
       "title": "In re K.N.",
@@ -69,52 +117,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re P.B.",
-      "link": "https://www.courtlistener.com/opinion/10983041/in-re-pb/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Commonwealth v. Hayes",
-      "link": "https://www.courtlistener.com/opinion/10982931/commonwealth-v-hayes/",
-      "court": "Massachusetts Appeals Court",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Tyler Austin Jordan v. Commonwealth of Kentucky",
-      "link": "https://www.courtlistener.com/opinion/10982910/tyler-austin-jordan-v-commonwealth-of-kentucky/",
-      "court": "Kentucky Supreme Court",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "In re D.N.",
       "link": "https://www.courtlistener.com/opinion/10983042/in-re-dn/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-24",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In the Interest of K.W., M.W., T.R., T.R., and T.R., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10983208/in-the-interest-of-kw-mw-tr-tr-and-tr-children-v-the-state/",
-      "court": "Texas Court of Appeals, 10th District (Waco)",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Rachel Welty v. Bryant Dunaway",
-      "link": "https://www.courtlistener.com/opinion/10983171/rachel-welty-v-bryant-dunaway/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In re A.H.",
@@ -203,14 +211,6 @@
       "date_filed": "2026-09-09",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "Marriage of Jessica L. and Sammer Z.",
-      "link": "https://www.courtlistener.com/opinion/10969303/marriage-of-jessica-l-and-sammer-z/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-09-08",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In the Interest of J.M. and L.J., Children v. the State of Texas",
