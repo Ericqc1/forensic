@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:31:25.656563+00:00",
+  "generated_at": "2026-09-27T16:11:36.498726+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -50,14 +50,6 @@
       "journal": "European child & adolescent psychiatry",
       "authors": "Civita A, Colman I, Orri M et al.",
       "published": "2026 Sep 16",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Disruptive, Impulse-Control, & Conduct Disorders in South Korean Children & Adolescents.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42732779/",
-      "journal": "Psychiatry investigation",
-      "authors": "Go J, Lee JH, Jo M et al.",
-      "published": "2026 Sep",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -235,6 +227,14 @@
       "authors": "Rezag Bara SF, Bayle G, Wallez S et al.",
       "published": "2026",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Violence exposure and quality of life among partners and parents of individuals with substance use problems.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42798407/",
+      "journal": "Frontiers in public health",
+      "authors": "Birkeland B, Vederhus JK, Selbekk AS et al.",
+      "published": "2026",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Collaborative knowledge mobilisation to increase awareness and use of new SNOMED clinical terms for fetal alcohol spectrum disorder in England.",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:31:44.426918+00:00",
+  "generated_at": "2026-09-27T16:11:48.996769+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -21,14 +21,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Let's Talk Addiction & Recovery",
-      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery",
       "artist": "Steven T. Ginsburg",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
@@ -42,6 +34,14 @@
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
       "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Let's Talk Addiction & Recovery",
+      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -77,19 +77,19 @@
       "query": "family law"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Talking Family Law - The Resolution Podcast",
       "artist": "Resolution",
       "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
       "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
