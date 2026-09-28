@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:11:25.234317+00:00",
+  "generated_at": "2026-09-28T19:04:58.671931+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -27,14 +27,6 @@
       "published": "Wed, 26 Apr 2017 07:00:00 GMT",
       "summary": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic  The Imprint",
       "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
-      "title": "Jax Taylor Gets Real About Sobriety Journey After Addiction Struggles - tmz.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCdlVqS3ZEU0NLQWloTmxQa0FlZW5aSHdfaUt1TkNVQWcza1Q5TTlGZnFPaklaSkFYODM2WE5XYndaTW01N0lyMHEzS1dJN2NCQVpHSnUzRVAzblhiUlNURG13eVVNRy1FYTZub2ZBZDQ0dGM2UVpZYTNnTFgxc1k?oc=5",
-      "source": "tmz.com",
-      "published": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "summary": "Jax Taylor Gets Real About Sobriety Journey After Addiction Struggles  tmz.com",
-      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "Kansas launching foster care Family Treatment Court court - thebeaconnews.org",
@@ -117,11 +109,11 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
+      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - ldi.upenn.edu",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
-      "source": "Penn LDI",
+      "source": "ldi.upenn.edu",
       "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
+      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  ldi.upenn.edu",
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
@@ -165,6 +157,14 @@
       "query": "\"family law reform\""
     },
     {
+      "title": "Op-Ed: Lessons for NJ in managing $1.1 billion opioid settlement - NJ Spotlight News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFY2QXh2a01UUnFpQzlra1FSeU5ickhBbEVtRWQzREdFaDQ1djJXazBCZGkxZXZBWGFCaUROQWhNVEc3Ykw4bkc0QnNGeXd1cl9lWm9aMXV0SXhWVVJUdnRYa2syTC1aS3M3dFJuNDVocm1fYkpYSXY0SlAzLVdVUHBSV1BPTW5xandTRWhrRTdYcXF6R04zV2NDR3RMOEtzY0hyWXVB?oc=5",
+      "source": "NJ Spotlight News",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "Op-Ed: Lessons for NJ in managing $1.1 billion opioid settlement  NJ Spotlight News",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
       "title": "Prenatal Substance Use Laws Inadvertently Endanger Healthy Families: A Review of Laws Affecting Pregnant Women in Recovery and Their Children - R Street Institute",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa196VUUzMm9qYldzMWQ3WnRSU0Jsb2dheFF4RUhMWmZwWHktVV90VDlnNFpiYzRzNUpra0ZJODliUGltR1lPZ1RSQVlPY2RzUEt1M1pGdF9DcXF6VkpidnpEblQ3LXlCUG9NRVZ0ZXpSLVgwbTdabXM1VFhtTHRLYlNMQW9oLUlDYVlCUjZaakx0NXRJN0FXYVMxNWM1V0NTQm9KZzlsUHRsSWoteWlBVVBzLWlPc05WUEJkLUlCVEFFTEpTTkZIWTlqVnhrenNpTW5OSHVHLTVScHowYWF5cmZnOU11UEVLeVQ5T01VWWR5U3VhcUNMLVVBRGV1S19Dc3pFNQ?oc=5",
       "source": "R Street Institute",
@@ -173,20 +173,20 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
-      "title": "Several ICE agents were arrested in recent months, showing risk of misconduct | The Associated Press - ap.org",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUZfTDRja0FBQ1pqanVrOGpPOFFWajB5YnJ0eUV5aWtyQWJ4WUd6RFpqSndLdEF0VURKMGlQU2dxUGlIdzRpWnVtU2FxUGNYbi1IcjYwMmdaaDM1Uy1xcEM0TE1TSnI5Rzhoc19BTG9feFJOOHJiV1gtNmV0eDBBTkFKUUZjaWRXWXlTdzRKWWpkaXVoS3A0VmU2SlNGY2tlRHBUNU5teE5XX1N2N1R0TEhDLWxqQWgydkp4cVI2Q2VHRE5pSk1V?oc=5",
-      "source": "ap.org",
-      "published": "Tue, 17 Feb 2026 12:28:22 GMT",
-      "summary": "Several ICE agents were arrested in recent months, showing risk of misconduct | The Associated Press  ap.org",
-      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
-    },
-    {
       "title": "Horrifying sight Barry Keoghan witnessed when he 'died' as he 'begged to stay' - Irish Mirror",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWNfTXF4bTlhQ3FrN0ZOczJfcm1vUmQzeXlQbE5VMFFEVW1PZzNISk9raEZpMElMZ3lqaVNTT0VKRzV5LThJQjY3TnM1RUp4UnZEWkFrTmkzb2MxeUVTZndLdmZVODJ5eXFJeEUzQVhOVHRqTGhoT1pqSjhhSzZzQkowNGM0ZU85Xzd1eTlILWVvMUFCMGc5NkRaS2d2dG8t0gGmAUFVX3lxTE1KZVVYUUlkOXFRdElCVTI5RGVXQ3g1a0NUbU9XaE9yUl9tbDlpWV96S0c5VTAySFV6cFRsYl9MSHhEM0VtU3JsTHVMZWI1c200Qll6MXVLdmdKNFNZY1FOeW02QTNwb2pkWS1kaGRUck14TDZSOGJka1hYaEk1MXdMOUlZdXZ0RlAzVDNwMDM3WkxkbXZvdDBteloybzV0em9vQXQxb1E?oc=5",
       "source": "Irish Mirror",
       "published": "Tue, 16 Jun 2026 07:00:00 GMT",
       "summary": "Horrifying sight Barry Keoghan witnessed when he 'died' as he 'begged to stay'  Irish Mirror",
       "query": "\"co-parenting\" addiction recovery"
+    },
+    {
+      "title": "News - Understanding TRICARE coverage of substance use disorder treatment - dvidshub.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdElNWjNibFphb0RTMzlsdlMzY3A1eEdweVlmdm15N1ZORnpRVEdxbFdpM2hSbDRFMHI1VUdhUlB0eUNLb0FiYkkwTzMyY2tFaXo5VFBZR2hEcXNIWU9ycTZ4dGh4OGJBbjZ2Tm1BaTRvYkpIY2FZWjk3b3pGTHlaWDVRWkdVT0NpZEZLNXFKVUtZSXFxSWRhRXd3ZkFBSHJ6dnc?oc=5",
+      "source": "dvidshub.net",
+      "published": "Tue, 15 Sep 2026 20:32:00 GMT",
+      "summary": "News - Understanding TRICARE coverage of substance use disorder treatment  dvidshub.net",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Gateway to Prevention & Recovery closure complicates addiction treatment access for rural residents - KOSU",
@@ -213,6 +213,14 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
+      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeFFrSkxzSHd2dzF0QXQ4MnEwdUhZSVdNRUNyb0JTeHA2cFRpSGhwNV9RaE5hSHR2bEhDelNOaEVpSHpVUEZiXzNIWHg3QQ?oc=5",
+      "source": "Congressional Budget Office (.gov)",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  Congressional Budget Office (.gov)",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
       "title": "House seeks to drop reporting mandate for substance-exposed babies - The Boston Globe",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEJucGctMWRCcXJDSnVhUVpMRVZYa01hbEJzR3RWZG56LTVmaFJ4N3c1SlVHeW9TNUlzamhQYlZFT1VVazkwaElSc1Q5dllQeXBoVU1YdlpBenJGUDYwR1BGdHdUaVlRVU85OGxuYzFlX1JPWUpobEYwOUhKSy1uT1JKZ0hOY084ZXRTMGlGdW5panNhaV91cGFvZnhtNVBCQ3BPNEFR?oc=5",
       "source": "The Boston Globe",
@@ -226,14 +234,6 @@
       "source": "KFF Health News",
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  KFF Health News",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis - medpagetoday.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43eXVlckZNRl8ydEJPRlhnaGVjWl9Yb2FJeVBYNFFfUlk0NkRhdEpXeUVXME43RjVleWVQdnkzRW9pczZGUkJadkZQMXlXSmdtUVE4NUtlVUxHYmpxb09BSlhaNVN6NFd4R0ZaV1lmVQ?oc=5",
-      "source": "medpagetoday.com",
-      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  medpagetoday.com",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
@@ -285,22 +285,6 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money - STAT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnRuNF9PMWd0MUZLMTZza1gtamJ4VUhLM1NwWTlLX2p4ZzF3ZFJad1hDYkVBTElwNGgteUZ3VTZDWi02RFZiZ1VqUEpGLWQtc3pfQTg4N2hnaWdXTTRFSmRIQXBUVXIzWmtmR3lrS0N1eDg5V3RZTGNScDhQN3BiV2NzdVozRENfcWJjRDFOMTdkQXR0VkowM3JzaVd3ZmlxUU1Fa0dnUS1wajc3eGJDYVJXVFh5Qkpw?oc=5",
-      "source": "STAT",
-      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "summary": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money  STAT",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "RWJBarnabas Health Celebrates 10 Years of the Tackling Addiction Task Force and Peer Recovery Program - RWJBarnabas Health",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2QxeVlGRFRDeTFrUmc5c0k1a1VOeENtcGVYdVJIQnI5bGhVZ2JQTmpuNXBfSjJvdDRPVXliWjY5XzJxdHBHUTN2cVU5WktZLTFIN01DaVBrc3hrdVpQaEMzX3N2OWJhQ1IwcmE4U1lRSlBxbUtLT092NC1SVHRKdTV4SVdqUlhYQWtKS3loSDVxNEg4b0E?oc=5",
-      "source": "RWJBarnabas Health",
-      "published": "Thu, 24 Sep 2026 18:09:01 GMT",
-      "summary": "RWJBarnabas Health Celebrates 10 Years of the Tackling Addiction Task Force and Peer Recovery Program  RWJBarnabas Health",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
       "title": "NY State Bar Awards 2 Attorneys For Family Law Reform - Law360",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUJYNWhyaHJhT0IySWowS2l1enF5LVJSSnZ5cU5EY0tMZnllZjhDUmJVamRoN3RrMEpSdGNQX1hfTjAwTmNZMWJxZmJpcHBiaFlDQlRUWF9OSm5nTDI3QUs2RHNWUnhoVHBwbjZPT3VPRVVkQlNYUzJiZ2o5NTJEUEp5VzJ4S3djLXZ3ZzhEOVAxc2NmaUpkazEzNUFfT0lm0gFeQVVfeXFMTTl0Qk5zRE9WaU5oTmRQd25Ha3RsQ3Z0bm5BOEpVYzNJUmVLTDNPTTJOYUpEQmRmTWRPRDUtRlJ6aExwWTNiTDlNNjJYeFZ6T0tEazRIazBlZUVVcFQ0Zw?oc=5",
       "source": "Law360",
@@ -317,12 +301,28 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "Family Treatment Court looks to help parents on path to recovery - hudsonstarobserver.com",
+      "title": "Family Treatment Court looks to help parents on path to recovery - Hudson Star Observer",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMzNEM29qZFZLSFU3UURNOElyXzBCMm05WDJTV3BqdWtINU1MNy1WRVR4c2hiczdqSW9yTHlfOGF0V0dDU1gzajlzNGhhMnRoTFNTSm1yVjdFWngxZGtWRFNiRFQxTi15VzVKZ1ludDF4V0pTOVplXzJBTXFmdjRKMnd2TEpNRTFjNGlLOXpDdFpDbUJ5d3lwaGhCaEJUNzVOOW55dEd5MmdSdzEzeFY4RHdyTl82RmN2STJWVEV0eEY1Qi0xM0x4SzNuYXFVOUVLNmszeDN2bGRwS0xvUUFuUm43UmVRT0p2MWc?oc=5",
-      "source": "hudsonstarobserver.com",
+      "source": "Hudson Star Observer",
       "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "Family Treatment Court looks to help parents on path to recovery  hudsonstarobserver.com",
+      "summary": "Family Treatment Court looks to help parents on path to recovery  Hudson Star Observer",
       "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "LEAF to the Rescue as Oneonta Teen Center Gets Reprieve - All Otsego",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2s2VlFRYW42V0VjOUgxRUxiZEdpWWZvVVNqT192emVGZWRPVkJmQmh1dXp5Z2d0MnBuRTJTX0t1SlpqQ056R3JLbWZ6OXY1N2xvOXlsZnlXWVUweG1SZ2RxQkZSTTU5Qm5jNGZDSHVzTXhmN3JXNkRWT1YybmxMbFZMdVJUZmsydnc?oc=5",
+      "source": "All Otsego",
+      "published": "Thu, 20 Mar 2025 07:00:00 GMT",
+      "summary": "LEAF to the Rescue as Oneonta Teen Center Gets Reprieve  All Otsego",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
+      "title": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment - The Imprint",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFQyZ0tzdUNUMTFwZk5IUTJ6bWdaZXNuc0F2NmJSdTJlekF1UUJjX202cFVEVHNWU2pZRG9GTjJOcjhRM05DdWttVEJZY1EzYTMwQmVkbWV0d05ydDlObHZWSFVZOERaeUNYcHlqeE9XZ1FVYXlPUkQxc3ZhYmR4X3I1WEwwZ0dXcE5ZczloRHlTT0dOc1A2ZWp0MEkyX04wVjBNcTFOS1pFWFBrNTRYSEVzZ1Z6bzJ3NDFmUTVvbDk?oc=5",
+      "source": "The Imprint",
+      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "summary": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment  The Imprint",
+      "query": "\"parental substance use\" child welfare"
     }
   ]
 }
