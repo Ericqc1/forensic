@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:05:24.779887+00:00",
+  "generated_at": "2026-09-29T17:28:00.156778+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -13,35 +13,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Let's Talk Addiction & Recovery",
       "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
       "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Friends In Recovery - Addiction Recovery Podcast",
-      "artist": "FIR",
-      "link": "https://podcasts.apple.com/us/podcast/friends-in-recovery-addiction-recovery-podcast/id1743491854?uo=4",
-      "feed_url": "https://anchor.fm/s/b0c32fe8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/6c/5a/4d6c5adb-0ba5-fd2c-3158-6ca24a2d8d33/mza_2543707072599522497.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -53,19 +29,43 @@
       "query": "addiction recovery"
     },
     {
-      "title": "California Virtual Family Law Attorney With Founder Linda Garrett",
-      "artist": "californiavirtualfamilylawattorney",
-      "link": "https://podcasts.apple.com/us/podcast/california-virtual-family-law-attorney-with-founder/id1814605844?uo=4",
-      "feed_url": "https://feed.podbean.com/californiavirtualfamilylawattorney/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/42/bf/0c42bf7a-3442-5219-de4b-b2d29d5299c0/mza_12602338376751751638.jpg/100x100bb.jpg",
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "For Better or Worse: A Family Law Podcast",
+      "artist": "TALG LAW",
+      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
+      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
+      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -77,19 +77,19 @@
       "query": "family law"
     },
     {
-      "title": "For Better or Worse: A Family Law Podcast",
-      "artist": "TALG LAW",
-      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
-      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {

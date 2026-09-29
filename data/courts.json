@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:05:21.466480+00:00",
+  "generated_at": "2026-09-29T17:27:57.501162+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -11,6 +11,14 @@
       "date_filed": "2026-09-29",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "Bruce Henry v. Sheriff of Tuscaloosa County, Alabama",
+      "link": "https://www.courtlistener.com/opinion/10985665/bruce-henry-v-sheriff-of-tuscaloosa-county-alabama/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-09-29",
+      "snippet": "",
+      "query": "parental rights termination addiction"
     },
     {
       "title": "Mohammadi v. Tong",
@@ -35,6 +43,22 @@
       "date_filed": "2026-09-28",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. Eduardo Rafael Lopez-Escarrega",
+      "link": "https://www.courtlistener.com/opinion/10985177/united-states-v-eduardo-rafael-lopez-escarrega/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-09-28",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Untitled Texas Attorney General Opinion: KP-0531",
+      "link": "https://www.courtlistener.com/opinion/10985176/untitled-texas-attorney-general-opinion-kp-0531/",
+      "court": "Texas Attorney General Reports",
+      "date_filed": "2026-09-28",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "Hart v. Central Intelligence Agency",
@@ -80,22 +104,6 @@
       "title": "In re D.D.",
       "link": "https://www.courtlistener.com/opinion/10984052/in-re-dd/",
       "court": "Appellate Court of Illinois",
-      "date_filed": "2026-09-25",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Gary Howard",
-      "link": "https://www.courtlistener.com/opinion/10984003/united-states-v-gary-howard/",
-      "court": "Court of Appeals for the Seventh Circuit",
-      "date_filed": "2026-09-25",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Martin",
-      "link": "https://www.courtlistener.com/opinion/10983971/state-v-martin/",
-      "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-25",
       "snippet": "",
       "query": "family drug court"
@@ -193,14 +201,6 @@
       "link": "https://www.courtlistener.com/opinion/10974501/in-the-interest-of-bb-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 6th District (Texarkana)",
       "date_filed": "2026-09-14",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "In Re Term of Parental Rights as to R.T.",
-      "link": "https://www.courtlistener.com/opinion/10970010/in-re-term-of-parental-rights-as-to-rt/",
-      "court": "Court of Appeals of Arizona",
-      "date_filed": "2026-09-09",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
