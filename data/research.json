@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-09-29T17:26:49.283291+00:00",
+  "generated_at": "2026-09-30T17:24:34.398847+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
     {
-      "title": "Integrative Residential Treatment of Co-Occurring Borderline and Narcissistic Personality Dysfunction: Perspectives from the Gunderson Residence.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42578475/",
-      "journal": "Harvard review of psychiatry",
-      "authors": "Jacob KL, Unruh BT",
-      "published": "2026 Sep-Oct 01",
+      "title": "Treatment Outcomes for Co-Occurring Borderline Personality Disorder and Substance Use Disorders: A Systematic Review.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42811462/",
+      "journal": "Journal of dual diagnosis",
+      "authors": "Sadeghi A, Ngoy A, George T et al.",
+      "published": "2026 Sep 29",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Acceptability and Feasibility of a Virtual Family-Based Single-Session Intervention for Young Teens at High Risk for Substance Use Disorder: Single-Arm Pilot Trial.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809837/",
+      "journal": "JMIR formative research",
+      "authors": "Pike CK, Stanger C, Nahum-Shani I et al.",
+      "published": "2026 Sep 29",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
@@ -115,14 +123,6 @@
       "authors": "Zhang R, Lam ICH, Liu X et al.",
       "published": "2026 Jun 1",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Opioid Use and Overdose Among Justice-Involved Individuals: A Cross-Sectional Study of Social Determinants of Health.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42734585/",
-      "journal": "International journal of addiction nursing",
-      "authors": "Sutter-Barrett R, Spencer NRB, Elnahas N et al.",
-      "published": "2026 Jul-Sep 01",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Hardiness and care-related stress in Iranian Alzheimer's caregivers: a cross-sectional study.",
