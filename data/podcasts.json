@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:24:48.638517+00:00",
+  "generated_at": "2026-10-01T17:51:07.043716+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -13,19 +13,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Let's Talk Addiction & Recovery",
-      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -33,7 +25,15 @@
       "artist": "Talkin' Trash",
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
       "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/ca/27/c1ca27b0-f57a-1c9b-3c5e-610945f31d55/mza_10125707941283591691.jpg/100x100bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/01/1a/05011a9c-2eb7-5fd2-d852-671c9dd5b926/mza_15009092938135227987.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Let's Talk Addiction & Recovery",
+      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -61,11 +61,11 @@
       "query": "family law"
     },
     {
-      "title": "Let's Talk Family Law",
-      "artist": "Let's Talk Family Law",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
-      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "title": "Family Law Now",
+      "artist": "Family Law Now",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
+      "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -77,36 +77,28 @@
       "query": "family law"
     },
     {
+      "title": "Let's Talk Family Law",
+      "artist": "Let's Talk Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
+      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Talking Family Law - The Resolution Podcast",
+      "artist": "Resolution",
+      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
+      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
       "query": "family law"
-    },
-    {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Family Law Now",
-      "artist": "Family Law Now",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
-      "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "DAD's CHILD CUSTODY ACTION PLAN",
-      "artist": "DAVID PISARRA, ESQ.",
-      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
-      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
-      "query": "child custody"
     },
     {
       "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
@@ -117,19 +109,27 @@
       "query": "child custody"
     },
     {
-      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
-      "artist": "Attorney Jonathan Jacobs",
-      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "Father X: How Fathers Can Win Child Custody",
       "artist": "Father X",
       "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
       "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "DAD's CHILD CUSTODY ACTION PLAN",
+      "artist": "DAVID PISARRA, ESQ.",
+      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
+      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
+      "artist": "Attorney Jonathan Jacobs",
+      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -165,14 +165,6 @@
       "query": "substance abuse counseling"
     },
     {
-      "title": "Counselling Tutor podcast",
-      "artist": "ken@counsellingtutor.com",
-      "link": "https://podcasts.apple.com/us/podcast/counselling-tutor-podcast/id1080407675?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/77284/destinations/347551.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/b8/90/98b89061-3f95-29de-6ac8-ee9e4712c55f/mza_10712835922621446053.png/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
       "title": "Hidden Killers With Tony Brueski | True Crime News & Commentary",
       "artist": "True Crime Today",
       "link": "https://podcasts.apple.com/us/podcast/hidden-killers-with-tony-brueski-true-crime-news/id1655749292?uo=4",
@@ -194,6 +186,14 @@
       "link": "https://podcasts.apple.com/us/podcast/ljnradio-i-want-to-be-a/id673126220?uo=4",
       "feed_url": "https://jobs.localjobnetwork.com/radio/itunes?radio_show_id=1",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/4e/57/154e5733-106b-9565-9bf4-73015d00a570/mza_4257130623273236555.png/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Meritain Health® - In the Booth",
+      "artist": "Meritain Health",
+      "link": "https://podcasts.apple.com/us/podcast/meritain-health-in-the-booth/id1573632495?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/735377.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/c2/df/37c2df0d-bf1f-b352-65df-930250dd5e26/mza_18040290022582923936.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]

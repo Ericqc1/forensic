@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-30T17:24:45.621495+00:00",
+  "generated_at": "2026-10-01T17:51:04.743290+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Euceda v. United States",
+      "link": "https://www.courtlistener.com/opinion/11007635/euceda-v-united-states/",
+      "court": "District of Columbia Court of Appeals",
+      "date_filed": "2026-10-01",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re J.M.",
+      "link": "https://www.courtlistener.com/opinion/10988903/in-re-jm/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-09-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "People v. Duncan",
+      "link": "https://www.courtlistener.com/opinion/10988897/people-v-duncan/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-09-30",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Brittany Schultz v. Arkansas Department of Human Services and Minor Children",
       "link": "https://www.courtlistener.com/opinion/10987816/brittany-schultz-v-arkansas-department-of-human-services-and-minor/",
@@ -21,16 +45,40 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "State v. Harding",
-      "link": "https://www.courtlistener.com/opinion/10988209/state-v-harding/",
-      "court": "Ohio Court of Appeals",
+      "title": "Y.M. v. J.M.",
+      "link": "https://www.courtlistener.com/opinion/10991991/ym-v-jm/",
+      "court": "Hawaii Intermediate Court of Appeals",
       "date_filed": "2026-09-30",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "Rhonda Charmane Jewell v. State of Florida",
-      "link": "https://www.courtlistener.com/opinion/10987833/rhonda-charmane-jewell-v-state-of-florida/",
+      "title": "Scotts Valley Band of Pomo Indians v. United States Department of the Interior",
+      "link": "https://www.courtlistener.com/opinion/10988961/scotts-valley-band-of-pomo-indians-v-united-states-department-of-the/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-09-30",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Nicholas Tate v. Warden GDCP",
+      "link": "https://www.courtlistener.com/opinion/10988956/nicholas-tate-v-warden-gdcp/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-09-30",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Bronstein v. Latin School of Chicago",
+      "link": "https://www.courtlistener.com/opinion/10988907/bronstein-v-latin-school-of-chicago/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-09-30",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "DEPARTMENT OF CHILDREN AND FAMILIES and TAYLOR N. HATCH in Her Official Capacity as Secretary of Children and Families v. M. v. and STATE OF FLORIDA",
+      "link": "https://www.courtlistener.com/opinion/10988880/department-of-children-and-families-and-taylor-n-hatch-in-her-official/",
       "court": "District Court of Appeal of Florida",
       "date_filed": "2026-09-30",
       "snippet": "",
@@ -61,14 +109,6 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Donshik v. Donshik",
-      "link": "https://www.courtlistener.com/opinion/10984957/donshik-v-donshik/",
-      "court": "Connecticut Appellate Court",
-      "date_filed": "2026-09-29",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "Bruce Henry v. Sheriff of Tuscaloosa County, Alabama",
       "link": "https://www.courtlistener.com/opinion/10985665/bruce-henry-v-sheriff-of-tuscaloosa-county-alabama/",
       "court": "Court of Appeals for the Eleventh Circuit",
@@ -85,28 +125,12 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "State v. Tittle",
-      "link": "https://www.courtlistener.com/opinion/10988105/state-v-tittle/",
-      "court": "Ohio Court of Appeals",
+      "title": "Donshik v. Donshik",
+      "link": "https://www.courtlistener.com/opinion/10984957/donshik-v-donshik/",
+      "court": "Connecticut Appellate Court",
       "date_filed": "2026-09-29",
       "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Osaze v. Gee",
-      "link": "https://www.courtlistener.com/opinion/10986512/osaze-v-gee/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-09-29",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Murdaugh",
-      "link": "https://www.courtlistener.com/opinion/10986303/people-v-murdaugh/",
-      "court": "Appellate Division of the Supreme Court of the State of New York",
-      "date_filed": "2026-09-29",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Petraglia v. Commissioner of Motor Vehicles",
@@ -115,22 +139,6 @@
       "date_filed": "2026-09-29",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "K.A. v. District of Columbia",
-      "link": "https://www.courtlistener.com/opinion/10984982/ka-v-district-of-columbia/",
-      "court": "District Court, District of Columbia",
-      "date_filed": "2026-09-28",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "People of Michigan v. Aaron Joseph Trout",
-      "link": "https://www.courtlistener.com/opinion/10984097/people-of-michigan-v-aaron-joseph-trout/",
-      "court": "Michigan Court of Appeals",
-      "date_filed": "2026-09-25",
-      "snippet": "",
-      "query": "child custody substance abuse"
     },
     {
       "title": "T.W. v. J.A.S.-O.",
@@ -201,14 +209,6 @@
       "link": "https://www.courtlistener.com/opinion/10974588/michael-enns-v-lindsay-lipke/",
       "court": "Court of Appeals of Arkansas",
       "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "Jordan v. Jordan",
-      "link": "https://www.courtlistener.com/opinion/10974396/jordan-v-jordan/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-15",
       "snippet": "",
       "query": "custody modification alcohol abuse"
     },
