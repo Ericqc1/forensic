@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-02T17:14:18.292991+00:00",
+  "generated_at": "2026-10-03T15:32:56.349493+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Michael Bradley v. State",
+      "link": "https://www.courtlistener.com/opinion/11009598/michael-bradley-v-state/",
+      "court": "Court of Appeals of Georgia",
+      "date_filed": "2026-10-02",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "State v. Cunigan",
       "link": "https://www.courtlistener.com/opinion/11009511/state-v-cunigan/",
@@ -61,6 +69,14 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "In the Interest of J.R., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/11010294/in-the-interest-of-jr-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 13th District",
+      "date_filed": "2026-10-01",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "Davison v. Ohio State Univ. Wexner Med. Ctr.",
       "link": "https://www.courtlistener.com/opinion/11008311/davison-v-ohio-state-univ-wexner-med-ctr/",
       "court": "Ohio Court of Appeals",
@@ -101,25 +117,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Y.M. v. J.M.",
-      "link": "https://www.courtlistener.com/opinion/10991991/ym-v-jm/",
-      "court": "Hawaii Intermediate Court of Appeals",
-      "date_filed": "2026-09-30",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Office of the Child Advocate v. Blanchester, Kaytlyn and Dylen Shipperd TPR",
       "link": "https://www.courtlistener.com/opinion/10987829/office-of-the-child-advocate-v-blanchester-kaytlyn-and-dylen-shipperd-tpr/",
       "court": "Supreme Court of Delaware",
-      "date_filed": "2026-09-29",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Larry Thomas Larue a/k/a Larry Larue a/k/a Larry T. Larue v. State of Mississippi",
-      "link": "https://www.courtlistener.com/opinion/10986208/larry-thomas-larue-aka-larry-larue-aka-larry-t-larue-v-state-of/",
-      "court": "Court of Appeals of Mississippi",
       "date_filed": "2026-09-29",
       "snippet": "",
       "query": "child custody substance abuse"
