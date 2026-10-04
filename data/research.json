@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:32:51.548135+00:00",
+  "generated_at": "2026-10-04T16:16:54.888660+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -229,6 +229,14 @@
       "query": "family law psychology addiction"
     },
     {
+      "title": "The attendance paradox: schools as ambivalent spaces of adolescent substance use.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42827800/",
+      "journal": "Frontiers in public health",
+      "authors": "Abinaya A, Vijayalakshmi V",
+      "published": "2026",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Violence exposure and quality of life among partners and parents of individuals with substance use problems.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42798407/",
       "journal": "Frontiers in public health",
@@ -314,14 +322,6 @@
       "journal": "Drug and alcohol dependence",
       "authors": "Wouk K, Caton L, Bass R et al.",
       "published": "2024 Jul 1",
-      "query": "child custody evaluation substance abuse"
-    },
-    {
-      "title": "The associations between social determinants of health, mental health, substance-use and recidivism: a ten-year retrospective cohort analysis of women who completed the connections programme in Australia.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/38172944/",
-      "journal": "Harm reduction journal",
-      "authors": "Edwards LM, Chang S, Zeki R et al.",
-      "published": "2024 Jan 3",
       "query": "child custody evaluation substance abuse"
     }
   ]
