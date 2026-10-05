@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-04T16:17:00.228732+00:00",
+  "generated_at": "2026-10-05T20:08:50.134577+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Hubbs",
+      "link": "https://www.courtlistener.com/opinion/11011716/state-v-hubbs/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-05",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Piper P. v. Barron B.",
+      "link": "https://www.courtlistener.com/opinion/11010513/piper-p-v-barron-b/",
+      "court": "Massachusetts Supreme Judicial Court",
+      "date_filed": "2026-10-05",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "State v. Chhetri",
+      "link": "https://www.courtlistener.com/opinion/11011839/state-v-chhetri/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-05",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Zachary Harper v. State",
+      "link": "https://www.courtlistener.com/opinion/11010529/zachary-harper-v-state/",
+      "court": "Court of Appeals of Georgia",
+      "date_filed": "2026-10-05",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Michael Bradley v. State",
       "link": "https://www.courtlistener.com/opinion/11009598/michael-bradley-v-state/",
@@ -61,28 +93,28 @@
       "query": "family drug court"
     },
     {
+      "title": "In the Interest of B.C., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/11010451/in-the-interest-of-bc-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-10-01",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of C.M., a Child v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/11010449/in-the-interest-of-cm-a-child-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
+      "date_filed": "2026-10-01",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
       "title": "Euceda v. United States",
       "link": "https://www.courtlistener.com/opinion/11007635/euceda-v-united-states/",
       "court": "District of Columbia Court of Appeals",
       "date_filed": "2026-10-01",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of J.R., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/11010294/in-the-interest-of-jr-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 13th District",
-      "date_filed": "2026-10-01",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Davison v. Ohio State Univ. Wexner Med. Ctr.",
-      "link": "https://www.courtlistener.com/opinion/11008311/davison-v-ohio-state-univ-wexner-med-ctr/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-01",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In re J.M.",
@@ -106,15 +138,7 @@
       "court": "Court of Appeals of Arkansas",
       "date_filed": "2026-09-30",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Earl Pace v. Arkansas Department of Human Services and Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10987813/earl-pace-v-arkansas-department-of-human-services-and-minor-child/",
-      "court": "Court of Appeals of Arkansas",
-      "date_filed": "2026-09-30",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "Office of the Child Advocate v. Blanchester, Kaytlyn and Dylen Shipperd TPR",
@@ -122,7 +146,7 @@
       "court": "Supreme Court of Delaware",
       "date_filed": "2026-09-29",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "Bruce Henry v. Sheriff of Tuscaloosa County, Alabama",
@@ -173,14 +197,6 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "In re D.N.",
-      "link": "https://www.courtlistener.com/opinion/10983042/in-re-dn/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "In re B.J...",
       "link": "https://www.courtlistener.com/opinion/10983944/in-re-bj/",
       "court": "Court of Appeals of Utah",
@@ -197,28 +213,12 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "In the Interest of K. A., S. A., D. G. and D. G., Children v. Department of Family and Protective Services",
-      "link": "https://www.courtlistener.com/opinion/10978176/in-the-interest-of-k-a-s-a-d-g-and-d-g-children-v-department-of/",
-      "court": "Texas Court of Appeals, 1st District (Houston)",
-      "date_filed": "2026-09-18",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "G.R. v. B.H.",
       "link": "https://www.courtlistener.com/opinion/10976933/gr-v-bh/",
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-09-18",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of M.T., H.T., R.T., K.T., and G.T., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10978168/in-the-interest-of-mt-ht-rt-kt-and-gt-children-v-the-state/",
-      "court": "Texas Court of Appeals, 2nd District (Fort Worth)",
-      "date_filed": "2026-09-17",
-      "snippet": "",
-      "query": "parental rights termination addiction"
     },
     {
       "title": "Michael Enns v. Lindsay Lipke",
