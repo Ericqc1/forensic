@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:08:53.204282+00:00",
+  "generated_at": "2026-10-06T17:44:12.074336+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -10,6 +10,14 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -37,14 +45,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery Stories With Forrest Kelly",
       "artist": "Forrest Kelly",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
@@ -58,22 +58,6 @@
       "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2136014.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Family Law Cafe Podcast",
-      "artist": "Joanna Toch",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-cafe-podcast/id1719434464?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2282558.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/ee/35/6aee3500-006e-5536-34e1-f2da17f3a772/mza_10850405965185435588.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -93,6 +77,22 @@
       "query": "family law"
     },
     {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Cafe Podcast",
+      "artist": "Joanna Toch",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-cafe-podcast/id1719434464?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2282558.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/ee/35/6aee3500-006e-5536-34e1-f2da17f3a772/mza_10850405965185435588.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Family Law Now",
       "artist": "Family Law Now",
       "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
@@ -101,11 +101,11 @@
       "query": "family law"
     },
     {
-      "title": "DAD's CHILD CUSTODY ACTION PLAN",
-      "artist": "DAVID PISARRA, ESQ.",
-      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
-      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
+      "artist": "Attorney Jonathan Jacobs",
+      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -117,19 +117,19 @@
       "query": "child custody"
     },
     {
+      "title": "DAD's CHILD CUSTODY ACTION PLAN",
+      "artist": "DAVID PISARRA, ESQ.",
+      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
+      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
       "title": "Father X: How Fathers Can Win Child Custody",
       "artist": "Father X",
       "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
       "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
-      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
-      "artist": "Attorney Jonathan Jacobs",
-      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -141,11 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
-      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
+      "title": "The Dr. Laura Podcast",
+      "artist": "Dr. Laura Schlessinger & SiriusXM",
+      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
+      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -165,19 +165,19 @@
       "query": "substance abuse counseling"
     },
     {
-      "title": "Mormon Stories Podcast",
-      "artist": "Dr. John Dehlin",
-      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
-      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
       "title": "Hidden Killers With Tony Brueski | True Crime News & Commentary",
       "artist": "True Crime Today",
       "link": "https://podcasts.apple.com/us/podcast/hidden-killers-with-tony-brueski-true-crime-news/id1655749292?uo=4",
       "feed_url": "https://audioboom.com/channels/5040505.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/37/72/d037724b-c51a-e57e-9d63-1a08e0558850/mza_7422277451552995709.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Mormon Stories Podcast",
+      "artist": "Dr. John Dehlin",
+      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
+      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {

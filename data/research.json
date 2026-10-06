@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:08:25.164058+00:00",
+  "generated_at": "2026-10-06T17:43:59.832544+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -29,14 +29,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "A systems pharmacology model for paracetamol overdose and treatment.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42771058/",
-      "journal": "Journal of pharmacokinetics and pharmacodynamics",
-      "authors": "Li J, Chiew AL, Isbister GK et al.",
-      "published": "2026 Sep 22",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Association between medications for opioid use disorder and child removals.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42759706/",
       "journal": "Journal of substance use and addiction treatment",
@@ -53,11 +45,27 @@
       "query": "co-occurring disorders family therapy"
     },
     {
-      "title": "Adolescent suicidal distress and adult mental health: findings from a 25-year population based cohort.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42747516/",
-      "journal": "European child & adolescent psychiatry",
-      "authors": "Civita A, Colman I, Orri M et al.",
-      "published": "2026 Sep 16",
+      "title": "Early Exposure to a Parent's Alcohol Use Disorder as an Adverse Childhood Experience: Neurobiological and Clinical Consequences in Adulthood.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42834554/",
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "authors": "Staszewska I, Mastej A, Mech D et al.",
+      "published": "2026 Oct 6",
+      "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "Parental Stigma and \"Good Parenting\" in Child and Adolescent Mental Health.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42834365/",
+      "journal": "Psychiatric services (Washington, D.C.)",
+      "authors": "Becker TD, Guo F, Li B et al.",
+      "published": "2026 Oct 6",
+      "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "The Hushabye Opioid Pregnancy Preparation and Empowerment Program (HOPPE) An Innovative Approach to Neonatal Abstinence Syndrome.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42832416/",
+      "journal": "Advances in neonatal care : official journal of the National Association of Neonatal Nurses",
+      "authors": "Grisham LM, Bahena S, Degregorio J et al.",
+      "published": "2026 Oct 5",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -241,14 +249,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42798407/",
       "journal": "Frontiers in public health",
       "authors": "Birkeland B, Vederhus JK, Selbekk AS et al.",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Collaborative knowledge mobilisation to increase awareness and use of new SNOMED clinical terms for fetal alcohol spectrum disorder in England.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42740923/",
-      "journal": "Frontiers in public health",
-      "authors": "Parsonage JTI, Dillon A, Millington L et al.",
       "published": "2026",
       "query": "children of parents with substance use disorder"
     },

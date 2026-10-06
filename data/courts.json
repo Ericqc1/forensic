@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-05T20:08:50.134577+00:00",
+  "generated_at": "2026-10-06T17:44:09.474762+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Perez v. Kipp Dc Supporting Corporation",
+      "link": "https://www.courtlistener.com/opinion/11012805/perez-v-kipp-dc-supporting-corporation/",
+      "court": "District Court, District of Columbia",
+      "date_filed": "2026-10-06",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Deshaun Marquist Graves v. Commonwealth of Virginia",
+      "link": "https://www.courtlistener.com/opinion/11012828/deshaun-marquist-graves-v-commonwealth-of-virginia/",
+      "court": "Court of Appeals of Virginia",
+      "date_filed": "2026-10-06",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "State v. Hubbs",
       "link": "https://www.courtlistener.com/opinion/11011716/state-v-hubbs/",
@@ -117,17 +133,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re J.M.",
-      "link": "https://www.courtlistener.com/opinion/10988903/in-re-jm/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-09-30",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "People v. Duncan",
-      "link": "https://www.courtlistener.com/opinion/10988897/people-v-duncan/",
-      "court": "Appellate Court of Illinois",
+      "title": "In the Interest of A.L.L.N.R. and A.R.A.R., Children v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/11012163/in-the-interest-of-allnr-and-arar-children-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 4th District (San Antonio)",
       "date_filed": "2026-09-30",
       "snippet": "",
       "query": "child custody substance abuse"
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
