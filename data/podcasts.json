@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:44:12.074336+00:00",
+  "generated_at": "2026-10-07T18:15:58.691738+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -77,27 +77,27 @@
       "query": "family law"
     },
     {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Family Law Cafe Podcast",
-      "artist": "Joanna Toch",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-cafe-podcast/id1719434464?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2282558.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/ee/35/6aee3500-006e-5536-34e1-f2da17f3a772/mza_10850405965185435588.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Now",
       "artist": "Family Law Now",
       "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
       "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Talking Family Law - The Resolution Podcast",
+      "artist": "Resolution",
+      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
+      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -141,11 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "The Dr. Laura Podcast",
-      "artist": "Dr. Laura Schlessinger & SiriusXM",
-      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
-      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
+      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
