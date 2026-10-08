@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:15:58.691738+00:00",
+  "generated_at": "2026-10-08T18:18:47.146747+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -37,14 +37,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Friends In Recovery - Addiction Recovery Podcast",
-      "artist": "FIR",
-      "link": "https://podcasts.apple.com/us/podcast/friends-in-recovery-addiction-recovery-podcast/id1743491854?uo=4",
-      "feed_url": "https://anchor.fm/s/b0c32fe8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/6c/5a/4d6c5adb-0ba5-fd2c-3158-6ca24a2d8d33/mza_2543707072599522497.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery Stories With Forrest Kelly",
       "artist": "Forrest Kelly",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
@@ -53,11 +45,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "title": "Friends In Recovery - Addiction Recovery Podcast",
+      "artist": "FIR",
+      "link": "https://podcasts.apple.com/us/podcast/friends-in-recovery-addiction-recovery-podcast/id1743491854?uo=4",
+      "feed_url": "https://anchor.fm/s/b0c32fe8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/6c/5a/4d6c5adb-0ba5-fd2c-3158-6ca24a2d8d33/mza_2543707072599522497.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -69,6 +69,14 @@
       "query": "family law"
     },
     {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Let's Talk Family Law",
       "artist": "Let's Talk Family Law",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
@@ -77,11 +85,11 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Now",
-      "artist": "Family Law Now",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
-      "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
+      "title": "Family Law Cafe Podcast",
+      "artist": "Joanna Toch",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-cafe-podcast/id1719434464?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2282558.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/ee/35/6aee3500-006e-5536-34e1-f2da17f3a772/mza_10850405965185435588.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -91,30 +99,6 @@
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
       "query": "family law"
-    },
-    {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
-      "artist": "Attorney Jonathan Jacobs",
-      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
-      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
-      "artist": "LazetteMichelle",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
-      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
-      "query": "child custody"
     },
     {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
@@ -133,6 +117,22 @@
       "query": "child custody"
     },
     {
+      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
+      "artist": "LazetteMichelle",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
+      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
+      "artist": "Attorney Jonathan Jacobs",
+      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
       "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
       "artist": "Brian A. Victor, Esq.",
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
@@ -141,11 +141,11 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
-      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
+      "title": "The Dr. Laura Podcast",
+      "artist": "Dr. Laura Schlessinger & SiriusXM",
+      "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
+      "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
