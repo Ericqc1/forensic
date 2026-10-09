@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:18:47.146747+00:00",
+  "generated_at": "2026-10-09T17:50:25.699534+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -10,14 +10,6 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -53,6 +45,22 @@
       "query": "addiction recovery"
     },
     {
+      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
+      "artist": "Felicia Hermle",
+      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
+      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Divorce and Family Law Strategies with Burnham Law",
       "artist": "Todd Burnham",
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
@@ -69,14 +77,6 @@
       "query": "family law"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Let's Talk Family Law",
       "artist": "Let's Talk Family Law",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
@@ -85,19 +85,19 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Cafe Podcast",
-      "artist": "Joanna Toch",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-cafe-podcast/id1719434464?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2282558.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/ee/35/6aee3500-006e-5536-34e1-f2da17f3a772/mza_10850405965185435588.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Cafe Podcast",
+      "artist": "Joanna Toch",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-cafe-podcast/id1719434464?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2282558.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/ee/35/6aee3500-006e-5536-34e1-f2da17f3a772/mza_10850405965185435588.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {

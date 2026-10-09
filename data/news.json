@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:16:49.343240+00:00",
+  "generated_at": "2026-10-09T17:50:06.807186+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -59,14 +59,6 @@
       "published": "Wed, 08 Jul 2026 07:00:00 GMT",
       "summary": "Safer Solutions: What To Do with National Opioid Settlement Funds  R Street Institute",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "For Your Health-Julie Chicks, M.D Publishes New Resource on Understanding Comprehensive Addiction Treatment Options - WBOC TV",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQSW81UGVLQm1lUVhkRmxDM2dmV2VPeHBaQ2VLaE83UHdQX2tvc2U0ajZ6Wm03bUMxQTBQSUo5a3ZrZjZ2WktpaW5fYThpUzFHZW1TeVRSSzdPN29Bd0l3VFZUSEZ5T0pwZVBwVlJzZmMxWHFZTUlfblF4TkI4bmJiaGdTTTJfeHRXN1FPM3prTFpWQ3V1RXlFRlhSVC13dFl2dkhUMW5ZSWxwOFJRdGZuMGdRbXA3S0JqMElCZUdrTlo0akxnRDhKV3lucmJmTllCMUhsWGMxaGtXX2dObHl5VkhQUmlxU2NzdTZiR1ZfWWVUQTFjem40Rktwa01lSERyal9LMTA2V2NIUEVNNUdTVnMtOWpLbExOanRlOE9YSzNVU21SSGE3SlFVZ0preF9Gc2c?oc=5",
-      "source": "WBOC TV",
-      "published": "Wed, 07 Oct 2026 22:01:52 GMT",
-      "summary": "For Your Health-Julie Chicks, M.D Publishes New Resource on Understanding Comprehensive Addiction Treatment Options  WBOC TV",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Community Clinic awarded $3 million grant to expand rural substance use disorder services in Northwest Arkansas - Northwest Arkansas Democrat-Gazette",
@@ -165,14 +157,6 @@
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
-      "title": "Inside the home where women and their children break free of addiction - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHphSU5TVXlsX3poaEdrWlpqQ3lSeUU0eUp3MmFrOHBEd1JaSnZSbks1dUJFUnkxcS1vejlsOFFZUnRnTHB0ZlYya1ZncW4xLUFxbUUzX1oxZnNxWTZwMDdnQVl5XzBwcnZpMGxBN1JFakVqV3B6ZmJ4OFJOSXZwTkhBSVRQVFJMYTRCZmh5MVIyTnFEZHdiczZxSFk?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "Inside the home where women and their children break free of addiction  ABC News & Headlines – Australian Broadcasting Corporation",
-      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
-    },
-    {
       "title": "Prenatal Substance Use Laws Inadvertently Endanger Healthy Families: A Review of Laws Affecting Pregnant Women in Recovery and Their Children - R Street Institute",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa196VUUzMm9qYldzMWQ3WnRSU0Jsb2dheFF4RUhMWmZwWHktVV90VDlnNFpiYzRzNUpra0ZJODliUGltR1lPZ1RSQVlPY2RzUEt1M1pGdF9DcXF6VkpidnpEblQ3LXlCUG9NRVZ0ZXpSLVgwbTdabXM1VFhtTHRLYlNMQW9oLUlDYVlCUjZaakx0NXRJN0FXYVMxNWM1V0NTQm9KZzlsUHRsSWoteWlBVVBzLWlPc05WUEJkLUlCVEFFTEpTTkZIWTlqVnhrenNpTW5OSHVHLTVScHowYWF5cmZnOU11UEVLeVQ5T01VWWR5U3VhcUNMLVVBRGV1S19Dc3pFNQ?oc=5",
       "source": "R Street Institute",
@@ -197,6 +181,14 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
+      "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CeFFrSkxzSHd2dzF0QXQ4MnEwdUhZSVdNRUNyb0JTeHA2cFRpSGhwNV9RaE5hSHR2bEhDelNOaEVpSHpVUEZiXzNIWHg3QQ?oc=5",
+      "source": "Congressional Budget Office (.gov)",
+      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm  Congressional Budget Office (.gov)",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
       "title": "House seeks to drop reporting mandate for substance-exposed babies - The Boston Globe",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEJucGctMWRCcXJDSnVhUVpMRVZYa01hbEJzR3RWZG56LTVmaFJ4N3c1SlVHeW9TNUlzamhQYlZFT1VVazkwaElSc1Q5dllQeXBoVU1YdlpBenJGUDYwR1BGdHdUaVlRVU85OGxuYzFlX1JPWUpobEYwOUhKSy1uT1JKZ0hOY084ZXRTMGlGdW5panNhaV91cGFvZnhtNVBCQ3BPNEFR?oc=5",
       "source": "The Boston Globe",
@@ -210,14 +202,6 @@
       "source": "KFF Health News",
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  KFF Health News",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis - MedPage Today",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43eXVlckZNRl8ydEJPRlhnaGVjWl9Yb2FJeVBYNFFfUlk0NkRhdEpXeUVXME43RjVleWVQdnkzRW9pczZGUkJadkZQMXlXSmdtUVE4NUtlVUxHYmpxb09BSlhaNVN6NFd4R0ZaV1lmVQ?oc=5",
-      "source": "MedPage Today",
-      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  MedPage Today",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
@@ -269,11 +253,11 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money - STAT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnRuNF9PMWd0MUZLMTZza1gtamJ4VUhLM1NwWTlLX2p4ZzF3ZFJad1hDYkVBTElwNGgteUZ3VTZDWi02RFZiZ1VqUEpGLWQtc3pfQTg4N2hnaWdXTTRFSmRIQXBUVXIzWmtmR3lrS0N1eDg5V3RZTGNScDhQN3BiV2NzdVozRENfcWJjRDFOMTdkQXR0VkowM3JzaVd3ZmlxUU1Fa0dnUS1wajc3eGJDYVJXVFh5Qkpw?oc=5",
-      "source": "STAT",
-      "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "summary": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money  STAT",
+      "title": "Model legislation for audit requirements for opioid settlement fund recipients - Reason Foundation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTVVMXZTNkFYQ1dXbTJaMlI4alNrTTZEUzhaMUttc2VKTy0tTHZCOWlKMll0Y2pKUDdpSGFOOXUwZlh4cnBSb01mNTRXNnpUdFM2YzlDekhtVTRfSlE0cks5X2NNVFBpcFFmcUJXTGRmMlhXUEZJaDhXLUozM1lYWUMwMk1zOXduZTNkODQzOW0tRFdvWEFKOV9HamR3SFlMSlZxTkgwaXRFR09saFE?oc=5",
+      "source": "Reason Foundation",
+      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "summary": "Model legislation for audit requirements for opioid settlement fund recipients  Reason Foundation",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
@@ -283,14 +267,6 @@
       "published": "Thu, 24 Sep 2026 15:54:09 GMT",
       "summary": "NY State Bar Awards 2 Attorneys For Family Law Reform  Law360",
       "query": "\"family law reform\""
-    },
-    {
-      "title": "South Dakota moms with substance use disorder have new family-focused, residential recovery program - American Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTVTdDNPMjVzNEttdFV4VUhGVWxWNGc0Rjl5YWtWdERBOEhVLTVMeHd2Y29hWjFZbTIzMTBDOHptWk1jQ1BzWWlKVUgxRWJSQ29vRG1QVjNHTEROWHVTdk00RExVUnJZWEwzckcwRlhKRjBZcElZZUVvWGoxeWdjdEZGLVR0Q3otTVh2a21BZkdrQVloN2RwSXdnd3A3aWFkN3o5RUYxdHFvR1hlTzc2bFg5dV8wbXJKOVZIUUxmUDhucXVmTS1IWmJZNzNQU1JRMzRqV3hFU01QMzhaWnc?oc=5",
-      "source": "American Hospital Association",
-      "published": "Thu, 24 Sep 2026 15:29:51 GMT",
-      "summary": "South Dakota moms with substance use disorder have new family-focused, residential recovery program  American Hospital Association",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "LEAF to the Rescue as Oneonta Teen Center Gets Reprieve - All Otsego",
@@ -323,6 +299,30 @@
       "published": "Thu, 13 Aug 2026 07:00:00 GMT",
       "summary": "African Rights Advocates Coordinate Response to Family Law Backlash  Inter Press Service",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth - The Marshall Project",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZtSDhKTl9CMnRrS0F6NjZtUEJLQ2JPVWhkdjVnbWk0QmpsUE5SSU5pdnFBWTJQUW5XTC05TWVnT1hhcl9pcW9lMWt2ZmxzZVpGd1V4Ym5mWTlWU2Z2LVlHYVVtZmZXWEdBbkFyeEtwRTdWQS1CTkF6UW9BelFxcUx3UFlGVFUtaGNOS1kyTjlhWHpLZ0RtQnJ3?oc=5",
+      "source": "The Marshall Project",
+      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "summary": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth  The Marshall Project",
+      "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
+      "title": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms - Australian Institute of International Affairs",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlp3RG5xcWNiT3R6ejRMLWNTU3l6QW83WlRjNVNMQjhaQ3ExYzJkVGRHeWE1UzJkdGpmeWhaYU9HS0psNC1MMFljTXlIdkV3eUdLZGlUZHJoREt4ZDhSRW1hSW1xdTluY0R2NzJ4WFFGbFhMY1dpam5WR1M0ZGsyQm4tSlBHaFpEaHNnZEYxM29Pa1dBWEJsZk5xd0xJbExoSlpDN1JHVzI3NEg1TjhjVEZzbjYzeHItZkt0UmpidWl5c05GNG9NdHVtQ0p4Q2M?oc=5",
+      "source": "Australian Institute of International Affairs",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "summary": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms  Australian Institute of International Affairs",
+      "query": "\"family law reform\""
+    },
+    {
+      "title": "Addiction care for pregnant and postpartum women brings experts and lawmakers to VCU event - VCU News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWViRGlLclppWHhYS1NVanBRa2tKbVFOUlprNzI2eVM5RUE2dkhzbjUxeWhFQTdMNTk2bEQ2cDN5cFFpQzFwWUNJMTZ5SXlpc3N0SjJpM3JVNnBYaVdxMFNUd3RFeEJqR3RzOFhEREdvQlhwOGFDSE9FWDV3VFJqVmdOOVNuaXVhbXJRZ3VYRFB5Q0ZnakZBS0xRR0M3Q1c1TjlFX0NHLWZfeEFwTDRueFRwdXhSSzUwZ3JV?oc=5",
+      "source": "VCU News",
+      "published": "Thu, 08 Oct 2026 16:37:21 GMT",
+      "summary": "Addiction care for pregnant and postpartum women brings experts and lawmakers to VCU event  VCU News",
+      "query": "\"substance use disorder\" treatment OR policy"
     }
   ]
 }

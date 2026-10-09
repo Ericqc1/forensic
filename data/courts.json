@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-10-08T18:18:44.506468+00:00",
+  "generated_at": "2026-10-09T17:50:23.658595+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "United States v. James Trankle",
+      "link": "https://www.courtlistener.com/opinion/11024263/united-states-v-james-trankle/",
+      "court": "Court of Appeals for the D.C. Circuit",
+      "date_filed": "2026-10-09",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State of Iowa v. Max Amyda",
+      "link": "https://www.courtlistener.com/opinion/11024168/state-of-iowa-v-max-amyda/",
+      "court": "Supreme Court of Iowa",
+      "date_filed": "2026-10-09",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Castellaw",
+      "link": "https://www.courtlistener.com/opinion/11024104/state-v-castellaw/",
+      "court": "Nebraska Supreme Court",
+      "date_filed": "2026-10-09",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Dwight Deon Oliver v. State of Florida",
+      "link": "https://www.courtlistener.com/opinion/11024091/dwight-deon-oliver-v-state-of-florida/",
+      "court": "District Court of Appeal of Florida",
+      "date_filed": "2026-10-09",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of C.K. and K.A.R. v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/11024017/in-the-interest-of-ck-and-kar-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 9th District (Beaumont)",
+      "date_filed": "2026-10-08",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re J.F.",
       "link": "https://www.courtlistener.com/opinion/11017278/in-re-jf/",
@@ -29,6 +69,22 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "In Re: Estate of Staten, T., Sr.",
+      "link": "https://www.courtlistener.com/opinion/11017877/in-re-estate-of-staten-t-sr/",
+      "court": "Superior Court of Pennsylvania",
+      "date_filed": "2026-10-08",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of M.L., H.L., and G.L. v. the State of Texas",
+      "link": "https://www.courtlistener.com/opinion/11024016/in-the-interest-of-ml-hl-and-gl-v-the-state-of-texas/",
+      "court": "Texas Court of Appeals, 9th District (Beaumont)",
+      "date_filed": "2026-10-08",
+      "snippet": "",
+      "query": "custody modification alcohol abuse"
+    },
+    {
       "title": "Matter of Auner M. (Pedro M.)",
       "link": "https://www.courtlistener.com/opinion/11014089/matter-of-auner-m-pedro-m/",
       "court": "Appellate Division of the Supreme Court of the State of New York",
@@ -45,28 +101,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of E.H. and L.H., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/11013724/in-the-interest-of-eh-and-lh-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-10-07",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "In the Interest of J.E., Minor Child",
       "link": "https://www.courtlistener.com/opinion/11013723/in-the-interest-of-je-minor-child/",
       "court": "Court of Appeals of Iowa",
       "date_filed": "2026-10-07",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of L.T. and E.N., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/11013721/in-the-interest-of-lt-and-en-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-10-07",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "State of Louisiana in the Interest of K.S.",
@@ -103,14 +143,6 @@
     {
       "title": "In the Interest of A.C.M. and K.C.M., Minor Children",
       "link": "https://www.courtlistener.com/opinion/11013728/in-the-interest-of-acm-and-kcm-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-10-07",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of C.N., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/11013725/in-the-interest-of-cn-minor-child/",
       "court": "Court of Appeals of Iowa",
       "date_filed": "2026-10-07",
       "snippet": "",
@@ -211,38 +243,6 @@
       "date_filed": "2026-09-18",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "Michael Enns v. Lindsay Lipke",
-      "link": "https://www.courtlistener.com/opinion/10974588/michael-enns-v-lindsay-lipke/",
-      "court": "Court of Appeals of Arkansas",
-      "date_filed": "2026-09-16",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }
