@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:50:13.964053+00:00",
+  "generated_at": "2026-10-10T16:45:41.540510+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -74,6 +74,14 @@
       "journal": "Advances in neonatal care : official journal of the National Association of Neonatal Nurses",
       "authors": "Grisham LM, Bahena S, Degregorio J et al.",
       "published": "2026 Oct 5",
+      "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "A Primary Care E-Health Family Intervention for Risk Behaviors in Hispanic Youths: A Randomized Clinical Trial.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42853571/",
+      "journal": "JAMA network open",
+      "authors": "Estrada Y, Lozano A, Graefe B et al.",
+      "published": "2026 Oct 1",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -241,14 +249,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42827800/",
       "journal": "Frontiers in public health",
       "authors": "Abinaya A, Vijayalakshmi V",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Violence exposure and quality of life among partners and parents of individuals with substance use problems.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42798407/",
-      "journal": "Frontiers in public health",
-      "authors": "Birkeland B, Vederhus JK, Selbekk AS et al.",
       "published": "2026",
       "query": "children of parents with substance use disorder"
     },
