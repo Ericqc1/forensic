@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:45:41.540510+00:00",
+  "generated_at": "2026-10-11T17:11:08.772484+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -11,14 +11,6 @@
       "authors": "Sadeghi A, Ngoy A, George T et al.",
       "published": "2026 Sep 29",
       "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Acceptability and Feasibility of a Virtual Family-Based Single-Session Intervention for Young Teens at High Risk for Substance Use Disorder: Single-Arm Pilot Trial.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42809837/",
-      "journal": "JMIR formative research",
-      "authors": "Pike CK, Stanger C, Nahum-Shani I et al.",
-      "published": "2026 Sep 29",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
@@ -187,6 +179,14 @@
       "authors": "Ting Wong ZC, Tak Cheng FW, Mak IL et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Supporting kids in loss: A randomised controlled trial of a co-produced unguided internet cognitive behaviour therapy intervention for grieving children.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42857641/",
+      "journal": "Internet interventions",
+      "authors": "Egan SJ, Zammit T, O'Brien A et al.",
+      "published": "2026 Dec",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "A qualitative study of veteran and provider perspectives on a novel acute care transitions intervention for co-occurring mood and substance use disorders.",
