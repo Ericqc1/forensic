@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-10-11T17:11:13.103488+00:00",
+  "generated_at": "2026-10-12T20:43:17.221761+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
     {
-      "title": "Dash D. v. State of Alaska, Department of Family & Community Services, Office of Children's Services",
-      "link": "https://www.courtlistener.com/opinion/11025384/dash-d-v-state-of-alaska-department-of-family-community-services/",
+      "title": "K.R. v. Super. Ct.",
+      "link": "https://www.courtlistener.com/opinion/11031970/kr-v-super-ct/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-10-12",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Dash D. v. State",
+      "link": "https://www.courtlistener.com/opinion/11031904/dash-d-v-state/",
       "court": "Alaska Supreme Court",
       "date_filed": "2026-10-09",
       "snippet": "",
@@ -77,14 +85,6 @@
       "query": "family drug court"
     },
     {
-      "title": "Dwight Deon Oliver v. State of Florida",
-      "link": "https://www.courtlistener.com/opinion/11024091/dwight-deon-oliver-v-state-of-florida/",
-      "court": "District Court of Appeal of Florida",
-      "date_filed": "2026-10-09",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In the Interest of E.J., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/11025522/in-the-interest-of-ej-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 11th District (Eastland)",
@@ -98,7 +98,7 @@
       "court": "Court of Appeals of Utah",
       "date_filed": "2026-10-08",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "custody modification alcohol abuse"
     },
     {
       "title": "In the Interest of M.L., H.L., and G.L. v. the State of Texas",
