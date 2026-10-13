@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-10-12T20:43:17.221761+00:00",
+  "generated_at": "2026-10-13T18:45:00.196936+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Hamilton v. Hamilton",
+      "link": "https://www.courtlistener.com/opinion/11032345/hamilton-v-hamilton/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re J.S.",
+      "link": "https://www.courtlistener.com/opinion/11032343/in-re-js/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re J.S.",
+      "link": "https://www.courtlistener.com/opinion/11032342/in-re-js/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "CHINS: J J v. Indiana Department of Child Services",
+      "link": "https://www.courtlistener.com/opinion/11032281/chins-j-j-v-indiana-department-of-child-services/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re Commitment of Hughes",
+      "link": "https://www.courtlistener.com/opinion/11032276/in-re-commitment-of-hughes/",
+      "court": "Appellate Court of Illinois",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Brooklyn Rockett v. Eric Eighmy",
+      "link": "https://www.courtlistener.com/opinion/11032226/brooklyn-rockett-v-eric-eighmy/",
+      "court": "Court of Appeals for the Eighth Circuit",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Termination: S E v. Indiana Department of Child Services",
+      "link": "https://www.courtlistener.com/opinion/11032278/termination-s-e-v-indiana-department-of-child-services/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Fernando Castillo v. State",
+      "link": "https://www.courtlistener.com/opinion/11032261/fernando-castillo-v-state/",
+      "court": "Court of Appeals of Georgia",
+      "date_filed": "2026-10-13",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Centeno",
+      "link": "https://www.courtlistener.com/opinion/11031980/people-v-centeno/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-10-12",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "K.R. v. Super. Ct.",
       "link": "https://www.courtlistener.com/opinion/11031970/kr-v-super-ct/",
@@ -18,7 +90,7 @@
       "court": "Alaska Supreme Court",
       "date_filed": "2026-10-09",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
       "title": "In re A.R.",
@@ -26,7 +98,7 @@
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-10-09",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
       "title": "In re T.R.",
@@ -34,31 +106,7 @@
       "court": "Ohio Court of Appeals",
       "date_filed": "2026-10-09",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re J.S.",
-      "link": "https://www.courtlistener.com/opinion/11024977/in-re-js/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-10-09",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "United States v. James Trankle",
-      "link": "https://www.courtlistener.com/opinion/11024263/united-states-v-james-trankle/",
-      "court": "Court of Appeals for the D.C. Circuit",
-      "date_filed": "2026-10-09",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State of Iowa v. Max Amyda",
-      "link": "https://www.courtlistener.com/opinion/11024168/state-of-iowa-v-max-amyda/",
-      "court": "Supreme Court of Iowa",
-      "date_filed": "2026-10-09",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
       "title": "People v. Quashawn C.",
@@ -69,28 +117,12 @@
       "query": "family drug court"
     },
     {
-      "title": "Phillip v. Baass",
-      "link": "https://www.courtlistener.com/opinion/11024964/phillip-v-baass/",
+      "title": "In re J.S.",
+      "link": "https://www.courtlistener.com/opinion/11024977/in-re-js/",
       "court": "California Court of Appeal",
       "date_filed": "2026-10-09",
       "snippet": "",
       "query": "family drug court"
-    },
-    {
-      "title": "State v. Castellaw",
-      "link": "https://www.courtlistener.com/opinion/11024104/state-v-castellaw/",
-      "court": "Nebraska Supreme Court",
-      "date_filed": "2026-10-09",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of E.J., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/11025522/in-the-interest-of-ej-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 11th District (Eastland)",
-      "date_filed": "2026-10-08",
-      "snippet": "",
-      "query": "child custody substance abuse"
     },
     {
       "title": "Huynh v. Witte",
@@ -211,38 +243,6 @@
       "date_filed": "2026-09-24",
       "snippet": "",
       "query": "custody modification alcohol abuse"
-    },
-    {
-      "title": "In the Interest of I.G., a Child v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 7th District (Amarillo)",
-      "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
     }
   ]
 }

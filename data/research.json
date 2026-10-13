@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:43:13.725019+00:00",
+  "generated_at": "2026-10-13T18:44:55.201832+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -45,19 +45,11 @@
       "query": "family law psychology addiction"
     },
     {
-      "title": "Early Exposure to a Parent's Alcohol Use Disorder as an Adverse Childhood Experience: Neurobiological and Clinical Consequences in Adulthood.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42834554/",
-      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
-      "authors": "Staszewska I, Mastej A, Mech D et al.",
-      "published": "2026 Oct 6",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Parental Stigma and \"Good Parenting\" in Child and Adolescent Mental Health.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42834365/",
-      "journal": "Psychiatric services (Washington, D.C.)",
-      "authors": "Becker TD, Guo F, Li B et al.",
-      "published": "2026 Oct 6",
+      "title": "Prenatal Education for Pregnant Parents on Opioid Agonist Therapy in Newfoundland and Labrador: A Qualitative Study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42864942/",
+      "journal": "Journal of drug education",
+      "authors": "Hand M, Najafizada M, Wassif AR et al.",
+      "published": "2026 Oct 12",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -83,6 +75,14 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Polygenic Risk Profiles and the Manifestations of Alcohol Use Disorder and Related Outcomes.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42862091/",
+      "journal": "Alcohol, clinical & experimental research",
+      "authors": "Dash GF, Aliev F, Kuo SI et al.",
+      "published": "2026 Oct",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Long-Term Neurodevelopmental Outcome Following Three Randomized Controlled Trials of Choline in Fetal Alcohol Spectrum Disorder (FASD).",
