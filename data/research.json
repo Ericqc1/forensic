@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:44:55.201832+00:00",
+  "generated_at": "2026-10-14T16:18:35.434857+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -45,19 +45,27 @@
       "query": "family law psychology addiction"
     },
     {
+      "title": "A Scoping Review of Maternal Substance Use and Peer Support and Its Implications for Maternal Health Providers.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42870737/",
+      "journal": "Birth (Berkeley, Calif.)",
+      "authors": "Howard H, Freeman K, Bommakanti S et al.",
+      "published": "2026 Oct 14",
+      "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "Parental substance use and adolescent psychiatric symptom profiles in Lagos, Nigeria: school-based cross-sectional study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42867189/",
+      "journal": "BJPsych open",
+      "authors": "Adewuya AO, Oladipo OE, Esangbedo AE",
+      "published": "2026 Oct 13",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Prenatal Education for Pregnant Parents on Opioid Agonist Therapy in Newfoundland and Labrador: A Qualitative Study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42864942/",
       "journal": "Journal of drug education",
       "authors": "Hand M, Najafizada M, Wassif AR et al.",
       "published": "2026 Oct 12",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "A Primary Care E-Health Family Intervention for Risk Behaviors in Hispanic Youths: A Randomized Clinical Trial.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42853571/",
-      "journal": "JAMA network open",
-      "authors": "Estrada Y, Lozano A, Graefe B et al.",
-      "published": "2026 Oct 1",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -89,14 +97,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42862085/",
       "journal": "Alcohol, clinical & experimental research",
       "authors": "Wozniak JR, Eckerle JK, Gimbel BA et al.",
-      "published": "2026 Oct",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Could School Function Be an Adolescent Health Vital Sign? Associations Between Gradebook Data and Substance Use Among Middle School Students.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42860269/",
-      "journal": "The Journal of school health",
-      "authors": "DiPentino R, Meza BPL, Jackson N et al.",
       "published": "2026 Oct",
       "query": "children of parents with substance use disorder"
     },
@@ -189,14 +189,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Supporting kids in loss: A randomised controlled trial of a co-produced unguided internet cognitive behaviour therapy intervention for grieving children.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42857641/",
-      "journal": "Internet interventions",
-      "authors": "Egan SJ, Zammit T, O'Brien A et al.",
-      "published": "2026 Dec",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "A qualitative study of veteran and provider perspectives on a novel acute care transitions intervention for co-occurring mood and substance use disorders.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42636074/",
       "journal": "Psychological services",
@@ -251,6 +243,14 @@
       "authors": "Rezag Bara SF, Bayle G, Wallez S et al.",
       "published": "2026",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "The role of contextual factors, school-related attitudes and behavioural traits on lifetime antisocial behaviours among adolescents.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42870934/",
+      "journal": "Frontiers in public health",
+      "authors": "Mehanović E, Renna M, Martorana M et al.",
+      "published": "2026",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Sustained abstinence after a methamphetamine-specific treatment program for pregnant and parenting women.",

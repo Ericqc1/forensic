@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:45:04.878582+00:00",
+  "generated_at": "2026-10-14T16:18:45.875601+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -10,14 +10,6 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -42,6 +34,14 @@
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
       "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Friends In Recovery - Addiction Recovery Podcast",
+      "artist": "FIR",
+      "link": "https://podcasts.apple.com/us/podcast/friends-in-recovery-addiction-recovery-podcast/id1743491854?uo=4",
+      "feed_url": "https://anchor.fm/s/b0c32fe8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/6c/5a/4d6c5adb-0ba5-fd2c-3158-6ca24a2d8d33/mza_2543707072599522497.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -133,19 +133,19 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
-      "artist": "Brian A. Victor, Esq.",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/182093.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "The Dr. Laura Podcast",
       "artist": "Dr. Laura Schlessinger & SiriusXM",
       "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
       "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
+      "artist": "Brian A. Victor, Esq.",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/182093.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -162,14 +162,6 @@
       "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
       "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "Hidden Killers With Tony Brueski | True Crime News & Commentary",
-      "artist": "True Crime Today",
-      "link": "https://podcasts.apple.com/us/podcast/hidden-killers-with-tony-brueski-true-crime-news/id1655749292?uo=4",
-      "feed_url": "https://audioboom.com/channels/5040505.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/37/72/d037724b-c51a-e57e-9d63-1a08e0558850/mza_7422277451552995709.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {
@@ -194,6 +186,14 @@
       "link": "https://podcasts.apple.com/us/podcast/meritain-health-in-the-booth/id1573632495?uo=4",
       "feed_url": "https://rss.buzzsprout.com/735377.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/c2/df/37c2df0d-bf1f-b352-65df-930250dd5e26/mza_18040290022582923936.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "The Professional Podcast Network",
+      "artist": "The Professional Podcast Network",
+      "link": "https://podcasts.apple.com/us/podcast/the-professional-podcast-network/id1700165465?uo=4",
+      "feed_url": "https://feeds.simplecast.com/sAlLVUh8",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/12/fc/59/12fc595b-3bd1-e9cd-e4fe-6de2cb9a7417/mza_12709084191825637590.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]
