@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-14T16:18:42.857810+00:00",
+  "generated_at": "2026-10-15T16:06:37.588311+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Columbus City School Dist. v. State",
+      "link": "https://www.courtlistener.com/opinion/11035043/columbus-city-school-dist-v-state/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-15",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re S.L.",
+      "link": "https://www.courtlistener.com/opinion/11034112/in-re-sl/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-14",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Dept. of Human Services v. M. T.",
+      "link": "https://www.courtlistener.com/opinion/11033726/dept-of-human-services-v-m-t/",
+      "court": "Court of Appeals of Oregon",
+      "date_filed": "2026-10-14",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Department of Children and Families v. A.M., the Mother",
       "link": "https://www.courtlistener.com/opinion/11033645/department-of-children-and-families-v-am-the-mother/",
@@ -29,76 +53,44 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re: T.J",
-      "link": "https://www.courtlistener.com/opinion/11032742/in-re-tj/",
-      "court": "Hawaii Supreme Court",
+      "title": "Computer & Communications Industry Association v. Attorney General, State of Florida",
+      "link": "https://www.courtlistener.com/opinion/11034949/computer-communications-industry-association-v-attorney-general-state/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-10-14",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "USSEC v. Reven Holdings",
+      "link": "https://www.courtlistener.com/opinion/11033971/ussec-v-reven-holdings/",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "date_filed": "2026-10-14",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Nazeer Vick",
+      "link": "https://www.courtlistener.com/opinion/11034114/united-states-v-nazeer-vick/",
+      "court": "Court of Appeals for the Fourth Circuit",
       "date_filed": "2026-10-13",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
-      "title": "Matter of: R.V., A Youth",
-      "link": "https://www.courtlistener.com/opinion/11032699/matter-of-rv-a-youth/",
-      "court": "Montana Supreme Court",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Hamilton v. Hamilton",
-      "link": "https://www.courtlistener.com/opinion/11032345/hamilton-v-hamilton/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "CHINS: J J v. Indiana Department of Child Services",
-      "link": "https://www.courtlistener.com/opinion/11032281/chins-j-j-v-indiana-department-of-child-services/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re Commitment of Hughes",
-      "link": "https://www.courtlistener.com/opinion/11032276/in-re-commitment-of-hughes/",
+      "title": "In re B.C.",
+      "link": "https://www.courtlistener.com/opinion/11033885/in-re-bc/",
       "court": "Appellate Court of Illinois",
       "date_filed": "2026-10-13",
       "snippet": "",
       "query": "child custody substance abuse"
     },
     {
-      "title": "McInerney v. Regents of the Univ. of California",
-      "link": "https://www.courtlistener.com/opinion/11032682/mcinerney-v-regents-of-the-univ-of-california/",
-      "court": "California Court of Appeal",
+      "title": "In re: T.J",
+      "link": "https://www.courtlistener.com/opinion/11032742/in-re-tj/",
+      "court": "Hawaii Supreme Court",
       "date_filed": "2026-10-13",
       "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Edward Williams v. Attorney General United States of America",
-      "link": "https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/",
-      "court": "Court of Appeals for the Third Circuit",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Termination: S E v. Indiana Department of Child Services",
-      "link": "https://www.courtlistener.com/opinion/11032278/termination-s-e-v-indiana-department-of-child-services/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Fernando Castillo v. State",
-      "link": "https://www.courtlistener.com/opinion/11032261/fernando-castillo-v-state/",
-      "court": "Court of Appeals of Georgia",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "family drug court"
+      "query": "child custody substance abuse"
     },
     {
       "title": "In re J.S.",
@@ -197,14 +189,6 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "Office of the Child Advocate v. Blanchester, Kaytlyn and Dylen Shipperd TPR",
-      "link": "https://www.courtlistener.com/opinion/10987829/office-of-the-child-advocate-v-blanchester-kaytlyn-and-dylen-shipperd-tpr/",
-      "court": "Supreme Court of Delaware",
-      "date_filed": "2026-09-29",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "Donshik v. Donshik",
       "link": "https://www.courtlistener.com/opinion/10984957/donshik-v-donshik/",
       "court": "Connecticut Appellate Court",
@@ -241,6 +225,22 @@
       "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
       "court": "Louisiana Court of Appeal",
       "date_filed": "2026-04-08",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
+      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-03-26",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
+      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
+      "court": "Court of Appeals of North Carolina",
+      "date_filed": "2026-03-04",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }
