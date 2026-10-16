@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:06:41.835439+00:00",
+  "generated_at": "2026-10-16T15:54:47.421223+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -53,22 +53,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "For Better or Worse: A Family Law Podcast",
-      "artist": "TALG LAW",
-      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
-      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Let's Talk Family Law",
       "artist": "Let's Talk Family Law",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
@@ -82,6 +66,22 @@
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
       "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "For Better or Worse: A Family Law Podcast",
+      "artist": "TALG LAW",
+      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
+      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -109,14 +109,6 @@
       "query": "child custody"
     },
     {
-      "title": "DAD's CHILD CUSTODY ACTION PLAN",
-      "artist": "DAVID PISARRA, ESQ.",
-      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
-      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "Father X: How Fathers Can Win Child Custody",
       "artist": "Father X",
       "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
@@ -125,11 +117,11 @@
       "query": "child custody"
     },
     {
-      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
-      "artist": "Attorney Jonathan Jacobs",
-      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
+      "title": "DAD's CHILD CUSTODY ACTION PLAN",
+      "artist": "DAVID PISARRA, ESQ.",
+      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
+      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -138,6 +130,14 @@
       "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
       "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
+      "artist": "Attorney Jonathan Jacobs",
+      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

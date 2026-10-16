@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:06:28.760160+00:00",
+  "generated_at": "2026-10-16T15:54:22.487139+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -67,6 +67,14 @@
       "authors": "Hand M, Najafizada M, Wassif AR et al.",
       "published": "2026 Oct 12",
       "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "Primary Care for People With Alcohol Use Disorder.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42886177/",
+      "journal": "American family physician",
+      "authors": "Jaffe GA, Visconti A, Sonoda K",
+      "published": "2026 Oct",
+      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Substance Use Disorders in Adolescents with Bipolar Disorder: A Developmental Approach to Assessment and Treatment.",
@@ -187,14 +195,6 @@
       "authors": "Ting Wong ZC, Tak Cheng FW, Mak IL et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "A qualitative study of veteran and provider perspectives on a novel acute care transitions intervention for co-occurring mood and substance use disorders.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42636074/",
-      "journal": "Psychological services",
-      "authors": "Shirley K, Bolts O, Pinto LA et al.",
-      "published": "2026 Aug 24",
-      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Observational trial of the preventive impact of a social risk factor focused program for co-occurring opioid and methamphetamine use disorders and suicide risk in parents: study protocol.",
