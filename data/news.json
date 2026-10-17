@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:54:12.731120+00:00",
+  "generated_at": "2026-10-17T14:47:12.439606+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -53,20 +53,12 @@
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
-      "title": "Carlow program incentivizes students to enter — and stay in — substance use disorder counseling field - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcVBNbnZkUTcxckx5SUtfeU5vMWJSQnQ2WHotR09WamlWbmg4ZFAtTkNMYVJNdXA4LXptYkZ4RjlMVmpQNlpIX0x6eVAxOTJ0OHo1a0k0aEJwVnI5aXBMTHk0XzFDWU96bDBXT0ZHbHEzVmFLSndac00tTEpkVndVVmNqS19Fc051S1VJWEdlSXB4T2ttYjgyZ05HUTlXd0JYZTg1dkRVVFdHcFpBWkwwNWQtY3BwLWs3OVowNDNCQjlvT3k0dTlhMzQxWTBwQkxs?oc=5",
-      "source": "TribLIVE.com",
-      "published": "Wed, 14 Oct 2026 22:59:00 GMT",
-      "summary": "Carlow program incentivizes students to enter — and stay in — substance use disorder counseling field  TribLIVE.com",
+      "title": "New Medicaid waiver could help more Maine jails offer long-acting opioid treatment - newscentermaine.com",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcVJKRFgzSGhnVE9pdjlyN21MRkVMSHRxNmozcGtjdVJpTDVsWC1IRWhSMjU0dE01YWs2WGV0Y2NhblRlLVo3NU1OdGVtVzlPaURkaTBsY0Z2ZjB2Ym9CQVJXQVo5NnhBWF9RZ0RjZjNXdDNqNWc4RlRfRkNSY3JYNXc2aFRuR0N0TXBSTTl1aUZDZmRZM2NaY1F4NjY3ZG9MOW1fNW9VQnE0UGdDUkRHZnJhWTNmUXhaeloxc2UtQzBUdm41Q1FjZHBpaFVZc3I0c1J4VmRRTlBQUG1sQVBMUUdiOEF2Z3FvY2hOa0tvNHNockZUajhnMG5SaHotTkxfM0pnT0JkTldLcDBWRndVZG9oTExhNmxIZVV5STVWclp4V2tzbGFiSGRYS2YyMmtPQ1FpWHRZci1LanR0UTh1WU52Wi0?oc=5",
+      "source": "newscentermaine.com",
+      "published": "Wed, 14 Oct 2026 18:33:00 GMT",
+      "summary": "New Medicaid waiver could help more Maine jails offer long-acting opioid treatment  newscentermaine.com",
       "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Opioid Addiction Diagnoses Rose Nearly 33% - Addiction Center",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTTFCNUpxOHdEOURoZjlWZTNYNzBuVVN3WUxMX1FzTVBOenR3OWZObEtKU3h1VnlsNWREQkxaeHF5ejF2S0JPS3ZWb3ZuUV92dmxEeFRsc2RFOExJVE9ucHFjUWh4UkFwaFY4VnJUVlRwMXpzb19IWWJiTkMwWnl1aXVicw?oc=5",
-      "source": "Addiction Center",
-      "published": "Wed, 14 Oct 2026 21:19:46 GMT",
-      "summary": "Opioid Addiction Diagnoses Rose Nearly 33%  Addiction Center",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "What’s the latest on 7-OH and kratom availability and addiction care? - Michigan Medicine",
@@ -74,14 +66,6 @@
       "source": "Michigan Medicine",
       "published": "Wed, 14 Oct 2026 12:00:00 GMT",
       "summary": "What’s the latest on 7-OH and kratom availability and addiction care?  Michigan Medicine",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
-      "title": "Wendell approves 56-bed addiction treatment center with security and walk-off policy conditions - The Wake Weekly",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFllR2FncEpmRVQ4V0RHb0dEOEJDWmhhUm11Ri0wN0VQRlp1SUNqUzhoVGl0Sk83RlkySEJxNWpWTEdKZjhNZWxheDFoeVBIQl9IbDVtQzc4UGlCQ2NkMEw3QWwxYzRsNHMxbDI0UDJYUVJETnA5bDVDdHdLRWRUN2lwR2VneVlXNUo5N3Ztc1d1cUF0cGxyWUdPTVRneFh4Vmt3RDlsSXdmSE5venJrVk9NX1piUXVUVERyU2IwYlJFVFpNVWZmZ1BzOXF0bm5DbEE?oc=5",
-      "source": "The Wake Weekly",
-      "published": "Wed, 14 Oct 2026 00:51:29 GMT",
-      "summary": "Wendell approves 56-bed addiction treatment center with security and walk-off policy conditions  The Wake Weekly",
       "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
@@ -99,6 +83,14 @@
       "published": "Wed, 08 Jul 2026 07:00:00 GMT",
       "summary": "Safer Solutions: What To Do with National Opioid Settlement Funds  R Street Institute",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "Opinion: Colorado’s family courts are failing children under the myth of resilience - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkxPanVCeGlPWWFkcHJmdmw0b3k1NUtXOWNoa21jVm9rRDB6RXhfTTZ6cXBxcFBNdVM1ck02OEdhX0VydkVheXNWYUtNR19GWjV0bUJVU0htazZmWWJDc2x3RFZ4SG52NnJ0eDd1VUhWOTcwaWNvdXk5R0oxVDVnNzJwMnk4XzR2aVpBSw?oc=5",
+      "source": "The Colorado Sun",
+      "published": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "summary": "Opinion: Colorado’s family courts are failing children under the myth of resilience  The Colorado Sun",
+      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
       "title": "Louisiana expands response to substance-exposed newborns - The Center Square",
@@ -123,6 +115,14 @@
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "UN Human Rights Council hears call for Arab family law reform  ICLG",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
+      "source": "Penn LDI",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Most Kentucky opioid settlement money is not being spent, new report shows - Kentucky Lantern",
@@ -157,12 +157,12 @@
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
-      "title": "Inside the home where women and their children break free of addiction - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHphSU5TVXlsX3poaEdrWlpqQ3lSeUU0eUp3MmFrOHBEd1JaSnZSbks1dUJFUnkxcS1vejlsOFFZUnRnTHB0ZlYya1ZncW4xLUFxbUUzX1oxZnNxWTZwMDdnQVl5XzBwcnZpMGxBN1JFakVqV3B6ZmJ4OFJOSXZwTkhBSVRQVFJMYTRCZmh5MVIyTnFEZHdiczZxSFk?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "Inside the home where women and their children break free of addiction  ABC News & Headlines – Australian Broadcasting Corporation",
-      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+      "title": "California becomes first state to offer same-day and ongoing opioid treatment support - California State Portal | CA.gov",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkVOVG9RUzcwS1BMZmducGF3U1ExRFZBRUVmNF9kbkZWMXo0RHZsUDlFRkU2NWVFRHJIQ1Bmemhzam5zUWYwNFhwWnFaN2hqd3ppbnUzSHp1enNIRDVMTEZGUHhmdllNai1vcVRtaFRLQTByRVJJb0pfTjBfTlNueHp3WlEzYjVIaGpzNUZobUhaMDZWekN5dklZN0ZsUGRCU1FXWlpSSmttZw?oc=5",
+      "source": "California State Portal | CA.gov",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "California becomes first state to offer same-day and ongoing opioid treatment support  California State Portal | CA.gov",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Several ICE agents were arrested in recent months, showing risk of misconduct | The Associated Press - www.ap.org",
@@ -245,12 +245,12 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "TalkingParents Launches AI-Powered Toolset to Help - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY2Vvc3gwN1VabVFwWl9Zd2ZQYk01VU0wYWxlOGU0WmdZaVdYNkx0MjI5UzFKVFI3eTFqdUc0VG9LZmRQQnpfR2EtRmt4a3VNQTRTSEY2V3MxZjB6NlVpZ3N0Q3h2RU5KRmNtSzU2bzkzUVppNkpGVEJ6QlV6bGlUOXBEVjlTLU1XZGtpeFpkTXZTS1hjZXlYOHdrVUxvSnRtU3o4WlYwaHNydWhsOEhaVzlneHVpaEwtZThkYllYSXpSVEUtSmRoaFhjMXdtUk9oX2ZUUmpraU5rbDNIeXZoaGFVWGJPU0tRaVRrR04xcmkxZ3RLelR2cnRxMmdvUzJDNlhMc0s0V1hqcGxUcUEzbkFVcHM?oc=5",
-      "source": "GlobeNewswire",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "summary": "TalkingParents Launches AI-Powered Toolset to Help  GlobeNewswire",
-      "query": "\"co-parenting\" addiction recovery"
+      "title": "Mass General Brigham to stop filing neglect reports solely because a baby is born with drugs in its system - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdERyV2VlUUZ2VVFOQkd6Uzdob213MVo5a2NzWGRSd1F1ek5DWmpoUXluZVh3UkZBakZTaDR5NUFoM3J6TXNTUHhMT25wVVRKTWxFeGo5WFo0aTdicWZEZDd4LWU5N2s5Vzg1eDF3WVdWV2pVeGxOcHY3YXZubjBvWF9VdWltOE9DWXJlendzQ2VhNDE0NWhNRWNXc3FNeVU4d1RzV0J3?oc=5",
+      "source": "The Boston Globe",
+      "published": "Tue, 02 Apr 2024 07:00:00 GMT",
+      "summary": "Mass General Brigham to stop filing neglect reports solely because a baby is born with drugs in its system  The Boston Globe",
+      "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
       "title": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion - Johns Hopkins Bloomberg School of Public Health",
@@ -301,28 +301,28 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
-      "title": "How I found my research: Arjun Nair identifies gaps in care for mothers with cannabis use disorder - VCU News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXVXYkpKS3BwcWZMWWtuYUhSdjExdDlkZWQ5dDhmWEM4UDd4a0RkRlBMNXQ0Szh2S0hnWU01OGpRd3hySjFNSDRHMVE2MkJTdDVzdGZUV0VCUm4xSjlBaDlycjBGTGxwR3l3XzZzYml3SnFyRGJ0bkI1b2ZqaGJnb1Blc3B3VnE5RGxPeERwTnNNcGVBaHQ3T25jRHA4Vkcxc2duOG1ERVEzVmFqZWtBN1o5bkN4RTE3aEhibWcweFJSSnkx?oc=5",
-      "source": "VCU News",
-      "published": "Thu, 15 Oct 2026 16:34:39 GMT",
-      "summary": "How I found my research: Arjun Nair identifies gaps in care for mothers with cannabis use disorder  VCU News",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Alta Centers Celebrates 11 Years as a Los Angeles Drug Rehab Providing Addiction Treatment and Recovery Services - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNEJmY0tEMDNVUkhDSUIzcjIxa1NBUFJSejJSSFNvSlM1RWwwemk1eVpwMXZFcnZ2YndaWnF5OEZQUzhjZURDYlktM250WE9LQktndHJJVzhUMU1qb0JUa1RVaGVMcm5oV1JQczFwNVpLS3hxbG54TlpYT2k2UVJRMlJRQ1RwUkh0VVcxcWNpZnB2RjRtLU5BRUFfa2JfSjJRVU5lS1ZCdzdOVDRPcVMxemp5UUZvN2l4bS1FYUNMcVVFLW5EOXNpazk0cWtCZ3UtSGtNS1h3STNXYVdUNFdaNFNLTlNLYWtwTHc?oc=5",
-      "source": "EIN News",
-      "published": "Thu, 15 Oct 2026 15:00:00 GMT",
-      "summary": "Alta Centers Celebrates 11 Years as a Los Angeles Drug Rehab Providing Addiction Treatment and Recovery Services  EIN News",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - WCHS",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVI1NEpMSEZCOUU0RHlrMjFaQWhvWm83NFpmQnZqUlV4OVVhTkJmYkZ0a2JFMjRHcHVORnN1OXR5c1E1TTVQal9wS3V4VkZBbEhCZU9BandDaV9zZnhHVUFnUnBRNzRkZVVUM3R2UnBrYUpNcnlTVUZKV1Bxb2VKZl9Yc09pSTJQWUpaeWFFTQ?oc=5",
       "source": "WCHS",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court  WCHS",
       "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "From opioid settlement transparency to banking deserts, think tank founder talks policy issues in N.M. - Santa Fe New Mexican",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOLWZmdXFsdjkxZG9TVGs1ejFrU0VZY0ZNcm54Qk1XRTl6QXV2YzRGdGdVdUFTLXpGeTI5LWdCRzVtZWV2QmdHWGYxY0VmQXZWS3NCa2RjeVVUd01uQ25VQU01eHZXa0NiY1Y1Q1pIbWRYdEljQldRR2cyOUFvOFY4TjR3X1RRc2hxUEVQZFpsTlNaLUNud0lIWnV2M0hGRWQyeHNicndpb2NmLW81YkZ4R0R4b0ZDUEQwVl82c0tBWkY4UVlZWFdVTENCRUE0Vk1TcHUwaXk5clY0SlAxcU9LdmtzdS1CZHRiQ2c3RVdoSy1PQjEzWjN4YzRYejJhVm45YlliUmt1a3lrMVpUWGpwRFQ2UmFTRmNxYklrd2tTN185cUxFMUE?oc=5",
+      "source": "Santa Fe New Mexican",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "summary": "From opioid settlement transparency to banking deserts, think tank founder talks policy issues in N.M.  Santa Fe New Mexican",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "African Rights Advocates Coordinate Response to Family Law Backlash - Inter Press Service",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmtmaDBsY2pzbG5yaUNmaGZzRE9tVGV6TFh4UTBteWUxZjU0amdKdWpweFJpNTQ2ZnNURE1nOXo5ZkFDa0Vkb0dLZGs2UzZqd0Z4NVdSNmNrSjR0Njl5RkNRLU9LZmFUc1lFS2pOdjBkZmNxMm11bXRnSGJfbjBTVXVzQnhBN2c3OUo2amZpWHRkX2VLZlVrODBKUTdLRmJNSkE?oc=5",
+      "source": "Inter Press Service",
+      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "summary": "African Rights Advocates Coordinate Response to Family Law Backlash  Inter Press Service",
+      "query": "\"family law reform\""
     }
   ]
 }

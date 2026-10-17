@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-10-16T15:54:33.255606+00:00",
+  "generated_at": "2026-10-17T14:47:28.366655+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Morillo v. United States",
+      "link": "https://www.courtlistener.com/opinion/11037135/morillo-v-united-states/",
+      "court": "Court of Appeals for the First Circuit",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re Lai.K.",
+      "link": "https://www.courtlistener.com/opinion/11037081/in-re-laik/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "V.L. v. A.R.",
+      "link": "https://www.courtlistener.com/opinion/11037073/vl-v-ar/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re Cloudflare, Inc. Stockholder Litigation",
+      "link": "https://www.courtlistener.com/opinion/11037064/in-re-cloudflare-inc-stockholder-litigation/",
+      "court": "Court of Chancery of Delaware",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "C J W v. T H",
+      "link": "https://www.courtlistener.com/opinion/11037007/c-j-w-v-t-h/",
+      "court": "Indiana Court of Appeals",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "United States v. CALDWELL",
+      "link": "https://www.courtlistener.com/opinion/11037085/united-states-v-caldwell/",
+      "court": "Navy-Marine Corps Court of Criminal Appeals",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "GH America v. Fohn",
+      "link": "https://www.courtlistener.com/opinion/11037050/gh-america-v-fohn/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Antoine Cook",
+      "link": "https://www.courtlistener.com/opinion/11037018/united-states-v-antoine-cook/",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "Essie Wallace v. Jason A. Buffington",
       "link": "https://www.courtlistener.com/opinion/11036966/essie-wallace-v-jason-a-buffington/",
@@ -45,30 +109,6 @@
       "query": "family drug court"
     },
     {
-      "title": "People v. Landerman",
-      "link": "https://www.courtlistener.com/opinion/11035168/people-v-landerman/",
-      "court": "Appellate Court of Illinois",
-      "date_filed": "2026-10-15",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Christopher Payton v. DEREK FELL, in his official capacity as Sheriff of Vigo Co.",
-      "link": "https://www.courtlistener.com/opinion/11035089/christopher-payton-v-derek-fell-in-his-official-capacity-as-sheriff-of/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-10-15",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Columbus City School Dist. v. State",
-      "link": "https://www.courtlistener.com/opinion/11035043/columbus-city-school-dist-v-state/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-15",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "Christopher Andre Neville v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/11036092/christopher-andre-neville-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 9th District (Beaumont)",
@@ -85,52 +125,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Dept. of Human Services v. M. T.",
-      "link": "https://www.courtlistener.com/opinion/11033726/dept-of-human-services-v-m-t/",
-      "court": "Court of Appeals of Oregon",
-      "date_filed": "2026-10-14",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Department of Children and Families v. A.M., the Mother",
-      "link": "https://www.courtlistener.com/opinion/11033645/department-of-children-and-families-v-am-the-mother/",
-      "court": "District Court of Appeal of Florida",
-      "date_filed": "2026-10-14",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Department of Children and Families v. B.H., the Father",
-      "link": "https://www.courtlistener.com/opinion/11033644/department-of-children-and-families-v-bh-the-father/",
-      "court": "District Court of Appeal of Florida",
-      "date_filed": "2026-10-14",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Department of Children and Families v. N.B., the Father",
-      "link": "https://www.courtlistener.com/opinion/11033643/department-of-children-and-families-v-nb-the-father/",
-      "court": "District Court of Appeal of Florida",
-      "date_filed": "2026-10-14",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "Computer & Communications Industry Association v. Attorney General, State of Florida",
       "link": "https://www.courtlistener.com/opinion/11034949/computer-communications-industry-association-v-attorney-general-state/",
       "court": "Court of Appeals for the Eleventh Circuit",
       "date_filed": "2026-10-14",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "United States v. Nazeer Vick",
-      "link": "https://www.courtlistener.com/opinion/11034114/united-states-v-nazeer-vick/",
-      "court": "Court of Appeals for the Fourth Circuit",
-      "date_filed": "2026-10-13",
-      "snippet": "",
-      "query": "child custody substance abuse"
     },
     {
       "title": "In re J.S.",

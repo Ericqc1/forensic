@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:54:22.487139+00:00",
+  "generated_at": "2026-10-17T14:47:20.859231+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -43,6 +43,14 @@
       "authors": "Nugent M, Burchell D, Chorney J et al.",
       "published": "2026 Oct 7",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Psychiatric and substance use disorder polygenic scores are associated with the exposome in youth.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42886211/",
+      "journal": "European child & adolescent psychiatry",
+      "authors": "Hung IT, Thomas NS, Sosnowski DW et al.",
+      "published": "2026 Oct 16",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "A Scoping Review of Maternal Substance Use and Peer Support and Its Implications for Maternal Health Providers.",
@@ -97,14 +105,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42862091/",
       "journal": "Alcohol, clinical & experimental research",
       "authors": "Dash GF, Aliev F, Kuo SI et al.",
-      "published": "2026 Oct",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Long-Term Neurodevelopmental Outcome Following Three Randomized Controlled Trials of Choline in Fetal Alcohol Spectrum Disorder (FASD).",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42862085/",
-      "journal": "Alcohol, clinical & experimental research",
-      "authors": "Wozniak JR, Eckerle JK, Gimbel BA et al.",
       "published": "2026 Oct",
       "query": "children of parents with substance use disorder"
     },
