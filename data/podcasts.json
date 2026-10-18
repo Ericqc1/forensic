@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:47:30.953433+00:00",
+  "generated_at": "2026-10-18T15:12:58.910971+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -53,14 +53,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Let's Talk Family Law",
-      "artist": "Let's Talk Family Law",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
-      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Divorce and Family Law Strategies with Burnham Law",
       "artist": "Todd Burnham",
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
@@ -77,6 +69,14 @@
       "query": "family law"
     },
     {
+      "title": "Let's Talk Family Law",
+      "artist": "Let's Talk Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
+      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
       "title": "Donuts & Divorce: A Family Law Podcast",
       "artist": "Dorothy O'Neil",
       "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
@@ -85,28 +85,20 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Talk",
-      "artist": "Stange Law Firm",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
-      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "title": "Men's Family Law Podcast",
+      "artist": "David T. Pisarra Esq",
+      "link": "https://podcasts.apple.com/us/podcast/mens-family-law-podcast/id796760052?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/48500/destinations/165978.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/d6/de/add6de49-8b24-a55d-f682-bfb8e50209d8/mza_3156040087987163384.png/100x100bb.jpg",
       "query": "family law"
     },
     {
-      "title": "Family Law Now",
-      "artist": "Family Law Now",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
-      "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
+      "title": "Life, love and the law",
+      "artist": "Stowe Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/life-love-and-the-law/id1624703483?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/1979309.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/94/0c/cb940c6c-d4bf-4cee-ab3c-2cfa2551396d/mza_4093214288701055996.jpg/100x100bb.jpg",
       "query": "family law"
-    },
-    {
-      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
-      "artist": "LazetteMichelle",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
-      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
-      "query": "child custody"
     },
     {
       "title": "Father X: How Fathers Can Win Child Custody",
@@ -114,6 +106,14 @@
       "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
       "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
+      "artist": "LazetteMichelle",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
+      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

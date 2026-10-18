@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:47:28.366655+00:00",
+  "generated_at": "2026-10-18T15:12:56.020306+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -43,6 +43,14 @@
       "date_filed": "2026-10-16",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "John Doe v. Catholic Relief Services",
+      "link": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "date_filed": "2026-10-16",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "United States v. CALDWELL",
@@ -99,14 +107,6 @@
       "date_filed": "2026-10-15",
       "snippet": "",
       "query": "parental rights termination addiction"
-    },
-    {
-      "title": "Amy Michelle Paul v. Gavin Wilbur West",
-      "link": "https://www.courtlistener.com/opinion/11036089/amy-michelle-paul-v-gavin-wilbur-west/",
-      "court": "Texas Court of Appeals, 9th District (Beaumont)",
-      "date_filed": "2026-10-15",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "Christopher Andre Neville v. the State of Texas",
