@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:12:49.821055+00:00",
+  "generated_at": "2026-10-19T18:08:14.174380+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -43,6 +43,14 @@
       "authors": "Nugent M, Burchell D, Chorney J et al.",
       "published": "2026 Oct 7",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Examining utilization of Peer Recovery Support Services in a child welfare system: Characteristics associated with enrollment, treatment initiation, and successful program completion.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42893771/",
+      "journal": "Journal of substance use and addiction treatment",
+      "authors": "Lilleston P, Hyk J, Cavella M",
+      "published": "2026 Oct 18",
+      "query": "parental addiction child welfare outcomes"
     },
     {
       "title": "Psychiatric and substance use disorder polygenic scores are associated with the exposome in youth.",
@@ -265,14 +273,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/41220059/",
       "journal": "Journal of addiction medicine",
       "authors": "Schepis TS, Veliz PT, West BT et al.",
-      "published": "2025 Nov-Dec 01",
-      "query": "parental addiction child welfare outcomes"
-    },
-    {
-      "title": "Trends and Associations in Patient Ratings Using the American Society of Addiction Medicine Criteria, 2013-2022.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/40421841/",
-      "journal": "Journal of addiction medicine",
-      "authors": "Hall MT, Hardy GC, Tinman JS et al.",
       "published": "2025 Nov-Dec 01",
       "query": "parental addiction child welfare outcomes"
     },
