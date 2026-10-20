@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-19T18:08:50.026004+00:00",
+  "generated_at": "2026-10-20T16:10:43.897161+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "Frank Ellman v. Juliet Charron",
+      "link": "https://www.courtlistener.com/opinion/11039989/frank-ellman-v-juliet-charron/",
+      "court": "Idaho Supreme Court",
+      "date_filed": "2026-10-20",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Commonwealth v. Thomson",
+      "link": "https://www.courtlistener.com/opinion/11039862/commonwealth-v-thomson/",
+      "court": "Massachusetts Supreme Judicial Court",
+      "date_filed": "2026-10-20",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Henn",
+      "link": "https://www.courtlistener.com/opinion/11039034/people-v-henn/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-10-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re K.N.",
+      "link": "https://www.courtlistener.com/opinion/11038369/in-re-kn/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-19",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Amended Judgment: Allen v. Whitehead",
       "link": "https://www.courtlistener.com/opinion/11038188/amended-judgment-allen-v-whitehead/",
@@ -61,20 +93,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In re Cloudflare, Inc. Stockholder Litigation",
-      "link": "https://www.courtlistener.com/opinion/11037064/in-re-cloudflare-inc-stockholder-litigation/",
-      "court": "Court of Chancery of Delaware",
+      "title": "Ronald Oman and Karen Anderson v. Wildflower Country Club, Inc. D/B/A Wildflower Country Club and Jeremy Lawson",
+      "link": "https://www.courtlistener.com/opinion/11039717/ronald-oman-and-karen-anderson-v-wildflower-country-club-inc-dba/",
+      "court": "Texas Court of Appeals, 3rd District (Austin)",
       "date_filed": "2026-10-16",
       "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "C J W v. T H",
-      "link": "https://www.courtlistener.com/opinion/11037007/c-j-w-v-t-h/",
-      "court": "Indiana Court of Appeals",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "family drug court"
     },
     {
       "title": "John Doe v. Catholic Relief Services",
@@ -83,30 +107,6 @@
       "date_filed": "2026-10-16",
       "snippet": "",
       "query": "family drug court"
-    },
-    {
-      "title": "United States v. CALDWELL",
-      "link": "https://www.courtlistener.com/opinion/11037085/united-states-v-caldwell/",
-      "court": "Navy-Marine Corps Court of Criminal Appeals",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "GH America v. Fohn",
-      "link": "https://www.courtlistener.com/opinion/11037050/gh-america-v-fohn/",
-      "court": "Court of Appeals for the Fifth Circuit",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In re K.P.",
-      "link": "https://www.courtlistener.com/opinion/11035205/in-re-kp/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-15",
-      "snippet": "",
-      "query": "child custody substance abuse"
     },
     {
       "title": "E.K.W. v. Prentiss County Department of Child Protection Services, by Andrea Sanders and Z.R.O.K., A Minor By and Through His Next Friend Andrea Sanders and Mississippi Department of Child Protection Services",
