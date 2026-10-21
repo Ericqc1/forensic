@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:10:47.003487+00:00",
+  "generated_at": "2026-10-21T16:27:06.960852+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -10,6 +10,14 @@
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -45,14 +53,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Let's Talk Family Law",
       "artist": "Let's Talk Family Law",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
@@ -85,19 +85,19 @@
       "query": "family law"
     },
     {
-      "title": "Men's Family Law Podcast",
-      "artist": "David T. Pisarra Esq",
-      "link": "https://podcasts.apple.com/us/podcast/mens-family-law-podcast/id796760052?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/48500/destinations/165978.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/d6/de/add6de49-8b24-a55d-f682-bfb8e50209d8/mza_3156040087987163384.png/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Now",
+      "artist": "Family Law Now",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
+      "feed_url": "https://anchor.fm/s/fb68f1f4/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b5/0f/c1b50f36-8e67-f312-0cbd-1bc901ce9bb9/mza_13583740122399642282.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {

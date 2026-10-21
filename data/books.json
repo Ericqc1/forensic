@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:10:45.997795+00:00",
+  "generated_at": "2026-10-21T16:27:05.311344+00:00",
   "label": "Books",
   "count": 20,
   "errors": [],
@@ -158,21 +158,21 @@
       "query": "children parental addiction recovery"
     },
     {
-      "title": "The Story of The Committee of 300",
-      "authors": "John Coleman",
-      "published": "2000",
-      "link": "https://openlibrary.org/works/OL15169002W",
-      "description": "",
-      "thumbnail": "https://covers.openlibrary.org/b/id/6426475-M.jpg",
-      "query": "family law custody addiction"
-    },
-    {
       "title": "Representing the substance addicted client",
       "authors": "",
       "published": "1997",
       "link": "https://openlibrary.org/works/OL16611515M",
       "description": "",
       "thumbnail": "",
+      "query": "family law custody addiction"
+    },
+    {
+      "title": "The Conspirators Hierarchy",
+      "authors": "John Coleman",
+      "published": "1992",
+      "link": "https://openlibrary.org/works/OL8090838W",
+      "description": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/726896-M.jpg",
       "query": "family law custody addiction"
     },
     {

@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-10-20T16:10:43.897161+00:00",
+  "generated_at": "2026-10-21T16:27:03.227576+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re I.R.",
+      "link": "https://www.courtlistener.com/opinion/11041919/in-re-ir/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of L.S., L.S., and L.S., Minor Children",
+      "link": "https://www.courtlistener.com/opinion/11041911/in-the-interest-of-ls-ls-and-ls-minor-children/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In the Interest of E.S. and O.H., Minor Children",
+      "link": "https://www.courtlistener.com/opinion/11041912/in-the-interest-of-es-and-oh-minor-children/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In the Interest of Z.C., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/11041910/in-the-interest-of-zc-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State of Iowa v. Joseph David Parker",
+      "link": "https://www.courtlistener.com/opinion/11041894/state-of-iowa-v-joseph-david-parker/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Evin A. Figueroa Hernandez v. State of Florida",
+      "link": "https://www.courtlistener.com/opinion/11041878/evin-a-figueroa-hernandez-v-state-of-florida/",
+      "court": "District Court of Appeal of Florida",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re J.P.",
+      "link": "https://www.courtlistener.com/opinion/11040572/in-re-jp/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-20",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "Frank Ellman v. Juliet Charron",
       "link": "https://www.courtlistener.com/opinion/11039989/frank-ellman-v-juliet-charron/",
@@ -13,9 +69,17 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Commonwealth v. Thomson",
-      "link": "https://www.courtlistener.com/opinion/11039862/commonwealth-v-thomson/",
-      "court": "Massachusetts Supreme Judicial Court",
+      "title": "State v. Pierre",
+      "link": "https://www.courtlistener.com/opinion/11040757/state-v-pierre/",
+      "court": "Montana Supreme Court",
+      "date_filed": "2026-10-20",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Ohlin v. Machol",
+      "link": "https://www.courtlistener.com/opinion/11040577/ohlin-v-machol/",
+      "court": "Ohio Court of Appeals",
       "date_filed": "2026-10-20",
       "snippet": "",
       "query": "family drug court"
@@ -45,68 +109,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Holy Trinity Ukrainian Catholic Church v. Township of Collier",
-      "link": "https://www.courtlistener.com/opinion/11038233/holy-trinity-ukrainian-catholic-church-v-township-of-collier/",
-      "court": "Court of Appeals for the Third Circuit",
-      "date_filed": "2026-10-19",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "United States v. Roberto Orellana",
-      "link": "https://www.courtlistener.com/opinion/11038155/united-states-v-roberto-orellana/",
-      "court": "Court of Appeals for the Eighth Circuit",
-      "date_filed": "2026-10-19",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
       "title": "In the Interest of W.S.child v. Department of Family and Protective Services",
       "link": "https://www.courtlistener.com/opinion/11038077/in-the-interest-of-wschild-v-department-of-family-and-protective/",
       "court": "Texas Court of Appeals, 1st District (Houston)",
       "date_filed": "2026-10-16",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "Morillo v. United States",
-      "link": "https://www.courtlistener.com/opinion/11037135/morillo-v-united-states/",
-      "court": "Court of Appeals for the First Circuit",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re Lai.K.",
-      "link": "https://www.courtlistener.com/opinion/11037081/in-re-laik/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "V.L. v. A.R.",
-      "link": "https://www.courtlistener.com/opinion/11037073/vl-v-ar/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Ronald Oman and Karen Anderson v. Wildflower Country Club, Inc. D/B/A Wildflower Country Club and Jeremy Lawson",
-      "link": "https://www.courtlistener.com/opinion/11039717/ronald-oman-and-karen-anderson-v-wildflower-country-club-inc-dba/",
-      "court": "Texas Court of Appeals, 3rd District (Austin)",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "John Doe v. Catholic Relief Services",
-      "link": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
-      "court": "Court of Appeals for the Fourth Circuit",
-      "date_filed": "2026-10-16",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "E.K.W. v. Prentiss County Department of Child Protection Services, by Andrea Sanders and Z.R.O.K., A Minor By and Through His Next Friend Andrea Sanders and Mississippi Department of Child Protection Services",
@@ -177,14 +185,6 @@
       "link": "https://www.courtlistener.com/opinion/11012993/in-re-ks-a-minor-kristin-s-v-bd-and-mississippi-department-of-child/",
       "court": "Court of Appeals of Mississippi",
       "date_filed": "2026-10-06",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
-      "title": "Piper P. v. Barron B.",
-      "link": "https://www.courtlistener.com/opinion/11010513/piper-p-v-barron-b/",
-      "court": "Massachusetts Supreme Judicial Court",
-      "date_filed": "2026-10-05",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
