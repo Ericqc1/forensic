@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-10-21T16:27:03.227576+00:00",
+  "generated_at": "2026-10-22T16:26:26.659725+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "In re Z.T.",
+      "link": "https://www.courtlistener.com/opinion/11043107/in-re-zt/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Daniel Jacob Craven, Jr. v. State of Florida & Daniel Jacob Craven, Jr. v. Secretary, Department of Corrections",
+      "link": "https://www.courtlistener.com/opinion/11043023/daniel-jacob-craven-jr-v-state-of-florida-daniel-jacob-craven-jr-v/",
+      "court": "Supreme Court of Florida",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Kehlani K. v. Tripp T.",
+      "link": "https://www.courtlistener.com/opinion/11042997/kehlani-k-v-tripp-t/",
+      "court": "Massachusetts Appeals Court",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Burton",
+      "link": "https://www.courtlistener.com/opinion/11043105/state-v-burton/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "State v. Dejournett",
+      "link": "https://www.courtlistener.com/opinion/11043104/state-v-dejournett/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "In re K.J., K.W., and M.W.",
+      "link": "https://www.courtlistener.com/opinion/11042043/in-re-kj-kw-and-mw/",
+      "court": "West Virginia Supreme Court",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "Abedi v. Carter",
+      "link": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "In re H.J.",
+      "link": "https://www.courtlistener.com/opinion/11042006/in-re-hj/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-10-21",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re I.R.",
       "link": "https://www.courtlistener.com/opinion/11041919/in-re-ir/",
@@ -21,92 +85,12 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "In the Interest of E.S. and O.H., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/11041912/in-the-interest-of-es-and-oh-minor-children/",
-      "court": "Court of Appeals of Iowa",
+      "title": "United States v. Nasir Lewis",
+      "link": "https://www.courtlistener.com/opinion/11042087/united-states-v-nasir-lewis/",
+      "court": "Court of Appeals for the Sixth Circuit",
       "date_filed": "2026-10-21",
       "snippet": "",
       "query": "family drug court"
-    },
-    {
-      "title": "In the Interest of Z.C., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/11041910/in-the-interest-of-zc-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-10-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State of Iowa v. Joseph David Parker",
-      "link": "https://www.courtlistener.com/opinion/11041894/state-of-iowa-v-joseph-david-parker/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-10-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Evin A. Figueroa Hernandez v. State of Florida",
-      "link": "https://www.courtlistener.com/opinion/11041878/evin-a-figueroa-hernandez-v-state-of-florida/",
-      "court": "District Court of Appeal of Florida",
-      "date_filed": "2026-10-21",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "In re J.P.",
-      "link": "https://www.courtlistener.com/opinion/11040572/in-re-jp/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Frank Ellman v. Juliet Charron",
-      "link": "https://www.courtlistener.com/opinion/11039989/frank-ellman-v-juliet-charron/",
-      "court": "Idaho Supreme Court",
-      "date_filed": "2026-10-20",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "State v. Pierre",
-      "link": "https://www.courtlistener.com/opinion/11040757/state-v-pierre/",
-      "court": "Montana Supreme Court",
-      "date_filed": "2026-10-20",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Ohlin v. Machol",
-      "link": "https://www.courtlistener.com/opinion/11040577/ohlin-v-machol/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-20",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Henn",
-      "link": "https://www.courtlistener.com/opinion/11039034/people-v-henn/",
-      "court": "California Court of Appeal",
-      "date_filed": "2026-10-19",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re K.N.",
-      "link": "https://www.courtlistener.com/opinion/11038369/in-re-kn/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-19",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "Amended Judgment: Allen v. Whitehead",
-      "link": "https://www.courtlistener.com/opinion/11038188/amended-judgment-allen-v-whitehead/",
-      "court": "District of Columbia Court of Appeals",
-      "date_filed": "2026-10-19",
-      "snippet": "",
-      "query": "child custody substance abuse"
     },
     {
       "title": "In the Interest of W.S.child v. Department of Family and Protective Services",
@@ -114,13 +98,21 @@
       "court": "Texas Court of Appeals, 1st District (Houston)",
       "date_filed": "2026-10-16",
       "snippet": "",
-      "query": "child custody substance abuse"
+      "query": "parental rights termination addiction"
     },
     {
       "title": "E.K.W. v. Prentiss County Department of Child Protection Services, by Andrea Sanders and Z.R.O.K., A Minor By and Through His Next Friend Andrea Sanders and Mississippi Department of Child Protection Services",
       "link": "https://www.courtlistener.com/opinion/11035288/ekw-v-prentiss-county-department-of-child-protection-services-by/",
       "court": "Mississippi Supreme Court",
       "date_filed": "2026-10-15",
+      "snippet": "",
+      "query": "parental rights termination addiction"
+    },
+    {
+      "title": "In re L.K.",
+      "link": "https://www.courtlistener.com/opinion/11042040/in-re-lk/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-14",
       "snippet": "",
       "query": "parental rights termination addiction"
     },
@@ -181,14 +173,6 @@
       "query": "parental rights termination addiction"
     },
     {
-      "title": "In Re K.S., A Minor: Kristin S. v. B.D. and Mississippi Department of Child Protection Services",
-      "link": "https://www.courtlistener.com/opinion/11012993/in-re-ks-a-minor-kristin-s-v-bd-and-mississippi-department-of-child/",
-      "court": "Court of Appeals of Mississippi",
-      "date_filed": "2026-10-06",
-      "snippet": "",
-      "query": "parental rights termination addiction"
-    },
-    {
       "title": "Euceda v. United States",
       "link": "https://www.courtlistener.com/opinion/11007635/euceda-v-united-states/",
       "court": "District of Columbia Court of Appeals",
@@ -221,14 +205,6 @@
       "query": "custody modification alcohol abuse"
     },
     {
-      "title": "In re B.J...",
-      "link": "https://www.courtlistener.com/opinion/10983944/in-re-bj/",
-      "court": "Court of Appeals of Utah",
-      "date_filed": "2026-09-24",
-      "snippet": "",
-      "query": "custody modification alcohol abuse"
-    },
-    {
       "title": "In the Interest of I.G., a Child v. the State of Texas",
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
@@ -241,6 +217,30 @@
       "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
       "court": "Louisiana Court of Appeal",
       "date_filed": "2026-04-08",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
+      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
+      "court": "Supreme Court of Pennsylvania",
+      "date_filed": "2026-03-26",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
+      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
+      "court": "Court of Appeals of North Carolina",
+      "date_filed": "2026-03-04",
+      "snippet": "",
+      "query": "child welfare substance exposed newborn"
+    },
+    {
+      "title": "In the Interest of O.H., Minor Child",
+      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
+      "court": "Court of Appeals of Iowa",
+      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

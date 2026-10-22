@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:25:32.893293+00:00",
+  "generated_at": "2026-10-22T16:25:52.946147+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -107,14 +107,6 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
-    },
-    {
-      "title": "Polygenic Risk Profiles and the Manifestations of Alcohol Use Disorder and Related Outcomes.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42862091/",
-      "journal": "Alcohol, clinical & experimental research",
-      "authors": "Dash GF, Aliev F, Kuo SI et al.",
-      "published": "2026 Oct",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Longitudinal associations between parental rejection, school engagement and gaming disorder symptoms among Chinese adolescents: Disentangling between- and within-person effects.",
@@ -322,6 +314,14 @@
       "journal": "Drug and alcohol dependence",
       "authors": "Wouk K, Caton L, Bass R et al.",
       "published": "2024 Jul 1",
+      "query": "child custody evaluation substance abuse"
+    },
+    {
+      "title": "The associations between social determinants of health, mental health, substance-use and recidivism: a ten-year retrospective cohort analysis of women who completed the connections programme in Australia.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38172944/",
+      "journal": "Harm reduction journal",
+      "authors": "Edwards LM, Chang S, Zeki R et al.",
+      "published": "2024 Jan 3",
       "query": "child custody evaluation substance abuse"
     }
   ]

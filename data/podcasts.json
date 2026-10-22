@@ -1,33 +1,9 @@
 {
-  "generated_at": "2026-10-21T16:27:06.960852+00:00",
+  "generated_at": "2026-10-22T16:26:29.396076+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
   "items": [
-    {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Let's Talk Addiction & Recovery",
-      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
     {
       "title": "Talkin' Trash Addiction Recovery Podcast",
       "artist": "Talkin' Trash",
@@ -45,6 +21,22 @@
       "query": "addiction recovery"
     },
     {
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
       "title": "Broken to Blessed | Addiction Recovery, Marriage + Divorce, Anxiety, Depression for Christians, Mental Health Support",
       "artist": "Randi Tisdall— Christian Mental Health Support, Addiction Recovery, Overcome Divorce, Self Improvement",
       "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
@@ -53,11 +45,35 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Let's Talk Family Law",
-      "artist": "Let's Talk Family Law",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
-      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Donuts & Divorce: A Family Law Podcast",
+      "artist": "Dorothy O'Neil",
+      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Talking Family Law - The Resolution Podcast",
+      "artist": "Resolution",
+      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
+      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -77,22 +93,6 @@
       "query": "family law"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Family Law Talk",
-      "artist": "Stange Law Firm",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
-      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Now",
       "artist": "Family Law Now",
       "link": "https://podcasts.apple.com/us/podcast/family-law-now/id1479887164?uo=4",
@@ -106,14 +106,6 @@
       "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
       "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
-      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
-      "artist": "Attorney Jonathan Jacobs",
-      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -138,6 +130,14 @@
       "link": "https://podcasts.apple.com/us/podcast/the-dr-laura-podcast/id721006934?uo=4",
       "feed_url": "https://feeds.simplecast.com/ZTNLWlKG",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d5/24/d2/d524d2ff-9f80-5c0d-ca9b-9744cf78550e/mza_15439581349255129743.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
+      "artist": "Attorney Jonathan Jacobs",
+      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {

@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-10-21T16:25:25.546151+00:00",
+  "generated_at": "2026-10-22T16:25:42.891113+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
   "items": [
-    {
-      "title": "McLean County's family treatment court lays groundwork to replicate program across Illinois - WGLT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSkZSTXJGOHdUQXdwcjE4MS1kQUlHT2R3N1RrYlpaaU01a0VnaXlxWXFRbFg3OHo0Q21WUmFrUUY2WXB4NXlYR0RZalBRSG0yT1daYVZjM1M3eVNlQWJSUkVjU3hlbFRLVXd6SUlHZUZmZDdhZVJ2emJLREVxb19EOGtJY3dUaXNKV0ZienpzYVMzNk1hNUxnVTk1eXc0cmpGSEZ0YmNSYmJqYlNBcEpweHdkM1VkcDVNNEY0ZTdhVjkxRWpHNHdOdEFSN0pHUQ?oc=5",
-      "source": "WGLT",
-      "published": "Wed, 30 Apr 2025 07:00:00 GMT",
-      "summary": "McLean County's family treatment court lays groundwork to replicate program across Illinois  WGLT",
-      "query": "\"family drug court\" OR \"family treatment court\""
-    },
     {
       "title": "Parental Drug Use Remains a Top Reason for Foster Care Entries - Child Trends",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONndjWWphWmVuLXlZbThXY2hDQzF4V0ItMUNDTGR3M3FWcXNyaEU4eFB1TEdaSDBsbnFEa1FiTDliOXR0NlFUU1lxb29UaUZKYU5XdVdqOGJMY25xVWxCcm5hM2ZMVnlEaWkxX181b3ZDaEtsaXgzNTBPbmNLVENkYmhlUTA?oc=5",
@@ -29,12 +21,20 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
-      "title": "King County Launches New Effort To Break Cycle of Addiction, Incarceration And Homelessness - The Seattle Medium",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3lHRzFQbjh3U2lNWHh4eDhaeWJXWTAzbFVsLTVyR1NFdWtkSnZfRlNCeHN3Mk44aEMxbzdQRUlsdUgxWGtSLTF0clNSN2JobnBKeF9Vd1NTbUdZSkhzOVhaR2JQT25BU3gzTG8wWUZXME1tMmZabjlPWUZMVHBpb3pmMmpkODJzNWpYX2VoNTBSMDBVWXpMRWNXRm9mWFJNWUVsZklDR2VlX3JkSmhPcGRLOGx3MENJ?oc=5",
-      "source": "The Seattle Medium",
-      "published": "Wed, 21 Oct 2026 13:30:00 GMT",
-      "summary": "King County Launches New Effort To Break Cycle of Addiction, Incarceration And Homelessness  The Seattle Medium",
+      "title": "After $1.6 billion in claims, addiction treatment leaders arrested by feds - Orange County Register",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW1XTDB5d1hpckVLQ0JJRDkxS2YyeTE4Sy01cW9CMUtveDcxMHNZcU83Y2RONFA0SHR2REczelBQYUk3UkdaSVA0U0kyMlBDZ3pBd0JfSjEzZW41V016aEZvcy1jNkl4VklDc0Q1WmM2U3ExQ21FTUdNS2NLenN3ODdnREh4dkQ1T1VtU2s4NnUta3BxMTFGZUZxN2o1TVZZSnB1T0pmbTVBXzNFcERHRQ?oc=5",
+      "source": "Orange County Register",
+      "published": "Wed, 21 Oct 2026 23:53:28 GMT",
+      "summary": "After $1.6 billion in claims, addiction treatment leaders arrested by feds  Orange County Register",
       "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
+      "title": "Substance use disorder recovery, remission linked with genetic, psychosocial factors - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckw4VFQxeWxKNXNMUTk4RTkzVkhOQ3RYQUM2ckxJQzI3OE1CRlM3QVZLR1lCYy14V05DMUZkY3RKN3Y1dWlSSGlGNjlDeFFhY2FXeVFhamstY2hBNVBsazVUTnBUM0FEQTh0ZWo2S3Z3aGdTOWc0TDNtSFltWmtUUkRoODc1R09GWWd2WnNnTkoxZw?oc=5",
+      "source": "Medical Xpress",
+      "published": "Wed, 21 Oct 2026 11:00:01 GMT",
+      "summary": "Substance use disorder recovery, remission linked with genetic, psychosocial factors  Medical Xpress",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Prevent Delays in Access to Medications for Addiction Treatment - Partnership to End Addiction",
@@ -43,6 +43,14 @@
       "published": "Wed, 21 Oct 2026 05:29:16 GMT",
       "summary": "Prevent Delays in Access to Medications for Addiction Treatment  Partnership to End Addiction",
       "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
+      "title": "Former Rockford nursing home could be converted into substance use treatment facility - Rock River Current",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0xSUXlSNWtOUlBUMDVaZkR5VG9oZnFrM1VkS2lHQ050dEgxQXZQSzdFTk9DWGFYV0MxaldCUzNLTlhwTVBMYnR3eDJ0OG9HdFFfRDNHd2I2akJpb0pPT1IxdDhhNkdwV2dUc1ZFTFIyN2dUalkzZ2RmVFI5ZWxfZ211TjlDeGhhQThrV1BDVXIyRV9TS1Y5Vkh3ZTRPVE94dmdkVVJOT04wNm4tcXcyUDE4QUluT3dUOTljZE9uUnctQ0ROUmc?oc=5",
+      "source": "Rock River Current",
+      "published": "Wed, 21 Oct 2026 02:06:29 GMT",
+      "summary": "Former Rockford nursing home could be converted into substance use treatment facility  Rock River Current",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -59,6 +67,14 @@
       "published": "Wed, 18 Feb 2026 08:00:00 GMT",
       "summary": "National Study Highlights How State Policies and Child Welfare Reforms Shape Maternal Health and Substance Use Outcomes  Johns Hopkins Bloomberg School of Public Health",
       "query": "\"parental substance use\" child welfare"
+    },
+    {
+      "title": "Olivia Munn gives husband John Mulaney random drug tests - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1J1SWRIWk5iN3VNcUdibGZET3dxTk5zVmFFNjVwZVBiVnd5a2VBZzRtU3lrMUh1eGp1dmd6eUpWeVdlY292RHdUd1Y3UDZTc0x5N1Y5VmV0cEdjazVIaGd6Snl2VG9ZZDh1UGFidzdXSVZnOG1wNnhsYnR1S0pYYW80RzJWakMtZHIwZkFoMGJRYUUwMzhVMWR3?oc=5",
+      "source": "Fox News",
+      "published": "Wed, 13 Nov 2024 08:00:00 GMT",
+      "summary": "Olivia Munn gives husband John Mulaney random drug tests  Fox News",
+      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "Japan advances imperial family law reform amid succession concerns - Anadolu Ajansı",
@@ -93,6 +109,14 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
+      "title": "Louisiana expands response to substance-exposed newborns - The Center Square",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1RvMW5VTm40M1c3RzNyNDhmaHNzQXYxLUJRWFI3N0tNZEFlMm9CR0pBa3dKM2tCdWw5Q1RnS242VmdETGsxRm1PMk8wbXYtSWZUYk9JZVhIRXJFSG5BSmlKdmI3Y3dMRXY4NXRidUxjUE8wc1hmRFpYTGJDdnZzSktZWFQ0QXh5dnNhaU5oVjRRdTFRNXfSAZsBQVVfeXFMTzBjSWdCX3FHLTBXbXRyUnZoMUFxN0lJb0QwWjlXSTNsMVZEdVFLcGJRc2RzWHQzQTRHTW8zVVY0bnc0M1dUQWdyRV9KcDhRbXRueWFhZ05oeVE5cWxLYXVVS3NaS194cWJLZkxjUFBsRDZ3eTdvQkl5aFRTOTBnYVU0MXg1SDhiWXhid0l1SGNOUlVWNTdEQVd1UUE?oc=5",
+      "source": "The Center Square",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "summary": "Louisiana expands response to substance-exposed newborns  The Center Square",
+      "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
       "title": "Discriminatory family laws undermine women's rights and post-conflict recovery in the Middle East and North Africa [EN/AR] - ReliefWeb",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm84dWhLbGpzU3Vicjk5LXBudm00d0pLWDZOVVhyTVVjeFFMVmxJLTd3MEI2c3ZwaGxqSTVKSlVWaVE2X3RxS2JIOWloM3hTWTNrNmNuSjNDQXZ3VGNubkNLNzFzUEMybjMyMFk1bVJuZk9xSGluRC1IdjN2NzlIODhpX0tRUTU4QTNJN0M5aFRVOW1HTW02MEZ2Z3Q4VTNMZ3Y0SEtZYkR1THBXcUVfUndfY3VXUnctVGJtRzk1WFNYUlNROEZLdzNaTlczMHdrOXJFSVJpNUJpZnlDM0Rv?oc=5",
       "source": "ReliefWeb",
@@ -107,6 +131,14 @@
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "UN Human Rights Council hears call for Arab family law reform  ICLG",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
+      "source": "Penn LDI",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Most Kentucky opioid settlement money is not being spent, new report shows - Kentucky Lantern",
@@ -133,6 +165,14 @@
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
+      "title": "California becomes first state to offer same-day and ongoing opioid treatment support - California State Portal | CA.gov",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkVOVG9RUzcwS1BMZmducGF3U1ExRFZBRUVmNF9kbkZWMXo0RHZsUDlFRkU2NWVFRHJIQ1Bmemhzam5zUWYwNFhwWnFaN2hqd3ppbnUzSHp1enNIRDVMTEZGUHhmdllNai1vcVRtaFRLQTByRVJJb0pfTjBfTlNueHp3WlEzYjVIaGpzNUZobUhaMDZWekN5dklZN0ZsUGRCU1FXWlpSSmttZw?oc=5",
+      "source": "California State Portal | CA.gov",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "California becomes first state to offer same-day and ongoing opioid treatment support  California State Portal | CA.gov",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
       "title": "Family Law Reforms Are Needed to Advance Gender Equality - Global Issues.Org",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qRUpvM0puT3JGT0NZQUhOamx5aEpoUGpUM1RDN0l4dDRuVmx6dVdzZXg2YkZmR2N1Wk15cU1ZNVlNNXp4M3p6aElxaWplZTJhc3MwQU5INGpWUkphdFFr0gFkQVVfeXFMTXRnakw3enRnZkR0NE4tV3IyMEVHYXNVMEtRN2ZYcl9qNzRlX1V3UWw2bmRxVzhreTUzektvd2dTa19kTlhrNlYxQ21INlFNNGhBUjlQdWJyRWFLRnZFQTJUQjNxcw?oc=5",
       "source": "Global Issues.Org",
@@ -149,20 +189,20 @@
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
-      "title": "American Addiction Centers and National Association of Bail - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORHJUbHd2T3o2Tk02aGY0RzZCVWhFRU5BYmpvZEVyLXc0aTV2MlhYXzdLdWg1R0lCMWxreWJDdnJmald3T2tNS2JNX1ZwOTVPNEhKZXRPYkdhX1had0JUSXhKZlpaNjB6RXd3dTRmeE5sRGN3dkw5U0RyWkVhNjhtSjZwRDRfYV9fanFET24wMS12YVh1Qm1JcU1RdzhVMkkxOHlBdHNWSnByTVViV0FUREVzSGpWM2p6TXJoRDRwVUtDQ1NHODJ1TURzMVNidGtaSDhvcWh5em5TSzB3WDF6Zm9zVi11TW42TTZLaFdxTldiYl9ZTVNsQlNMbjMtMlZ6T2QydmR6UkNBZG0weXBmV2NNOFo4VmxDMW1VVTZ4YlZVRTM1YXVlTDYybmhheWgxN2c?oc=5",
-      "source": "GlobeNewswire",
-      "published": "Tue, 20 Oct 2026 22:27:02 GMT",
-      "summary": "American Addiction Centers and National Association of Bail  GlobeNewswire",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "Seniors Left Waiting as Treatment Bill Faces Uphill Climb - Behavioral Health Business",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnBJLU1DMHIxckRDaEVyRjc4TlBpcnNIb1JONTJrUTZwNkl1WXF6RXZJV2NwX2hlNUpWTGROd254SnRKUnhnbkhhLVNOMlZ1cjFKeTlaWlNocDc5VWlOOGpQdDFhdmdycDZJMUlJRWlqU0JEZzYxczA2ZWNYdVdjS0R1MDdZbEY4bG1RQTFXQktXZG4tcm1r?oc=5",
       "source": "Behavioral Health Business",
       "published": "Tue, 20 Oct 2026 20:44:35 GMT",
       "summary": "Seniors Left Waiting as Treatment Bill Faces Uphill Climb  Behavioral Health Business",
       "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
+      "title": "USU Extension Highlight: Impacts of improved nutrition substance use treatment - Utah Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZUE2Q3lfbXlpRG5PMHdIS1dSRnBwNUNzR3pkYVg5ay1sckRTYjNySG5zTnRFMjJMa0JtblZocVpHOXVSR2VadkljelUyQ2l1d3pmY1BZRVYzYjRBSXhVREluS1htSEc5SE9zMWNxSkVmbHQtQVVKX2pfaTR1R3NZUjR1dGxLNk82bU84Uk40SXpfVmFRTzh1Q2pVaDIwR2JqM2dOcjJ0dlB6VngwVkRxZ2pIM0FORGt6SlYwZjBRZUdHSmlPRzBNY2xLNVAxcXR4QlRJNkV6N3A0c3ZoMmxDWWZB?oc=5",
+      "source": "Utah Public Radio",
+      "published": "Tue, 20 Oct 2026 17:05:00 GMT",
+      "summary": "USU Extension Highlight: Impacts of improved nutrition substance use treatment  Utah Public Radio",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Everwell Recovery Announces Opening of New Executive and Luxury Addiction Treatment Center - The Des Moines Register",
@@ -179,14 +219,6 @@
       "published": "Tue, 17 Feb 2026 12:28:22 GMT",
       "summary": "Several ICE agents were arrested in recent months, showing risk of misconduct | The Associated Press  www.ap.org",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
-    },
-    {
-      "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - West Virginia Watch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWprX0FvVk9wc1ZiMjNzS2JEWkY0RDNBZVdZWUR2cTl2djgwYzdfazM3ckh4NkU4U2M0bEtBd2lrSTE0dzNyZVJZb0FvWVFVci02T3hENmNtczYzUUZXWHp0RnBDbC14bmFlNWFMX042YldoWE1tTmtTbENKMzhpZVdtR3FxTi1meng1aktMSEJfN2ZXUllKMHJZaW9pVHB0NE1Vcm42emJNb0tJM3EwOG1KM1RqaDhCT09NNjRHQ09MV3NVeEtVNHpBWTd2bmpYSkp2UlhTQUo?oc=5",
-      "source": "West Virginia Watch",
-      "published": "Tue, 15 Jul 2025 07:00:00 GMT",
-      "summary": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children  West Virginia Watch",
-      "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
       "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
@@ -237,12 +269,12 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "Mass General Brigham to stop filing neglect reports solely because a baby is born with drugs in its system - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdERyV2VlUUZ2VVFOQkd6Uzdob213MVo5a2NzWGRSd1F1ek5DWmpoUXluZVh3UkZBakZTaDR5NUFoM3J6TXNTUHhMT25wVVRKTWxFeGo5WFo0aTdicWZEZDd4LWU5N2s5Vzg1eDF3WVdWV2pVeGxOcHY3YXZubjBvWF9VdWltOE9DWXJlendzQ2VhNDE0NWhNRWNXc3FNeVU4d1RzV0J3?oc=5",
-      "source": "The Boston Globe",
-      "published": "Tue, 02 Apr 2024 07:00:00 GMT",
-      "summary": "Mass General Brigham to stop filing neglect reports solely because a baby is born with drugs in its system  The Boston Globe",
-      "query": "\"child welfare\" \"substance exposed newborn\""
+      "title": "Shapiro Administration’s Substance Use Disorder Treatment Locator Tool - Commonwealth of Pennsylvania (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHVIRlRsWkZlVVRMM3ZaaTFIMERVTU53T0JXS2xQSUVFSjhXSWZPdzc4Zk40NFR1OWdMdlRQMF9EWExtNWhTSnN5VW42eTQxeHFBS29kLVBKa0FQcGV4Y0ZTbEFRdnY2cTR3REE2S0VjeDU1VXZxd282cHYxc1plSGhwTWUwYU5ua3Z0dlpBYXZXS2JJcURBRHc0bXBHcDJaZTlxTzVHaVdGUQ?oc=5",
+      "source": "Commonwealth of Pennsylvania (.gov)",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "Shapiro Administration’s Substance Use Disorder Treatment Locator Tool  Commonwealth of Pennsylvania (.gov)",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Model legislation for audit requirements for opioid settlement fund recipients - Reason Foundation",
@@ -269,60 +301,28 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
+      "title": "Maryland addiction treatment center expands its rare clinical research model with a new facility - Technical.ly",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGRtZFkzUktoQjlSb2N4dzVfRDVzT1IzdlRhOWYwNkNEQkF4b1VWVjdLdU9uMUlJUVlWcFh0eVN0N25PcDFDR2Z3VFhsZzFnSldGRDcxWGpxUVpPRDQ3WkJDOWkxckdPOFBNSWpOMGE5Nm1MSFNQZFE2WUtOMHRCd3E2UGxibGtvUHBvQzFLNElwYjQxd2FwSA?oc=5",
+      "source": "Technical.ly",
+      "published": "Thu, 22 Oct 2026 10:16:49 GMT",
+      "summary": "Maryland addiction treatment center expands its rare clinical research model with a new facility  Technical.ly",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
+      "title": "Family Treatment Court looks to help parents on path to recovery - Hudson Star Observer",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMzNEM29qZFZLSFU3UURNOElyXzBCMm05WDJTV3BqdWtINU1MNy1WRVR4c2hiczdqSW9yTHlfOGF0V0dDU1gzajlzNGhhMnRoTFNTSm1yVjdFWngxZGtWRFNiRFQxTi15VzVKZ1ludDF4V0pTOVplXzJBTXFmdjRKMnd2TEpNRTFjNGlLOXpDdFpDbUJ5d3lwaGhCaEJUNzVOOW55dEd5MmdSdzEzeFY4RHdyTl82RmN2STJWVEV0eEY1Qi0xM0x4SzNuYXFVOUVLNmszeDN2bGRwS0xvUUFuUm43UmVRT0p2MWc?oc=5",
+      "source": "Hudson Star Observer",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "summary": "Family Treatment Court looks to help parents on path to recovery  Hudson Star Observer",
+      "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
       "title": "ACLU, lawmakers petition to block CYFD strategy for drug-exposed babies - Searchlight New Mexico",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0szMEZVclBBTUp3Nm5PZzJjNUxHYmQzWU9sMl9kdS1UQ19nZk1BUVdUby1tNG1LSW1lOUpGUDBaNEt4Si1pME0wUVhkakdCYUlBei1JUWFqd1RIWWNyc0N3ZFRVdks1ZllvOFdiVXhMLUZjLTdzOGxSYTM1X2VmZExhMTRhSk9ZLWFfdHlEMXlTR3RHbXFmMk8tRTczUQ?oc=5",
       "source": "Searchlight New Mexico",
       "published": "Thu, 21 May 2026 07:00:00 GMT",
       "summary": "ACLU, lawmakers petition to block CYFD strategy for drug-exposed babies  Searchlight New Mexico",
       "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
-      "title": "LEAF to the Rescue as Oneonta Teen Center Gets Reprieve - All Otsego",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2s2VlFRYW42V0VjOUgxRUxiZEdpWWZvVVNqT192emVGZWRPVkJmQmh1dXp5Z2d0MnBuRTJTX0t1SlpqQ056R3JLbWZ6OXY1N2xvOXlsZnlXWVUweG1SZ2RxQkZSTTU5Qm5jNGZDSHVzTXhmN3JXNkRWT1YybmxMbFZMdVJUZmsydnc?oc=5",
-      "source": "All Otsego",
-      "published": "Thu, 20 Mar 2025 07:00:00 GMT",
-      "summary": "LEAF to the Rescue as Oneonta Teen Center Gets Reprieve  All Otsego",
-      "query": "\"co-parenting\" addiction recovery"
-    },
-    {
-      "title": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment - The Imprint",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFQyZ0tzdUNUMTFwZk5IUTJ6bWdaZXNuc0F2NmJSdTJlekF1UUJjX202cFVEVHNWU2pZRG9GTjJOcjhRM05DdWttVEJZY1EzYTMwQmVkbWV0d05ydDlObHZWSFVZOERaeUNYcHlqeE9XZ1FVYXlPUkQxc3ZhYmR4X3I1WEwwZ0dXcE5ZczloRHlTT0dOc1A2ZWp0MEkyX04wVjBNcTFOS1pFWFBrNTRYSEVzZ1Z6bzJ3NDFmUTVvbDk?oc=5",
-      "source": "The Imprint",
-      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "summary": "Beyond the Clearinghouse: Why Child Welfare Must Advocate for Substance Use Treatment  The Imprint",
-      "query": "\"parental substance use\" child welfare"
-    },
-    {
-      "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - WCHS",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVI1NEpMSEZCOUU0RHlrMjFaQWhvWm83NFpmQnZqUlV4OVVhTkJmYkZ0a2JFMjRHcHVORnN1OXR5c1E1TTVQal9wS3V4VkZBbEhCZU9BandDaV9zZnhHVUFnUnBRNzRkZVVUM3R2UnBrYUpNcnlTVUZKV1Bxb2VKZl9Yc09pSTJQWUpaeWFFTQ?oc=5",
-      "source": "WCHS",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court  WCHS",
-      "query": "\"family drug court\" OR \"family treatment court\""
-    },
-    {
-      "title": "African Rights Advocates Coordinate Response to Family Law Backlash - Inter Press Service",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmtmaDBsY2pzbG5yaUNmaGZzRE9tVGV6TFh4UTBteWUxZjU0amdKdWpweFJpNTQ2ZnNURE1nOXo5ZkFDa0Vkb0dLZGs2UzZqd0Z4NVdSNmNrSjR0Njl5RkNRLU9LZmFUc1lFS2pOdjBkZmNxMm11bXRnSGJfbjBTVXVzQnhBN2c3OUo2amZpWHRkX2VLZlVrODBKUTdLRmJNSkE?oc=5",
-      "source": "Inter Press Service",
-      "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "summary": "African Rights Advocates Coordinate Response to Family Law Backlash  Inter Press Service",
-      "query": "\"family law reform\""
-    },
-    {
-      "title": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth - The Marshall Project",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZtSDhKTl9CMnRrS0F6NjZtUEJLQ2JPVWhkdjVnbWk0QmpsUE5SSU5pdnFBWTJQUW5XTC05TWVnT1hhcl9pcW9lMWt2ZmxzZVpGd1V4Ym5mWTlWU2Z2LVlHYVVtZmZXWEdBbkFyeEtwRTdWQS1CTkF6UW9BelFxcUx3UFlGVFUtaGNOS1kyTjlhWHpLZ0RtQnJ3?oc=5",
-      "source": "The Marshall Project",
-      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "summary": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth  The Marshall Project",
-      "query": "\"child welfare\" \"substance exposed newborn\""
-    },
-    {
-      "title": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms - Australian Institute of International Affairs",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlp3RG5xcWNiT3R6ejRMLWNTU3l6QW83WlRjNVNMQjhaQ3ExYzJkVGRHeWE1UzJkdGpmeWhaYU9HS0psNC1MMFljTXlIdkV3eUdLZGlUZHJoREt4ZDhSRW1hSW1xdTluY0R2NzJ4WFFGbFhMY1dpam5WR1M0ZGsyQm4tSlBHaFpEaHNnZEYxM29Pa1dBWEJsZk5xd0xJbExoSlpDN1JHVzI3NEg1TjhjVEZzbjYzeHItZkt0UmpidWl5c05GNG9NdHVtQ0p4Q2M?oc=5",
-      "source": "Australian Institute of International Affairs",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "Available, But Not Suitable: Testing Pathways After Japan’s Family Law Reforms  Australian Institute of International Affairs",
-      "query": "\"family law reform\""
     }
   ]
 }
