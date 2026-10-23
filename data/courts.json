@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-22T16:26:26.659725+00:00",
+  "generated_at": "2026-10-23T16:15:35.844396+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Lotter",
+      "link": "https://www.courtlistener.com/opinion/11043879/state-v-lotter/",
+      "court": "Nebraska Supreme Court",
+      "date_filed": "2026-10-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Middleton, Deshaun v. Department of Services for Children Youth and Their Families (DSCYF) TPR",
+      "link": "https://www.courtlistener.com/opinion/11043268/middleton-deshaun-v-department-of-services-for-children-youth-and-their/",
+      "court": "Supreme Court of Delaware",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
     {
       "title": "In re Z.T.",
       "link": "https://www.courtlistener.com/opinion/11043107/in-re-zt/",
@@ -29,17 +45,49 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "State v. Burton",
-      "link": "https://www.courtlistener.com/opinion/11043105/state-v-burton/",
-      "court": "Ohio Court of Appeals",
+      "title": "In Re Carter Minors",
+      "link": "https://www.courtlistener.com/opinion/11043623/in-re-carter-minors/",
+      "court": "Michigan Court of Appeals",
       "date_filed": "2026-10-22",
       "snippet": "",
       "query": "family drug court"
     },
     {
-      "title": "State v. Dejournett",
-      "link": "https://www.courtlistener.com/opinion/11043104/state-v-dejournett/",
-      "court": "Ohio Court of Appeals",
+      "title": "Matter of I.G.N. (E.N.)",
+      "link": "https://www.courtlistener.com/opinion/11043335/matter-of-ign-en/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Smith",
+      "link": "https://www.courtlistener.com/opinion/11043279/people-v-smith/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Matter of Iris YY. (Jasmine WW.-David XX.)",
+      "link": "https://www.courtlistener.com/opinion/11043184/matter-of-iris-yy-jasmine-ww-david-xx/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "La Union v. FEMA",
+      "link": "https://www.courtlistener.com/opinion/11043180/la-union-v-fema/",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "date_filed": "2026-10-22",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "People v. Bombard",
+      "link": "https://www.courtlistener.com/opinion/11043168/people-v-bombard/",
+      "court": "Appellate Division of the Supreme Court of the State of New York",
       "date_filed": "2026-10-22",
       "snippet": "",
       "query": "family drug court"
@@ -75,22 +123,6 @@
       "date_filed": "2026-10-21",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of L.S., L.S., and L.S., Minor Children",
-      "link": "https://www.courtlistener.com/opinion/11041911/in-the-interest-of-ls-ls-and-ls-minor-children/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2026-10-21",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "United States v. Nasir Lewis",
-      "link": "https://www.courtlistener.com/opinion/11042087/united-states-v-nasir-lewis/",
-      "court": "Court of Appeals for the Sixth Circuit",
-      "date_filed": "2026-10-21",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In the Interest of W.S.child v. Department of Family and Protective Services",
@@ -209,38 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of: G.G.B., Appeal of: J.B.",
-      "link": "https://www.courtlistener.com/opinion/10815398/in-the-interest-of-ggb-appeal-of-jb/",
-      "court": "Supreme Court of Pennsylvania",
-      "date_filed": "2026-03-26",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In re: J.R.D.L.G. & S.L.K.D.L.G.",
-      "link": "https://www.courtlistener.com/opinion/10803502/in-re-jrdlg-slkdlg/",
-      "court": "Court of Appeals of North Carolina",
-      "date_filed": "2026-03-04",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "In the Interest of O.H., Minor Child",
-      "link": "https://www.courtlistener.com/opinion/10760009/in-the-interest-of-oh-minor-child/",
-      "court": "Court of Appeals of Iowa",
-      "date_filed": "2025-12-17",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

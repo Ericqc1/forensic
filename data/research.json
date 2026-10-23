@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:25:52.946147+00:00",
+  "generated_at": "2026-10-23T16:15:23.956785+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -77,26 +77,10 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "Prenatal Education for Pregnant Parents on Opioid Agonist Therapy in Newfoundland and Labrador: A Qualitative Study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42864942/",
-      "journal": "Journal of drug education",
-      "authors": "Hand M, Najafizada M, Wassif AR et al.",
-      "published": "2026 Oct 12",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Primary Care for People With Alcohol Use Disorder.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42886177/",
       "journal": "American family physician",
       "authors": "Jaffe GA, Visconti A, Sonoda K",
-      "published": "2026 Oct",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Substance Use Disorders in Adolescents with Bipolar Disorder: A Developmental Approach to Assessment and Treatment.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42686314/",
-      "journal": "Child and adolescent psychiatric clinics of North America",
-      "authors": "Fortuna LR, Najaryan S, Duarte E et al.",
       "published": "2026 Oct",
       "query": "co-occurring disorders family therapy"
     },
@@ -149,6 +133,30 @@
       "query": "family drug treatment court effectiveness"
     },
     {
+      "title": "Latent Growth Modeling Trajectories of Cultural Values and Parental Monitoring as Predictors of Alcohol, Cigarette, and Drug Use Initiation Among Mexican-Origin Youth.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42904425/",
+      "journal": "Behavioral medicine (Washington, D.C.)",
+      "authors": "Hernandez CM, Bravo AJ, Bermejo-McGee O et al.",
+      "published": "2026 Jul-Dec",
+      "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "Very early onset inflammatory bowel disease in Jordan: a single-center case series of clinical, genetic, and therapeutic features.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42907806/",
+      "journal": "BMC pediatrics",
+      "authors": "Altamimi E, Almomani H, Alsmadi A et al.",
+      "published": "2026 Jul 25",
+      "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Psychedelics and Reward Processing: Before and After the 1970 Controlled Substances Act.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42903363/",
+      "journal": "Psychedelic medicine (New Rochelle, N.Y.)",
+      "authors": "Company MC, Lifshitz DJ, Sawaya MF et al.",
+      "published": "2026 Jul 24",
+      "query": "substance use disorder relapse family dynamics"
+    },
+    {
       "title": "Hardiness and care-related stress in Iranian Alzheimer's caregivers: a cross-sectional study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42391257/",
       "journal": "British journal of community nursing",
@@ -162,14 +170,6 @@
       "journal": "The International journal on drug policy",
       "authors": "Sharma A, Mita C, Dozier K et al.",
       "published": "2026 Jul",
-      "query": "substance use disorder relapse family dynamics"
-    },
-    {
-      "title": "Exploring Health Care Provider Knowledge and Perceptions of Family Support for Patients With Substance Use Disorders.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41528241/",
-      "journal": "The primary care companion for CNS disorders",
-      "authors": "Anand S, Romano N, Knight R et al.",
-      "published": "2026 Jan 6",
       "query": "substance use disorder relapse family dynamics"
     },
     {
