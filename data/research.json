@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:15:23.956785+00:00",
+  "generated_at": "2026-10-24T15:12:12.531472+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -45,6 +45,22 @@
       "query": "family law psychology addiction"
     },
     {
+      "title": "Jail-based opioid treatment implementation, outcomes, and costs: lessons learned from the Massachusetts Justice Community Opioid Innovation Network (MassJCOIN).",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42920115/",
+      "journal": "Harm reduction journal",
+      "authors": "Evans EA, Stopka TJ, Pivovarova E et al.",
+      "published": "2026 Oct 23",
+      "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Risk factors for adolescent cannabis use following partial cannabis legalization in Germany: a cross-sectional study in secondary schools.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42920148/",
+      "journal": "Substance abuse treatment, prevention, and policy",
+      "authors": "Trümpelmann M, Lüthgen M, Burgard A et al.",
+      "published": "2026 Oct 23",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Examining utilization of Peer Recovery Support Services in a child welfare system: Characteristics associated with enrollment, treatment initiation, and successful program completion.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42893771/",
       "journal": "Journal of substance use and addiction treatment",
@@ -58,22 +74,6 @@
       "journal": "European child & adolescent psychiatry",
       "authors": "Hung IT, Thomas NS, Sosnowski DW et al.",
       "published": "2026 Oct 16",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "A Scoping Review of Maternal Substance Use and Peer Support and Its Implications for Maternal Health Providers.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42870737/",
-      "journal": "Birth (Berkeley, Calif.)",
-      "authors": "Howard H, Freeman K, Bommakanti S et al.",
-      "published": "2026 Oct 14",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "Parental substance use and adolescent psychiatric symptom profiles in Lagos, Nigeria: school-based cross-sectional study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42867189/",
-      "journal": "BJPsych open",
-      "authors": "Adewuya AO, Oladipo OE, Esangbedo AE",
-      "published": "2026 Oct 13",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -173,22 +173,6 @@
       "query": "substance use disorder relapse family dynamics"
     },
     {
-      "title": "Effectiveness of legally mandated non-custodial drug and alcohol treatment orders for improved health, well-being, global functioning and quality of life: a systematic review and meta-analysis.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41591589/",
-      "journal": "Health & justice",
-      "authors": "Campbell P, Cowie J, Davis B et al.",
-      "published": "2026 Jan 27",
-      "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Addiction Psychotherapeutic Care.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/36508539/",
-      "journal": "",
-      "authors": "Chakraborty A, McGee M, Yilanli M",
-      "published": "2026 Jan",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Reno-protective effects of statins among patients with chronic kidney disease in Hong Kong: a target trial emulation.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41732195/",
       "journal": "EClinicalMedicine",
@@ -243,6 +227,14 @@
       "authors": "Rezag Bara SF, Bayle G, Wallez S et al.",
       "published": "2026",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Parental beliefs, initiation of alcohol consumption, and binge drinking among Brazilian adolescents.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42912029/",
+      "journal": "Revista latino-americana de enfermagem",
+      "authors": "Sousa GB, Galvão PPO, Valente JY et al.",
+      "published": "2026",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "The role of contextual factors, school-related attitudes and behavioural traits on lifetime antisocial behaviours among adolescents.",
@@ -322,6 +314,14 @@
       "journal": "Harm reduction journal",
       "authors": "Edwards LM, Chang S, Zeki R et al.",
       "published": "2024 Jan 3",
+      "query": "child custody evaluation substance abuse"
+    },
+    {
+      "title": "Practice Resource for Reproductive Psychiatry/Women's Mental Health in Forensic Psychiatry Practice.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39694848/",
+      "journal": "The journal of the American Academy of Psychiatry and the Law",
+      "authors": "Friedman SH, Sorrentino R, Kaempf A et al.",
+      "published": "2024 Dec 18",
       "query": "child custody evaluation substance abuse"
     }
   ]

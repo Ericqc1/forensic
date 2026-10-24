@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-10-23T16:15:39.319677+00:00",
+  "generated_at": "2026-10-24T15:13:04.346856+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
   "items": [
+    {
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Let's Talk Addiction & Recovery",
+      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
     {
       "title": "Talkin' Trash Addiction Recovery Podcast",
       "artist": "Talkin' Trash",
@@ -21,35 +37,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Broken to Blessed | Addiction Recovery, Marriage + Divorce, Anxiety, Depression for Christians, Mental Health Support",
-      "artist": "Randi Tisdall— Christian Mental Health Support, Addiction Recovery, Overcome Divorce, Self Improvement",
-      "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
-      "feed_url": "https://feed.podbean.com/brokentoblessed/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/ab/f8/2cabf8c1-d27e-3aa6-cc45-b88334349dc3/mza_16100941476637424088.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery Stories With Forrest Kelly",
       "artist": "Forrest Kelly",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
       "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Chasing Heroine: Addiction Recovery and Sobriety",
+      "artist": "Jeannine Coulter",
+      "link": "https://podcasts.apple.com/us/podcast/chasing-heroine-addiction-recovery-and-sobriety/id1525558435?uo=4",
+      "feed_url": "https://anchor.fm/s/2c09e8b4/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/66/d1/1f66d111-b851-afc2-126f-6f47d6d65442/mza_9141666646383403983.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -61,19 +61,11 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Talk",
-      "artist": "Stange Law Firm",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
-      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "title": "Let's Talk Family Law",
+      "artist": "Let's Talk Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
+      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -90,6 +82,14 @@
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
       "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
