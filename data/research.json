@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:12:12.531472+00:00",
+  "generated_at": "2026-10-25T15:23:14.285322+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -35,6 +35,14 @@
       "authors": "Afkhami M, Haghighi N, Ma H et al.",
       "published": "2026 Sep 18",
       "query": "co-occurring disorders family therapy"
+    },
+    {
+      "title": "Exploring perceived factors influencing cross-system collaboration between Child welfare and behavioral Health: A qualitative study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42924387/",
+      "journal": "Child protection and practice",
+      "authors": "Hu Y, Chuang E, Gadel F et al.",
+      "published": "2026 Sep",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Working with goals in youth mental health and substance use service: A review of current practice guidelines and recommendations.",
@@ -233,14 +241,6 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42912029/",
       "journal": "Revista latino-americana de enfermagem",
       "authors": "Sousa GB, Galvão PPO, Valente JY et al.",
-      "published": "2026",
-      "query": "children of parents with substance use disorder"
-    },
-    {
-      "title": "The role of contextual factors, school-related attitudes and behavioural traits on lifetime antisocial behaviours among adolescents.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42870934/",
-      "journal": "Frontiers in public health",
-      "authors": "Mehanović E, Renna M, Martorana M et al.",
       "published": "2026",
       "query": "children of parents with substance use disorder"
     },
