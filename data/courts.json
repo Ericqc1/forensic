@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-25T15:23:19.608670+00:00",
+  "generated_at": "2026-10-26T18:03:29.992781+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
   "items": [
+    {
+      "title": "State v. Asbel R.",
+      "link": "https://www.courtlistener.com/opinion/11045738/state-v-asbel-r/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-10-27",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Clarke",
+      "link": "https://www.courtlistener.com/opinion/11045737/state-v-clarke/",
+      "court": "Connecticut Appellate Court",
+      "date_filed": "2026-10-27",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "Snyder, F. v. Hryhorchuk, C.",
+      "link": "https://www.courtlistener.com/opinion/11045874/snyder-f-v-hryhorchuk-c/",
+      "court": "Superior Court of Pennsylvania",
+      "date_filed": "2026-10-26",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Jouett",
+      "link": "https://www.courtlistener.com/opinion/11045768/state-v-jouett/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-26",
+      "snippet": "",
+      "query": "family drug court"
+    },
     {
       "title": "S.K.S. v. M.A.F.",
       "link": "https://www.courtlistener.com/opinion/11044756/sks-v-maf/",
@@ -77,41 +109,9 @@
       "query": "child custody substance abuse"
     },
     {
-      "title": "Middleton, Deshaun v. Department of Services for Children Youth and Their Families (DSCYF) TPR",
-      "link": "https://www.courtlistener.com/opinion/11043268/middleton-deshaun-v-department-of-services-for-children-youth-and-their/",
-      "court": "Supreme Court of Delaware",
-      "date_filed": "2026-10-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In re Z.T.",
-      "link": "https://www.courtlistener.com/opinion/11043107/in-re-zt/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
       "title": "In Re Carter Minors",
       "link": "https://www.courtlistener.com/opinion/11043623/in-re-carter-minors/",
       "court": "Michigan Court of Appeals",
-      "date_filed": "2026-10-22",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "Matter of I.G.N. (E.N.)",
-      "link": "https://www.courtlistener.com/opinion/11043335/matter-of-ign-en/",
-      "court": "Appellate Division of the Supreme Court of the State of New York",
-      "date_filed": "2026-10-22",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "People v. Smith",
-      "link": "https://www.courtlistener.com/opinion/11043279/people-v-smith/",
-      "court": "Appellate Division of the Supreme Court of the State of New York",
       "date_filed": "2026-10-22",
       "snippet": "",
       "query": "family drug court"

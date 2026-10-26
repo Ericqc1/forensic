@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:23:14.285322+00:00",
+  "generated_at": "2026-10-26T18:03:21.307917+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -51,6 +51,14 @@
       "authors": "Nugent M, Burchell D, Chorney J et al.",
       "published": "2026 Oct 7",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Children and Families Affected by Parental Substance Use: Clinical Report.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42927772/",
+      "journal": "Pediatrics",
+      "authors": "Schiff DM, Farst KJ, Kellogg ND et al.",
+      "published": "2026 Oct 26",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Jail-based opioid treatment implementation, outcomes, and costs: lessons learned from the Massachusetts Justice Community Opioid Innovation Network (MassJCOIN).",
@@ -314,14 +322,6 @@
       "journal": "Harm reduction journal",
       "authors": "Edwards LM, Chang S, Zeki R et al.",
       "published": "2024 Jan 3",
-      "query": "child custody evaluation substance abuse"
-    },
-    {
-      "title": "Practice Resource for Reproductive Psychiatry/Women's Mental Health in Forensic Psychiatry Practice.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/39694848/",
-      "journal": "The journal of the American Academy of Psychiatry and the Law",
-      "authors": "Friedman SH, Sorrentino R, Kaempf A et al.",
-      "published": "2024 Dec 18",
       "query": "child custody evaluation substance abuse"
     }
   ]
