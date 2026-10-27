@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:03:29.992781+00:00",
+  "generated_at": "2026-10-27T17:12:08.512317+00:00",
   "label": "Court Cases",
   "count": 30,
   "errors": [],
@@ -13,6 +13,22 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "KRISTIN GRANT v. JERRY LONON",
+      "link": "https://www.courtlistener.com/opinion/11046125/kristin-grant-v-jerry-lonon/",
+      "court": "Court of Appeals of Georgia",
+      "date_filed": "2026-10-27",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
+      "title": "United States v. Abel Rizo",
+      "link": "https://www.courtlistener.com/opinion/11046077/united-states-v-abel-rizo/",
+      "court": "Court of Appeals for the Eleventh Circuit",
+      "date_filed": "2026-10-27",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "State v. Clarke",
       "link": "https://www.courtlistener.com/opinion/11045737/state-v-clarke/",
       "court": "Connecticut Appellate Court",
@@ -21,12 +37,28 @@
       "query": "family drug court"
     },
     {
+      "title": "People v. Landaeta",
+      "link": "https://www.courtlistener.com/opinion/11045929/people-v-landaeta/",
+      "court": "California Court of Appeal",
+      "date_filed": "2026-10-26",
+      "snippet": "",
+      "query": "child custody substance abuse"
+    },
+    {
       "title": "Snyder, F. v. Hryhorchuk, C.",
       "link": "https://www.courtlistener.com/opinion/11045874/snyder-f-v-hryhorchuk-c/",
       "court": "Superior Court of Pennsylvania",
       "date_filed": "2026-10-26",
       "snippet": "",
       "query": "child custody substance abuse"
+    },
+    {
+      "title": "State v. Crites",
+      "link": "https://www.courtlistener.com/opinion/11045904/state-v-crites/",
+      "court": "Ohio Court of Appeals",
+      "date_filed": "2026-10-26",
+      "snippet": "",
+      "query": "family drug court"
     },
     {
       "title": "State v. Jouett",
@@ -61,25 +93,17 @@
       "query": "child custody substance abuse"
     },
     {
+      "title": "T. R. and P. M. v. Texas Department of Family and Protective Services",
+      "link": "https://www.courtlistener.com/opinion/11045991/t-r-and-p-m-v-texas-department-of-family-and-protective-services/",
+      "court": "Texas Court of Appeals, 3rd District (Austin)",
+      "date_filed": "2026-10-23",
+      "snippet": "",
+      "query": "family drug court"
+    },
+    {
       "title": "United States v. Barros Brandao",
       "link": "https://www.courtlistener.com/opinion/11044736/united-states-v-barros-brandao/",
       "court": "Court of Appeals for the First Circuit",
-      "date_filed": "2026-10-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Quinn",
-      "link": "https://www.courtlistener.com/opinion/11044478/state-v-quinn/",
-      "court": "Ohio Court of Appeals",
-      "date_filed": "2026-10-23",
-      "snippet": "",
-      "query": "family drug court"
-    },
-    {
-      "title": "State v. Lotter",
-      "link": "https://www.courtlistener.com/opinion/11043879/state-v-lotter/",
-      "court": "Nebraska Supreme Court",
       "date_filed": "2026-10-23",
       "snippet": "",
       "query": "family drug court"
@@ -99,22 +123,6 @@
       "date_filed": "2026-10-22",
       "snippet": "",
       "query": "child custody substance abuse"
-    },
-    {
-      "title": "In the Interest of M.L.S. and T.L.S.Jr., Children v. the State of Texas",
-      "link": "https://www.courtlistener.com/opinion/11044753/in-the-interest-of-mls-and-tlsjr-children-v-the-state-of-texas/",
-      "court": "Texas Court of Appeals, 11th District (Eastland)",
-      "date_filed": "2026-10-22",
-      "snippet": "",
-      "query": "child custody substance abuse"
-    },
-    {
-      "title": "In Re Carter Minors",
-      "link": "https://www.courtlistener.com/opinion/11043623/in-re-carter-minors/",
-      "court": "Michigan Court of Appeals",
-      "date_filed": "2026-10-22",
-      "snippet": "",
-      "query": "family drug court"
     },
     {
       "title": "In re I.R.",
@@ -233,14 +241,6 @@
       "link": "https://www.courtlistener.com/opinion/10876668/in-the-interest-of-ig-a-child-v-the-state-of-texas/",
       "court": "Texas Court of Appeals, 7th District (Amarillo)",
       "date_filed": "2026-06-16",
-      "snippet": "",
-      "query": "child welfare substance exposed newborn"
-    },
-    {
-      "title": "State of Louisiana in the Interest of K.S. (DOB: 06/15/23) K.S. (DOB 05/11/19)",
-      "link": "https://www.courtlistener.com/opinion/10839216/state-of-louisiana-in-the-interest-of-ks-dob-061523-ks-dob/",
-      "court": "Louisiana Court of Appeal",
-      "date_filed": "2026-04-08",
       "snippet": "",
       "query": "child welfare substance exposed newborn"
     }

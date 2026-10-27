@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:03:21.307917+00:00",
+  "generated_at": "2026-10-27T17:11:56.140260+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -61,6 +61,14 @@
       "query": "children of parents with substance use disorder"
     },
     {
+      "title": "Substance-related acute care use among birthing parents with dependent children in Ontario, Canada, 2008 to 2024.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42933793/",
+      "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "authors": "Webber C, Dover K, Fiedorowicz JG et al.",
+      "published": "2026 Oct 25",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "Jail-based opioid treatment implementation, outcomes, and costs: lessons learned from the Massachusetts Justice Community Opioid Innovation Network (MassJCOIN).",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42920115/",
       "journal": "Harm reduction journal",
@@ -85,12 +93,12 @@
       "query": "parental addiction child welfare outcomes"
     },
     {
-      "title": "Psychiatric and substance use disorder polygenic scores are associated with the exposome in youth.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886211/",
-      "journal": "European child & adolescent psychiatry",
-      "authors": "Hung IT, Thomas NS, Sosnowski DW et al.",
-      "published": "2026 Oct 16",
-      "query": "children of parents with substance use disorder"
+      "title": "Maternal Anxiety Symptoms, Sensory Processing, and Play Performance in Children Aged 4-6 Years with Autism Spectrum Disorder: A Cross-Sectional Study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42940720/",
+      "journal": "Children (Basel, Switzerland)",
+      "authors": "Akçay S, Dinç Yavaş A, Poyrazoğlu HG et al.",
+      "published": "2026 Oct 14",
+      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Primary Care for People With Alcohol Use Disorder.",
@@ -227,14 +235,6 @@
       "authors": "Davis SH, Kurlychek M, Jones AA",
       "published": "2026",
       "query": "family drug treatment court effectiveness"
-    },
-    {
-      "title": "Applying an F-words lens to planning intervention for a child with autism: a retrospective case report with prospective follow-up.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42741051/",
-      "journal": "Frontiers in psychiatry",
-      "authors": "Govender P, Livingstone RW, Hidalgo-Robles Á et al.",
-      "published": "2026",
-      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Means of Recreational Cannabis Supply and Distribution Channels: Perceptions of Consumers, Consumers/Sellers, and Law Enforcement-A Grounded Theory Approach.",
