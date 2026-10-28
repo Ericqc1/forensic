@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-10-27T17:11:56.140260+00:00",
+  "generated_at": "2026-10-28T17:45:39.428767+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
-    {
-      "title": "Treatment Outcomes for Co-Occurring Borderline Personality Disorder and Substance Use Disorders: A Systematic Review.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42811462/",
-      "journal": "Journal of dual diagnosis",
-      "authors": "Sadeghi A, Ngoy A, George T et al.",
-      "published": "2026 Sep 29",
-      "query": "co-occurring disorders family therapy"
-    },
     {
       "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42773628/",
@@ -50,6 +42,14 @@
       "journal": "JCPP advances",
       "authors": "Nugent M, Burchell D, Chorney J et al.",
       "published": "2026 Oct 7",
+      "query": "family law psychology addiction"
+    },
+    {
+      "title": "Global, regional, and national burden of unintentional poisoning, 1990-2023: results from the Global Burden of Disease Study 2023.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42945982/",
+      "journal": "The Lancet. Public health",
+      "authors": "GBD 2023 Unintentional Poisoning Collaborators",
+      "published": "2026 Oct 27",
       "query": "family law psychology addiction"
     },
     {
@@ -237,12 +237,12 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Means of Recreational Cannabis Supply and Distribution Channels: Perceptions of Consumers, Consumers/Sellers, and Law Enforcement-A Grounded Theory Approach.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41863447/",
-      "journal": "Substance use & misuse",
-      "authors": "Rezag Bara SF, Bayle G, Wallez S et al.",
+      "title": "Treatment Outcomes for Co-Occurring Borderline Personality Disorder and Substance Use Disorders: A Systematic Review.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42811462/",
+      "journal": "Journal of dual diagnosis",
+      "authors": "Sadeghi A, Ngoy A, George T et al.",
       "published": "2026",
-      "query": "family law psychology addiction"
+      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Parental beliefs, initiation of alcohol consumption, and binge drinking among Brazilian adolescents.",
