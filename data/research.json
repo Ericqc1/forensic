@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:53:37.335019+00:00",
+  "generated_at": "2026-10-30T17:35:22.934321+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -21,14 +21,6 @@
       "query": "parental addiction child welfare outcomes"
     },
     {
-      "title": "An Accessible Approach to Molecular and Biomarker Testing for Risk Stratification in Oral Cavity Squamous Cell Carcinoma.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42758366/",
-      "journal": "Head and neck pathology",
-      "authors": "Afkhami M, Haghighi N, Ma H et al.",
-      "published": "2026 Sep 18",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Exploring perceived factors influencing cross-system collaboration between Child welfare and behavioral Health: A qualitative study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42924387/",
       "journal": "Child protection and practice",
@@ -43,6 +35,14 @@
       "authors": "Nugent M, Burchell D, Chorney J et al.",
       "published": "2026 Oct 7",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Twelve-Month Cumulative Incidence, Characteristics, and Correlates of Non-adherence in Youths Treated with Second-Generation Antipsychotics for Mental Disorders: Results from a Prospective Cohort Study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955665/",
+      "journal": "Drugs",
+      "authors": "Roehrich LA, Solmi M, Cortese S et al.",
+      "published": "2026 Oct 28",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Global, regional, and national burden of unintentional poisoning, 1990-2023: results from the Global Burden of Disease Study 2023.",
@@ -157,14 +157,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Latent Growth Modeling Trajectories of Cultural Values and Parental Monitoring as Predictors of Alcohol, Cigarette, and Drug Use Initiation Among Mexican-Origin Youth.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42904425/",
-      "journal": "Behavioral medicine (Washington, D.C.)",
-      "authors": "Hernandez CM, Bravo AJ, Bermejo-McGee O et al.",
-      "published": "2026 Jul-Dec",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Very early onset inflammatory bowel disease in Jordan: a single-center case series of clinical, genetic, and therapeutic features.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42907806/",
       "journal": "BMC pediatrics",
@@ -203,6 +195,14 @@
       "authors": "Ting Wong ZC, Tak Cheng FW, Mak IL et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Smoking cessation experiences during alcohol and cannabis treatment in substance use programmes in Catalonia: A qualitative study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42958289/",
+      "journal": "Substance abuse treatment, prevention, and policy",
+      "authors": "Rosa N, Enríquez M, Saura J et al.",
+      "published": "2026 Aug 1",
+      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Observational trial of the preventive impact of a social risk factor focused program for co-occurring opioid and methamphetamine use disorders and suicide risk in parents: study protocol.",
@@ -293,14 +293,6 @@
       "query": "parental addiction child welfare outcomes"
     },
     {
-      "title": "Stress, coping strategies, and relapse among schizophrenia patients at the psychiatric hospital of Oujda, Morocco.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41695438/",
-      "journal": "The Pan African medical journal",
-      "authors": "El Jabiry SE, Bouazzaoui MA, Barrimi M et al.",
-      "published": "2025",
-      "query": "substance use disorder relapse family dynamics"
-    },
-    {
       "title": "Association of Food and Housing Insecurity on Outcomes in Pregnant Patients With Substance Use Disorder.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/38850050/",
       "journal": "Substance use & addiction journal",
@@ -322,6 +314,14 @@
       "journal": "Harm reduction journal",
       "authors": "Edwards LM, Chang S, Zeki R et al.",
       "published": "2024 Jan 3",
+      "query": "child custody evaluation substance abuse"
+    },
+    {
+      "title": "Practice Resource for Reproductive Psychiatry/Women's Mental Health in Forensic Psychiatry Practice.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39694848/",
+      "journal": "The journal of the American Academy of Psychiatry and the Law",
+      "authors": "Friedman SH, Sorrentino R, Kaempf A et al.",
+      "published": "2024 Dec 18",
       "query": "child custody evaluation substance abuse"
     }
   ]
