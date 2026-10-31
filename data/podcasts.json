@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:37:39.814774+00:00",
+  "generated_at": "2026-10-31T16:40:17.554761+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -13,6 +13,14 @@
       "query": "addiction recovery"
     },
     {
+      "title": "Talkin' Trash Addiction Recovery Podcast",
+      "artist": "Talkin' Trash",
+      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
+      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/01/1a/05011a9c-2eb7-5fd2-d852-671c9dd5b926/mza_15009092938135227987.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
       "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
       "artist": "Felicia Hermle",
       "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
@@ -21,11 +29,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -37,19 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Talkin' Trash Addiction Recovery Podcast",
-      "artist": "Talkin' Trash",
-      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
-      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/01/1a/05011a9c-2eb7-5fd2-d852-671c9dd5b926/mza_15009092938135227987.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -77,14 +77,6 @@
       "query": "family law"
     },
     {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Let's Talk Family Law",
       "artist": "Let's Talk Family Law",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
@@ -101,12 +93,12 @@
       "query": "family law"
     },
     {
-      "title": "Father X: How Fathers Can Win Child Custody",
-      "artist": "Father X",
-      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
-      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
-      "query": "child custody"
+      "title": "Talking Family Law - The Resolution Podcast",
+      "artist": "Resolution",
+      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
+      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "query": "family law"
     },
     {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
@@ -114,6 +106,14 @@
       "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
       "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Father X: How Fathers Can Win Child Custody",
+      "artist": "Father X",
+      "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
+      "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
