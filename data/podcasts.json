@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T16:40:17.554761+00:00",
+  "generated_at": "2026-11-01T17:30:20.845170+00:00",
   "label": "Podcasts",
-  "count": 24,
+  "count": 23,
   "errors": [],
   "items": [
     {
@@ -29,14 +29,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery Stories With Forrest Kelly",
       "artist": "Forrest Kelly",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
@@ -45,11 +37,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery - Bulletproof Mindset",
+      "artist": "GaryTheExpert",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-bulletproof-mindset/id1668436530?uo=4",
+      "feed_url": "https://feed.pod.space/bulletproofpodcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/2c/dd/bc2cdd0f-27a4-00be-585b-32493def2080/mza_9506019152827736853.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -125,14 +125,6 @@
       "query": "child custody"
     },
     {
-      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
-      "artist": "Attorney Jonathan Jacobs",
-      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
       "artist": "Brian A. Victor, Esq.",
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
@@ -141,11 +133,11 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
-      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
+      "title": "Florida Divorce Lawyer Podcast | Child Custody, Alimony & Mediation in Florida",
+      "artist": "Attorney Jonathan Jacobs",
+      "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2402459.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/01/a7/4501a786-293d-9a60-3ce5-8a0fa158e2f3/mza_2789291090167248402.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -157,19 +149,19 @@
       "query": "substance abuse counseling"
     },
     {
-      "title": "Jess’s SobrieTea",
-      "artist": "Jess’s SobrieTea",
-      "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
-      "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
       "title": "Mormon Stories Podcast",
       "artist": "Dr. John Dehlin",
       "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
       "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Jess’s SobrieTea",
+      "artist": "Jess’s SobrieTea",
+      "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
+      "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {

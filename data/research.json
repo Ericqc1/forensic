@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:39:23.535662+00:00",
+  "generated_at": "2026-11-01T17:29:31.953096+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -61,14 +61,6 @@
       "query": "family law psychology addiction"
     },
     {
-      "title": "Children and Families Affected by Parental Substance Use: Clinical Report.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42927772/",
-      "journal": "Pediatrics",
-      "authors": "Schiff DM, Farst KJ, Kellogg ND et al.",
-      "published": "2026 Oct 26",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Substance-related acute care use among birthing parents with dependent children in Ontario, Canada, 2008 to 2024.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42933793/",
       "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
@@ -123,6 +115,14 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Children and Families Affected by Parental Substance Use: Clinical Report.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42927772/",
+      "journal": "Pediatrics",
+      "authors": "Schiff DM, Farst KJ, Kellogg ND et al.",
+      "published": "2026 Nov 1",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Longitudinal associations between parental rejection, school engagement and gaming disorder symptoms among Chinese adolescents: Disentangling between- and within-person effects.",
