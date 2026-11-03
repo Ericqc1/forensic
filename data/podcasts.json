@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-11-02T21:16:15.662878+00:00",
+  "generated_at": "2026-11-03T19:01:31.603564+00:00",
   "label": "Podcasts",
-  "count": 24,
+  "count": 23,
   "errors": [],
   "items": [
-    {
-      "title": "Let's Talk Addiction & Recovery",
-      "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/118778/destinations/686681.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/ec/08/36ec0858-68e9-01a0-2a8b-d4a6b4b9c3b5/mza_2098560167128349556.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
     {
       "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
       "artist": "Felicia Hermle",
@@ -21,11 +13,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Talkin' Trash Addiction Recovery Podcast",
-      "artist": "Talkin' Trash",
-      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
-      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/01/1a/05011a9c-2eb7-5fd2-d852-671c9dd5b926/mza_15009092938135227987.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -37,11 +29,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "title": "Talkin' Trash Addiction Recovery Podcast",
+      "artist": "Talkin' Trash",
+      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
+      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/01/1a/05011a9c-2eb7-5fd2-d852-671c9dd5b926/mza_15009092938135227987.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Sober Shares - Alcoholics Anonymous addiction recovery interviews",
+      "artist": "Michael Q",
+      "link": "https://podcasts.apple.com/us/podcast/sober-shares-alcoholics-anonymous-addiction-recovery/id1573479865?uo=4",
+      "feed_url": "https://anchor.fm/s/58d1588c/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/70/29/65/702965fe-6e5f-2510-2a08-6542be60a985/mza_11255538261969242296.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -61,19 +61,19 @@
       "query": "family law"
     },
     {
-      "title": "For Better or Worse: A Family Law Podcast",
-      "artist": "TALG LAW",
-      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
-      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "For Better or Worse: A Family Law Podcast",
+      "artist": "TALG LAW",
+      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
+      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -138,14 +138,6 @@
       "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
       "feed_url": "https://rss.buzzsprout.com/182093.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
-      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
-      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
-      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
