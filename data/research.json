@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:55:29.099185+00:00",
+  "generated_at": "2026-11-04T19:12:39.853672+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -77,14 +77,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Risk factors for adolescent cannabis use following partial cannabis legalization in Germany: a cross-sectional study in secondary schools.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42920148/",
-      "journal": "Substance abuse treatment, prevention, and policy",
-      "authors": "Trümpelmann M, Lüthgen M, Burgard A et al.",
-      "published": "2026 Oct 23",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Examining utilization of Peer Recovery Support Services in a child welfare system: Characteristics associated with enrollment, treatment initiation, and successful program completion.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42893771/",
       "journal": "Journal of substance use and addiction treatment",
@@ -115,6 +107,14 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "A Randomized Controlled Trial of Relationship Education Within a Nurse Home Visiting Program to Improve Mental Health and Prevent Substance Use Among First-Time, Low-Income Mothers.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42977874/",
+      "journal": "Maternal and child health journal",
+      "authors": "Li Q, Heyman RE, Palusci VJ et al.",
+      "published": "2026 Nov 3",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Cross-cultural adaptation and validation of the intelligibility in context scale for Azerbaijani Turkish-speaking children.",
