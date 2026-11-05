@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:12:32.204411+00:00",
+  "generated_at": "2026-11-05T19:19:02.584825+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -13,20 +13,20 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
-      "title": "Private equity is buying up more methadone clinics – access to the lifesaving drug isn’t getting easier - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjJnOGJLbEc5R2FucVJmUjU2U3VKYkEwOHFacktsN0ZYYW95QzNqcTNLQ1dTRGpyamt3Nlc0Smsyb3NzaTk5RjRtR3poUVo0UWxLdDNsT3ZSaGZ2WGd4eE5zSHRsZUlSTW5BbW9NN2R3WHcwYWhjb25ZQ3UwVzNmTWw4aTRIZ2JvN1FKTTJJZGVSTTR6VjR1N2d3aDFPLWhhQ2EzUUM1QUJqNlM3aVRwc25EQjNjb05LbW8waUhEZmxvNEk0VUlBSG5VcEVYa2x4?oc=5",
-      "source": "The Conversation",
-      "published": "Wed, 28 Oct 2026 12:19:23 GMT",
-      "summary": "Private equity is buying up more methadone clinics – access to the lifesaving drug isn’t getting easier  The Conversation",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic - The Imprint",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWi0yVnhaRWRsTE8zdUczSGxFZ3NiZDlxOXktdUZyME1PWVNkd3hJQXpSU3NlZ04yeTZ5eGNXaHRaT0VzcWRIQy1Wd2liOUk5em9CUkFTVlBIamJ2dTI5Y0liX0lKclM3eEVNS2FDbjhIQ3daaHBZTFZ5cF9SS1ljR2pBR3U2TWk5Zl9BUnJhQmtiM1l2cTZ2VUdfNWFHSkNxMkh6SDBhY1o?oc=5",
       "source": "The Imprint",
       "published": "Wed, 26 Apr 2017 07:00:00 GMT",
       "summary": "Pregnant Women, Newborns on Front Lines of Arizona’s Opioid Epidemic  The Imprint",
       "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
+      "title": "Prevent Delays in Access to Medications for Addiction Treatment - Partnership to End Addiction",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXhabHBELS1aNXpjeEJyWGxDSlI2LVJyMEM4a2NCQy1Ma2V6WjBaOEdkb1FCeUNKai0wNXJieVBtaTdfdmtBa0x1YW1oRTkxZHkzU1NCaVdlZWd5b0ZZX1REandxQUZmY2t3MTUwUnpySjRqMmpkSE1EQVBhVUFkWmstQVctX3Zyb3psTy1EMkEtOGJiY25iWA?oc=5",
+      "source": "Partnership to End Addiction",
+      "published": "Wed, 21 Oct 2026 05:29:16 GMT",
+      "summary": "Prevent Delays in Access to Medications for Addiction Treatment  Partnership to End Addiction",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "ACLU, New Mexico lawmakers petition state Supreme Court to block infant-removal policy - Source New Mexico",
@@ -61,6 +61,14 @@
       "query": "\"family law reform\""
     },
     {
+      "title": "Co-Parenting Through Cancer: How One Mom Found Stability with Structure, Support, and TalkingParents - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPblpNVEhXZk8ydVA0MlNaSG9fYzFzYWZRaXU3Ty1tcmFfWHJOREhuUTNHaUJuZi1fN0RNUE9tWkg2MEdhSE94bGxXUGZKdllmbGhpTFZES0JZcWI1QzNtOXRyaFVYMThIV0pHU1Y2bkYyVWc5eFoxUjE5UTkwZTNWMHJYZkd6VUFPRFVJc192czZGemt1b2pKSDlmSWpYTHBHUjJZQWNOS0tiNEMzUVFaTkMtenBEVnY0ajd3MzNoNUlDWEZwREh4UWN0SWFseDhsS2JLZDZncTVYRlFlSjNrSTIwQUpCMW9sbEJOZVRQbU1NOUxPRHlmak1ZRXhBZw?oc=5",
+      "source": "GlobeNewswire",
+      "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "Co-Parenting Through Cancer: How One Mom Found Stability with Structure, Support, and TalkingParents  GlobeNewswire",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
       "title": "Olivia Munn gives husband John Mulaney random drug tests - Fox News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1J1SWRIWk5iN3VNcUdibGZET3dxTk5zVmFFNjVwZVBiVnd5a2VBZzRtU3lrMUh1eGp1dmd6eUpWeVdlY292RHdUd1Y3UDZTc0x5N1Y5VmV0cEdjazVIaGd6Snl2VG9ZZDh1UGFidzdXSVZnOG1wNnhsYnR1S0pYYW80RzJWakMtZHIwZkFoMGJRYUUwMzhVMWR30gGfAUFVX3lxTFBOc0k5MTFRVnZRcWU5SzZ1SUFVY0dxdC11U3RsZzhuUVV0QktkbDQyUXA3OWZPN2pMWE1rblJaZFVSSHJEMEN5c3YzeFVlVTExVVAxMHEwWWEwb0luaE5YUXZncnU2MXJ0bVVEeWoydTJtRkVfSGk3ZHpNVF9iRWVtTmdIS1lRUXpQNG0wdHh2M25QV0dhZjhVaGp6QjEtUQ?oc=5",
       "source": "Fox News",
@@ -69,19 +77,11 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "Japan advances imperial family law reform amid succession concerns - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHpuSTN3YzUwcWNxZm1YVWZOX1JEbHVGLUFzY0hEY1g5T0gtN2JlRndGZWhVM1dYMFhUcmFIZlhEQW1ZdnB2N1J2Vml0Sk11OF80aGtTeUMxcHMxXy1UU3dWOHYtN3hpSW9tRkE3UVBzYm5aRnFJVUI4MGl6WnEzTFNkMU5PalZMYk55d21aN1dGTUh2X1ZsTjdTN0J5RE01bnFsNlV2eE9JSzBOaXBFREdB?oc=5",
-      "source": "Anadolu Ajansı",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "summary": "Japan advances imperial family law reform amid succession concerns  Anadolu Ajansı",
-      "query": "\"family law reform\""
-    },
-    {
-      "title": "Podcast: Campus Naloxone Access and Destigmatizing Substance Use Disorders - Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUtobm5Mb21pY1dOS3gyRkkyWWFvZWVSNjc5Y1ZMWWs4R2I4UEJRdnpwY3hOcmpFaml4U1NvaUZzdnNIUGdiRlItb0owb0tfMVowektoc2FIdjdEaDU0ZjBEeG03YVlLcmhrQW5HeG5XWTJZdlVyd05LUlA5bnpFbHE5RWpuZHc1TlcwSDJhdWVOaXRacEg2Q1FLeldTd2twUEFlVWZMNWJFQkJXNlE1eA?oc=5",
-      "source": "Psychiatric Times",
-      "published": "Wed, 04 Nov 2026 15:04:26 GMT",
-      "summary": "Podcast: Campus Naloxone Access and Destigmatizing Substance Use Disorders  Psychiatric Times",
+      "title": "How is Technology Shaping the Way We Gamble? - National Council for Mental Wellbeing",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnhPTVJodXdpRWZTY3d0azNmd2I0MDJLUDhES3RjbEVhY2tWUUVsUkJvNEpObnprTVllSUFnQllmcTlmNkpQUzg4bkY2X2VWUG5aODcyd29LOVRCZC05NHVRUG1va05FQmg4RUVQdXdvanNMZExScjN3YmZzdFVCM0tNOUx2dw?oc=5",
+      "source": "National Council for Mental Wellbeing",
+      "published": "Wed, 04 Nov 2026 14:38:17 GMT",
+      "summary": "How is Technology Shaping the Way We Gamble?  National Council for Mental Wellbeing",
       "query": "\"substance use disorder\" treatment OR policy"
     },
     {
@@ -93,12 +93,12 @@
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
-      "title": "Henrico County Secures $1.7 Million State Grant to Strengthen Addiction Prevention, Treatment and Recovery Services - The Legacy Newspaper",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOENWTVJMMjAtdlJDajFLWmFNZ3NSSUhfYUlSTFl1UlQ5cUJoM0loQ3Z3RmdvRnNrRFdPTE03M09qaXRhbFhUbHQ2Nkk2NGlVUmx4OHMxNlRVVUJDMENpTllhemlCenVCRTZBUkJmSnBxYzAtQ3NkWWdDZTdPQUlMeTM3VElxUTBqeG5VclhCLVc4a3c5LTJNTy1QMThmZjcwNERQblltcENIdms0QTNPUmU0bndHUVJyTGR2bG1yc011MUdxNlA1bGZUampPNXNFUlZhV3R5cTU0VS1Bc0tv?oc=5",
-      "source": "The Legacy Newspaper",
-      "published": "Wed, 04 Nov 2026 06:18:17 GMT",
-      "summary": "Henrico County Secures $1.7 Million State Grant to Strengthen Addiction Prevention, Treatment and Recovery Services  The Legacy Newspaper",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
+      "title": "GLP-1 medications get at the heart of addiction: study - WashU Medicine",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkJtX2FlYVVkNmd4bEtpcW5mMWpQaXRqaXdBcGJqUl9uQnpnZnh6N0NvZEpVZFVNdktyM3I5dldLbEREYlR2WFUxTUFvQUxleXZkVjRoX2ZwLTdIR2E0Q2I0UW9mZV83QUh0em54MHR6ZGhPM01GNEs5d0Q2LVVCQm1qaFFkenQ3bnM4UGZkYw?oc=5",
+      "source": "WashU Medicine",
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "GLP-1 medications get at the heart of addiction: study  WashU Medicine",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Strategies for Effectively Allocating Opioid Settlement Funds - RAND",
@@ -123,6 +123,14 @@
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "UN Human Rights Council hears call for Arab family law reform  ICLG",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
+      "source": "Penn LDI",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights - Altoona Mirror",
@@ -155,14 +163,6 @@
       "published": "Tue, 15 Jul 2025 07:00:00 GMT",
       "summary": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children  West Virginia Watch",
       "query": "\"family drug court\" OR \"family treatment court\""
-    },
-    {
-      "title": "Ben Affleck: 'I have completed treatment for alcohol addiction' - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2laOEM2ZGNTX0tLcjdXZ2stdDNkaTNCdXVfZGQ0OU1EcEFURFNBVE9BQ2VkR1RCQk85SmZzVDNyVmRpODgtaHUzcG5jX29NbnZEYm85dDIxc3plZ3Z0RHFjR0hVNmdDUXlWWGxWWXl4bmpWcFU5QTk0eWpOMllHQ2Ridl81Zmpld0FxZDQwOTZraTlfTGFOWA?oc=5",
-      "source": "TODAY.com",
-      "published": "Tue, 14 Mar 2017 07:00:00 GMT",
-      "summary": "Ben Affleck: 'I have completed treatment for alcohol addiction'  TODAY.com",
-      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
@@ -237,14 +237,6 @@
       "query": "\"family drug court\" OR \"family treatment court\""
     },
     {
-      "title": "Health Affairs’ September Issue: Research And Policy Insights About The Opioid Crisis | Health Affairs Forefront - Health Affairs",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX09MMi1teDBzUURIQkdCYVVMUGJVT2lZUU1rSWxreHBBaFQ0eURVYnctdkg5VU5XaXNWUko5YlpsWlRvTnJEdk9nZWRYS2ZxeGFGT1FpNURnWG9JcW9sY3h2REk5NVRxVlZrWXdWcHBsNGYxR3VBV0R6c294QU9rNzNlNFhqQnVNMVdCUEI5aGdLYlVTNWhCaHE4X3B3OTdYSnNZcnlZUG1rUmdTbkkxejUzS2xMZGRfWkRVcWlR?oc=5",
-      "source": "Health Affairs",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "Health Affairs’ September Issue: Research And Policy Insights About The Opioid Crisis | Health Affairs Forefront  Health Affairs",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
       "title": "Mass General Brigham to stop filing neglect reports solely because a baby is born with drugs in its system - The Boston Globe",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdERyV2VlUUZ2VVFOQkd6Uzdob213MVo5a2NzWGRSd1F1ek5DWmpoUXluZVh3UkZBakZTaDR5NUFoM3J6TXNTUHhMT25wVVRKTWxFeGo5WFo0aTdicWZEZDd4LWU5N2s5Vzg1eDF3WVdWV2pVeGxOcHY3YXZubjBvWF9VdWltOE9DWXJlendzQ2VhNDE0NWhNRWNXc3FNeVU4d1RzV0J3?oc=5",
       "source": "The Boston Globe",
@@ -267,22 +259,6 @@
       "published": "Thu, 30 Apr 2026 07:00:00 GMT",
       "summary": "Public Health Leaders Share Innovations in Opioid Settlement Fund Spending at Bloomberg Center Panel Discussion  Johns Hopkins Bloomberg School of Public Health",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "SHATTERPROOF STATEMENT ON DOJ ADDICTION TREATMENT FRAUD CHARGES - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclBPQW5QemM5cHNpclVYS3RNeEJ4TlM3RzJJbkxUaEgyLU40b2ZIN2Nra2NRZmxIalVDcWlqSElJRUdRdXM3RHF2RnJBY0hqOEdudTBqQ2F1Qmc0d2syWWVUSDZaZExuZHhmSll2OE9XZ2dHT0tZVlhZeFFHdmVVdDBmeUtMVWM2SU9oV0JSbHB5Y3pt?oc=5",
-      "source": "AOL.com",
-      "published": "Thu, 29 Oct 2026 13:18:25 GMT",
-      "summary": "SHATTERPROOF STATEMENT ON DOJ ADDICTION TREATMENT FRAUD CHARGES  AOL.com",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
-      "title": "NY State Bar Awards 2 Attorneys For Family Law Reform - Law360",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUJYNWhyaHJhT0IySWowS2l1enF5LVJSSnZ5cU5EY0tMZnllZjhDUmJVamRoN3RrMEpSdGNQX1hfTjAwTmNZMWJxZmJpcHBiaFlDQlRUWF9OSm5nTDI3QUs2RHNWUnhoVHBwbjZPT3VPRVVkQlNYUzJiZ2o5NTJEUEp5VzJ4S3djLXZ3ZzhEOVAxc2NmaUpkazEzNUFfT0lm0gFeQVVfeXFMTTl0Qk5zRE9WaU5oTmRQd25Ha3RsQ3Z0bm5BOEpVYzNJUmVLTDNPTTJOYUpEQmRmTWRPRDUtRlJ6aExwWTNiTDlNNjJYeFZ6T0tEazRIazBlZUVVcFQ0Zw?oc=5",
-      "source": "Law360",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "NY State Bar Awards 2 Attorneys For Family Law Reform  Law360",
-      "query": "\"family law reform\""
     },
     {
       "title": "Children Living with Parents Who Have a Substance Use Disorder - SAMHSA (.gov)",
@@ -317,12 +293,36 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
+      "title": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism - BuzzFeed News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnNxZG93Z1Vqcmw0MWNjTVF2ZlI1VTgxb1VzVHd3c2RaVklrMGRlVGpaTVBXMkE0cDNPbXhKclVHczZSNS1fZkZwZmxJNHlJR2dtNGxvRC1FUHFSSXBfeVZxLVoxVWdCNUFYSlFlY2RPZ0E3TFdtbjUtaEZOM1U5djQ3cU1RQllhYTh0UklHMmNjcTllUmNHWFRUREtZOENrakE?oc=5",
+      "source": "BuzzFeed News",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism  BuzzFeed News",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
       "title": "Family law reform: An overlooked catalyst of economic growth - World Bank Blogs",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFlPTWNHa3ZFeWdHSVl2b2xVWi1rOVl0NmxmbjVpanI0d2w3NlB5anNxMkFHWUhBQzJJSlI2QzMxR3ZnMUIzWFhibUF4Umx0OVNtZVRlSjg4MnBkdjdZRlo5ekNNSTduX1FMTVQ2d2lXc0ZLUld3eExDcENyTTRwSEJzY054enlTbi1SR2xzU0RLbW9LWWp5ZWJyYW9EYWxTVzdjWGR2UC1mMzA?oc=5",
       "source": "World Bank Blogs",
       "published": "Thu, 15 May 2025 07:00:00 GMT",
       "summary": "Family law reform: An overlooked catalyst of economic growth  World Bank Blogs",
       "query": "\"family law reform\""
+    },
+    {
+      "title": "Behind the scenes of family law reforms: Alain Roy’s journey - Université de Montréal",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFlGSVBpVDQ4empMVW10R1dBNUNySkppVWFGa01xNTFqV01HX2xuUFp1Y285V3VxeFl2YlQ3dk80M1VHWm01ZkxvVXU5U2MtT2lkN2RLTGNOeXp3Y1l2bEVQMnBBZGxIaGVxVEhWTERaMEI2R2NPSlFFVENYNktudGVhbTNwZUkwckl5RzJOY19ha244eTQtRWI2WURXb0ZzU1haYXhVSVVuSXhBMUNlSUdn?oc=5",
+      "source": "Université de Montréal",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "Behind the scenes of family law reforms: Alain Roy’s journey  Université de Montréal",
+      "query": "\"family law reform\""
+    },
+    {
+      "title": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth - The Marshall Project",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZtSDhKTl9CMnRrS0F6NjZtUEJLQ2JPVWhkdjVnbWk0QmpsUE5SSU5pdnFBWTJQUW5XTC05TWVnT1hhcl9pcW9lMWt2ZmxzZVpGd1V4Ym5mWTlWU2Z2LVlHYVVtZmZXWEdBbkFyeEtwRTdWQS1CTkF6UW9BelFxcUx3UFlGVFUtaGNOS1kyTjlhWHpLZ0RtQnJ3?oc=5",
+      "source": "The Marshall Project",
+      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "summary": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth  The Marshall Project",
+      "query": "\"child welfare\" \"substance exposed newborn\""
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:12:39.853672+00:00",
+  "generated_at": "2026-11-05T19:19:12.285157+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -19,14 +19,6 @@
       "authors": "Quast T, Bright M, Lofwall MR et al.",
       "published": "2026 Sep 18",
       "query": "parental addiction child welfare outcomes"
-    },
-    {
-      "title": "Exploring perceived factors influencing cross-system collaboration between Child welfare and behavioral Health: A qualitative study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42924387/",
-      "journal": "Child protection and practice",
-      "authors": "Hu Y, Chuang E, Gadel F et al.",
-      "published": "2026 Sep",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Working with goals in youth mental health and substance use service: A review of current practice guidelines and recommendations.",
@@ -109,6 +101,14 @@
       "query": "substance use disorder relapse family dynamics"
     },
     {
+      "title": "Multilevel Factors Associated With On-Site Childcare Availability in Substance Use Disorder Treatment Settings, United States, 2024.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42981176/",
+      "journal": "Family & community health",
+      "authors": "Pro G, Gu M, Karki I et al.",
+      "published": "2026 Nov 4",
+      "query": "children of parents with substance use disorder"
+    },
+    {
       "title": "A Randomized Controlled Trial of Relationship Education Within a Nurse Home Visiting Program to Improve Mental Health and Prevent Substance Use Among First-Time, Low-Income Mothers.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42977874/",
       "journal": "Maternal and child health journal",
@@ -125,20 +125,20 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "Children and Families Affected by Parental Substance Use: Clinical Report.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42927772/",
-      "journal": "Pediatrics",
-      "authors": "Schiff DM, Farst KJ, Kellogg ND et al.",
-      "published": "2026 Nov 1",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Longitudinal associations between parental rejection, school engagement and gaming disorder symptoms among Chinese adolescents: Disentangling between- and within-person effects.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42456204/",
       "journal": "Addictive behaviors",
       "authors": "Wang Z, Zhou X, Chen Y",
       "published": "2026 Nov",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Genetic Correlates of Treatment Utilization for Alcohol Use Disorder: A Family-Based and Polygenic Investigation.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42968130/",
+      "journal": "Alcohol, clinical & experimental research",
+      "authors": "Spychala KM, Garasky CE, Clapp Sullivan ML et al.",
+      "published": "2026 Nov",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Perinatal Insights Into Parenting, Pathways, and Addiction (PIPPA): Protocol for a Longitudinal, Strengths-Based Study in Flanders, Belgium.",
