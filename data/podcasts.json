@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:24:48.208533+00:00",
+  "generated_at": "2026-11-06T18:45:58.009272+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -29,14 +29,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
-      "artist": "Jesse Mogle",
-      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
-      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery Stories With Forrest Kelly",
       "artist": "Forrest Kelly",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
@@ -45,20 +37,20 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "title": "Sober Shares - Alcoholics Anonymous addiction recovery interviews",
+      "artist": "Michael Q",
+      "link": "https://podcasts.apple.com/us/podcast/sober-shares-alcoholics-anonymous-addiction-recovery/id1573479865?uo=4",
+      "feed_url": "https://anchor.fm/s/58d1588c/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/70/29/65/702965fe-6e5f-2510-2a08-6542be60a985/mza_11255538261969242296.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
-      "title": "Donuts & Divorce: A Family Law Podcast",
-      "artist": "Dorothy O'Neil",
-      "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2136014.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/51/ad/7651ad6a-128a-ba48-bcac-2704d969e7cb/mza_15255770728704888401.jpg/100x100bb.jpg",
-      "query": "family law"
+      "title": "Broken to Blessed | Addiction Recovery, Marriage + Divorce, Anxiety, Depression for Christians, Mental Health Support",
+      "artist": "Randi Tisdall— Christian Mental Health Support, Addiction Recovery, Overcome Divorce, Self Improvement",
+      "link": "https://podcasts.apple.com/us/podcast/broken-to-blessed-addiction-recovery-marriage-divorce/id1723518542?uo=4",
+      "feed_url": "https://feed.podbean.com/brokentoblessed/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2c/ab/f8/2cabf8c1-d27e-3aa6-cc45-b88334349dc3/mza_16100941476637424088.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
     },
     {
       "title": "Let's Talk Family Law",
@@ -69,19 +61,19 @@
       "query": "family law"
     },
     {
-      "title": "California Family Law Insights",
-      "artist": "Hopper Hopper & Strebe LLP",
-      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "For Better or Worse: A Family Law Podcast",
       "artist": "TALG LAW",
       "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
       "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "California Family Law Insights",
+      "artist": "Hopper Hopper & Strebe LLP",
+      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -98,6 +90,14 @@
       "link": "https://podcasts.apple.com/us/podcast/your-rights-your-voice-family-law-clarity-with-ellie/id1842187603?uo=4",
       "feed_url": "https://feed.podbean.com/yourrightsyourvoice/feed.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/43/28/b1/4328b1ec-d049-e82c-0e5d-2fcd418c79be/mza_15044665412120260758.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "California Virtual Family Law Attorney With Founder Linda Garrett",
+      "artist": "californiavirtualfamilylawattorney",
+      "link": "https://podcasts.apple.com/us/podcast/california-virtual-family-law-attorney-with-founder/id1814605844?uo=4",
+      "feed_url": "https://feed.podbean.com/californiavirtualfamilylawattorney/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/42/bf/0c42bf7a-3442-5219-de4b-b2d29d5299c0/mza_12602338376751751638.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -149,19 +149,11 @@
       "query": "child custody"
     },
     {
-      "title": "Careers Are Weird",
-      "artist": "Aindrea Sewell",
-      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
-      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "Mormon Stories Podcast",
-      "artist": "Dr. John Dehlin",
-      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
-      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
+      "title": "LJNRadio: I Want To Be A",
+      "artist": "LJNRadio",
+      "link": "https://podcasts.apple.com/us/podcast/ljnradio-i-want-to-be-a/id673126220?uo=4",
+      "feed_url": "https://jobs.localjobnetwork.com/radio/itunes?radio_show_id=1",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/4e/57/154e5733-106b-9565-9bf4-73015d00a570/mza_4257130623273236555.png/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {
@@ -170,14 +162,6 @@
       "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
       "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "LJNRadio: I Want To Be A",
-      "artist": "LJNRadio",
-      "link": "https://podcasts.apple.com/us/podcast/ljnradio-i-want-to-be-a/id673126220?uo=4",
-      "feed_url": "https://jobs.localjobnetwork.com/radio/itunes?radio_show_id=1",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/4e/57/154e5733-106b-9565-9bf4-73015d00a570/mza_4257130623273236555.png/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {
@@ -194,6 +178,22 @@
       "link": "https://podcasts.apple.com/us/podcast/the-professional-podcast-network/id1700165465?uo=4",
       "feed_url": "https://feeds.simplecast.com/sAlLVUh8",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/12/fc/59/12fc595b-3bd1-e9cd-e4fe-6de2cb9a7417/mza_12709084191825637590.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Careers Are Weird",
+      "artist": "Aindrea Sewell",
+      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
+      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "The Fatherhood Challenge Podcast & Radio Program",
+      "artist": "Jonathan Guerrero",
+      "link": "https://podcasts.apple.com/us/podcast/the-fatherhood-challenge-podcast-radio-program/id1589320881?uo=4",
+      "feed_url": "https://feeds.redcircle.com/715e47d3-82ac-4316-b44f-60c114929494",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/32/51/e2/3251e208-7b24-ba21-cd2a-4a3b1040b487/mza_16532417055593633724.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]
