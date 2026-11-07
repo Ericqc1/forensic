@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:44:51.710700+00:00",
+  "generated_at": "2026-11-07T17:15:48.454049+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -61,36 +61,12 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "Podcast: Campus Naloxone Access and Destigmatizing Substance Use Disorders - Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUtobm5Mb21pY1dOS3gyRkkyWWFvZWVSNjc5Y1ZMWWs4R2I4UEJRdnpwY3hOcmpFaml4U1NvaUZzdnNIUGdiRlItb0owb0tfMVowektoc2FIdjdEaDU0ZjBEeG03YVlLcmhrQW5HeG5XWTJZdlVyd05LUlA5bnpFbHE5RWpuZHc1TlcwSDJhdWVOaXRacEg2Q1FLeldTd2twUEFlVWZMNWJFQkJXNlE1eA?oc=5",
-      "source": "Psychiatric Times",
-      "published": "Wed, 04 Nov 2026 15:04:26 GMT",
-      "summary": "Podcast: Campus Naloxone Access and Destigmatizing Substance Use Disorders  Psychiatric Times",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "How is Technology Shaping the Way We Gamble? - National Council for Mental Wellbeing",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnhPTVJodXdpRWZTY3d0azNmd2I0MDJLUDhES3RjbEVhY2tWUUVsUkJvNEpObnprTVllSUFnQllmcTlmNkpQUzg4bkY2X2VWUG5aODcyd29LOVRCZC05NHVRUG1va05FQmg4RUVQdXdvanNMZExScjN3YmZzdFVCM0tNOUx2dw?oc=5",
-      "source": "National Council for Mental Wellbeing",
-      "published": "Wed, 04 Nov 2026 14:38:17 GMT",
-      "summary": "How is Technology Shaping the Way We Gamble?  National Council for Mental Wellbeing",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
       "title": "GLP-1 medications get at the heart of addiction: study - WashU Medicine",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkJtX2FlYVVkNmd4bEtpcW5mMWpQaXRqaXdBcGJqUl9uQnpnZnh6N0NvZEpVZFVNdktyM3I5dldLbEREYlR2WFUxTUFvQUxleXZkVjRoX2ZwLTdIR2E0Q2I0UW9mZV83QUh0em54MHR6ZGhPM01GNEs5d0Q2LVVCQm1qaFFkenQ3bnM4UGZkYw?oc=5",
       "source": "WashU Medicine",
       "published": "Wed, 04 Mar 2026 08:00:00 GMT",
       "summary": "GLP-1 medications get at the heart of addiction: study  WashU Medicine",
       "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
-      "title": "Strategies for Effectively Allocating Opioid Settlement Funds - RAND",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HclFCaUp2MEd1ak5UdWVOeXo0T25qd1Zhc21ubjUxVTdnLWJvYXExcG8tZkw2dlBYUkctMHZ1TG12SjlLNFR5RGxRZWNrZElQWHpFbjM0d2lvRl9rcWdlSlU2STZOZE14YkpEZDE0S0ZQWlVlUTU4?oc=5",
-      "source": "RAND",
-      "published": "Wed, 01 Oct 2025 02:12:39 GMT",
-      "summary": "Strategies for Effectively Allocating Opioid Settlement Funds  RAND",
-      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
       "title": "Discriminatory family laws undermine women's rights and post-conflict recovery in the Middle East and North Africa [EN/AR] - ReliefWeb",
@@ -141,20 +117,20 @@
       "query": "\"family law reform\""
     },
     {
+      "title": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment - Commonwealth of Pennsylvania (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3F1WmxyVHBFX0dfV1NCZUJMWW5UNmVPQ2VNaVhzQVE4NGRaNUF1VGM2bFVLRUpNMkFBVVg5T2tvZDZlb1phbFhoOURkS2lkdlRsdnFNVEJmaExQRWQ0Zzg5dXdTNjdiclhSV3ZKZGd4UDhiQU1qdU1YWXlTT1lYR2s5Ym5YSmh6dVpFb0JtVUtmQ3lraTZ3SXEwRnkxd1Y2REdfOVB4TUhNZw?oc=5",
+      "source": "Commonwealth of Pennsylvania (.gov)",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment  Commonwealth of Pennsylvania (.gov)",
+      "query": "\"substance use disorder\" treatment OR policy"
+    },
+    {
       "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - West Virginia Watch",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWprX0FvVk9wc1ZiMjNzS2JEWkY0RDNBZVdZWUR2cTl2djgwYzdfazM3ckh4NkU4U2M0bEtBd2lrSTE0dzNyZVJZb0FvWVFVci02T3hENmNtczYzUUZXWHp0RnBDbC14bmFlNWFMX042YldoWE1tTmtTbENKMzhpZVdtR3FxTi1meng1aktMSEJfN2ZXUllKMHJZaW9pVHB0NE1Vcm42emJNb0tJM3EwOG1KM1RqaDhCT09NNjRHQ09MV3NVeEtVNHpBWTd2bmpYSkp2UlhTQUo?oc=5",
       "source": "West Virginia Watch",
       "published": "Tue, 15 Jul 2025 07:00:00 GMT",
       "summary": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children  West Virginia Watch",
       "query": "\"family drug court\" OR \"family treatment court\""
-    },
-    {
-      "title": "Time for decisive action on substance-use disorder treatment - American Medical Association | AMA",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFBId0drTGFPQS1TeV8tM01OLVA0UUk0WmtHZXVPRGQ4SzBRVUhtUXQ4dXFfTkNrYXFHbWNtTjZfTjJvaTlZQ2htdFV0QVFfcmY5Y2hBWTVEWEk2enpmdmVlRmhoakNJSkpacjBsaVNnakZkZmRnVnBhTDBGZDNJZHpscWRBemNWOG1Ybm1zWmM2dkRPcVNieU9XSGktRnZjYk5SQXZQN0l4Sm5haThB?oc=5",
-      "source": "American Medical Association | AMA",
-      "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-      "summary": "Time for decisive action on substance-use disorder treatment  American Medical Association | AMA",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "The Opioid Crisis: Federal Policy Approaches to Reduce Supply, Demand, and Harm - Congressional Budget Office (.gov)",
@@ -173,11 +149,11 @@
       "query": "\"child welfare\" \"substance exposed newborn\""
     },
     {
-      "title": "Addressing the Opioid Crisis: A Look at the Evolving Landscape of Federal OUD Treatment Policies - KFF",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVBaNDZOUnN4dXNNWk9KOG1xTVAzaWF2T2szSjVhT1B6NTJVRDZPbkRpOGdUd2tsQXV4aE5ic3dHa2lrcmFUSm9MdW9lRC01S25PbnpqM1lQZ05DU1NSZF95N1U0QWJYeUloZ0pwYVZETW0xc1M2NG40VlBhc21xNjlMWkVmX1NZQnRvRHdxb0xiOWJkeXNmX0VjbkNRLXFGdVA3ZFhHdnFtMmp4MUxOQ01CZF9fTzNWQlhpdGt5VTRObURnb1R2YVNR?oc=5",
-      "source": "KFF",
-      "published": "Tue, 11 Jul 2023 07:00:00 GMT",
-      "summary": "Addressing the Opioid Crisis: A Look at the Evolving Landscape of Federal OUD Treatment Policies  KFF",
+      "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTdTSVNjNEREaG1uMUlVckNfSW9wMW9MRHljYm53amNvN1gzWXJrOHJ1UEpiNHlCX3dfWlpfSUExRGhvTDR3R1Fzd1VTMzJ0MVpvTmNzRXFrRk9IOVV1ZzA5d3c4S2ttLWFRZ1dFbTFzc0IyOGxZY3QyMnZVU0ozWHNDeVRWX3k0MFZ3NzlxWXdxNW1XVDZXdG1wd3NBQ1JNNUtXclR3T1ZRdWZ2dnhTT1lZbw?oc=5",
+      "source": "KFF Health News",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  KFF Health News",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     },
     {
@@ -213,14 +189,6 @@
       "query": "\"co-parenting\" addiction recovery"
     },
     {
-      "title": "New program aims to give ‘hope’ to addiction recovering parents - Local 3 News",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcUlobkJHdGctMnpJRkg5VHAyNTZMTGZVQ3ZoNjZ4bHdZUEg3RkxNbVlReXZkNFpQVFVvanZxYzhaWkN0Y2VyMnVKbW81bmFzbF95djVPdVN4VUV5UFZUUi1tckc1Z3JFWmRxZGV5akV4UmtXb0xvNUJNejVzdnJDVWR2UmhDTmFQYXBLUGMzVHNhYTQySy0yY3hVeUdWaHJ4TWozNjJIS0N2MkRSajk1N3VManQ2Tnhnckh4S1AtcHFrX3pDNC1BczJXdUdBRV9sSTFoRU5RbkhUMk9mbEp1dmxFWQ?oc=5",
-      "source": "Local 3 News",
-      "published": "Tue, 03 Nov 2026 21:23:00 GMT",
-      "summary": "New program aims to give ‘hope’ to addiction recovering parents  Local 3 News",
-      "query": "\"co-parenting\" addiction recovery"
-    },
-    {
       "title": "Elise Brown sworn in as Family Treatment Court coordinator - journal-news.net",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWXBMRmxlb0RwV3d2eTQxbmJ3c2ZsNXBEUmdVUHM2RFI2cnlmWGlpV2F2M2hRbWFLYmI2TlVqUTVwenR3TWVUMmNQN20ydTJrWGxxYnpfcmZTTWc4LUFZVjdscVg2Vk5lZXpwdng4dzQ1Q1E1R0tZWXEzS0ZmUDZPWWNDTnp3TEYxSWhtdWRLQ3ZGa0pGSGx2cjlkaGEzQklXWDBmbW1uS2hGeTJDTFRfRmxxa1VHNFVsc1VBcGJxRnphVl9BTGc0UXJrY1lvYVdGMzUwa3RJTXpVNlY5MldoVmtZVXRzMVNPNDlGN21xdFBHRHRmRXc?oc=5",
       "source": "journal-news.net",
@@ -235,6 +203,14 @@
       "published": "Tue, 02 Apr 2024 07:00:00 GMT",
       "summary": "Mass General Brigham to stop filing neglect reports solely because a baby is born with drugs in its system  The Boston Globe",
       "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
+      "title": "8 Celebs Who Helped Other Celebs Get Sober When They Were Spinning Out Of Control - LittleThings.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mNjY4OVR6d1JXaWRIYnl1bm5KYVloX1BDWGV1c3pEWXVqWEpGUDZ4WlpOUHRzbHJaSHNSdk5YbUdwaTVvRVhxR3ZDUS1RU2JIQURqUmRHZ09YT0hfNTl6bGM2aFp4MU5haVhaZDNlSEpjZTJScTRN?oc=5",
+      "source": "LittleThings.com",
+      "published": "Thu, 30 Nov 2023 08:00:00 GMT",
+      "summary": "8 Celebs Who Helped Other Celebs Get Sober When They Were Spinning Out Of Control  LittleThings.com",
+      "query": "\"co-parenting\" addiction recovery"
     },
     {
       "title": "Shapiro Administration’s Substance Use Disorder Treatment Locator Tool - Commonwealth of Pennsylvania (.gov)",
@@ -323,6 +299,30 @@
       "published": "Thu, 12 Feb 2026 08:00:00 GMT",
       "summary": "Journalists: New Data to Investigate the Consequences of Hospital Drug Testing at Childbirth  The Marshall Project",
       "query": "\"child welfare\" \"substance exposed newborn\""
+    },
+    {
+      "title": "How is Morocco Navigating Backlash to Family Law Reform? - www.wilsoncenter.org",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUDZuQlc4U2ZGTVU4Nk5feDIzREFFYVJhcmxBLWhuRFVHQWNlMEFlY2ZUZHM4d3F3YzZhYUM4Ylp5eXVoVWowdTA1dFp1OUNZZjRpZXI1NUh6WDFQS25wT0lSQnpveEVHLTRnT0EwMExHYzBZM0QxWlhhVXJmemQzOGstNTZVdHdVMXlWV0Q4bmhqZw?oc=5",
+      "source": "www.wilsoncenter.org",
+      "published": "Thu, 11 Jul 2024 07:00:00 GMT",
+      "summary": "How is Morocco Navigating Backlash to Family Law Reform?  www.wilsoncenter.org",
+      "query": "\"family law reform\""
+    },
+    {
+      "title": "What You Need to Know About Domestic Violence and Abuse - Focus on the Family",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YX1JlN052dmlxTk43WWpCeklMSlBycUlFWjR2Unp1WXNuTllSeGRlcV9TbjdPVFpGRGFBeExjeXZfOVRjSHhFdnpsLUV6djBYQTRmQVJuMlFCNEtWZzA5WXlGV3RlSlFtWi0wejFhdTJLSFU?oc=5",
+      "source": "Focus on the Family",
+      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "summary": "What You Need to Know About Domestic Violence and Abuse  Focus on the Family",
+      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+    },
+    {
+      "title": "Albertsons must pay $900M for role in WA opioid crisis, judge rules - Washington State Standard",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaU5JUThsc25DcFpNc2tPUTZGN3JjX09KZ1BLSEFZUmF1bXg1ZE9MOUItOXNKU1pRU0tqRWJTRHZXTXZvVm9PcEQ5MGQ3YUhZRnZVWGJYMVk4MmtJWnFxaW01bEpGNDhQTGpsdUdXOTJjbXZNdHc2Y0N6elJSYnhlNEpVMmVxUWVfVE93ZmVwR3M5Y2gxRkg0YTIwQTFUNmhDalJ2NlY2cFU3Y21weVJrRzZuaw?oc=5",
+      "source": "Washington State Standard",
+      "published": "Thu, 05 Nov 2026 21:56:30 GMT",
+      "summary": "Albertsons must pay $900M for role in WA opioid crisis, judge rules  Washington State Standard",
+      "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
     }
   ]
 }
