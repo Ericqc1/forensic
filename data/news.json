@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:15:48.454049+00:00",
+  "generated_at": "2026-11-08T17:27:59.306180+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -61,6 +61,14 @@
       "query": "\"family law reform\""
     },
     {
+      "title": "Alberta seeks to fine-tune legislation for involuntary addiction treatment - Red Deer Advocate",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUd1YXdfTEtPbzFDdnN6WnFhSTBMYmtEdW4zVHlIWndxSDJqTWFQMVJGbml6ZEZqUlNoclFtTmtyQTM2M2t1ZjlzS0lXYzVsNlhEUExHb1lwcFB1MTFfYXBrQ1hGcEJrZm9pSkRRemhJQ0lRYnFQQVVJbWhGYWd2LXB2VzUxbmhTMXdCbmFET1h2RHFoMnJNTkE1WFNLdFZ6OVV3a2NJbjc0NWxDWHBhZXNvZks?oc=5",
+      "source": "Red Deer Advocate",
+      "published": "Wed, 04 Nov 2026 22:34:16 GMT",
+      "summary": "Alberta seeks to fine-tune legislation for involuntary addiction treatment  Red Deer Advocate",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
       "title": "GLP-1 medications get at the heart of addiction: study - WashU Medicine",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkJtX2FlYVVkNmd4bEtpcW5mMWpQaXRqaXdBcGJqUl9uQnpnZnh6N0NvZEpVZFVNdktyM3I5dldLbEREYlR2WFUxTUFvQUxleXZkVjRoX2ZwLTdIR2E0Q2I0UW9mZV83QUh0em54MHR6ZGhPM01GNEs5d0Q2LVVCQm1qaFFkenQ3bnM4UGZkYw?oc=5",
       "source": "WashU Medicine",
@@ -85,14 +93,6 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
-      "source": "Penn LDI",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
       "title": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights - Altoona Mirror",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0E3eHQxQlNJd2QtZkN6YTlRZHA2cFJRUXNkX21LS0tMOHQzckxUbjdPSERWMjdOdjRYcXhJclFSazlNVjBpWERwSlMtbUxORjB0ZWRYNnZ3X09ZcF9xS0dJN2FhbHAzZzhmUFYzR2p6WktEY2pqTTRXRXJORnQ5eHBrZzFBZlVHQ3pxU2NLYU9KMDVUTTNNc2NoRFhabWNuTEFOZjhZdUZ1eGdLV0Jqc0tnTHhmQXlXSmVNb3VXeHNiV3NYOUNBTzZpSHF0YVZ6R1h5X3FhaU8?oc=5",
       "source": "Altoona Mirror",
@@ -115,14 +115,6 @@
       "published": "Tue, 22 Sep 2026 07:00:00 GMT",
       "summary": "Family Law Reforms Are Needed to Advance Gender Equality  Global Issues.Org",
       "query": "\"family law reform\""
-    },
-    {
-      "title": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment - Commonwealth of Pennsylvania (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3F1WmxyVHBFX0dfV1NCZUJMWW5UNmVPQ2VNaVhzQVE4NGRaNUF1VGM2bFVLRUpNMkFBVVg5T2tvZDZlb1phbFhoOURkS2lkdlRsdnFNVEJmaExQRWQ0Zzg5dXdTNjdiclhSV3ZKZGd4UDhiQU1qdU1YWXlTT1lYR2s5Ym5YSmh6dVpFb0JtVUtmQ3lraTZ3SXEwRnkxd1Y2REdfOVB4TUhNZw?oc=5",
-      "source": "Commonwealth of Pennsylvania (.gov)",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment  Commonwealth of Pennsylvania (.gov)",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - West Virginia Watch",
@@ -314,6 +306,14 @@
       "source": "Focus on the Family",
       "published": "Thu, 08 Oct 2026 07:00:00 GMT",
       "summary": "What You Need to Know About Domestic Violence and Abuse  Focus on the Family",
+      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+    },
+    {
+      "title": "California can take kids from abused moms. Why the separation can harm both - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vd0VTZ1dFVllJX1h3MHhSMTRraWVXOUs0UDk0OFduN3lac00wS090TjNtS0c5djhXR2JrdkRhR1F0Slh1TGNpX3l3TWVCSUxYVTNvSkhJOGFDcGJuWjZUMVFNQTBiWkR0RHc?oc=5",
+      "source": "CalMatters",
+      "published": "Thu, 07 Dec 2023 08:00:00 GMT",
+      "summary": "California can take kids from abused moms. Why the separation can harm both  CalMatters",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {

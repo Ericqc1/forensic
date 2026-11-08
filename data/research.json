@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:15:56.219530+00:00",
+  "generated_at": "2026-11-08T17:28:09.163862+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -53,20 +53,20 @@
       "query": "family law psychology addiction"
     },
     {
-      "title": "Substance-related acute care use among birthing parents with dependent children in Ontario, Canada, 2008 to 2024.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42933793/",
-      "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
-      "authors": "Webber C, Dover K, Fiedorowicz JG et al.",
-      "published": "2026 Oct 25",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Jail-based opioid treatment implementation, outcomes, and costs: lessons learned from the Massachusetts Justice Community Opioid Innovation Network (MassJCOIN).",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42920115/",
       "journal": "Harm reduction journal",
       "authors": "Evans EA, Stopka TJ, Pivovarova E et al.",
       "published": "2026 Oct 23",
       "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Building a Prediction Model to Detect Elevated Risk for Developing a Substance Use Disorder.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42996163/",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "authors": "Hung IT, Aliev F, Kuo SI et al.",
+      "published": "2026 Oct 19",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Examining utilization of Peer Recovery Support Services in a child welfare system: Characteristics associated with enrollment, treatment initiation, and successful program completion.",
