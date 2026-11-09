@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:28:09.163862+00:00",
+  "generated_at": "2026-11-09T21:49:33.813415+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -35,14 +35,6 @@
       "authors": "Handsman R, Rozenman M, Christodoulou JA et al.",
       "published": "2026 Oct 30",
       "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Twelve-Month Cumulative Incidence, Characteristics, and Correlates of Non-adherence in Youths Treated with Second-Generation Antipsychotics for Mental Disorders: Results from a Prospective Cohort Study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955665/",
-      "journal": "Drugs",
-      "authors": "Roehrich LA, Solmi M, Cortese S et al.",
-      "published": "2026 Oct 28",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Global, regional, and national burden of unintentional poisoning, 1990-2023: results from the Global Burden of Disease Study 2023.",
@@ -99,6 +91,14 @@
       "authors": "El Kharrat E, Abuhegazy H",
       "published": "2026 Oct",
       "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Variation in Prenatal and Newborn Toxicology Testing Policies in Michigan Hospitals.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43001544/",
+      "journal": "Journal of addiction medicine",
+      "authors": "Oshman L, Anderson S, Chen D et al.",
+      "published": "2026 Nov 5",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Multilevel Factors Associated With On-Site Childcare Availability in Substance Use Disorder Treatment Settings, United States, 2024.",
