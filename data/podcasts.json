@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:50:24.553261+00:00",
+  "generated_at": "2026-11-10T19:10:54.496952+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -21,14 +21,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Talkin' Trash Addiction Recovery Podcast",
       "artist": "Talkin' Trash",
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
@@ -37,19 +29,27 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "11th Hour Addiction Recovery",
       "artist": "Adam R, Patrick M, and C.J.",
       "link": "https://podcasts.apple.com/us/podcast/11th-hour-addiction-recovery/id1545827217?uo=4",
       "feed_url": "https://anchor.fm/s/155dbfdc/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/1e/8a/49/1e8a4967-5149-82ba-c638-c2a904da2517/mza_606535678786345575.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Domestic Dad Cleaning Up The Mess | Sobriety, Parenting, Dad, Addiction, Recovery,",
+      "artist": "Nick Barnett Founder of Domestic Dad Project",
+      "link": "https://podcasts.apple.com/us/podcast/domestic-dad-cleaning-up-the-mess-sobriety-parenting/id1732379029?uo=4",
+      "feed_url": "https://feed.podbean.com/domesticdad/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/3c/50/753c50ce-7fe0-95be-d028-352945099cf9/mza_4348450053885647753.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -93,11 +93,11 @@
       "query": "family law"
     },
     {
-      "title": "Let's TALK Trauma Abuse Love Kindness: SHERA Research podcast Family Law",
-      "artist": "Dr Elizabeth Dalgarno",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-trauma-abuse-love-kindness-shera-research/id1722156080?uo=4",
-      "feed_url": "https://api.substack.com/feed/podcast/2289723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4f/45/14/4f45147d-8a50-8424-211e-98c6f2ba62f8/mza_15062370233514717836.jpg/100x100bb.jpg",
+      "title": "Let’s Talk Family Law",
+      "artist": "The Legal Podcast Network (LPN)",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id6813093477?uo=4",
+      "feed_url": "https://feed.podbean.com/letstalkfamilylaw/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/2d/8a/fd2d8af1-6677-f160-a676-52db3958ed02/mza_459552900648698053.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
