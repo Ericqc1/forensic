@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:07:14.858022+00:00",
+  "generated_at": "2026-11-12T19:24:44.813994+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -85,14 +85,6 @@
       "query": "co-occurring disorders family therapy"
     },
     {
-      "title": "Impact of abstinence on employment, education, and health outcomes in Egyptian SUD rehabilitation clients: A three-year prospective study.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42067142/",
-      "journal": "Journal of substance use and addiction treatment",
-      "authors": "El Kharrat E, Abuhegazy H",
-      "published": "2026 Oct",
-      "query": "substance use disorder relapse family dynamics"
-    },
-    {
       "title": "Variation in Prenatal and Newborn Toxicology Testing Policies in Michigan Hospitals.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/43001544/",
       "journal": "Journal of addiction medicine",
@@ -131,14 +123,6 @@
       "authors": "Wang Z, Zhou X, Chen Y",
       "published": "2026 Nov",
       "query": "family law psychology addiction"
-    },
-    {
-      "title": "Genetic Correlates of Treatment Utilization for Alcohol Use Disorder: A Family-Based and Polygenic Investigation.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42968130/",
-      "journal": "Alcohol, clinical & experimental research",
-      "authors": "Spychala KM, Garasky CE, Clapp Sullivan ML et al.",
-      "published": "2026 Nov",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Perinatal Insights Into Parenting, Pathways, and Addiction (PIPPA): Protocol for a Longitudinal, Strengths-Based Study in Flanders, Belgium.",
@@ -211,6 +195,14 @@
       "authors": "Ali F, Mende-Gibson J, Russell C et al.",
       "published": "2026 Aug 5",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Trajectories of harm and relapse in adolescent substance use: a qualitative study from Sri Lanka.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43015673/",
+      "journal": "BMC pediatrics",
+      "authors": "Dayasiri K, Samarasinghe M, Umanga K",
+      "published": "2026 Aug 14",
+      "query": "substance use disorder relapse family dynamics"
     },
     {
       "title": "Smoking cessation experiences during alcohol and cannabis treatment in substance use programmes in Catalonia: A qualitative study.",
@@ -322,6 +314,14 @@
       "journal": "The journal of the American Academy of Psychiatry and the Law",
       "authors": "Friedman SH, Sorrentino R, Kaempf A et al.",
       "published": "2024 Dec 18",
+      "query": "child custody evaluation substance abuse"
+    },
+    {
+      "title": "Accelerated Fentanyl Metabolism During Pregnancy and Impact on Prenatal Drug Testing.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37269392/",
+      "journal": "Maternal and child health journal",
+      "authors": "Wanar A, Saia K, Field TA",
+      "published": "2023 Nov",
       "query": "child custody evaluation substance abuse"
     }
   ]
