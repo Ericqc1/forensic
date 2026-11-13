@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:24:34.554934+00:00",
+  "generated_at": "2026-11-13T19:02:16.484851+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -53,14 +53,6 @@
       "query": "\"family law reform\""
     },
     {
-      "title": "Addiction Consults Improve Substance Use Care Without More Readmissions or Longer Stays - Penn LDI",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGZoRW5VbDJEdTg5cHF4Z0x1MnhDQ0hHcjM0ZEVSRV9qcWtrU3pGeWFFV294MC01NXJ6UGZPLXc5dVlPU3ZsaktMeE9KQUk1MVJNd0NTUkZ5eDFhWEtmbGhxWlZld0dqRVF3dVYtejNMYWJmSWdrcnhkTWYtUzRPRW1SOXhadnY0c0FDVGF5UzZGUmw0RWJFSWNqZ1dJdV81TW00amgwaVNNUjVTQjNtZDVVVnBvc2xIaUxaY0dRR1hENXh5SkJweTRmR0NjdUd1NVE?oc=5",
-      "source": "Penn LDI",
-      "published": "Wed, 11 Nov 2026 19:33:15 GMT",
-      "summary": "Addiction Consults Improve Substance Use Care Without More Readmissions or Longer Stays  Penn LDI",
-      "query": "\"substance use disorder\" treatment OR policy"
-    },
-    {
       "title": "Carelon Will Pay At Least $10.35 Million after NYAG James Investigation on Mental Health and Substance Use Disorder Treatment - Yonkers Times",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdEVLYWVhbW5PdUJIUzBEWnVBaXE4MDZVXzFZUFlYek1PRm1MdnZPbXU1RDRNcWJqbWx5dmxqOVhzRDc3OGJXNHVVOEVDaG80Z0JMQTMyYk44ZjFhSERsdjBrQjZiMkM1T19KWl93WGZBTHcwaWlLeVdYUnV6cW5rWDRBSGN4R0JVNjhudVI4endib0RIUXFOUWdyTHljYVBFdG5qYl9xaGVwMlZlYjlqWEZISUNVS1ktX1hCR2tiR28tSFc1YWM3WWFvVldudmd0aG1Rb3VMWDc2cTJTOFFYMHlNMXU?oc=5",
       "source": "Yonkers Times",
@@ -83,6 +75,14 @@
       "published": "Wed, 07 Oct 2020 07:00:00 GMT",
       "summary": "When Reimagining Systems Of Safety, Take A Closer Look At The Child Welfare System  Health Affairs",
       "query": "\"parental substance use\" child welfare"
+    },
+    {
+      "title": "Opinion: Colorado’s family courts are failing children under the myth of resilience - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkxPanVCeGlPWWFkcHJmdmw0b3k1NUtXOWNoa21jVm9rRDB6RXhfTTZ6cXBxcFBNdVM1ck02OEdhX0VydkVheXNWYUtNR19GWjV0bUJVU0htazZmWWJDc2x3RFZ4SG52NnJ0eDd1VUhWOTcwaWNvdXk5R0oxVDVnNzJwMnk4XzR2aVpBSw?oc=5",
+      "source": "The Colorado Sun",
+      "published": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "summary": "Opinion: Colorado’s family courts are failing children under the myth of resilience  The Colorado Sun",
+      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
       "title": "Strategies for Effectively Allocating Opioid Settlement Funds - RAND",
@@ -109,6 +109,14 @@
       "query": "\"family law reform\""
     },
     {
+      "title": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment - Penn LDI",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzVSNjdENUVnc2V4ZzcwMElXV29rSGl5d2ozdUlrWXFyQWxMeWlLYURmZjdXOElMWWlLdHA3MkViekp3X0hIM2ZSMHR4MnA2eGJpYjJNelJaYWRlS2NGcUVYNTFLLVc0amNVQnJHdk0zNGo3c0Q2bGN3RHNTeTVodXZpUjhWSVNOUjNhclczSWxyX2tIbHdwVHZVXzJvTkg5dV9BbjZIMzdnR0RkU2FUS0haNWZxclcxT2lQUm9DVklTT1E?oc=5",
+      "source": "Penn LDI",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "“Everybody’s Going to Feel the Pain”: Medicaid Cuts Threaten Addiction Treatment  Penn LDI",
+      "query": "\"addiction treatment\" policy OR access OR insurance"
+    },
+    {
       "title": "Pennsylvania Superior Court upholds termination of Blair County mother’s custody rights - Altoona Mirror",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0E3eHQxQlNJd2QtZkN6YTlRZHA2cFJRUXNkX21LS0tMOHQzckxUbjdPSERWMjdOdjRYcXhJclFSazlNVjBpWERwSlMtbUxORjB0ZWRYNnZ3X09ZcF9xS0dJN2FhbHAzZzhmUFYzR2p6WktEY2pqTTRXRXJORnQ5eHBrZzFBZlVHQ3pxU2NLYU9KMDVUTTNNc2NoRFhabWNuTEFOZjhZdUZ1eGdLV0Jqc0tnTHhmQXlXSmVNb3VXeHNiV3NYOUNBTzZpSHF0YVZ6R1h5X3FhaU8?oc=5",
       "source": "Altoona Mirror",
@@ -123,14 +131,6 @@
       "published": "Tue, 25 Aug 2026 07:00:00 GMT",
       "summary": "California becomes first state to offer same-day and ongoing opioid treatment support  California State Portal | CA.gov",
       "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
-      "title": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment - Commonwealth of Pennsylvania (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3F1WmxyVHBFX0dfV1NCZUJMWW5UNmVPQ2VNaVhzQVE4NGRaNUF1VGM2bFVLRUpNMkFBVVg5T2tvZDZlb1phbFhoOURkS2lkdlRsdnFNVEJmaExQRWQ0Zzg5dXdTNjdiclhSV3ZKZGd4UDhiQU1qdU1YWXlTT1lYR2s5Ym5YSmh6dVpFb0JtVUtmQ3lraTZ3SXEwRnkxd1Y2REdfOVB4TUhNZw?oc=5",
-      "source": "Commonwealth of Pennsylvania (.gov)",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "summary": "Shapiro Administration Expanding Access to Substance Use Disorder Treatment  Commonwealth of Pennsylvania (.gov)",
-      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - West Virginia Watch",
@@ -163,22 +163,6 @@
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis  KFF Health News",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
-    },
-    {
-      "title": "Carelon to pay $10M over ghost networks, addiction treatment denials in New York - Modern Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVBwaDFJc0VLOU82TkZPd25qNkNxenItTEg2TXRxYjhCYW1ZSmJLeTY3THdVdXJraWRUWjFMcUl4M1AyU2ZnMXhHMEVpVGtraFBsSzAzNno0c2xWMmtBeUMzX1IxM050WDNHYmJDMmhwOXZxN1FuMXJLNGRCN3IzVmN2VGFuVjRnUnp3cnJabHVSOEY2TTd3?oc=5",
-      "source": "Modern Healthcare",
-      "published": "Tue, 10 Nov 2026 21:15:13 GMT",
-      "summary": "Carelon to pay $10M over ghost networks, addiction treatment denials in New York  Modern Healthcare",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
-    },
-    {
-      "title": "Community questions need as addiction treatment center makes case for Staten Island facility - SILive.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOF9jLVhSSnZJZXR3Vld1MG1RXzZVSHg5WEhMUTdIYjM5dzcwc1NGbTFEdXQ0c0VRZl9sVjR4dHpxa2VsOUhTanBDbVh6VTJsd3hTUE9pSV9hWWJHQ1BiM2xoRmlvWnNXczA2RjZBdTJadUhIZnRnVEw0Qk8tT2IxMDQ3a2FGbGFuMWhTZHdfT3JiRU0tVzh4empLX3QyZk1kbXNEYzVuWnZLd3V5bmJpaHpjV3BpdHo1NHowcWxBQ2xyRkE3eTZSUnZEZ3J6Zw?oc=5",
-      "source": "SILive.com",
-      "published": "Tue, 10 Nov 2026 18:29:00 GMT",
-      "summary": "Community questions need as addiction treatment center makes case for Staten Island facility  SILive.com",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "O’Dowd sets out plans to introduce a Jade’s Law to protect children - Department of Finance",
@@ -218,14 +202,6 @@
       "source": "Upworthy",
       "published": "Tue, 06 May 2025 07:00:00 GMT",
       "summary": "Comedian Laura Clery gets candid about setting boundaries while co-parenting with an addict  Upworthy",
-      "query": "\"co-parenting\" addiction recovery"
-    },
-    {
-      "title": "Jana Kramer admits she'll be 'destroyed' coparenting with 'sex addict' ex Mike Caussin and says it's 'not f**king fair’ - The Sun",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3B4TXJyVWJEbURHZ1ZxcXo0U2Y5U2N3Q3BGek5pZGhXTkhEWGpVRGdmeWVlektMcXFVMUxnYXZIRFc0N0F2Um9pM240aUlfX2FVZ3BLV1JGR3pXbWJBUHRVS2lJal9sRmNOc0Q3RndDcms1UnlaY2x0clJ4OGpvc3F3NkhnbElDbWU4UEVWaGdYelVqQ0VVaGI2S0ZYUnpGWFRXaw?oc=5",
-      "source": "The Sun",
-      "published": "Tue, 04 May 2021 07:00:00 GMT",
-      "summary": "Jana Kramer admits she'll be 'destroyed' coparenting with 'sex addict' ex Mike Caussin and says it's 'not f**king fair’  The Sun",
       "query": "\"co-parenting\" addiction recovery"
     },
     {
@@ -277,12 +253,28 @@
       "query": "\"parental substance use\" child welfare"
     },
     {
+      "title": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism - BuzzFeed News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnNxZG93Z1Vqcmw0MWNjTVF2ZlI1VTgxb1VzVHd3c2RaVklrMGRlVGpaTVBXMkE0cDNPbXhKclVHczZSNS1fZkZwZmxJNHlJR2dtNGxvRC1FUHFSSXBfeVZxLVoxVWdCNUFYSlFlY2RPZ0E3TFdtbjUtaEZOM1U5djQ3cU1RQllhYTh0UklHMmNjcTllUmNHWFRUREtZOENrakE?oc=5",
+      "source": "BuzzFeed News",
+      "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "summary": "Ben Affleck Hit Back At Accusations That He “Blamed” Jennifer Garner For His Alcoholism  BuzzFeed News",
+      "query": "\"co-parenting\" addiction recovery"
+    },
+    {
       "title": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court - WCHS",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVI1NEpMSEZCOUU0RHlrMjFaQWhvWm83NFpmQnZqUlV4OVVhTkJmYkZ0a2JFMjRHcHVORnN1OXR5c1E1TTVQal9wS3V4VkZBbEhCZU9BandDaV9zZnhHVUFnUnBRNzRkZVVUM3R2UnBrYUpNcnlTVUZKV1Bxb2VKZl9Yc09pSTJQWUpaeWFFTQ?oc=5",
       "source": "WCHS",
       "published": "Thu, 15 Jan 2026 08:00:00 GMT",
       "summary": "W.Va. Supreme Court seeks $1.4 million for Family Treatment Court  WCHS",
       "query": "\"family drug court\" OR \"family treatment court\""
+    },
+    {
+      "title": "Shapiro Administration’s Substance Use Disorder 24/7 Helpline Connects More Than 69,000 Pennsylvanians to Lifesaving Treatment, Marks 10-Year Milestone by Expanding Efforts to Reach Those Who Need Help the Most - Forth.News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HaVhhcHZtUVlxS0NHSTlxeXN6RUYzeDRhZTJJdnJzaXFyMWdDQW1nRmZIMmtxTE5pZ21WajRMRlZENzZScl9ENFRoeUxMOEJMeHh2anVZT3FFYkFNUXNMTkFkQ3VYM2M?oc=5",
+      "source": "Forth.News",
+      "published": "Thu, 12 Nov 2026 21:48:30 GMT",
+      "summary": "Shapiro Administration’s Substance Use Disorder 24/7 Helpline Connects More Than 69,000 Pennsylvanians to Lifesaving Treatment, Marks 10-Year Milestone by Expanding Efforts to Reach Those Who Need Help the Most  Forth.News",
+      "query": "\"substance use disorder\" treatment OR policy"
     },
     {
       "title": "Uncompahgre Medical Center expands access to addiction treatment - The Telluride Times",
@@ -323,6 +315,14 @@
       "published": "Thu, 05 Nov 2026 21:56:30 GMT",
       "summary": "Albertsons must pay $900M for role in WA opioid crisis, judge rules  Washington State Standard",
       "query": "\"opioid settlement\" OR \"opioid crisis\" policy"
+    },
+    {
+      "title": "A decade into the opioid crisis, Colorado hospitals have changed the way they treat opioid-exposed babies. And it’s helping. - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVjlRVF8wQlFmYkpnd29HSk83WFJQYVFZdEx2N1Z1el9uWG9Ba01ER3o3Mng4b0xBTVc2b0tyZWdJeG5iRmhZNzhiVFpXbE9icUFOaWRiR0RvN0F0bnZUTDdTU3NucHVfbDVrbzVWYw?oc=5",
+      "source": "The Colorado Sun",
+      "published": "Thu, 05 Mar 2020 08:00:00 GMT",
+      "summary": "A decade into the opioid crisis, Colorado hospitals have changed the way they treat opioid-exposed babies. And it’s helping.  The Colorado Sun",
+      "query": "\"child welfare\" \"substance exposed newborn\""
     }
   ]
 }

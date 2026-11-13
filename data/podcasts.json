@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:27:15.067852+00:00",
+  "generated_at": "2026-11-13T19:03:16.133267+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -101,14 +101,6 @@
       "query": "family law"
     },
     {
-      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
-      "artist": "LazetteMichelle",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
-      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
-      "query": "child custody"
-    },
-    {
       "title": "DAD's CHILD CUSTODY ACTION PLAN",
       "artist": "DAVID PISARRA, ESQ.",
       "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
@@ -122,6 +114,14 @@
       "link": "https://podcasts.apple.com/us/podcast/father-x-how-fathers-can-win-child-custody/id1810549844?uo=4",
       "feed_url": "https://anchor.fm/s/10362fecc/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/28/04/3a2804c4-74dc-9f5e-3262-fd2ce07295f3/mza_3181043469955860174.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
+      "artist": "LazetteMichelle",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
+      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
