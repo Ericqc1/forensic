@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-13T19:02:26.337850+00:00",
+  "generated_at": "2026-11-14T17:32:43.287142+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
+    {
+      "title": "Multilevel Factors Associated With On-Site Childcare Availability in Substance Use Disorder Treatment Settings, United States, 2024.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42981176/",
+      "journal": "Family & community health",
+      "authors": "Pro G, Gu M, Karki I et al.",
+      "published": "2027 Jan-Mar 01",
+      "query": "children of parents with substance use disorder"
+    },
     {
       "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42773628/",
@@ -93,14 +101,6 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "Multilevel Factors Associated With On-Site Childcare Availability in Substance Use Disorder Treatment Settings, United States, 2024.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42981176/",
-      "journal": "Family & community health",
-      "authors": "Pro G, Gu M, Karki I et al.",
-      "published": "2026 Nov 4",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "A Randomized Controlled Trial of Relationship Education Within a Nurse Home Visiting Program to Improve Mental Health and Prevent Substance Use Among First-Time, Low-Income Mothers.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42977874/",
       "journal": "Maternal and child health journal",
@@ -109,11 +109,11 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "Cross-cultural adaptation and validation of the intelligibility in context scale for Azerbaijani Turkish-speaking children.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42973375/",
-      "journal": "Applied neuropsychology. Child",
-      "authors": "Taghizadeh Z, Zarifian T, Fekar Gharamaleki F et al.",
-      "published": "2026 Nov 3",
+      "title": "Longitudinal patterns of attention-deficit/hyperactivity disorder medication use and subsequent incident substance use among US youth.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43025997/",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "authors": "Evans-Polce RJ, Mongilio JM, Pasman E et al.",
+      "published": "2026 Nov 13",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -123,6 +123,22 @@
       "authors": "Wang Z, Zhou X, Chen Y",
       "published": "2026 Nov",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Perinatal Insights Into Parenting, Pathways, and Addiction (PIPPA): Protocol for a Longitudinal, Strengths-Based Study in Flanders, Belgium.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42167138/",
+      "journal": "JMIR research protocols",
+      "authors": "Vandewalle S, Vanderplasschen W, Rowaert S et al.",
+      "published": "2026 May 21",
+      "query": "substance use disorder relapse family dynamics"
+    },
+    {
+      "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42365295/",
+      "journal": "Substance abuse treatment, prevention, and policy",
+      "authors": "Sameri MJ, Alizadeh M, Moradi-Joo E et al.",
+      "published": "2026 Jun 27",
+      "query": "substance use disorder relapse family dynamics"
     },
     {
       "title": "The optimal blood pressure target in old and very old patients with hypertension.",
@@ -141,12 +157,28 @@
       "query": "co-occurring disorders family therapy"
     },
     {
+      "title": "Psychedelics and Reward Processing: Before and After the 1970 Controlled Substances Act.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42903363/",
+      "journal": "Psychedelic medicine (New Rochelle, N.Y.)",
+      "authors": "Company MC, Lifshitz DJ, Sawaya MF et al.",
+      "published": "2026 Jul 24",
+      "query": "substance use disorder relapse family dynamics"
+    },
+    {
       "title": "Hardiness and care-related stress in Iranian Alzheimer's caregivers: a cross-sectional study.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42391257/",
       "journal": "British journal of community nursing",
       "authors": "Sharif-Nia H, Hosseini L, She L et al.",
       "published": "2026 Jul 2",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Family-centered interventions for people with substance use disorders in low-and middle-income country settings: a scoping review.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42091009/",
+      "journal": "The International journal on drug policy",
+      "authors": "Sharma A, Mita C, Dozier K et al.",
+      "published": "2026 Jul",
+      "query": "substance use disorder relapse family dynamics"
     },
     {
       "title": "Reno-protective effects of statins among patients with chronic kidney disease in Hong Kong: a target trial emulation.",
@@ -170,7 +202,7 @@
       "journal": "BMC pediatrics",
       "authors": "Dayasiri K, Samarasinghe M, Umanga K",
       "published": "2026 Aug 14",
-      "query": "children of parents with substance use disorder"
+      "query": "substance use disorder relapse family dynamics"
     },
     {
       "title": "Smoking cessation experiences during alcohol and cannabis treatment in substance use programmes in Catalonia: A qualitative study.",
@@ -291,38 +323,6 @@
       "authors": "Wanar A, Saia K, Field TA",
       "published": "2023 Nov",
       "query": "child custody evaluation substance abuse"
-    },
-    {
-      "title": "Death by Detox: Substance Withdrawal, a Possible Death Row for Individuals in Custody.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/37585551/",
-      "journal": "Journal of law and health",
-      "authors": "Carleton DR",
-      "published": "2023",
-      "query": "substance use disorder custody family court"
-    },
-    {
-      "title": "\"The System Had Choked Me Too\": Abused Mothers' Perceptions of the Custody Determination Process That Resulted in Negative Custody Outcomes.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/30058441/",
-      "journal": "Journal of interpersonal violence",
-      "authors": "Khaw L, Bermea AM, Hardesty JL et al.",
-      "published": "2021 May",
-      "query": "substance use disorder custody family court"
-    },
-    {
-      "title": "A longitudinal analysis of the impact of child custody loss on drug use and crime among a sample of African American mothers.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/29287167/",
-      "journal": "Child abuse & neglect",
-      "authors": "Harp KLH, Oser CB",
-      "published": "2018 Mar",
-      "query": "substance use disorder custody family court"
-    },
-    {
-      "title": "[Predictors of Psychological Evaluation Recommendations in Child Custody and Access Proceedings].",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/28142627/",
-      "journal": "Praxis der Kinderpsychologie und Kinderpsychiatrie",
-      "authors": "Zumbach J",
-      "published": "2017 Feb",
-      "query": "substance use disorder custody family court"
     }
   ]
 }

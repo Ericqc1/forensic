@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:03:16.133267+00:00",
+  "generated_at": "2026-11-14T17:33:33.484973+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -77,14 +77,6 @@
       "query": "family law"
     },
     {
-      "title": "California Family Law Insights",
-      "artist": "Hopper Hopper & Strebe LLP",
-      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
@@ -98,6 +90,14 @@
       "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
       "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
