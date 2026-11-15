@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:32:43.287142+00:00",
+  "generated_at": "2026-11-15T18:20:58.734232+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -85,14 +85,6 @@
       "query": "co-occurring disorders family therapy"
     },
     {
-      "title": "Primary Care for People With Alcohol Use Disorder.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886177/",
-      "journal": "American family physician",
-      "authors": "Jaffe GA, Visconti A, Sonoda K",
-      "published": "2026 Oct",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Variation in Prenatal and Newborn Toxicology Testing Policies in Michigan Hospitals.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/43001544/",
       "journal": "Journal of addiction medicine",
@@ -107,6 +99,14 @@
       "authors": "Li Q, Heyman RE, Palusci VJ et al.",
       "published": "2026 Nov 3",
       "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "Cognitive-behavioral conjoint therapy for posttraumatic stress disorder: A systematic review of outcomes, mechanisms, and clinical applications.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43034270/",
+      "journal": "Journal of traumatic stress",
+      "authors": "Snow MB, Carney AE, Lundell S et al.",
+      "published": "2026 Nov 14",
+      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Longitudinal patterns of attention-deficit/hyperactivity disorder medication use and subsequent incident substance use among US youth.",
