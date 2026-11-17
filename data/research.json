@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:30:29.850542+00:00",
+  "generated_at": "2026-11-17T20:19:45.687356+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -93,11 +93,11 @@
       "query": "children of parents with substance use disorder"
     },
     {
-      "title": "A Randomized Controlled Trial of Relationship Education Within a Nurse Home Visiting Program to Improve Mental Health and Prevent Substance Use Among First-Time, Low-Income Mothers.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42977874/",
-      "journal": "Maternal and child health journal",
-      "authors": "Li Q, Heyman RE, Palusci VJ et al.",
-      "published": "2026 Nov 3",
+      "title": "\"I can definitely relate to that\": leveraging peers with lived experience as interviewers in qualitative perinatal substance use research.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43040412/",
+      "journal": "Research involvement and engagement",
+      "authors": "Mendoza JD, Wheeler A, Work EC et al.",
+      "published": "2026 Nov 16",
       "query": "children of parents with substance use disorder"
     },
     {
@@ -149,14 +149,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Very early onset inflammatory bowel disease in Jordan: a single-center case series of clinical, genetic, and therapeutic features.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42907806/",
-      "journal": "BMC pediatrics",
-      "authors": "Altamimi E, Almomani H, Alsmadi A et al.",
-      "published": "2026 Jul 25",
-      "query": "co-occurring disorders family therapy"
-    },
-    {
       "title": "Psychedelics and Reward Processing: Before and After the 1970 Controlled Substances Act.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42903363/",
       "journal": "Psychedelic medicine (New Rochelle, N.Y.)",
@@ -195,6 +187,14 @@
       "authors": "Ali F, Mende-Gibson J, Russell C et al.",
       "published": "2026 Aug 5",
       "query": "family law psychology addiction"
+    },
+    {
+      "title": "Spectrum of neurodevelopmental disorders in children attending a developmental clinic in Dar es Salaam, Tanzania.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43040461/",
+      "journal": "BMC pediatrics",
+      "authors": "Remtulla AZ, Saudin SN, Hassan O et al.",
+      "published": "2026 Aug 20",
+      "query": "co-occurring disorders family therapy"
     },
     {
       "title": "Trajectories of harm and relapse in adolescent substance use: a qualitative study from Sri Lanka.",
