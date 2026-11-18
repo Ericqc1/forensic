@@ -1,17 +1,9 @@
 {
-  "generated_at": "2026-11-17T20:19:45.687356+00:00",
+  "generated_at": "2026-11-18T19:50:13.664661+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
-    {
-      "title": "Multilevel Factors Associated With On-Site Childcare Availability in Substance Use Disorder Treatment Settings, United States, 2024.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42981176/",
-      "journal": "Family & community health",
-      "authors": "Pro G, Gu M, Karki I et al.",
-      "published": "2027 Jan-Mar 01",
-      "query": "children of parents with substance use disorder"
-    },
     {
       "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42773628/",
@@ -27,6 +19,14 @@
       "authors": "Quast T, Bright M, Lofwall MR et al.",
       "published": "2026 Sep 18",
       "query": "parental addiction child welfare outcomes"
+    },
+    {
+      "title": "Early-Age alcohol initiation increases the risk of mental disorders in children and adolescents: a longitudinal cohort study.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43045690/",
+      "journal": "Translational psychiatry",
+      "authors": "Ran M, Wang Z, Jin M et al.",
+      "published": "2026 Oct 8",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Working with goals in youth mental health and substance use service: A review of current practice guidelines and recommendations.",
@@ -61,14 +61,6 @@
       "query": "family drug treatment court effectiveness"
     },
     {
-      "title": "Building a Prediction Model to Detect Elevated Risk for Developing a Substance Use Disorder.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42996163/",
-      "journal": "medRxiv : the preprint server for health sciences",
-      "authors": "Hung IT, Aliev F, Kuo SI et al.",
-      "published": "2026 Oct 19",
-      "query": "children of parents with substance use disorder"
-    },
-    {
       "title": "Examining utilization of Peer Recovery Support Services in a child welfare system: Characteristics associated with enrollment, treatment initiation, and successful program completion.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42893771/",
       "journal": "Journal of substance use and addiction treatment",
@@ -90,6 +82,14 @@
       "journal": "Journal of addiction medicine",
       "authors": "Oshman L, Anderson S, Chen D et al.",
       "published": "2026 Nov 5",
+      "query": "children of parents with substance use disorder"
+    },
+    {
+      "title": "The World Federation of ADHD International Consensus Statement: 2026 Update.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43044899/",
+      "journal": "Neuroscience and biobehavioral reviews",
+      "authors": "Faraone SV, Pritchard AE, Bellgrove MA et al.",
+      "published": "2026 Nov 17",
       "query": "children of parents with substance use disorder"
     },
     {
