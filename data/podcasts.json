@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-11-18T19:51:07.216551+00:00",
+  "generated_at": "2026-11-19T19:51:36.251650+00:00",
   "label": "Podcasts",
   "count": 23,
   "errors": [],
   "items": [
+    {
+      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
+      "artist": "Recovery.com",
+      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "From Sobriety To Recovery: An Addiction Recovery Podcast",
+      "artist": "Jesse Mogle",
+      "link": "https://podcasts.apple.com/us/podcast/from-sobriety-to-recovery-an-addiction-recovery-podcast/id1448326367?uo=4",
+      "feed_url": "https://feed.podbean.com/fromsobrietytorecovery/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/9a/76/dc9a7604-0119-08d7-982e-29ce8e1d512b/mza_4549442706731018943.png/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
     {
       "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
       "artist": "Felicia Hermle",
@@ -21,22 +37,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
-      "artist": "Recovery.com",
-      "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2465151.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
-      "title": "Talkin' Trash Addiction Recovery Podcast",
-      "artist": "Talkin' Trash",
-      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
-      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/01/1a/05011a9c-2eb7-5fd2-d852-671c9dd5b926/mza_15009092938135227987.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Addiction Recovery",
       "artist": "Steven T. Ginsburg",
       "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
@@ -45,11 +45,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery Stories With Forrest Kelly",
-      "artist": "Forrest Kelly",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
-      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
+      "title": "Talkin' Trash Addiction Recovery Podcast",
+      "artist": "Talkin' Trash",
+      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
+      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/07/64/4d07641e-777b-710a-5ddd-0db886cb72fe/mza_11258446692063012989.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -69,14 +69,6 @@
       "query": "family law"
     },
     {
-      "title": "Let's Talk Family Law",
-      "artist": "Let's Talk Family Law",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
-      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Family Law Talk",
       "artist": "Stange Law Firm",
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
@@ -85,11 +77,11 @@
       "query": "family law"
     },
     {
-      "title": "Talking Family Law - The Resolution Podcast",
-      "artist": "Resolution",
-      "link": "https://podcasts.apple.com/us/podcast/talking-family-law-the-resolution-podcast/id1564734050?uo=4",
-      "feed_url": "https://feeds.transistor.fm/the-resolution-podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/78/b4/0a78b498-95f4-ff0c-c29e-56718a12e68a/mza_9313627939577156557.jpg/100x100bb.jpg",
+      "title": "Let's Talk Family Law",
+      "artist": "Let's Talk Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
+      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -101,11 +93,19 @@
       "query": "family law"
     },
     {
-      "title": "DAD's CHILD CUSTODY ACTION PLAN",
-      "artist": "DAVID PISARRA, ESQ.",
-      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
-      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
+      "title": "Let’s Talk Family Law",
+      "artist": "The Legal Podcast Network (LPN)",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id6813093477?uo=4",
+      "feed_url": "https://feed.podbean.com/letstalkfamilylaw/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/2d/8a/fd2d8af1-6677-f160-a676-52db3958ed02/mza_459552900648698053.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
+      "artist": "LazetteMichelle",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
+      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -117,11 +117,19 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce, Singleness, Child Custody, & Coparenting-With-Christian Mom LazetteMichelle",
-      "artist": "LazetteMichelle",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-singleness-child-custody-coparenting-with/id1789287062?uo=4",
-      "feed_url": "https://media.rss.com/divorce-singleness-child-custody-coparenting-with-christian-mom-lazettemichelle/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/8f/d0/418fd0ab-0a28-9e4c-b9da-f17315590e79/mza_7009769460400764029.jpg/100x100bb.jpg",
+      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
+      "artist": "Brian A. Victor, Esq.",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/182093.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "DAD's CHILD CUSTODY ACTION PLAN",
+      "artist": "DAVID PISARRA, ESQ.",
+      "link": "https://podcasts.apple.com/us/podcast/dads-child-custody-action-plan/id1843931323?uo=4",
+      "feed_url": "https://app.kajabi.com/podcasts/2148019780/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/eb/01/d3eb018d-caea-3330-de0a-ecf555ca87f9/mza_14789571950851594075.jpeg/100x100bb.jpg",
       "query": "child custody"
     },
     {
@@ -133,12 +141,28 @@
       "query": "child custody"
     },
     {
-      "title": "Divorce and Child Custody Discussion with Attorney Brian A. Victor",
-      "artist": "Brian A. Victor, Esq.",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-child-custody-discussion-with-attorney/id1402122394?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/182093.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/d0/6e/00d06eed-d831-6174-8b9a-2ec6f282be3d/mza_4166526725310324323.jpg/100x100bb.jpg",
-      "query": "child custody"
+      "title": "Jess’s SobrieTea",
+      "artist": "Jess’s SobrieTea",
+      "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
+      "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Mormon Stories Podcast",
+      "artist": "Dr. John Dehlin",
+      "link": "https://podcasts.apple.com/us/podcast/mormon-stories-podcast/id312094772?uo=4",
+      "feed_url": "https://anchor.fm/s/f7ccb224/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
+    },
+    {
+      "title": "Careers Are Weird",
+      "artist": "Aindrea Sewell",
+      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
+      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
+      "query": "substance abuse counseling"
     },
     {
       "title": "LJNRadio: I Want To Be A",
@@ -146,14 +170,6 @@
       "link": "https://podcasts.apple.com/us/podcast/ljnradio-i-want-to-be-a/id673126220?uo=4",
       "feed_url": "https://jobs.localjobnetwork.com/radio/itunes?radio_show_id=1",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/4e/57/154e5733-106b-9565-9bf4-73015d00a570/mza_4257130623273236555.png/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "Jess’s SobrieTea",
-      "artist": "Jess’s SobrieTea",
-      "link": "https://podcasts.apple.com/us/podcast/jesss-sobrietea/id1523350669?uo=4",
-      "feed_url": "https://anchor.fm/s/2b8ce65c/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/55/d5/7055d519-eedd-3379-d105-bb50f791897a/mza_10074197004192445656.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     },
     {
@@ -170,22 +186,6 @@
       "link": "https://podcasts.apple.com/us/podcast/the-professional-podcast-network/id1700165465?uo=4",
       "feed_url": "https://feeds.simplecast.com/sAlLVUh8",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/12/fc/59/12fc595b-3bd1-e9cd-e4fe-6de2cb9a7417/mza_12709084191825637590.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "Careers Are Weird",
-      "artist": "Aindrea Sewell",
-      "link": "https://podcasts.apple.com/us/podcast/careers-are-weird/id1745874418?uo=4",
-      "feed_url": "https://anchor.fm/s/f007d424/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/88/db/8c88db45-66d8-5765-6ba5-3c2da24157d7/mza_11581903642566249672.jpg/100x100bb.jpg",
-      "query": "substance abuse counseling"
-    },
-    {
-      "title": "The Fatherhood Challenge Podcast & Radio Program",
-      "artist": "Jonathan Guerrero",
-      "link": "https://podcasts.apple.com/us/podcast/the-fatherhood-challenge-podcast-radio-program/id1589320881?uo=4",
-      "feed_url": "https://feeds.redcircle.com/715e47d3-82ac-4316-b44f-60c114929494",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/32/51/e2/3251e208-7b24-ba21-cd2a-4a3b1040b487/mza_16532417055593633724.jpg/100x100bb.jpg",
       "query": "substance abuse counseling"
     }
   ]
