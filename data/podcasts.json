@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-19T19:51:36.251650+00:00",
+  "generated_at": "2026-11-20T19:31:03.063472+00:00",
   "label": "Podcasts",
   "count": 23,
   "errors": [],
   "items": [
+    {
+      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
+      "artist": "Felicia Hermle",
+      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
+      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
     {
       "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
       "artist": "Recovery.com",
@@ -21,14 +29,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
-      "artist": "Felicia Hermle",
-      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
-      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Let's Talk Addiction & Recovery",
       "artist": "Hazelden Betty Ford Foundation Presents Let's Talk Addiction and Recovery w",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-addiction-recovery/id1396520088?uo=4",
@@ -37,19 +37,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Talkin' Trash Addiction Recovery Podcast",
       "artist": "Talkin' Trash",
       "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
       "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/07/64/4d07641e-777b-710a-5ddd-0db886cb72fe/mza_11258446692063012989.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "Addiction Recovery Stories With Forrest Kelly",
+      "artist": "Forrest Kelly",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-stories-with-forrest-kelly/id1469756557?uo=4",
+      "feed_url": "https://anchor.fm/s/b903160/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0d/2f/b8/0d2fb821-cb19-db9a-9d44-150f9faca9f0/mza_5823761908050801555.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -69,14 +69,6 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Talk",
-      "artist": "Stange Law Firm",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
-      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Let's Talk Family Law",
       "artist": "Let's Talk Family Law",
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
@@ -85,11 +77,11 @@
       "query": "family law"
     },
     {
-      "title": "Divorce and Family Law Strategies with Burnham Law",
-      "artist": "Todd Burnham",
-      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
-      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -98,6 +90,14 @@
       "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id6813093477?uo=4",
       "feed_url": "https://feed.podbean.com/letstalkfamilylaw/feed.xml",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/2d/8a/fd2d8af1-6677-f160-a676-52db3958ed02/mza_459552900648698053.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Divorce and Family Law Strategies with Burnham Law",
+      "artist": "Todd Burnham",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-and-family-law-strategies-with-burnham-law/id1576007024?uo=4",
+      "feed_url": "https://www.spreaker.com/show/5003416/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/3f/c7/363fc706-abed-61a8-0273-631c7011ab72/mza_662106181933339511.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
