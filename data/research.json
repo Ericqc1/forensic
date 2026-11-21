@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:30:07.228352+00:00",
+  "generated_at": "2026-11-21T18:33:07.186832+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -75,14 +75,6 @@
       "authors": "Akçay S, Dinç Yavaş A, Poyrazoğlu HG et al.",
       "published": "2026 Oct 14",
       "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Variation in Prenatal and Newborn Toxicology Testing Policies in Michigan Hospitals.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43001544/",
-      "journal": "Journal of addiction medicine",
-      "authors": "Oshman L, Anderson S, Chen D et al.",
-      "published": "2026 Nov 5",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "The World Federation of ADHD International Consensus Statement: 2026 Update.",
@@ -179,6 +171,14 @@
       "authors": "Ting Wong ZC, Tak Cheng FW, Mak IL et al.",
       "published": "2026 Feb",
       "query": "family drug treatment court effectiveness"
+    },
+    {
+      "title": "Examining Adverse and Benevolent Childhood Experiences and Associated Psychosocial Outcomes Among Autistic Adults.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065621/",
+      "journal": "Autism in adulthood",
+      "authors": "Andrzejewski T, McDonnell CG",
+      "published": "2026 Dec",
+      "query": "children of parents with substance use disorder"
     },
     {
       "title": "The symbolic power of decriminalization and recriminalization in shaping stigma toward people who use drugs in British Columbia.",
