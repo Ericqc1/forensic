@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:32:59.399105+00:00",
+  "generated_at": "2026-11-22T18:54:46.774660+00:00",
   "label": "News",
   "count": 40,
   "errors": [],
@@ -131,14 +131,6 @@
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "UN Human Rights Council hears call for Arab family law reform  ICLG",
       "query": "\"family law reform\""
-    },
-    {
-      "title": "Bill aimed at increasing youth access to addiction treatment passes in House of Commons - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbF9aY3Fkd3BOdV90Z1pQZThWRTQ3UlFEZHBTeHg2Wk1hU0NRNmpTTDFrTnhyLVdLa2VyXzdfdWtZTDdpd3VlQTQ4NWVqVFBmM1Z4RWFWR18zRlFHazFVYmgybmNpY1c0WmlpMERTbGdtOUtQNUxRX290Y0ptSWozcQ?oc=5",
-      "source": "Yahoo News Canada",
-      "published": "Tue, 17 Nov 2026 17:09:16 GMT",
-      "summary": "Bill aimed at increasing youth access to addiction treatment passes in House of Commons  Yahoo News Canada",
-      "query": "\"addiction treatment\" policy OR access OR insurance"
     },
     {
       "title": "New WV Family Treatment Court launches in Cabell to help parents safely reunify with their children - West Virginia Watch",
@@ -306,6 +298,14 @@
       "source": "Focus on the Family",
       "published": "Thu, 08 Oct 2026 07:00:00 GMT",
       "summary": "What You Need to Know About Domestic Violence and Abuse  Focus on the Family",
+      "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
+    },
+    {
+      "title": "California can take kids from abused moms. Why the separation can harm both - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vd0VTZ1dFVllJX1h3MHhSMTRraWVXOUs0UDk0OFduN3lac00wS090TjNtS0c5djhXR2JrdkRhR1F0Slh1TGNpX3l3TWVCSUxYVTNvSkhJOGFDcGJuWjZUMVFNQTBiWkR0RHc?oc=5",
+      "source": "CalMatters",
+      "published": "Thu, 07 Dec 2023 08:00:00 GMT",
+      "summary": "California can take kids from abused moms. Why the separation can harm both  CalMatters",
       "query": "\"domestic violence\" \"substance abuse\" custody -Sia -celebrity"
     },
     {
