@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T18:56:35.335700+00:00",
+  "generated_at": "2026-11-23T23:13:22.461399+00:00",
   "label": "Podcasts",
-  "count": 23,
+  "count": 24,
   "errors": [],
   "items": [
     {
@@ -13,19 +13,19 @@
       "query": "addiction recovery"
     },
     {
-      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
-      "artist": "Felicia Hermle",
-      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
-      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
-      "query": "addiction recovery"
-    },
-    {
       "title": "Recoverycast: Mental Health & Addiction Recovery Stories",
       "artist": "Recovery.com",
       "link": "https://podcasts.apple.com/us/podcast/recoverycast-mental-health-addiction-recovery-stories/id1805203382?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2465151.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/29/fa/aa29faf2-f816-d76b-ce46-934c952dce8b/mza_8494426437761325081.jpg/100x100bb.jpg",
+      "query": "addiction recovery"
+    },
+    {
+      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
+      "artist": "Felicia Hermle",
+      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
+      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -53,14 +53,6 @@
       "query": "addiction recovery"
     },
     {
-      "title": "For Better or Worse: A Family Law Podcast",
-      "artist": "TALG LAW",
-      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
-      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
       "title": "Donuts & Divorce: A Family Law Podcast",
       "artist": "Dorothy O'Neil",
       "link": "https://podcasts.apple.com/us/podcast/donuts-divorce-a-family-law-podcast/id1683698106?uo=4",
@@ -69,19 +61,11 @@
       "query": "family law"
     },
     {
-      "title": "Family Law Talk",
-      "artist": "Stange Law Firm",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
-      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "Let’s Talk Family Law",
-      "artist": "The Legal Podcast Network (LPN)",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id6813093477?uo=4",
-      "feed_url": "https://feed.podbean.com/letstalkfamilylaw/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/2d/8a/fd2d8af1-6677-f160-a676-52db3958ed02/mza_459552900648698053.jpg/100x100bb.jpg",
+      "title": "For Better or Worse: A Family Law Podcast",
+      "artist": "TALG LAW",
+      "link": "https://podcasts.apple.com/us/podcast/for-better-or-worse-a-family-law-podcast/id1563475714?uo=4",
+      "feed_url": "https://anchor.fm/s/569fefd8/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/31/d4/e3/31d4e3b4-9beb-377e-cec9-49855f276669/mza_10945539089536340990.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -93,11 +77,27 @@
       "query": "family law"
     },
     {
-      "title": "Family Law & Lattes",
-      "artist": "Melanie Bataillard-Samuel",
-      "link": "https://podcasts.apple.com/us/podcast/family-law-lattes/id1560538606?uo=4",
-      "feed_url": "https://anchor.fm/s/512de5a0/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ef/9c/f0/ef9cf060-da2c-ae9d-668c-c853f69985c8/mza_8356133954036025396.jpg/100x100bb.jpg",
+      "title": "Family Law Talk",
+      "artist": "Stange Law Firm",
+      "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
+      "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "California Family Law Insights",
+      "artist": "Hopper Hopper & Strebe LLP",
+      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
+      "query": "family law"
+    },
+    {
+      "title": "Let’s Talk Family Law",
+      "artist": "The Legal Podcast Network (LPN)",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id6813093477?uo=4",
+      "feed_url": "https://feed.podbean.com/letstalkfamilylaw/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/2d/8a/fd2d8af1-6677-f160-a676-52db3958ed02/mza_459552900648698053.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -138,6 +138,14 @@
       "link": "https://podcasts.apple.com/us/podcast/florida-divorce-lawyer-podcast-child-custody-alimony/id1767414370?uo=4",
       "feed_url": "https://rss.buzzsprout.com/2402459.rss",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/b0/43/77b043c8-de61-4577-f833-e9de4623b6ac/mza_17824355413850916850.jpg/100x100bb.jpg",
+      "query": "child custody"
+    },
+    {
+      "title": "Divorce Team Radio - Your Source for Divorce and Family Law Matters",
+      "artist": "Leh Meriwether & Todd Orston, Divorce Lawyers who hate divorce",
+      "link": "https://podcasts.apple.com/us/podcast/divorce-team-radio-your-source-for-divorce-and-family/id1276537655?uo=4",
+      "feed_url": "https://rss.libsyn.com/shows/104081/destinations/556338.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/f9/34/49f9340b-19d2-e90f-9b50-06ccc0b991e3/mza_13262820700720438437.jpg/100x100bb.jpg",
       "query": "child custody"
     },
     {
