@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:56:05.544135+00:00",
+  "generated_at": "2026-11-26T20:48:09.527895+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
@@ -107,14 +107,6 @@
       "authors": "Snow MB, Carney AE, Lundell S et al.",
       "published": "2026 Nov 14",
       "query": "co-occurring disorders family therapy"
-    },
-    {
-      "title": "Longitudinal patterns of attention-deficit/hyperactivity disorder medication use and subsequent incident substance use among US youth.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43025997/",
-      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
-      "authors": "Evans-Polce RJ, Mongilio JM, Pasman E et al.",
-      "published": "2026 Nov 13",
-      "query": "children of parents with substance use disorder"
     },
     {
       "title": "Longitudinal associations between parental rejection, school engagement and gaming disorder symptoms among Chinese adolescents: Disentangling between- and within-person effects.",
@@ -322,6 +314,14 @@
       "journal": "The journal of the American Academy of Psychiatry and the Law",
       "authors": "Friedman SH, Sorrentino R, Kaempf A et al.",
       "published": "2024 Dec 18",
+      "query": "child custody evaluation substance abuse"
+    },
+    {
+      "title": "Accelerated Fentanyl Metabolism During Pregnancy and Impact on Prenatal Drug Testing.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37269392/",
+      "journal": "Maternal and child health journal",
+      "authors": "Wanar A, Saia K, Field TA",
+      "published": "2023 Nov",
       "query": "child custody evaluation substance abuse"
     }
   ]

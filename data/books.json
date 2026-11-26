@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:57:24.055987+00:00",
+  "generated_at": "2026-11-26T20:49:10.118132+00:00",
   "label": "Books",
   "count": 20,
   "errors": [],
@@ -131,12 +131,12 @@
       "query": "substance use disorder treatment family systems"
     },
     {
-      "title": "Understanding and treating adolescent substance use disorders",
-      "authors": "Nancy Jainchill",
+      "title": "Child and Adolescent Psychiatry",
+      "authors": "Goodman, Robert MRCPsych.",
       "published": "2012",
-      "link": "https://openlibrary.org/works/OL23264929W",
+      "link": "https://openlibrary.org/works/OL16572721W",
       "description": "",
-      "thumbnail": "",
+      "thumbnail": "https://covers.openlibrary.org/b/id/7266910-M.jpg",
       "query": "substance use disorder treatment family systems"
     },
     {

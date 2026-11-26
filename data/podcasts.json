@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:57:24.908643+00:00",
+  "generated_at": "2026-11-26T20:49:11.833931+00:00",
   "label": "Podcasts",
   "count": 24,
   "errors": [],
@@ -13,11 +13,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery- Living The Program",
-      "artist": "Roy Nichols",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery-living-the-program/id1497164303?uo=4",
-      "feed_url": "https://anchor.fm/s/13158110/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/6a/4b/776a4b10-d3f6-142d-30ed-9f8ddf704fc5/mza_12011560638102702388.jpg/100x100bb.jpg",
+      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
+      "artist": "Felicia Hermle",
+      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
+      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -29,11 +29,11 @@
       "query": "addiction recovery"
     },
     {
-      "title": "SOBRIETY CHECKPOINT - Sober Living, Sobriety, Addiction Recovery, Emotional Sobriety, Alcohol Free",
-      "artist": "Felicia Hermle",
-      "link": "https://podcasts.apple.com/us/podcast/sobriety-checkpoint-sober-living-sobriety-addiction/id1681319712?uo=4",
-      "feed_url": "https://feed.podbean.com/sobrietycheckpoint/feed.xml",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/13/c9/6513c920-a516-46e7-0cc3-f2044436699a/mza_6431948754852735586.jpg/100x100bb.jpg",
+      "title": "Addiction Recovery",
+      "artist": "Steven T. Ginsburg",
+      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
       "query": "addiction recovery"
     },
     {
@@ -45,12 +45,20 @@
       "query": "addiction recovery"
     },
     {
-      "title": "Addiction Recovery",
-      "artist": "Steven T. Ginsburg",
-      "link": "https://podcasts.apple.com/us/podcast/addiction-recovery/id1715978470?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2264723.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/4b/55/1f4b553e-02a2-d3e4-933b-a48cbd64fc14/mza_17421580730795470854.jpg/100x100bb.jpg",
+      "title": "Talkin' Trash Addiction Recovery Podcast",
+      "artist": "Talkin' Trash",
+      "link": "https://podcasts.apple.com/us/podcast/talkin-trash-addiction-recovery-podcast/id1739653858?uo=4",
+      "feed_url": "https://anchor.fm/s/f1f1f468/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/07/64/4d07641e-777b-710a-5ddd-0db886cb72fe/mza_11258446692063012989.jpg/100x100bb.jpg",
       "query": "addiction recovery"
+    },
+    {
+      "title": "Let's Talk Family Law",
+      "artist": "Let's Talk Family Law",
+      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
+      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "query": "family law"
     },
     {
       "title": "Donuts & Divorce: A Family Law Podcast",
@@ -69,11 +77,11 @@
       "query": "family law"
     },
     {
-      "title": "Let's Talk Family Law",
-      "artist": "Let's Talk Family Law",
-      "link": "https://podcasts.apple.com/us/podcast/lets-talk-family-law/id1483223929?uo=4",
-      "feed_url": "https://anchor.fm/s/e79c878/podcast/rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1b/78/05/1b780569-5b57-08b3-213b-2dc6d7ff197e/mza_3353617151727989651.jpg/100x100bb.jpg",
+      "title": "California Family Law Insights",
+      "artist": "Hopper Hopper & Strebe LLP",
+      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
+      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
@@ -82,14 +90,6 @@
       "link": "https://podcasts.apple.com/us/podcast/family-law-talk/id683907696?uo=4",
       "feed_url": "https://www.spreaker.com/show/6410781/episodes/feed",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/a8/f5/9fa8f550-1dae-f769-5d9a-ae8dad8b4f87/mza_13440303917454309619.jpg/100x100bb.jpg",
-      "query": "family law"
-    },
-    {
-      "title": "California Family Law Insights",
-      "artist": "Hopper Hopper & Strebe LLP",
-      "link": "https://podcasts.apple.com/us/podcast/california-family-law-insights/id6801142812?uo=4",
-      "feed_url": "https://rss.buzzsprout.com/2637392.rss",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/de/78/e2de789e-7205-b00d-f814-133f2f851d92/mza_1525246189196671565.jpg/100x100bb.jpg",
       "query": "family law"
     },
     {
