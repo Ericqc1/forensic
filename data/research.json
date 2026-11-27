@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-11-26T20:48:09.527895+00:00",
+  "generated_at": "2026-11-27T20:38:10.565563+00:00",
   "label": "Peer-Reviewed Research",
   "count": 40,
   "errors": [],
   "items": [
+    {
+      "title": "The impact of opioid misuse on fetal and pediatric populations: a systematic umbrella review.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43099750/",
+      "journal": "Addiction science & clinical practice",
+      "authors": "Barcenas LK, Kaz L, Frerichs L et al.",
+      "published": "2026 Sep 4",
+      "query": "children of parents with substance use disorder"
+    },
     {
       "title": "Exploring Gender-Based Differences in Hazardous Alcohol Use Outcomes Among Drug Treatment Court Participants: The Role of Health and Well-Being Across Multiple Dimensions.",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42773628/",
@@ -314,14 +322,6 @@
       "journal": "The journal of the American Academy of Psychiatry and the Law",
       "authors": "Friedman SH, Sorrentino R, Kaempf A et al.",
       "published": "2024 Dec 18",
-      "query": "child custody evaluation substance abuse"
-    },
-    {
-      "title": "Accelerated Fentanyl Metabolism During Pregnancy and Impact on Prenatal Drug Testing.",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/37269392/",
-      "journal": "Maternal and child health journal",
-      "authors": "Wanar A, Saia K, Field TA",
-      "published": "2023 Nov",
       "query": "child custody evaluation substance abuse"
     }
   ]
